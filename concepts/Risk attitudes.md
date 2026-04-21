@@ -1,0 +1,41 @@
+---
+title: Risk attitudes
+page_type: concept
+status: active
+tags:
+  - risk
+  - decision-theory
+  - behavioral-economics
+updated_on: 2026-04-19
+source_count: 1
+related_pages:
+  - [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]]
+  - [[Expected utility theory]]
+  - [[Ambiguity aversion]]
+  - [[Prospect Theory]]
+  - [[Choice, Preference, and Decision Under Risk]]
+---
+
+# Risk attitudes
+
+## Core idea
+
+[[Risk attitudes]] refers to how an agent evaluates known-risk prospects such as lotteries with given probabilities. In the standard expected-utility framework, the central representation device is the curvature of the utility function: concavity represents risk aversion, convexity represents risk seeking, and linearity represents risk neutrality. In the current vault, [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] is the clearest compact source for that formal picture and its limitations.
+
+## Key distinctions
+
+This concept differs from [[Ambiguity aversion]]. Risk attitudes concern preferences over outcomes when probabilities are known. Ambiguity aversion concerns discomfort with uncertainty about the probabilities themselves.
+
+It also differs from [[Prospect Theory]]. Prospect theory does not simply replace one risk attitude with another. It changes the evaluative architecture by introducing reference points, gain-loss coding, and decision weights. That means risk attitudes in expected utility and risk attitudes in prospect-theoretic settings should not be treated as identical objects.
+
+## Why it matters here
+
+This concept matters because many debates in risky choice turn on a point that is easy to understate: expected utility can represent very different attitudes toward risk, but it does so through a specific formal device. That helps explain both its appeal and its limits. It also matters because later critiques, from Friedman-Savage style mixed curvature to Rabin-style calibration objections, do not simply deny that people have risk attitudes. They question whether the standard utility-curvature story is rich enough to capture them.
+
+## Related pages
+
+The anchor source is [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]]. The nearest neighboring pages are [[Expected utility theory]], [[Ambiguity aversion]], [[Prospect Theory]], and [[Choice, Preference, and Decision Under Risk]].
+
+## Open questions
+
+How far can utility curvature explain ordinary risk attitudes on its own? When do mixed or domain-specific patterns require richer theories? And how should the vault connect formal risk attitudes to psychologically coded risk response in prospect theory?
