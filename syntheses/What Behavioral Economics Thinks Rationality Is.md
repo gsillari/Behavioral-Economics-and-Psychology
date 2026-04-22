@@ -6,7 +6,7 @@ tags:
   - behavioral-economics
   - philosophy
   - ppe
-updated_on: 2026-04-19
+updated_on: 2026-04-22
 query: What does behavioral economics think rationality is?
 generated_on: 2026-04-05
 sources_used:
@@ -49,6 +49,7 @@ sources_used:
   - [[Gigerenzer 2008]]
   - [[Gigerenzer 2024]]
   - [[Dekker and Remic 2019]]
+  - [[Rich 2016]]
   - [[Hortal 2025]]
   - [[Samuels et al. 2002]]
   - [[Camerer et al. 2003]]
@@ -129,6 +130,7 @@ related_pages:
   - [[Gigerenzer 2008]]
   - [[Gigerenzer 2024]]
   - [[Dekker and Remic 2019]]
+  - [[Rich 2016]]
   - [[Hortal 2025]]
   - [[Samuels et al. 2002]]
   - [[Camerer et al. 2003]]
@@ -223,7 +225,7 @@ This matters because it blocks a simple reading of behavioral economics as the s
 
 ## Rationality wars and benchmark pluralism
 
-[[Hortal 2025]], [[Gigerenzer 2024]], and [[Samuels et al. 2002]] make the meta-level issue explicit. [[Hortal 2025]] argues that disputes about rationality are often disputes across disciplines, methods, and epistemic aims. A single framework should not be allowed to dominate everywhere. [[Gigerenzer 2024]] adds a direct retrospective from one of the central participants in the debate and highlights how much of the conflict turned on benchmark choice and rhetorical framing. [[Samuels et al. 2002]] adds a deflationary point: some famous rationality conflicts look deeper than they are because different sides are evaluating different things by different standards.
+[[Hortal 2025]], [[Gigerenzer 2024]], [[Rich 2016]], and [[Samuels et al. 2002]] make the meta-level issue explicit. [[Hortal 2025]] argues that disputes about rationality are often disputes across disciplines, methods, and epistemic aims. A single framework should not be allowed to dominate everywhere. [[Gigerenzer 2024]] adds a direct retrospective from one of the central participants in the debate and highlights how much of the conflict turned on benchmark choice and rhetorical framing. [[Rich 2016]] adds a more programmatic way of handling that conflict. Her claim is that axiomatic and ecological rationality should be compared partly by the evaluative jobs they are meant to do. For the purpose of improving agents, each approach has a characteristic cost-benefit profile, and a hybrid that uses axiomatic criteria to evaluate candidate processes may sometimes be better than either pure framework. [[Samuels et al. 2002]] adds a deflationary point: some famous rationality conflicts look deeper than they are because different sides are evaluating different things by different standards.
 
 [[Mercier and Sperber 2011]] adds a different kind of challenge. The paper suggests that reasoning should not first be understood as a neutral device for solitary truth-seeking, but as an argumentative faculty for producing and evaluating reasons in social settings. The commentaries in the same exchange make the challenge especially useful for the current vault. [[Wim De Neys]] argues that there is still evidence for nonargumentative conflict detection and norm sensitivity. [[Jonathan St. B. T. Evans]] argues that reasoning may also have been co-opted for private thought and prospective evaluation. Weber and Johnson suggest that internal query processes can look like argument turned inward. Mercier and Sperber's reply keeps the primary-function claim in place, but the exchange makes clear that the rationality debate is partly about function, not just standard.
 

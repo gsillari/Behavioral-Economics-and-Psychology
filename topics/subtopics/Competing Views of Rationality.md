@@ -7,13 +7,14 @@ tags:
   - ppe
   - behavioral-economics
   - rationality
-updated_on: 2026-04-19
+updated_on: 2026-04-22
 related_pages:
   - [[Foundations and Rationality]]
   - [[Simon 1955]]
   - [[Simon 1956]]
   - [[Simon 1979]]
   - [[Petracca 2017]]
+  - [[Rich 2016]]
   - [[Mercier and Sperber 2011]]
   - [[Stanovich and West 2000]]
   - [[Herbert A. Simon]]
@@ -38,4 +39,4 @@ The point of this branch is not only that people depart from formal norms. It is
 
 ## Current focus
 
-The current topic skeleton is in place so that [[Foundations and Rationality]] can function as a hub of linked subtopics. The next full drafting pass should explain how [[Simon 1955]] and [[Bounded rationality]] broaden the critique of standard models, how [[Simon 1956]] begins to connect bounded rationality to environmental structure, how [[Simon 1979]] turns that critique into a mature account of organizational decision making and the scope of the economic sciences, how [[Petracca 2017]] reopens the Simon branch by tying it to [[Cognitivism]] and to later disputes over [[Situated cognition]] and [[Embodied cognition]], how [[Ecological rationality]] challenges norm-first interpretations in a different register, how [[Mercier and Sperber 2011]] and [[Argumentative theory of reasoning]] shift attention to the social function of reasoning, and how [[Stanovich and West 2000]] makes the debate more empirically disciplined by stressing individual-differences evidence.
+The current topic skeleton is in place so that [[Foundations and Rationality]] can function as a hub of linked subtopics. The next full drafting pass should explain how [[Simon 1955]] and [[Bounded rationality]] broaden the critique of standard models, how [[Simon 1956]] begins to connect bounded rationality to environmental structure, how [[Simon 1979]] turns that critique into a mature account of organizational decision making and the scope of the economic sciences, how [[Petracca 2017]] reopens the Simon branch by tying it to [[Cognitivism]] and to later disputes over [[Situated cognition]] and [[Embodied cognition]], how [[Ecological rationality]] challenges norm-first interpretations in a different register, how [[Rich 2016]] complicates that challenge by arguing that axiomatic and ecological standards may be best compared by the purposes they serve, how [[Mercier and Sperber 2011]] and [[Argumentative theory of reasoning]] shift attention to the social function of reasoning, and how [[Stanovich and West 2000]] makes the debate more empirically disciplined by stressing individual-differences evidence.

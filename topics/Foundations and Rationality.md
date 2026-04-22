@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - rationality
-updated_on: 2026-04-19
+updated_on: 2026-04-22
 related_pages:
   - [[Behavioral Economics]]
   - [[Standard Rationality and Its Limits]]
@@ -23,6 +23,7 @@ related_pages:
   - [[Simon 1955]]
   - [[Simon 1979]]
   - [[Mercier and Sperber 2011]]
+  - [[Rich 2016]]
   - [[Herbert A. Simon]]
   - [[Bounded rationality]]
   - [[Rationality wars]]
@@ -39,7 +40,7 @@ This topic gathers the benchmark ideas against which behavioral economics define
 
 For PPE students, this topic matters because it sits at the junction of all three disciplines. It matters for economics because models of choice and belief depend on formal assumptions about rationality. It matters for philosophy because those assumptions carry normative weight and raise questions about coherence, belief, agency, and evaluation. It matters for politics and public policy because every behavioral intervention presupposes some account of when a person is choosing well and when institutional correction is justified.
 
-This first topic therefore begins with the strongest classical benchmarks and their limits. The point is not to dismiss those benchmarks. It is to see what they were trying to do, why they were attractive, and where later work in the vault begins to put them under pressure. In the current vault, [[Hands 2010]] now adds an important earlier methodological layer to that history by showing that even before later behavioral economics, consumer theory had already been reconstructed through disputes over what kinds of psychology counted as scientifically acceptable. [[Heilmann and Reiss 2022]] adds a second kind of clarification by giving the vault compact philosophical overviews of [[Utility theory]], risk, welfare, and preference. [[Simon 1955]] now matters especially because it marks one of the earliest and deepest shifts away from the image of an omniscient chooser toward a theory of rationality for finite agents, while [[Simon 1979]] shows how that shift matures into a wider account of decision making in organizations and the economic sciences.
+This first topic therefore begins with the strongest classical benchmarks and their limits. The point is not to dismiss those benchmarks. It is to see what they were trying to do, why they were attractive, and where later work in the vault begins to put them under pressure. In the current vault, [[Hands 2010]] now adds an important earlier methodological layer to that history by showing that even before later behavioral economics, consumer theory had already been reconstructed through disputes over what kinds of psychology counted as scientifically acceptable. [[Heilmann and Reiss 2022]] adds a second kind of clarification by giving the vault compact philosophical overviews of [[Utility theory]], risk, welfare, and preference. [[Simon 1955]] now matters especially because it marks one of the earliest and deepest shifts away from the image of an omniscient chooser toward a theory of rationality for finite agents, while [[Simon 1979]] shows how that shift matures into a wider account of decision making in organizations and the economic sciences. [[Rich 2016]] adds a third clarification at the meta-level: once rival benchmarks are on the table, the question is no longer only which one is right, but which one is useful for which evaluative purpose.
 
 ## Subtopics
 
@@ -49,7 +50,7 @@ This branch introduces the classical benchmarks of rational choice and rational 
 
 ### 1.2 [[Competing Views of Rationality]]
 
-This branch asks what replaces or revises the classical benchmark once behavioral critique begins. Its core pages are [[Bounded rationality]], [[Rationality wars]], [[Ecological rationality]], [[Evolutionary psychology]], and [[Argumentative theory of reasoning]]. The historical anchor here is now [[Simon 1955]], which gives [[Bounded rationality]] the status of a major conceptual alternative rather than a later add-on, while [[Mercier and Sperber 2011]] adds a later but important challenge at the level of what reasoning is for.
+This branch asks what replaces or revises the classical benchmark once behavioral critique begins. Its core pages are [[Bounded rationality]], [[Rationality wars]], [[Ecological rationality]], [[Evolutionary psychology]], and [[Argumentative theory of reasoning]]. The historical anchor here is now [[Simon 1955]], which gives [[Bounded rationality]] the status of a major conceptual alternative rather than a later add-on, while [[Mercier and Sperber 2011]] adds a later but important challenge at the level of what reasoning is for. [[Rich 2016]] now helps clarify that benchmark competition can also end in hybrid or purpose-relative evaluation rather than in simple victory for one side.
 
 ### 1.3 [[Cognitive Architectures of Judgment]]
 
