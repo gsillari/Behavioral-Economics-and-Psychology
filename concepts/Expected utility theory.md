@@ -5,7 +5,7 @@ status: active
 tags:
   - economics
   - decision-theory
-updated_on: 2026-04-19
+updated_on: 2026-04-22
 source_count: 12
 related_pages:
   - [[Heilmann and Reiss 2022]]
@@ -43,7 +43,9 @@ related_pages:
 
 ## Core idea
 
-[[Expected utility theory]] is the classical framework for rational choice under risk in which options are evaluated by the expected utility of their possible outcomes. In the current vault it is both refined and challenged from within. [[de Finetti 1937]] helps clarify the belief side of that benchmark through [[Subjective probability]], [[Ellsberg 1961]] shows that choice under uncertainty may not fit cleanly into Savage-style subjective expected utility because of [[Ambiguity aversion]], [[Aumann 1962]] shows that utility theory need not require the [[Completeness axiom]] in its strongest form, [[Allais 1953]] exposes the [[Allais paradox]], [[Machina 1982]] shows how much of utility analysis may survive without the independence axiom, [[Loomes and Sugden 1982]] offers [[Regret theory]] as a more radical alternative to utility-over-states evaluation, [[Starmer 2000]] reviews the broader hunt for descriptively superior risky-choice theories, [[Kahneman and Tversky 1979]] introduces [[Prospect Theory]] as a descriptive alternative, and [[Arkes and Blumer 1985]] shows how past irrecoverable costs can distort present choice through the [[Sunk cost effect]].
+[[Expected utility theory]] is the classical framework for rational choice under risk in which options are evaluated by the expected utility of their possible outcomes. In the current vault, however, it should not be introduced as the starting point of utility theory as a whole. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] makes clear that expected utility is a later stage in a longer history: utility first appeared in marginalist theory, was reinterpreted through [[Ordinal utility theory]], was partially behaviorized through [[Revealed preference theory]], and only later reintroduced cardinal utility in a narrower form tied specifically to risky choice.
+
+That historical placement matters because it clarifies what expected utility theory is and is not. It is not the whole utility tradition. It is a powerful formal benchmark for risky choice whose probability assumptions, axioms, and interpretive ambitions have all been refined and challenged from within. [[de Finetti 1937]] helps clarify the belief side of that benchmark through [[Subjective probability]], [[Ellsberg 1961]] pressures the framework through [[Ambiguity aversion]], [[Aumann 1962]] shows that utility theory need not require the [[Completeness axiom]] in its strongest form, [[Allais 1953]] exposes the [[Allais paradox]], [[Machina 1982]] preserves much of utility analysis while weakening independence, [[Loomes and Sugden 1982]] offers [[Regret theory]] as a more radical alternative, and [[Kahneman and Tversky 1979]] provides [[Prospect Theory]] as the leading descriptive rival.
 
 ## Key distinctions
 
@@ -70,20 +72,17 @@ In the current vault, expected utility theory is therefore not just a foil for b
 
 ## Evidence and debate
 
-The theory has enormous normative and analytical importance, but the vault now records nine different ways it is used or pressured.
-[[de Finetti 1937]] supplies a belief-side benchmark by grounding probabilities in coherent subjective expectations.
-[[Ellsberg 1961]] then shows that even if subjective probabilities are allowed, actual choice under uncertainty may still violate the Savage-style framework because people are sensitive to ambiguity itself.
-[[Aumann 1962]] shows that one canonical rationality assumption, the [[Completeness axiom]], can be relaxed without abandoning utility theory altogether.
-[[Allais 1953]] introduces the [[Allais paradox]], a structured preference pattern that conflicts with expected-utility axioms.
-[[Machina 1982]] matters because it shows that one response to Allais-type anomalies is to preserve much of expected-utility analysis while weakening the independence axiom.
-[[Loomes and Sugden 1982]] matters because it shows a more radical option: keep risky choice theory, but replace utility-over-states evaluation with regret-and-rejoicing across chosen and unchosen outcomes.
-[[Starmer 2000]] matters because it makes explicit that the response to expected-utility failure was not a simple binary choice between preserving the standard model and adopting [[Prospect Theory]]. It surveys a larger family of nonexpected-utility approaches and clarifies how economists compared them in terms of empirical success and theoretical usefulness. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] adds a different kind of value by showing where expected utility sits inside the longer history of [[Utility theory]]: it is not the whole utility tradition, but a later and narrower cardinal reconstruction tied specifically to risky choice.
-[[Kahneman and Tversky 1979]] then matters because it does not stop at anomaly reporting.
-It replaces final-state evaluation with a benchmark-relative architecture and thereby gives the vault a clearer account of what a descriptive rival to expected utility looks like.
-[[Arkes and Blumer 1985]] adds the [[Sunk cost effect]], which is inconsistent with the forward-looking logic of ignoring irrecoverable past costs.
-[[Bini et al. 2026]] adds a newer use: expected utility becomes a benchmark for evaluating whether LLM responses in economic tasks look more rational or more human-like.
-The debate is not simply whether the classical theory is wrong.
-It is whether its strengths are normative, descriptive, or both, which of its assumptions are essential, and how much descriptive slack a benchmark theory can tolerate.
+The first debate concerns where expected utility sits in the history of economic theory. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] is the key source here because it stops the page from treating expected utility as if it were the whole utility tradition. It is a later, narrower cardinal reconstruction tied to risk, not the starting point of utility talk in economics.
+
+The second debate concerns the internal formal structure of the benchmark. [[de Finetti 1937]] supplies the belief-side benchmark through coherent subjective probability. [[Aumann 1962]] shows that one canonical rationality assumption, the [[Completeness axiom]], can be relaxed without abandoning utility theory altogether. [[Allais 1953]] introduces the [[Allais paradox]], which puts pressure on independence. [[Machina 1982]] then shows that one can respond without giving up utility analysis wholesale, while [[Loomes and Sugden 1982]] shows that one can respond more radically by replacing utility-over-states evaluation with regret and rejoicing across chosen and unchosen outcomes.
+
+The third debate concerns uncertainty and the limits of sharp probabilistic representation. [[Ellsberg 1961]] matters because it shows that even if subjective probability is allowed, actual choice under uncertainty may still resist Savage-style expected utility because agents are sensitive to ambiguity itself. This is why the page has to sit close to both [[Subjective probability]] and [[Ambiguity aversion]].
+
+The fourth debate concerns descriptive rivals. [[Starmer 2000]] is especially useful because it makes explicit that the response to expected-utility failure was not simply a binary choice between preserving the standard model and adopting [[Prospect Theory]]. It surveys a broader family of nonexpected-utility theories and clarifies how economists compared them in terms of empirical success and theoretical usefulness. [[Kahneman and Tversky 1979]] then matters because it supplies the most influential descriptive rival by replacing final-state evaluation with reference-dependent, psychologically weighted evaluation.
+
+The fifth debate concerns the use of expected utility as a benchmark outside classical decision theory. [[Arkes and Blumer 1985]] shows how the forward-looking logic of the theory is violated by the [[Sunk cost effect]]. [[Bini et al. 2026]] adds a newer use in which expected utility becomes part of the yardstick for evaluating whether LLM behavior in economic tasks looks more benchmark-rational or more human-like. That newer use is a reminder that the theory still matters even where its descriptive authority is contested.
+
+So the debate is not simply whether the theory is right or wrong. It is where it belongs in the history of utility theory, which of its assumptions are essential, whether ambiguity should count as a failure of the model or a limit of its intended scope, and how much descriptive slack a benchmark theory can tolerate while remaining useful.
 
 ## Practical or policy relevance
 

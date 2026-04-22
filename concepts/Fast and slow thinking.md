@@ -6,7 +6,7 @@ tags:
   - behavioral-economics
   - reasoning
   - psychology
-updated_on: 2026-04-07
+updated_on: 2026-04-22
 source_count: 11
 related_pages:
   - [[Kahneman 2003]]
@@ -39,7 +39,15 @@ related_pages:
 
 ## Core idea
 
-[[Fast and slow thinking]] is the broad dual-process picture according to which reasoning involves both more intuitive, automatic processing and more reflective, controlled processing. In the current vault, the main anchor sources are now [[Kahneman 2003]], [[Sloman 1996]], [[Evans 2008]], [[Evans and Stanovich 2013]], [[De Neys 2012]], [[De Neys 2023]], [[Keren and Schul 2009]], and [[Mercier and Sperber 2011]]. [[Kahneman 2003]] matters as a major precursor because it helps establish the picture of intuitive processes that later dual-process theorists make more explicit. [[Sloman 1996]] matters because it gives the early computational case for two forms of reasoning in terms of associative versus rule-based processing. The Evans branch supplies the broad review and conceptual defense of dual-process theory, while the De Neys branch argues that this framework remains useful only if it is theorized more carefully than a simple opposition between biased fast thought and corrective slow thought. The Epley-Gilovich branch adds a different but compatible lesson: effortful thought can matter for some judgments, such as adjustment from self-generated anchors, without operating uniformly across all bias paradigms. [[Epley and Gilovich 2016]] extends that role by showing that reflective reasoning can also become the vehicle of [[Motivated reasoning]], not only the cure for bias. [[Keren and Schul 2009]] adds the sharper methodological warning that dual-process contrasts do not automatically justify positing two explanatory systems. [[Mercier and Sperber 2011]] adds a different challenge again: even when reflective reasoning is real, its primary function may be argumentative rather than neutral correction.
+[[Fast and slow thinking]] is the broad dual-process picture according to which reasoning involves both more intuitive, automatic processing and more reflective, controlled processing. In the current vault, the page is easiest to understand through five sub-branches:
+
+1. early computational dual-process models
+2. the refined type-1/type-2 framework
+3. conflict-detection and interactionist revisions
+4. narrower mechanism studies such as anchoring-and-adjustment
+5. challenges that reinterpret reflection as motivated or argumentative rather than simply corrective
+
+That structure matters because the page should not read as if dual-process theory were one stable doctrine. The current literature is much more internally contested than the popular fast-versus-slow slogan suggests.
 
 ## Key distinctions
 
@@ -47,9 +55,17 @@ This concept differs from a crude two-box model in which intuition always produc
 
 ## Evidence and debate
 
-[[Sloman 1996]] provides one of the strongest early theoretical cases for dual-process architecture by distinguishing associative from rule-based reasoning and by arguing that both can generate responses to the same task. [[Evans 2008]] provides the broad review of dual-processing accounts across reasoning, judgment, and social cognition. [[Evans and Stanovich 2013]] then gives the framework a more explicit internal defense by distinguishing type 1 and type 2 processing and arguing that many objections target oversimplified versions of the theory. [[Keren and Schul 2009]] pushes from the other side by arguing that two-system theories often treat weak evidence as if it supported deep architectural claims. [[De Neys 2012]] introduces the idea that biased responders may already register conflict, which motivates the concept of [[Logical intuitions]]. [[De Neys 2023]] then argues that dual-process theory should move beyond a strict default-interventionist model and better theorize overlap and interaction between intuitive and reflective reasoning. [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]] add a narrower but important case where effortful processing seems to matter: adjustment from self-generated anchors. [[Epley and Gilovich 2016]] adds a different implication: reflection can also be recruited in the service of preferred conclusions. [[Mercier and Sperber 2011]] adds a functional challenge to the whole picture. The BBS exchange around that paper suggests that reflective reasoning may often be specialized for justification and argument evaluation rather than for detached self-correction. De Neys's commentary resists any reading that erases nonargumentative norm sensitivity, and Evans's commentary argues that reflection also serves private thought, but the paper still matters here because it stops fast-and-slow theory from being read as if "slow" automatically meant neutral or truth-directed.
+The early computational branch is anchored by [[Sloman 1996]]. Its importance is that it gives dual-process theory real explanatory bite: associative reasoning and rule-based reasoning are not merely two styles of thought but two different ways of processing information. [[Kahneman 2003]] matters as a major precursor and organizing bridge because it made the contrast between intuitive judgment and controlled correction unusually influential inside behavioral economics.
 
-That makes this page an important interpretive partner for both [[Tversky and Kahneman 1974]] and [[Anchoring]]. The 1974 source identifies patterned heuristic judgment. The Evans branch supplies the higher-level architecture most often used to explain such findings. The De Neys branch asks how that architecture should be revised. The Epley-Gilovich branch shows both that increased effort changes judgment only selectively and that effort can sometimes rationalize preferred conclusions. This page should therefore remain close to both [[Heuristics and Biases]] and the broader rationality synthesis.
+The second branch is the refined defense of the framework. [[Evans 2008]] gives the broad review across reasoning, judgment, and social cognition, while [[Evans and Stanovich 2013]] try to save what is valuable in dual-process theory by distinguishing type 1 and type 2 processing from looser folk contrasts between impulsive and rational thought. In the current vault, this is the best source pair for understanding why many later defenders think the theory survives criticism in a more disciplined form.
+
+The third branch is the internal revisionist branch. [[De Neys 2012]] matters because it introduces the idea that biased responders may already detect conflict, which motivates [[Logical intuitions]]. [[De Neys 2023]] pushes further by arguing that the old default-interventionist picture is too simple and that overlap, interaction, and graded conflict monitoring need to be taken seriously. This is the main reason the page should no longer suggest that fast thought produces answers and slow thought simply checks them afterward.
+
+The fourth branch is the narrower mechanism branch associated here with anchoring and adjustment. [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]] show that effortful adjustment from self-generated anchors is real, but selective. Reflective effort matters in some paradigms without becoming a universal repair mechanism for all heuristics-and-biases findings. That is an important corrective to textbook versions of fast-and-slow thinking.
+
+The fifth branch is the challenge branch. [[Keren and Schul 2009]] argues that dual-process theories often move too quickly from suggestive evidence to strong system claims. [[Epley and Gilovich 2016]] adds a different challenge by showing that reflection can also serve [[Motivated reasoning]] rather than truth-directed correction. [[Mercier and Sperber 2011]] pushes furthest by suggesting that reasoning is primarily argumentative. The exchange around that paper matters because it stops the page from treating "slow" as synonymous with neutral, detached, or normatively superior thought.
+
+Taken together, these branches make the page an interpretive partner for both [[Heuristics and Biases]] and [[Rationality wars]]. The heuristics literature identifies patterned judgment errors. Fast-and-slow theory tries to explain how those errors and corrections arise. The later revisions and critiques then show that the explanatory architecture is itself contested.
 
 ## Practical or policy relevance
 
