@@ -11,6 +11,7 @@ query: What does behavioral economics think rationality is?
 generated_on: 2026-04-05
 sources_used:
   - [[Camerer and Loewenstein 2004]]
+  - [[Bruni and Sugden 2007]]
   - [[Hands 2010]]
   - [[Heilmann and Reiss 2022]]
   - [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]
@@ -90,6 +91,7 @@ related_pages:
   - [[Situated cognition]]
   - [[Embodied cognition]]
   - [[Behaviorism]]
+  - [[Paretian turn]]
   - [[Utility theory]]
   - [[Risk attitudes]]
   - [[Ordinal utility theory]]
@@ -146,7 +148,7 @@ That matters because the rationality debate in the field does not happen at only
 It unfolds across anomaly detection, descriptive theory, field evidence, and policy application.
 
 Classical decision theory treats rationality as formal consistency in both preferences and beliefs, with [[de Finetti 1937]] and [[Subjective probability]] helping to clarify the belief side of that benchmark, and [[Ellsberg 1961]] showing that even this belief-side extension becomes unstable once agents confront ambiguity rather than measurable risk. [[Heilmann and Reiss 2022]] adds an important overview layer here by making the philosophy of these benchmark concepts more explicit.
-[[Hands 2010]] adds an earlier historical complication on the preference side. The paper argues that economics did not move from psychology to no psychology in one clean step. Instead, the history of consumer choice theory runs through selective rejection of hedonistic introspection, the stabilization of [[Ordinal utility theory]], and then a more explicitly operational and [[Behaviorism|behaviorist]] turn in [[Revealed preference theory]]. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] helps place that history inside the broader trajectory of [[Utility theory]], which matters because the benchmark later challenged by behavioral economics is already the product of multiple reinterpretations.
+[[Hands 2010]] adds an earlier historical complication on the preference side. The paper argues that economics did not move from psychology to no psychology in one clean step. Instead, the history of consumer choice theory runs through selective rejection of hedonistic introspection, the stabilization of [[Ordinal utility theory]], and then a more explicitly operational and [[Behaviorism|behaviorist]] turn in [[Revealed preference theory]]. [[Bruni and Sugden 2007]] widens that same point into a larger history of the discipline by arguing that the [[Paretian turn]] tried to redefine economics itself as a separate science of rational choice. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] helps place that history inside the broader trajectory of [[Utility theory]], which matters because the benchmark later challenged by behavioral economics is already the product of multiple reinterpretations.
 [[Simon 1955]] then introduces a different kind of break with the benchmark by arguing that rationality should be modeled for agents with limited information, limited search, and limited computational power rather than for omniscient optimizers.
 [[Simon 1979]] later shows how broad that break really is by reconnecting bounded rationality to organizations, administrative procedure, and the scope of economics itself.
 [[Petracca 2017]] adds a now-essential clarification for this synthesis. Simon's break was not only a benchmark revision. It was also grounded in [[Cognitivism]] as symbolic information processing. That means the field's rationality debate is not only about norms, heuristics, and welfare. It is also about what kind of mind behavioral economics is assuming when it calls itself psychologically realistic.
