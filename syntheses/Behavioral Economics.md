@@ -4,7 +4,7 @@ page_type: syntheses
 status: active
 tags:
   - synthesis
-updated_on: 2026-04-19
+updated_on: 2026-04-22
 related_pages:
   - - - Behavioral Economics Wiki
   - - - Foundations and Rationality
@@ -27,6 +27,7 @@ related_pages:
       - and New Frontiers
   - - - Coase 1960
   - - - Friedman 1953
+  - - - Smith 1991
   - - - Bruni and Sugden 2007
   - - - Hands 2010
   - - - Angner 2019
@@ -173,7 +174,7 @@ That source helps the vault organize itself around four linked moves: benchmark 
 [[Fischhoff and Broomell 2020]] adds a complementary mature map from the decision-science side by organizing the field around judgment, preference, choice, heterogeneity, and intervention. Together, the two reviews help keep the vault readable at both the field level and the methodological level.
 [[Laibson and List 2015]] adds a different kind of value: a six-principle classroom condensation of the field. It is not a deeper theoretical source than the two reviews just named, but it is one of the clearest didactic statements in the current vault of how behavioral economics hangs together for first exposure.
 [[Sent 2004]] adds a different kind of field-level value again. It is one of the best sources in the vault for the sociology of the profession: it reconstructs the older and newer versions of behavioral economics, the institutionalization of the field through journals, conferences, handbooks, anthologies, prizes, and foundations, and the reasons the newer, more benchmark-compatible version became mainstream. [[Angner 2019]] then adds a sharper later thesis about what that success means. Its claim is not merely that behavioral economics became acceptable. It is that the proposed synthesis itself is behaviorally structured, so the mainstream's new pragmatism should be read as conversion rather than neutral assimilation. [[Angner and Loewenstein 2012 - Behavioral Economics (in Maki 2012, ch. 22)]] now adds a philosophy-facing overview from inside the field, which helps connect the research-program story to the philosophy-of-economics layer.
-[[Friedman 1953]] also matters as a methodological foil: it states very clearly the predictive, assumption-tolerant picture of economics that later behavioral work often challenges by insisting that descriptively unrealistic psychology is itself part of the problem.
+[[Friedman 1953]] also matters as a methodological foil: it states very clearly the predictive, assumption-tolerant picture of economics that later behavioral work often challenges by insisting that descriptively unrealistic psychology is itself part of the problem. [[Smith 1991]] adds a different complication that should now stay visible in the synthesis: the economics-versus-psychology contrast is too simple if rationality in actual economic life is often mediated by institutions and learning processes rather than by isolated conscious calculation. On that view, some behavioral critique identifies genuine limits of individual cognition without yet settling how well rational theory performs in market settings.
 [[Hands 2010]] adds an earlier history-of-consumer-theory layer to the same methodological story. It argues that economics did not simply expel psychology and later rediscover it. The more accurate history runs through selective rejection of hedonistic introspection, the consolidation of [[Ordinal utility theory]], and then a sharper operational turn in [[Revealed preference theory]], where [[Behaviorism]] becomes especially important. [[Bruni and Sugden 2007]] broadens that picture from consumer theory to the discipline as a whole. It argues that behavioral economics can be read as a challenge to the larger [[Paretian turn]] by which economics tried to define itself as a separate science of rational choice independent of psychology. [[Heilmann and Reiss 2022]] now adds a complementary philosophy-of-economics layer by giving the vault concise handbook treatments of [[Utility theory]], [[Risk attitudes]], [[Behavioral welfare economics]], and [[Consumer sovereignty]].
 
 Read in that way, the historical backbone becomes clearer.

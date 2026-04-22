@@ -5,13 +5,14 @@ status: active
 tags:
   - behavioral-economics
   - philosophy
-updated_on: 2026-04-19
+updated_on: 2026-04-22
 source_count: 9
 related_pages:
   - [[Berg and Gigerenzer 2010]]
   - [[Todd and Gigerenzer 2007]]
   - [[Gigerenzer and Goldstein 1996]]
   - [[Gigerenzer 2008]]
+  - [[Smith 1991]]
   - [[Smith 2003]]
   - [[Dekker and Remic 2019]]
   - [[Petracca 2017]]
@@ -39,7 +40,7 @@ related_pages:
 
 ## Core idea
 
-[[Ecological rationality]] is the view that the quality of a decision rule or social order depends on how well it fits the structure of the environment in which it is used. In the current vault, however, that phrase should no longer be treated as naming one single coherent program. [[Dekker and Remic 2019]] makes clear that the label is used in two importantly different ways: an individual-level heuristic ecology associated with [[Gigerenzer 2008]], [[Gigerenzer and Goldstein 1996]], and [[Todd and Gigerenzer 2007]], and an institutional or system-level ecology associated with [[Smith 2003]]. [[Simon 1956]] remains an important precursor bridge, while [[Hortal 2025]] provides a later philosophical framing of the dispute inside the contemporary rationality wars. [[Berg and Gigerenzer 2010]] matters because it uses the ecological program not just as an alternative benchmark, but as a direct critique of the `as-if` methodology that the paper argues survives inside much behavioral economics.
+[[Ecological rationality]] is the view that the quality of a decision rule or social order depends on how well it fits the structure of the environment in which it is used. In the current vault, however, that phrase should no longer be treated as naming one single coherent program. [[Dekker and Remic 2019]] makes clear that the label is used in two importantly different ways: an individual-level heuristic ecology associated with [[Gigerenzer 2008]], [[Gigerenzer and Goldstein 1996]], and [[Todd and Gigerenzer 2007]], and an institutional or system-level ecology associated with [[Smith 2003]]. [[Smith 1991]] is now an important precursor to the second branch because it states the underlying methodological intuition before the later ecological vocabulary is fully in place: rationality is often mediated by institutions and interaction rather than exhausted by isolated cognition. [[Simon 1956]] remains an important precursor bridge, while [[Hortal 2025]] provides a later philosophical framing of the dispute inside the contemporary rationality wars. [[Berg and Gigerenzer 2010]] matters because it uses the ecological program not just as an alternative benchmark, but as a direct critique of the `as-if` methodology that the paper argues survives inside much behavioral economics.
 
 ## Key distinctions
 
@@ -53,7 +54,7 @@ In the Smith branch, ecological rationality is mainly about institutions, rules,
 
 ## Evidence and debate
 
-The current anchor sources are [[Gigerenzer and Goldstein 1996]], [[Todd and Gigerenzer 2007]], [[Gigerenzer 2008]], [[Smith 2003]], [[Dekker and Remic 2019]], [[Berg and Gigerenzer 2010]], [[Simon 1956]], and [[Hortal 2025]]. [[Gigerenzer and Goldstein 1996]] matters because it gives the ecological-rationality branch a concrete fast-and-frugal model through [[Take-the-Best heuristic]] and one-reason decision making. [[Todd and Gigerenzer 2007]] matters because it states the Gigerenzer program in a compact way centered on mind-world fit, environment structure, and the idea that people can be made smarter by better-matched decision environments. [[Gigerenzer 2008]] provides the broader positive account of that same line: heuristics can work because they fit environments, and the right question is when they do so. [[Smith 2003]] then gives a different ecological program by arguing that ecological rationality can also describe emergent institutional orders, especially markets, whose success cannot be reduced to explicit design or to the optimization capacities of any one agent. [[Simon 1956]] matters here as a bridge source rather than as a full ecological manifesto. It shows that adaptive choice depends on the structure of the environment as well as on the limitations of the organism, which makes it an important precursor to later environment-sensitive accounts. Hortal then uses ecological rationality as a major pole in the broader [[Rationality wars]].
+The current anchor sources are [[Gigerenzer and Goldstein 1996]], [[Todd and Gigerenzer 2007]], [[Gigerenzer 2008]], [[Smith 1991]], [[Smith 2003]], [[Dekker and Remic 2019]], [[Berg and Gigerenzer 2010]], [[Simon 1956]], and [[Hortal 2025]]. [[Gigerenzer and Goldstein 1996]] matters because it gives the ecological-rationality branch a concrete fast-and-frugal model through [[Take-the-Best heuristic]] and one-reason decision making. [[Todd and Gigerenzer 2007]] matters because it states the Gigerenzer program in a compact way centered on mind-world fit, environment structure, and the idea that people can be made smarter by better-matched decision environments. [[Gigerenzer 2008]] provides the broader positive account of that same line: heuristics can work because they fit environments, and the right question is when they do so. [[Smith 1991]] matters because it shows the institutional intuition in a pre-2003 form: experimental markets can produce rational outcomes even when participants cannot state the theory, which shifts attention from isolated cognition to institutionally mediated learning. [[Smith 2003]] then gives the later, more explicit ecological program by arguing that ecological rationality can describe emergent institutional orders, especially markets, whose success cannot be reduced to explicit design or to the optimization capacities of any one agent. [[Simon 1956]] matters here as a bridge source rather than as a full ecological manifesto. It shows that adaptive choice depends on the structure of the environment as well as on the limitations of the organism, which makes it an important precursor to later environment-sensitive accounts. Hortal then uses ecological rationality as a major pole in the broader [[Rationality wars]].
 
 [[Berg and Gigerenzer 2010]] adds a methodological use of ecological rationality that the vault needed to make more explicit. The paper's complaint is not mainly that behavioral economics sometimes forgets that theories like [[Prospect Theory]] are descriptive rather than normative. Its sharper complaint is that behavioral economics often remains committed to Friedman-style `as-if` theorizing: it preserves optimization architectures and adjusts them for fit without uncovering real cognitive processes. Ecological rationality is offered as an alternative precisely because it asks how strategies work in environments, not only how well parameterized models reproduce observed choice.
 
@@ -69,7 +70,7 @@ This branch also matters for [[Debiasing]]. [[Arkes 1991]] already hints that so
 
 ## Related pages
 
-The anchor sources are [[Gigerenzer and Goldstein 1996]], [[Todd and Gigerenzer 2007]], [[Gigerenzer 2008]], [[Smith 2003]], [[Dekker and Remic 2019]], [[Berg and Gigerenzer 2010]], [[Petracca 2017]], [[Simon 1956]], and [[Hortal 2025]]. The nearest neighboring pages are [[Adaptive toolbox]], [[Take-the-Best heuristic]], [[Clinical versus actuarial judgment]], [[Constructivist rationality]], [[Bounded rationality]], [[Cognitivism]], [[Situated cognition]], [[Embodied cognition]], [[Gerd Gigerenzer]], [[Peter M. Todd]], [[Vernon L. Smith]], [[Herbert A. Simon]], [[Rationality wars]], [[Heuristics and Biases]], [[Debiasing]], and [[Behavioral public policy]]. The broader topic page is [[Behavioral Economics]].
+The anchor sources are [[Gigerenzer and Goldstein 1996]], [[Todd and Gigerenzer 2007]], [[Gigerenzer 2008]], [[Smith 1991]], [[Smith 2003]], [[Dekker and Remic 2019]], [[Berg and Gigerenzer 2010]], [[Petracca 2017]], [[Simon 1956]], and [[Hortal 2025]]. The nearest neighboring pages are [[Adaptive toolbox]], [[Take-the-Best heuristic]], [[Clinical versus actuarial judgment]], [[Constructivist rationality]], [[Bounded rationality]], [[Cognitivism]], [[Situated cognition]], [[Embodied cognition]], [[Gerd Gigerenzer]], [[Peter M. Todd]], [[Vernon L. Smith]], [[Herbert A. Simon]], [[Rationality wars]], [[Heuristics and Biases]], [[Debiasing]], and [[Behavioral public policy]]. The broader topic page is [[Behavioral Economics]].
 
 ## Open questions
 

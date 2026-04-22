@@ -9,8 +9,9 @@ tags:
   - rationality
   - economics
   - source
-updated_on: 2026-04-18
+updated_on: 2026-04-22
 related_pages:
+  - [[Smith 1991]]
   - [[Ecological rationality]]
   - [[Constructivist rationality]]
   - [[Rationality wars]]
@@ -24,7 +25,7 @@ related_pages:
 # Smith 2003: Constructivist and ecological rationality in economics
 ## Summary
 
-[[Smith 2003]] is Vernon Smith's Nobel lecture and a major statement of ecological rationality from the experimental-economics side. Its central claim is that economics needs to distinguish between [[Constructivist rationality]], where outcomes are designed or modeled through explicit reason and formal optimization, and [[Ecological rationality]], where useful order emerges through evolved rules, practices, and institutions that no one fully designed. In the current vault, this source matters because it broadens the ecological-rationality branch beyond individual heuristics and into markets, institutions, and social order.
+[[Smith 2003]] is Vernon Smith's Nobel lecture and a major statement of ecological rationality from the experimental-economics side. Its central claim is that economics needs to distinguish between [[Constructivist rationality]], where outcomes are designed or modeled through explicit reason and formal optimization, and [[Ecological rationality]], where useful order emerges through evolved rules, practices, and institutions that no one fully designed. In the current vault, this source matters because it broadens the ecological-rationality branch beyond individual heuristics and into markets, institutions, and social order. [[Smith 1991]] should now be read as an important precursor to this move, because it already argues that rationality is often institutionally mediated and cannot be inferred simply from isolated-choice experiments or verbal reports.
 
 The paper is especially important because Smith explicitly notices a link to the Gigerenzer tradition. He notes that Gigerenzer and coauthors had already used the phrase "ecologically rational" for fast-and-frugal decision making by individuals. Smith's contribution is not to reject that usage, but to expand the concept into a Hayekian and experimental-economic register concerned with emergent institutions, exchange rules, and extended social order. That makes the source foundational for the ecological side of the vault even though it is not foundational for the whole wiki.
 
