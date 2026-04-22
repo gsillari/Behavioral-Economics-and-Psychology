@@ -5,9 +5,11 @@ status: active
 tags:
   - behavioral-economics
   - cognitive-psychology
-updated_on: 2026-04-18
-source_count: 35
+updated_on: 2026-04-22
+source_count: 37
 related_pages:
+  - [[Kahneman and Tversky 1996]]
+  - [[Gigerenzer 1996]]
   - [[Kahneman et al. 1982]]
   - [[Langer 1982 - The Illusion of Control (in Kahneman et al. 1982, ch. 16)]]
   - [[Fischhoff 1982 - Heuristics and Biases in Hindsight (in Kahneman et al. 1982, ch. 23)]]
@@ -148,7 +150,7 @@ The original program did not remain intellectually stable. In the current vault,
 
 ### Ecological Critique
 
-[[Gigerenzer 2008]] is the strongest direct challenge in the vault. It does not deny that people use heuristics. It denies that the right evaluative question is always whether they approximate one universal formal standard. This is the major route from [[Heuristics and Biases]] into [[Ecological rationality]], the [[Adaptive toolbox]], and the broader [[Rationality wars]]. [[Samuels et al. 2002]] matters because it adds the caution that some famous clashes around the program are partly rhetorical or benchmark-dependent rather than cleanly substantive.
+The foundational exchange here is the 1996 pair [[Kahneman and Tversky 1996]] and [[Gigerenzer 1996]]. Kahneman and Tversky defend the reality of cognitive illusions and insist that large inferential errors survive methodological objections more often than Gigerenzer allows. Gigerenzer's reply is that the deeper problem is not only empirical but methodological: the norms are too narrow and the heuristics too vaguely specified. That exchange matters because it is where the later [[Rationality wars]] become fully explicit inside this branch. [[Gigerenzer 2008]] is then the strongest direct positive challenge in the vault. It does not deny that people use heuristics. It denies that the right evaluative question is always whether they approximate one universal formal standard. This is the major route from [[Heuristics and Biases]] into [[Ecological rationality]], the [[Adaptive toolbox]], and the broader [[Rationality wars]]. [[Samuels et al. 2002]] matters because it adds the caution that some famous clashes around the program are partly rhetorical or benchmark-dependent rather than cleanly substantive.
 
 ### Field and Policy Extensions
 
