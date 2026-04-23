@@ -8,6 +8,7 @@ tags:
 updated_on: 2026-04-22
 source_count: 17
 related_pages:
+  - [[Meehl 1954]]
   - [[Bar-Gill et al. 2023]]
   - [[Angwin et al. 2016]]
   - [[Chouldechova and Roth 2020]]
@@ -45,7 +46,7 @@ related_pages:
 
 [[Behavioral economics of AI]] studies how AI intersects with behavioral economics in three roles: as a tool for prediction and behavioral research, as an object of behavioral evaluation, and as an institutional technology that can rank, steer, exploit, or govern human behavior. In the current vault, the concept is not one thin branch. It is a meeting point between several sub-branches that would otherwise remain artificially separate.
 
-The first branch treats AI as a new behavioral method and comparison class. [[Camerer 2019]] is the main orientation source here: machine learning can help identify behavioral regularities, serve as a foil for human judgment, and reshape the environments in which choice takes place. [[Ludwig et al. 2024]] adds the policy-facing version of that claim by arguing that algorithms can be unusually effective tools when public problems are fundamentally ranking problems. [[Kleinberg et al. 2018]] then supplies the institutional case, showing how predictive systems enter coercive settings such as bail decisions, where forecasting performance, fairness, selective labels, and public legitimacy must be considered together.
+The first branch treats AI as a new behavioral method and comparison class. [[Meehl 1954]] is the deep historical precursor here, because the comparison between human judgment and formal prediction long predates machine learning. [[Camerer 2019]] is the main contemporary orientation source: machine learning can help identify behavioral regularities, serve as a foil for human judgment, and reshape the environments in which choice takes place. [[Ludwig et al. 2024]] adds the policy-facing version of that claim by arguing that algorithms can be unusually effective tools when public problems are fundamentally ranking problems. [[Kleinberg et al. 2018]] then supplies the institutional case, showing how predictive systems enter coercive settings such as bail decisions, where forecasting performance, fairness, selective labels, and public legitimacy must be considered together.
 
 The second branch concerns [[Algorithmic bias]]. Here the issue is not only whether an algorithm predicts well, but how its errors are distributed, what target it is optimizing, and what conception of fairness governs evaluation. [[Angwin et al. 2016]] is the public controversy anchor. [[Kleinberg et al. 2016]] adds the formal result that some fairness criteria are structurally incompatible. [[Chouldechova and Roth 2020]] broadens the branch beyond metric conflict to biased data, dynamic feedback, exploration, and representation learning. [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] then deepen that branch philosophically by asking why one fairness metric should matter rather than another. [[Obermeyer et al. 2019]] adds the closely related design lesson that severe inequity can arise simply because the model is trained on the wrong proxy target, now tracked under [[Target variable problem]].
 
