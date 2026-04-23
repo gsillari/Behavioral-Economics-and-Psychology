@@ -6,14 +6,19 @@ tags:
   - behavioral-economics
   - beliefs
 updated_on: 2026-04-07
-source_count: 16
+source_count: 18
 related_pages:
   - [[Fischhoff and Broomell 2020]]
   - [[de Finetti 1937]]
+  - [[Savage 1954]]
+  - [[Savage 1954 - Chapter 03 - Personal Probability]]
+  - [[Savage 1954 - Chapter 04 - Critical Comments on Personal Probability]]
   - [[Ellsberg 1961]]
+  - [[Subjective expected utility theory]]
   - [[Subjective probability]]
   - [[Ambiguity aversion]]
   - [[Bruno de Finetti]]
+  - [[Leonard J. Savage]]
   - [[Daniel Ellsberg]]
   - [[Kahneman and Tversky 1972]]
   - [[Tversky and Kahneman 1983]]
@@ -58,7 +63,7 @@ Three distinctions make the page easier to use.
 
 First, this concept differs from [[Nonstandard preferences]], where the issue is what people want, and from [[Nonstandard decision-making]], where the issue is how choices are processed. Here the main problem is belief formation or uncertainty representation.
 
-Second, not every case in this branch is a simple false belief. Some cases concern miscalibration or incoherence. Others concern the way uncertainty is represented. [[Ellsberg 1961]] matters for exactly this reason: the issue is not just “wrong probability,” but whether people are willing to treat ambiguous situations as if they had one precise subjective probability at all.
+Second, not every case in this branch is a simple false belief. Some cases concern miscalibration or incoherence. Others concern the way uncertainty is represented. [[Ellsberg 1961]] matters for exactly this reason: the issue is not just “wrong probability,” but whether people are willing to treat ambiguous situations as if they were representable by the precise personal probabilities required by [[Subjective expected utility theory]].
 
 Third, this is not just a list of biases. It is a meeting point between three layers of the vault:
 
@@ -68,9 +73,9 @@ Third, this is not just a list of biases. It is a meeting point between three la
 
 ## Benchmark background
 
-[[de Finetti 1937]] and [[Subjective probability]] give the page its deepest benchmark. They make clear that the belief side of rationality is not only about truth in a loose sense, but also about probabilistic coherence. That matters because many behavioral findings get their force by showing departures from that benchmark.
+[[de Finetti 1937]] and [[Subjective probability]] give the page its deepest benchmark by showing that belief can be personal while still being constrained by coherence. [[Savage 1954]] then matters because it turns that benchmark into part of a theory of action under uncertainty. [[Savage 1954 - Chapter 03 - Personal Probability]] and [[Savage 1954 - Chapter 04 - Critical Comments on Personal Probability]] show that the belief side of rationality is not only about loose confidence talk, but about a disciplined decision framework later collected in the vault under [[Subjective expected utility theory]].
 
-[[Ellsberg 1961]] then complicates the picture. Through [[Ambiguity aversion]], it shows that some departures from standard belief modeling are not neatly cases of miscalculation. They may instead reflect resistance to representing uncertain situations with one crisp probability distribution. In the current vault, that is an important reminder that the belief branch is partly about the limits of the benchmark itself.
+[[Ellsberg 1961]] then complicates the picture. Through [[Ambiguity aversion]], it shows that some departures from standard belief modeling are not neatly cases of miscalculation. They may instead reflect resistance to representing uncertain situations with one crisp, decision-ready personal probability function. In the current vault, that is an important reminder that the belief branch is partly about the limits of the benchmark itself.
 
 [[Fischhoff and Broomell 2020]] gives the most useful later organizing frame. It shows that belief research can be evaluated using different standards such as accuracy, calibration, coherence, and practical usefulness, and it stresses that people may understand inferential tasks differently from the way researchers intend them.
 
@@ -126,7 +131,7 @@ The practical value of the page is therefore diagnostic. It helps clarify that �
 
 ## Related pages
 
-The anchor sources are [[de Finetti 1937]], [[Ellsberg 1961]], [[Kahneman and Tversky 1972]], [[Tversky and Kahneman 1974]], [[DellaVigna 2009]], and [[Fischhoff and Broomell 2020]]. The closest neighboring pages are [[Subjective probability]], [[Ambiguity aversion]], [[Base-rate neglect]], [[Conjunction fallacy]], [[Confirmation bias]], [[Probability neglect]], [[Overconfidence]], [[Illusion of control]], [[Law of small numbers]], [[Projection bias]], [[Hindsight bias]], [[Motivated reasoning]], [[Myside bias]], and [[Heuristics and Biases]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[de Finetti 1937]], [[Savage 1954]], [[Ellsberg 1961]], [[Kahneman and Tversky 1972]], [[Tversky and Kahneman 1974]], [[DellaVigna 2009]], and [[Fischhoff and Broomell 2020]]. The closest neighboring pages are [[Subjective probability]], [[Subjective expected utility theory]], [[Ambiguity aversion]], [[Base-rate neglect]], [[Conjunction fallacy]], [[Confirmation bias]], [[Probability neglect]], [[Overconfidence]], [[Illusion of control]], [[Law of small numbers]], [[Projection bias]], [[Hindsight bias]], [[Motivated reasoning]], [[Myside bias]], and [[Heuristics and Biases]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

@@ -16,8 +16,10 @@ related_pages:
   - [[Scope and Method of Behavioral Economics]]
   - [[Heilmann and Reiss 2022]]
   - [[Hands 2010]]
+  - [[Savage 1954]]
   - [[Behaviorism]]
   - [[Utility theory]]
+  - [[Subjective expected utility theory]]
   - [[Ordinal utility theory]]
   - [[Revealed preference theory]]
   - [[Simon 1955]]
@@ -40,13 +42,13 @@ This topic gathers the benchmark ideas against which behavioral economics define
 
 For PPE students, this topic matters because it sits at the junction of all three disciplines. It matters for economics because models of choice and belief depend on formal assumptions about rationality. It matters for philosophy because those assumptions carry normative weight and raise questions about coherence, belief, agency, and evaluation. It matters for politics and public policy because every behavioral intervention presupposes some account of when a person is choosing well and when institutional correction is justified.
 
-This first topic therefore begins with the strongest classical benchmarks and their limits. The point is not to dismiss those benchmarks. It is to see what they were trying to do, why they were attractive, and where later work in the vault begins to put them under pressure. In the current vault, [[Hands 2010]] now adds an important earlier methodological layer to that history by showing that even before later behavioral economics, consumer theory had already been reconstructed through disputes over what kinds of psychology counted as scientifically acceptable. [[Heilmann and Reiss 2022]] adds a second kind of clarification by giving the vault compact philosophical overviews of [[Utility theory]], risk, welfare, and preference. [[Simon 1955]] now matters especially because it marks one of the earliest and deepest shifts away from the image of an omniscient chooser toward a theory of rationality for finite agents, while [[Simon 1979]] shows how that shift matures into a wider account of decision making in organizations and the economic sciences. [[Rich 2016]] adds a third clarification at the meta-level: once rival benchmarks are on the table, the question is no longer only which one is right, but which one is useful for which evaluative purpose.
+This first topic therefore begins with the strongest classical benchmarks and their limits. The point is not to dismiss those benchmarks. It is to see what they were trying to do, why they were attractive, and where later work in the vault begins to put them under pressure. In the current vault, [[Hands 2010]] now adds an important earlier methodological layer to that history by showing that even before later behavioral economics, consumer theory had already been reconstructed through disputes over what kinds of psychology counted as scientifically acceptable. [[Heilmann and Reiss 2022]] adds a second kind of clarification by giving the vault compact philosophical overviews of [[Utility theory]], risk, welfare, and preference. [[Savage 1954]] now adds a third foundational clarification by making the uncertainty-side benchmark explicit through personal probability, utility over acts, observation, and partition structure, all now collected under [[Subjective expected utility theory]]. [[Simon 1955]] now matters especially because it marks one of the earliest and deepest shifts away from the image of an omniscient chooser toward a theory of rationality for finite agents, while [[Simon 1979]] shows how that shift matures into a wider account of decision making in organizations and the economic sciences. [[Rich 2016]] adds a fourth clarification at the meta-level: once rival benchmarks are on the table, the question is no longer only which one is right, but which one is useful for which evaluative purpose.
 
 ## Subtopics
 
 ### 1.1 [[Standard Rationality and Its Limits]]
 
-This branch introduces the classical benchmarks of rational choice and rational belief, together with their earliest limits. Its core concept pages are [[Expected utility theory]], [[Completeness axiom]], [[Subjective probability]], [[Allais paradox]], and [[Ambiguity aversion]]. The branch now also needs the background concepts [[Utility theory]], [[Ordinal utility theory]], and [[Revealed preference theory]], because those theories shaped how economics reformulated choice once cardinal and introspective utility came under pressure.
+This branch introduces the classical benchmarks of rational choice and rational belief, together with their earliest limits. Its core concept pages are [[Expected utility theory]], [[Subjective expected utility theory]], [[Completeness axiom]], [[Subjective probability]], [[Allais paradox]], and [[Ambiguity aversion]]. The branch now also needs the background concepts [[Utility theory]], [[Ordinal utility theory]], and [[Revealed preference theory]], because those theories shaped how economics reformulated choice once cardinal and introspective utility came under pressure.
 
 ### 1.2 [[Competing Views of Rationality]]
 
