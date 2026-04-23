@@ -11,6 +11,8 @@ tags:
 updated_on: 2026-04-23
 related_pages:
   - [[Meehl 1954]]
+  - [[Grove and Meehl 1996]]
+  - [[Grove et al. 2000]]
   - [[Clinical versus actuarial judgment]]
   - [[Dawes 1979]]
   - [[Dawes et al. 1989]]
@@ -34,7 +36,7 @@ The tightest connection is to [[Clinical versus actuarial judgment]], where Meeh
 
 ## Related sources
 
-The direct source note is [[Meehl 1954]]. The nearest later companions are [[Dawes 1979]], [[Dawes et al. 1989]], [[Kleinberg et al. 2018]], [[Kleinberg et al. 2016]], and [[Wang et al. 2024]].
+The direct source note is [[Meehl 1954]]. The nearest later companions are [[Grove and Meehl 1996]], [[Grove et al. 2000]], [[Dawes 1979]], [[Dawes et al. 1989]], [[Kleinberg et al. 2018]], [[Kleinberg et al. 2016]], and [[Wang et al. 2024]].
 
 ## Open questions
 

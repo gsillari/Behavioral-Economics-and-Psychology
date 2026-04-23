@@ -7,9 +7,11 @@ tags:
   - judgment
   - methodology
 updated_on: 2026-04-23
-source_count: 8
+source_count: 10
 related_pages:
   - [[Meehl 1954]]
+  - [[Grove and Meehl 1996]]
+  - [[Grove et al. 2000]]
   - [[Dawes et al. 1989]]
   - [[Dawes 1979]]
   - [[Ludwig et al. 2024]]
@@ -31,7 +33,7 @@ related_pages:
 
 ## Core idea
 
-[[Clinical versus actuarial judgment]] is the comparison between discretionary expert judgment and formal predictive procedures. In the current vault, the historical anchor is now [[Meehl 1954]], which formulates the problem in its canonical form by arguing that explicit, consistent modes of combining evidence often outperform informal clinical synthesis. [[Dawes et al. 1989]] then serves as the later review source that generalizes and confirms that lesson across many predictive tasks. The central lesson is that consistency in combining cues often beats intuitive, case-by-case interpretation.
+[[Clinical versus actuarial judgment]] is the comparison between discretionary expert judgment and formal predictive procedures. In the current vault, the historical anchor is now [[Meehl 1954]], which formulates the problem in its canonical form by arguing that explicit, consistent modes of combining evidence often outperform informal clinical synthesis. [[Grove and Meehl 1996]] then restates the controversy in mature form, and [[Grove et al. 2000]] provides the meta-analytic consolidation. The central lesson is that consistency in combining cues often beats intuitive, case-by-case interpretation.
 
 ## Key distinctions
 
@@ -39,7 +41,7 @@ Clinical versus actuarial judgment is the larger institutional and methodologica
 
 ## Evidence and debate
 
-[[Meehl 1954]] is the foundational source because it formulates the issue clearly enough for decades of later work to be intelligible. Meehl's decisive move is to distinguish the kind of evidence from the mode of combining evidence. The comparison is not tests versus interviews, or numbers versus qualitative judgment. It is informal synthesis versus explicit combination. That is why the book remains so central. [[Dawes 1979]] works as an important first refinement because it shows why simple formal cue-combination rules, including improper linear models, can already be powerful. [[Dawes et al. 1989]] then synthesizes the accumulated literature and concludes that actuarial procedures are usually superior across many predictive settings. In the current vault, that means Meehl is the origin source, Dawes is the procedural sharpening, and Dawes et al. is the mature review.
+[[Meehl 1954]] is the foundational source because it formulates the issue clearly enough for decades of later work to be intelligible. Meehl's decisive move is to distinguish the kind of evidence from the mode of combining evidence. The comparison is not tests versus interviews, or numbers versus qualitative judgment. It is informal synthesis versus explicit combination. That is why the book remains so central. [[Dawes 1979]] works as an important first refinement because it shows why simple formal cue-combination rules, including improper linear models, can already be powerful. [[Grove and Meehl 1996]] then restates the controversy in a mature and policy-facing way, emphasizing both the comparative evidence and the profession's resistance to it. [[Grove et al. 2000]] provides the quantitative consolidation through meta-analysis, showing that mechanical prediction methods are on average more accurate and that this superiority is robust across many conditions. [[Dawes et al. 1989]] remains important in the vault as the widely cited review source that helped keep the line alive. In the current branch, that means Meehl is the origin source, Dawes is the procedural sharpening, Grove and Meehl is the mature rebuttal and reflection, Grove et al. is the meta-analytic confirmation, and Dawes et al. is the classic later review.
 
 The modern AI and governance branch should be read as a descendant of that older line rather than as an unrelated new debate. [[Kleinberg et al. 2016]] adds an important intermediate step between the older actuarial literature and the later institutional AI papers: even if formal prediction is powerful, fairness evaluation of risk scores may involve incompatible desiderata rather than one obvious benchmark. [[Kleinberg et al. 2018]] then carries the branch further into the machine-learning era by comparing judges with predictive models in bail decisions. That later paper is useful because it shows both the continuity and the complication: formal prediction can outperform human judgment, but the modern debate also has to confront selective labels, fairness constraints, and disagreement about what outcome institutions should optimize. [[Kleinberg et al. 2024]] adds a different complication through [[Inversion problem]]: even when the predictive task is well specified, institutions may still care about a latent mental state rather than the observed behavior alone. [[Angwin et al. 2016]] adds a complementary caution from the public controversy side. It does not overturn the actuarial-clinical lesson, but it shows why contemporary algorithm debates cannot stop at the claim that formal prediction beats intuition. Once proprietary tools are used in coercive state settings, questions about disparate error rates, opacity, and contestability become central. [[Wang et al. 2024]] adds a more sweeping critique by arguing that [[Predictive optimization]] can fail even when developers frame it as neutral accuracy improvement. [[Ludwig et al. 2024]] adds a shorter, more didactic policy argument on top of that. The concept is therefore important both for critiques of overconfident expertise and for later disputes about algorithms, discretion, institutional design, and [[Algorithmic bias]].
 
@@ -49,7 +51,7 @@ This concept matters in diagnosis, hiring, admissions, parole, sentencing, lendi
 
 ## Related pages
 
-The historical anchor source is [[Meehl 1954]], with [[Dawes 1979]] as the key procedural refinement and [[Dawes et al. 1989]] as the main later review. The closest neighboring pages are [[Bounded rationality]], [[Behavioral law and economics]], [[Behavioral economics of AI]], [[Inversion problem]], and [[Algorithmic bias]]. The broader topical home is [[Behavioral Economics]], with [[Kleinberg et al. 2016]], [[Kleinberg et al. 2018]], [[Kleinberg et al. 2024]], [[Angwin et al. 2016]], and [[Ludwig et al. 2024]] as the main modern extensions in the vault.
+The historical anchor source is [[Meehl 1954]], with [[Dawes 1979]] as the key procedural refinement, [[Grove and Meehl 1996]] as the mature controversy statement, [[Grove et al. 2000]] as the meta-analytic confirmation, and [[Dawes et al. 1989]] as the classic later review. The closest neighboring pages are [[Bounded rationality]], [[Behavioral law and economics]], [[Behavioral economics of AI]], [[Inversion problem]], and [[Algorithmic bias]]. The broader topical home is [[Behavioral Economics]], with [[Kleinberg et al. 2016]], [[Kleinberg et al. 2018]], [[Kleinberg et al. 2024]], [[Angwin et al. 2016]], and [[Ludwig et al. 2024]] as the main modern extensions in the vault.
 
 ## Open questions
 
