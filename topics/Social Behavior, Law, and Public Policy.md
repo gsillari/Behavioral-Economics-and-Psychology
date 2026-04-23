@@ -21,6 +21,8 @@ related_pages:
 
 # Social Behavior, Law, and Public Policy
 
+This is **Topic 5 of 7** in the wiki's main topic sequence. The full order is: [[Foundations and Rationality]] -> [[Judgment, Belief, and Inference]] -> [[Choice, Preference, and Decision Under Risk]] -> [[Time, Attention, and Choice Architecture]] -> [[Social Behavior, Law, and Public Policy]] -> [[Ecological Rationality and Fast-and-Frugal Heuristics]] -> [[AI, Algorithms, and New Frontiers]].
+
 ## Scope
 
 This topic gathers the parts of behavioral economics that move beyond isolated individual choice and toward social motivation, institutions, legal design, public policy, and political decision-making more broadly. In the current vault, this is where other-regarding motives, interpersonal influence, welfare interpretation, institutional response, and now [[Behavioral political economy]] come together.

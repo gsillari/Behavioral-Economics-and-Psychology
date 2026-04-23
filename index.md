@@ -66,6 +66,18 @@ If you want the classic core:
 - [[Prospect Theory]]
 - [[Bounded rationality]]
 
+## Canonical topic sequence
+
+The wiki currently has seven top-level topics. Read in order, they give you the closest thing to a course-like path through the vault:
+
+1. [[Foundations and Rationality]]
+2. [[Judgment, Belief, and Inference]]
+3. [[Choice, Preference, and Decision Under Risk]]
+4. [[Time, Attention, and Choice Architecture]]
+5. [[Social Behavior, Law, and Public Policy]]
+6. [[Ecological Rationality and Fast-and-Frugal Heuristics]]
+7. [[AI, Algorithms, and New Frontiers]]
+
 ## Main topic map
 
 ### 1. [[Foundations and Rationality]]

@@ -24,6 +24,8 @@ related_pages:
 
 # Choice, Preference, and Decision Under Risk
 
+This is **Topic 3 of 7** in the wiki's main topic sequence. The full order is: [[Foundations and Rationality]] -> [[Judgment, Belief, and Inference]] -> [[Choice, Preference, and Decision Under Risk]] -> [[Time, Attention, and Choice Architecture]] -> [[Social Behavior, Law, and Public Policy]] -> [[Ecological Rationality and Fast-and-Frugal Heuristics]] -> [[AI, Algorithms, and New Frontiers]].
+
 ## Scope
 
 This topic gathers the branch of behavioral economics concerned with risky choice, valuation, and the stability of preference itself. In the current vault, this is where the field moves from judgment errors to more explicit models of choice, especially through prospect theory, reference dependence, valuation anomalies, and applications in finance. [[Heilmann and Reiss 2022]] now strengthens the branch by giving it a clearer foundations layer: utility, risk, and preference have their own philosophical histories before they become behavioral flashpoints.

@@ -26,6 +26,8 @@ related_pages:
 
 # Judgment, Belief, and Inference
 
+This is **Topic 2 of 7** in the wiki's main topic sequence. The full order is: [[Foundations and Rationality]] -> [[Judgment, Belief, and Inference]] -> [[Choice, Preference, and Decision Under Risk]] -> [[Time, Attention, and Choice Architecture]] -> [[Social Behavior, Law, and Public Policy]] -> [[Ecological Rationality and Fast-and-Frugal Heuristics]] -> [[AI, Algorithms, and New Frontiers]].
+
 ## Scope
 
 This topic gathers the parts of behavioral economics that focus on how people form judgments, represent uncertainty, draw inferences, and make predictions under cognitive pressure. In the current vault, this is the branch where the classic heuristics literature becomes most visible: similarity-based reasoning, salience, affect, anchoring, mistaken beliefs about control such as [[Illusion of control]], confirmation-biased evidence processing, motivated belief formation, perspective-bound reasoning such as [[Myside bias]], and the contrast between intuitive judgment and more explicit models. [[Kahneman et al. 1982]] now gives this branch a clearer volume-level backbone by collecting the core heuristics chapters together with chapters on calibration, correction, prediction, and perceived risk. [[Fischhoff and Broomell 2020]] adds a useful later frame by showing how mature decision science organizes this material around the relationship between task analysis, descriptive evidence, and intervention.

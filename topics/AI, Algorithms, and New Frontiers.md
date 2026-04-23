@@ -39,6 +39,8 @@ related_pages:
 
 # AI, Algorithms, and New Frontiers
 
+This is **Topic 7 of 7** in the wiki's main topic sequence. The full order is: [[Foundations and Rationality]] -> [[Judgment, Belief, and Inference]] -> [[Choice, Preference, and Decision Under Risk]] -> [[Time, Attention, and Choice Architecture]] -> [[Social Behavior, Law, and Public Policy]] -> [[Ecological Rationality and Fast-and-Frugal Heuristics]] -> [[AI, Algorithms, and New Frontiers]].
+
 ## Scope
 
 This topic gathers the emerging branch where behavioral economics meets artificial intelligence, algorithmic prediction, and new forms of decision support. In the current vault, this is where older debates about judgment, bias, and rationality begin to travel beyond human agents, where machine-learning methods begin to reshape behavioral research itself, and where AI starts to become part of choice architecture, consumer markets, and public policy rather than only an object of evaluation.

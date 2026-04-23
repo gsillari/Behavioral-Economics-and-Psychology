@@ -36,6 +36,8 @@ related_pages:
 
 # Foundations and Rationality
 
+This is **Topic 1 of 7** in the wiki's main topic sequence. The full order is: [[Foundations and Rationality]] -> [[Judgment, Belief, and Inference]] -> [[Choice, Preference, and Decision Under Risk]] -> [[Time, Attention, and Choice Architecture]] -> [[Social Behavior, Law, and Public Policy]] -> [[Ecological Rationality and Fast-and-Frugal Heuristics]] -> [[AI, Algorithms, and New Frontiers]].
+
 ## Scope
 
 This topic gathers the benchmark ideas against which behavioral economics defines itself. In the current vault, the most useful starting point is not a list of biases but a set of competing answers to a prior question: what counts as rational judgment and choice in the first place? Behavioral economics becomes easier to understand once it is seen as reacting to, revising, and sometimes rejecting earlier standards of rationality in economics and decision theory.

@@ -21,6 +21,8 @@ related_pages:
 
 # Time, Attention, and Choice Architecture
 
+This is **Topic 4 of 7** in the wiki's main topic sequence. The full order is: [[Foundations and Rationality]] -> [[Judgment, Belief, and Inference]] -> [[Choice, Preference, and Decision Under Risk]] -> [[Time, Attention, and Choice Architecture]] -> [[Social Behavior, Law, and Public Policy]] -> [[Ecological Rationality and Fast-and-Frugal Heuristics]] -> [[AI, Algorithms, and New Frontiers]].
+
 ## Scope
 
 This topic gathers the parts of behavioral economics that focus on self-control, limited attention, context-dependent choice, and the institutional design responses those frictions invite. In the current vault, this is where dynamic inconsistency meets paternalism, and where empirical behavioral patterns become directly relevant for policy tools such as defaults, reminders, and incentive framing.
