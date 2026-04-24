@@ -5,12 +5,14 @@ status: active
 tags:
   - behavioral-economics
   - cognitive-psychology
-updated_on: 2026-04-22
-source_count: 37
+updated_on: 2026-04-24
+source_count: 44
 related_pages:
   - [[Kahneman and Tversky 1996]]
   - [[Gigerenzer 1996]]
   - [[Kahneman et al. 1982]]
+  - [[Gilovich et al. 2002]]
+  - [[Gilovich and Griffin 2002 - Introduction - Heuristics and Biases: Then and Now (in Gilovich et al. 2002, intro)]]
   - [[Langer 1982 - The Illusion of Control (in Kahneman et al. 1982, ch. 16)]]
   - [[Fischhoff 1982 - Heuristics and Biases in Hindsight (in Kahneman et al. 1982, ch. 23)]]
   - [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]]
@@ -37,6 +39,11 @@ related_pages:
   - [[Sunstein 2003]]
   - [[Kahneman 2003]]
   - [[Finucane et al. 2000]]
+  - [[Schwarz and Vaughn 2002]]
+  - [[Chapman and Johnson 2002]]
+  - [[Frederick 2002]]
+  - [[Fischhoff 2002]]
+  - [[Gigerenzer et al. 2002]]
   - [[Evans 2008]]
   - [[Evans and Stanovich 2013]]
   - [[Epley and Gilovich 2001]]
@@ -92,7 +99,7 @@ related_pages:
 
 ## Core idea
 
-[[Heuristics and Biases]] is the research program associated above all with [[Tversky and Kahneman 1974]] and, in the current vault, with the consolidation provided by [[Kahneman et al. 1982]]. Its core claim is not merely that people make mistakes under uncertainty. It is that intuitive judgment relies on recurrent shortcuts, and that those shortcuts generate systematic errors relative to identifiable benchmark norms.
+[[Heuristics and Biases]] is the research program associated above all with [[Tversky and Kahneman 1974]] and, in the current vault, with the two foundational collective volumes [[Kahneman et al. 1982]] and [[Gilovich et al. 2002]]. Its core claim is not merely that people make mistakes under uncertainty. It is that intuitive judgment relies on recurrent shortcuts, and that those shortcuts generate systematic errors relative to identifiable benchmark norms.
 
 That is what gives the program its enduring importance. It offers a structured psychology of judgment under uncertainty, not a random catalog of irrationality.
 
@@ -108,6 +115,8 @@ Most importantly, the program differs from looser talk about “cognitive bias�
 
 [[Tversky and Kahneman 1974]] remains the foundational source in the vault because it supplies the canonical vocabulary of the program. The paper’s decisive move is to show that intuitive judgment under uncertainty is organized by identifiable heuristic families rather than by case-by-case noise. [[Kahneman et al. 1982]] then matters as the volume that turns that insight into a broader research architecture. Once the blue book appears, the program is no longer just three famous examples. It becomes a field-shaped body of work about probability judgment, hindsight, calibration, control, prediction, debiasing, and risk.
 
+[[Gilovich and Griffin 2002 - Introduction - Heuristics and Biases: Then and Now (in Gilovich et al. 2002, intro)]] gives the vault the next major collective step. The green book matters because it shows the program in a more mature phase: mechanism clarification, theoretical branching, ecological challenge, and application are all now inside the same family. That is why the current vault should treat the blue book and green book together as the two foundational volumes of the heuristics-and-biases branch.
+
 ## The Three Canonical Heuristic Families
 
 ### Representativeness
@@ -116,11 +125,11 @@ The representativeness branch is about judging probability, category membership,
 
 ### Availability
 
-The availability branch is about judging frequency, likelihood, or importance by ease of recall, vividness, or imaginability. [[Tversky and Kahneman 1973]] is the key source here. The branch becomes much richer once it moves beyond generic recall effects. [[Lichtenstein et al. 1978]] shows how availability shapes judgments of lethal risk, [[Ross and Sicoly 1979]] extends it into social attribution, [[Finucane et al. 2000]] carries it into [[Affect heuristic]], and [[Sunstein 2003]] sharpens the policy-facing side through [[Probability neglect]]. In the vault, this is the clearest route by which the original judgment program expands into risk perception and public controversy.
+The availability branch is about judging frequency, likelihood, or importance by ease of recall, vividness, or imaginability. [[Tversky and Kahneman 1973]] is the key source here. The branch becomes much richer once it moves beyond generic recall effects. [[Lichtenstein et al. 1978]] shows how availability shapes judgments of lethal risk, [[Ross and Sicoly 1979]] extends it into social attribution, [[Schwarz and Vaughn 2002]] distinguishes recalled content from experienced ease of recall, [[Finucane et al. 2000]] carries it into [[Affect heuristic]], and [[Sunstein 2003]] sharpens the policy-facing side through [[Probability neglect]]. In the vault, this is the clearest route by which the original judgment program expands into risk perception and public controversy.
 
 ### Anchoring
 
-The anchoring branch shows that even rough numerical or evaluative judgments are strongly path-dependent. People begin from an initial value and adjust insufficiently away from it. But the later literature makes clear that anchoring is not one flat mechanism. [[Strack and Mussweiler 1997]] gives a selective-accessibility interpretation, while [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]] develop [[Anchoring]] as a more process-sensitive account in which self-generated and externally provided anchors behave differently. In the current vault, anchoring is therefore one of the best examples of how the original program later became mechanistically more precise.
+The anchoring branch shows that even rough numerical or evaluative judgments are strongly path-dependent. People begin from an initial value and adjust insufficiently away from it. But the later literature makes clear that anchoring is not one flat mechanism. [[Chapman and Johnson 2002]] is especially useful because it shows that anchors matter both for judgments of belief and for judgments of value, so the branch reaches from estimation into valuation. [[Strack and Mussweiler 1997]] gives a selective-accessibility interpretation, while [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]] develop [[Anchoring]] as a more process-sensitive account in which self-generated and externally provided anchors behave differently. In the current vault, anchoring is therefore one of the best examples of how the original program later became mechanistically more precise.
 
 ## Beyond the Canonical Trio
 
@@ -128,7 +137,7 @@ The anchoring branch shows that even rough numerical or evaluative judgments are
 
 [[Fischhoff 1982 - Heuristics and Biases in Hindsight (in Kahneman et al. 1982, ch. 23)]] adds biased retrospective evaluation. [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]] connects the program to under-updating and Bayesian benchmark questions. [[Langer 1982 - The Illusion of Control (in Kahneman et al. 1982, ch. 16)]] shows that mistaken beliefs about agency also belong in the same landscape. [[Nickerson 1998]] gives the vault a broader review anchor for [[Confirmation bias]], while [[Kunda 1990]] and [[Epley and Gilovich 2016]] show that inferential distortion can also be motivationally steered rather than being only the byproduct of crude shortcut use.
 
-Read that way, [[Heuristics and Biases]] is best treated as a family resemblance concept: a program about recurring departures from formal inference, organized partly by canonical heuristic families and partly by later additions such as [[Overconfidence]], [[Illusion of control]], [[Hindsight bias]], [[Confirmation bias]], [[Probability neglect]], and [[Motivated reasoning]].
+Read that way, [[Heuristics and Biases]] is best treated as a family resemblance concept: a program about recurring departures from formal inference, organized partly by canonical heuristic families and partly by later additions such as [[Overconfidence]], [[Illusion of control]], [[Hindsight bias]], [[Confirmation bias]], [[Probability neglect]], and [[Motivated reasoning]]. The green book matters here because it makes those later additions much easier to see as one structured second wave rather than as scattered follow-up papers.
 
 ## What Makes the Program Distinctive
 
@@ -142,7 +151,7 @@ The original program did not remain intellectually stable. In the current vault,
 
 ### From Heuristics to Process Theory
 
-[[Kahneman 2003]] provides one of the clearest later maps of how intuitive judgment, bounded rationality, and descriptive behavioral economics fit together. It helps explain why the classic heuristics literature came to be read through process ideas such as automaticity, ease, and substitution.
+[[Kahneman 2003]] provides one of the clearest later maps of how intuitive judgment, bounded rationality, and descriptive behavioral economics fit together. It helps explain why the classic heuristics literature came to be read through process ideas such as automaticity, ease, and substitution. [[Frederick 2002]] belongs in this branch too because it suggests that some heuristics are better understood as automated choice procedures rather than as loose labels for fast but error-prone thought.
 
 ### Dual-Process Interpretations
 
@@ -150,11 +159,11 @@ The original program did not remain intellectually stable. In the current vault,
 
 ### Ecological Critique
 
-The foundational exchange here is the 1996 pair [[Kahneman and Tversky 1996]] and [[Gigerenzer 1996]]. Kahneman and Tversky defend the reality of cognitive illusions and insist that large inferential errors survive methodological objections more often than Gigerenzer allows. Gigerenzer's reply is that the deeper problem is not only empirical but methodological: the norms are too narrow and the heuristics too vaguely specified. That exchange matters because it is where the later [[Rationality wars]] become fully explicit inside this branch. [[Gigerenzer 2008]] is then the strongest direct positive challenge in the vault. It does not deny that people use heuristics. It denies that the right evaluative question is always whether they approximate one universal formal standard. This is the major route from [[Heuristics and Biases]] into [[Ecological rationality]], the [[Adaptive toolbox]], and the broader [[Rationality wars]]. [[Samuels et al. 2002]] matters because it adds the caution that some famous clashes around the program are partly rhetorical or benchmark-dependent rather than cleanly substantive.
+The foundational exchange here is the 1996 pair [[Kahneman and Tversky 1996]] and [[Gigerenzer 1996]]. Kahneman and Tversky defend the reality of cognitive illusions and insist that large inferential errors survive methodological objections more often than Gigerenzer allows. Gigerenzer's reply is that the deeper problem is not only empirical but methodological: the norms are too narrow and the heuristics too vaguely specified. That exchange matters because it is where the later [[Rationality wars]] become fully explicit inside this branch. [[Gigerenzer 2008]] is then the strongest direct positive challenge in the vault. It does not deny that people use heuristics. It denies that the right evaluative question is always whether they approximate one universal formal standard. This is the major route from [[Heuristics and Biases]] into [[Ecological rationality]], the [[Adaptive toolbox]], and the broader [[Rationality wars]]. [[Gigerenzer et al. 2002]] is especially useful here because it places the fast-and-frugal challenge inside the green book itself. [[Samuels et al. 2002]] matters because it adds the caution that some famous clashes around the program are partly rhetorical or benchmark-dependent rather than cleanly substantive.
 
 ### Field and Policy Extensions
 
-[[DellaVigna 2009]] matters because it asks which parts of the original program actually survive outside the lab and how they connect to field evidence on [[Nonstandard beliefs]] and [[Nonstandard decision-making]]. [[Fischhoff 1982 - Debiasing (in Kahneman et al. 1982, ch. 31)]], [[Arkes 1991]], and [[Soll et al. 2015]] matter because they show that the program never stopped at diagnosis. It also generated a corrective branch, now tracked under [[Debiasing]], that asks how errors can be reduced through training, better representations, or redesigned environments. [[Camerer et al. 2003]] shows how findings about predictable mistakes can be translated into a policy design standard under [[Asymmetric paternalism]]. [[Bini et al. 2026]] adds a further extension by using the heuristics-and-biases tradition as a way of benchmarking AI systems. These later moves do not define the original program, but they show why it remained central long after the initial experiments.
+[[DellaVigna 2009]] matters because it asks which parts of the original program actually survive outside the lab and how they connect to field evidence on [[Nonstandard beliefs]] and [[Nonstandard decision-making]]. [[Fischhoff 1982 - Debiasing (in Kahneman et al. 1982, ch. 31)]], [[Arkes 1991]], and [[Soll et al. 2015]] matter because they show that the program never stopped at diagnosis. It also generated a corrective branch, now tracked under [[Debiasing]], that asks how errors can be reduced through training, better representations, or redesigned environments. [[Fischhoff 2002]] then gives that later branch a more explicit application-facing statement from inside the green book itself. [[Camerer et al. 2003]] shows how findings about predictable mistakes can be translated into a policy design standard under [[Asymmetric paternalism]]. [[Bini et al. 2026]] adds a further extension by using the heuristics-and-biases tradition as a way of benchmarking AI systems. These later moves do not define the original program, but they show why it remained central long after the initial experiments.
 
 ## Practical or policy relevance
 

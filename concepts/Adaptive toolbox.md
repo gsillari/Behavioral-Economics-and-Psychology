@@ -5,10 +5,11 @@ status: active
 tags:
   - psychology
   - decision-theory
-updated_on: 2026-04-07
-source_count: 3
+updated_on: 2026-04-24
+source_count: 4
 related_pages:
   - [[Gigerenzer and Goldstein 1996]]
+  - [[Gigerenzer et al. 2002]]
   - [[Todd and Gigerenzer 2007]]
   - [[Gigerenzer 2008]]
   - [[Ecological rationality]]
@@ -31,7 +32,7 @@ The adaptive toolbox is about what heuristics are available and how they are str
 
 ## Evidence and debate
 
-The current anchor sources are [[Gigerenzer and Goldstein 1996]], [[Todd and Gigerenzer 2007]], and [[Gigerenzer 2008]]. [[Gigerenzer and Goldstein 1996]] matters because it gives the toolbox a flagship concrete heuristic in [[Take-the-Best heuristic]]. [[Todd and Gigerenzer 2007]] matters because it states especially clearly how heuristics in the toolbox exploit recurring environmental patterns rather than approximating an all-purpose optimizing rule. [[Gigerenzer 2008]] presents the adaptive toolbox as a Darwinian-inspired theory of the mind and links it to a body of work showing that simple heuristics can be effective in real environments. In the current vault, the concept matters less as a settled mechanism than as the organizing vocabulary for the ecological side of the rationality debate.
+The current anchor sources are [[Gigerenzer and Goldstein 1996]], [[Gigerenzer et al. 2002]], [[Todd and Gigerenzer 2007]], and [[Gigerenzer 2008]]. [[Gigerenzer and Goldstein 1996]] matters because it gives the toolbox a flagship concrete heuristic in [[Take-the-Best heuristic]]. [[Gigerenzer et al. 2002]] matters because it gives the vault a more explicit defense of why those heuristics deserve serious evaluation rather than dismissal as merely crude shortcuts. [[Todd and Gigerenzer 2007]] matters because it states especially clearly how heuristics in the toolbox exploit recurring environmental patterns rather than approximating an all-purpose optimizing rule. [[Gigerenzer 2008]] presents the adaptive toolbox as a Darwinian-inspired theory of the mind and links it to a body of work showing that simple heuristics can be effective in real environments. In the current vault, the concept matters less as a settled mechanism than as the organizing vocabulary for the ecological side of the rationality debate.
 
 ## Practical or policy relevance
 
@@ -39,7 +40,7 @@ This concept matters because it suggests that better decision making may come no
 
 ## Related pages
 
-The anchor sources are [[Gigerenzer and Goldstein 1996]], [[Todd and Gigerenzer 2007]], and [[Gigerenzer 2008]]. The closest neighboring concepts are [[Ecological rationality]], [[Clinical versus actuarial judgment]], and [[Heuristics and Biases]]. The relevant entity pages are [[Gerd Gigerenzer]] and [[Peter M. Todd]], and the broader topic page is [[Behavioral Economics]].
+The anchor sources are [[Gigerenzer and Goldstein 1996]], [[Gigerenzer et al. 2002]], [[Todd and Gigerenzer 2007]], and [[Gigerenzer 2008]]. The closest neighboring concepts are [[Ecological rationality]], [[Clinical versus actuarial judgment]], and [[Heuristics and Biases]]. The relevant entity pages are [[Gerd Gigerenzer]] and [[Peter M. Todd]], and the broader topic page is [[Behavioral Economics]].
 
 ## Open questions
 
