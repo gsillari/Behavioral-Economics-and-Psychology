@@ -1,5 +1,5 @@
 ---
-title: Gilovich and Griffin 2002 - Introduction - Heuristics and Biases: Then and Now (in Gilovich et al. 2002, intro)
+title: "Gilovich and Griffin 2002 - Introduction - Heuristics and Biases: Then and Now (in Gilovich et al. 2002, intro)"
 page_type: unit
 parent_work: [[Gilovich et al. 2002]]
 unit_type: introduction
