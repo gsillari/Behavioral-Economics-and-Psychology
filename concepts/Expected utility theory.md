@@ -53,12 +53,13 @@ related_pages:
 
 ## Core idea
 
-[[Expected utility theory]] is the classical benchmark family for rational choice under uncertainty, but in the current vault it now works best as an umbrella rather than as one homogeneous model. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] is decisive here because it places expected utility inside a longer history of [[Utility theory]] rather than treating it as the whole utility tradition. That history also makes clear that the benchmark has at least two major twentieth-century forms:
+[[Expected utility theory]] is best read as a family of twentieth-century attempts to make choice under risk and uncertainty formally disciplined. It does not begin the history of [[Utility theory]], and it should not be treated as identical with utility theory as a whole. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] is decisive here because it places expected utility after earlier transformations of utility: from marginalist and often psychological utility, to ordinal ranking, to revealed preference, and then to decision-theoretic representation under risk and uncertainty.
 
-- a risk-side benchmark for lotteries with given probabilities
-- an uncertainty-side benchmark collected in the vault under [[Subjective expected utility theory]]
+The first major development is the risk-side reconstruction in [[von Neumann and Morgenstern 1944]]. The key move is subtle. VNM does not simply revive old cardinal utility as a direct measure of pleasure or welfare. It shows that, if an agent's preferences over probabilistic alternatives satisfy certain axioms, those preferences can be represented by a numerical utility function, unique up to positive affine transformation. In the current vault, that branch is collected under [[Von Neumann-Morgenstern utility theory]]. It is the classical benchmark for lotteries with given probabilities.
 
-The first branch is now anchored explicitly in [[von Neumann and Morgenstern 1944]], especially [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]], and collected under [[Von Neumann-Morgenstern utility theory]]. The second branch is anchored explicitly in [[Savage 1954]]. That matters because many behavioral critiques are not targeting only generic expected-value maximization. [[Allais paradox]] pressures the risk-side VNM benchmark, while [[Ambiguity aversion]] pressures the Savage uncertainty benchmark.
+The second major development is the uncertainty-side reconstruction in [[Savage 1954]]. Savage keeps the expected-utility ambition but changes the problem. Instead of lotteries with given probabilities, the agent faces acts whose consequences depend on states of the world. Probabilities are no longer simply supplied by the setup; they are represented as personal probabilities disciplined by choice. In the current vault, that branch is collected under [[Subjective expected utility theory]].
+
+So the concept should function as an umbrella with two canonical branches: VNM for risk, Savage for uncertainty. That distinction matters because later behavioral critiques do not all target the same object. [[Allais paradox]] pressures the VNM risk-side benchmark. [[Ambiguity aversion]] pressures the Savage uncertainty-side benchmark. [[Prospect Theory]] then becomes the most important descriptive alternative to the risk-side architecture by replacing final-state expected utility with reference dependence, gain-loss coding, and decision weights.
 
 ## Key distinctions
 
