@@ -5,11 +5,12 @@ status: active
 tags:
   - behavioral-economics
   - decision-theory
-updated_on: 2026-04-14
-source_count: 7
+updated_on: 2026-04-24
+source_count: 8
 related_pages:
   - [[Benartzi and Thaler 1995]]
   - [[Horowitz and McConnell 2002]]
+  - [[Achtypi et al. 2021]]
   - [[Hossain and List 2009]]
   - [[Laibson and List 2015]]
   - [[Mercer 2005]]
@@ -64,7 +65,7 @@ The foundational background comes from [[Kahneman and Tversky 1979]], where the 
 
 ### 2. Valuation, ownership, and entitlement
 
-The next major branch is the valuation literature. Here the key idea is that ownership or entitlement can make giving something up feel like a loss. In the current vault, [[Horowitz and McConnell 2002]] is important because it synthesizes the evidence connecting [[Loss aversion]] to [[WTA-WTP asymmetry]] and the [[Endowment effect]]. This is the branch where the concept most directly pressures standard valuation theory, because observed willingness to accept and willingness to pay can diverge sharply when one side is experienced as relinquishing an entitlement.
+The next major branch is the valuation literature. Here the key idea is that ownership or entitlement can make giving something up feel like a loss. In the current vault, [[Horowitz and McConnell 2002]] is important because it synthesizes the evidence connecting [[Loss aversion]] to [[WTA-WTP asymmetry]] and the [[Endowment effect]]. [[Achtypi et al. 2021]] now adds an important caution: some WTA-WTP gaps can be explained by market-price beliefs and good-deal reasoning without assuming that ownership changed intrinsic value through loss aversion. This is the branch where the concept most directly pressures standard valuation theory, but it is also where the mechanism has to be specified most carefully.
 
 ### 3. Finance and evaluation frequency
 
@@ -84,7 +85,7 @@ The field-facing organizational extension in the vault comes from [[Hossain and 
 
 The most important debate in the current vault is not whether [[Loss aversion]] exists in the abstract. It is how much explanatory work it should be allowed to do.
 
-Some patterns associated with the concept may partly reflect unstable reference points, attention, evaluation frequency, institutional framing, or the constructive nature of valuation. That is why the page should stay close to [[Prospect Theory]], [[Reference dependence]], [[Framing effects]], and the more specific application pages rather than functioning as a universal label for anything involving resistance to change.
+Some patterns associated with the concept may partly reflect unstable reference points, attention, evaluation frequency, institutional framing, market-price beliefs, or the constructive nature of valuation. That is why the page should stay close to [[Prospect Theory]], [[Reference dependence]], [[Framing effects]], and the more specific application pages rather than functioning as a universal label for anything involving resistance to change.
 
 This is also why the concept works best when it is specified. The useful question is not just "is this loss aversion?" but "what is the reference point, how is the loss being coded, and what institutional setting is amplifying or softening the response?"
 
@@ -96,7 +97,7 @@ It also matters in finance and organizations. Frequent feedback can magnify expe
 
 ## Related pages
 
-The most important neighboring pages are [[Prospect Theory]], [[Reference dependence]], [[Framing effects]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[WTA-WTP asymmetry]], [[Endowment effect]], [[Loss-framed incentives]], and [[Behavioral political economy]]. The core source notes are [[Kahneman and Tversky 1979]], [[Benartzi and Thaler 1995]], [[Horowitz and McConnell 2002]], [[Hossain and List 2009]], [[Laibson and List 2015]], [[Mercer 2005]], and [[Levy 1997]]. The broader topical home is [[Behavioral Economics]].
+The most important neighboring pages are [[Prospect Theory]], [[Reference dependence]], [[Framing effects]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[WTA-WTP asymmetry]], [[Endowment effect]], [[Loss-framed incentives]], and [[Behavioral political economy]]. The core source notes are [[Kahneman and Tversky 1979]], [[Benartzi and Thaler 1995]], [[Horowitz and McConnell 2002]], [[Achtypi et al. 2021]], [[Hossain and List 2009]], [[Laibson and List 2015]], [[Mercer 2005]], and [[Levy 1997]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

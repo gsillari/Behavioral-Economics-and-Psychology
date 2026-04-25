@@ -1,15 +1,16 @@
 # Wiki Catalog
 
-Updated: 2026-04-24
+Updated: 2026-04-25
 
 Read this file first when answering questions from the wiki. It is the machine-friendly catalog of durable pages and should stay current as the vault grows.
 
 ## Overview
 
-- Total pages: 387
+- Total pages: 388
 
 ## Sources
 
+- [[Achtypi et al. 2021]] - [[Achtypi et al. 2021]] reinterprets the [[Endowment effect]] through beliefs about market prices. The paper asks whether buyers and sellers differ because o...
 - [[Allais 1953]] - [[Allais 1953]] is an early and influential challenge to the descriptive adequacy of [[Expected utility theory]]. The paper is best known in the later litera...
 - [[Angner 2019]] - [[Angner 2019]] is a field-level methodology paper about what it means to say that behavioral economics has won. Its central target is the increasingly commo...
 - [[Angwin et al. 2016]] - [[Angwin et al. 2016]] is the ProPublica investigation that made algorithmic risk scoring a major public controversy. Focusing on COMPAS scores used in Browa...

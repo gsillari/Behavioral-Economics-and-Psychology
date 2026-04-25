@@ -6,14 +6,15 @@ tags:
   - behavioral-economics
   - rationality
   - decision-theory
-updated_on: 2026-04-15
-source_count: 5
+updated_on: 2026-04-24
+source_count: 6
 related_pages:
   - [[Lichtenstein and Slovic 2006]]
   - [[Grether and Plott 2006 - Economic Theory of Choice and the Preference Reversal Phenomenon (in Lichtenstein and Slovic 2006, ch. 5)]]
   - [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]]
   - [[Slovic 1995]]
   - [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]]
+  - [[Achtypi et al. 2021]]
   - [[Preference reversals]]
   - [[Constructed preferences]]
   - [[WTA-WTP asymmetry]]
@@ -34,7 +35,7 @@ A concrete example helps. Suppose a person is offered two gambles and prefers ga
 
 ## Evidence and debate
 
-[[Slovic 1995]] argues that systematic changes across elicitation procedures are too important to be dismissed as measurement noise. [[Lichtenstein and Slovic 2006]] then places that point inside a broader research program on valuation, context, and response mode. [[Grether and Plott 2006 - Economic Theory of Choice and the Preference Reversal Phenomenon (in Lichtenstein and Slovic 2006, ch. 5)]] matters because it shows how the issue enters economic theory directly. [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]] strengthens the mechanism story by arguing that some violations arise because different procedures induce different attribute weights. [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]] adds the later evaluability-based extension.
+[[Slovic 1995]] argues that systematic changes across elicitation procedures are too important to be dismissed as measurement noise. [[Lichtenstein and Slovic 2006]] then places that point inside a broader research program on valuation, context, and response mode. [[Grether and Plott 2006 - Economic Theory of Choice and the Preference Reversal Phenomenon (in Lichtenstein and Slovic 2006, ch. 5)]] matters because it shows how the issue enters economic theory directly. [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]] strengthens the mechanism story by arguing that some violations arise because different procedures induce different attribute weights. [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]] adds the later evaluability-based extension. [[Achtypi et al. 2021]] adds a neighboring valuation warning: even a formally incentive-compatible buying/selling procedure can elicit different task interpretations, with sellers estimating acceptable market compensation and buyers demanding a bargain.
 
 The joint-versus-separate-evaluation result is especially useful pedagogically. Some attributes are hard to assess on their own but easy to compare side by side. In separate evaluation, a person may rely on whatever attribute is most immediately evaluable, while in joint evaluation a previously neglected attribute becomes salient and can reverse the ranking. Debate therefore concerns whether violations of procedure invariance show unstable underlying preference, poor elicitation methods, multi-attribute tradeoffs that are differentially weighted by task, or some combination of these.
 
@@ -44,7 +45,7 @@ This concept matters because public institutions often need to choose an elicita
 
 ## Related pages
 
-The anchor sources are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Grether and Plott 2006 - Economic Theory of Choice and the Preference Reversal Phenomenon (in Lichtenstein and Slovic 2006, ch. 5)]], [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]], and [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]]. The closest neighboring pages are [[Preference reversals]], [[Constructed preferences]], and [[WTA-WTP asymmetry]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Grether and Plott 2006 - Economic Theory of Choice and the Preference Reversal Phenomenon (in Lichtenstein and Slovic 2006, ch. 5)]], [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], and [[Achtypi et al. 2021]]. The closest neighboring pages are [[Preference reversals]], [[Constructed preferences]], [[WTA-WTP asymmetry]], and [[Endowment effect]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

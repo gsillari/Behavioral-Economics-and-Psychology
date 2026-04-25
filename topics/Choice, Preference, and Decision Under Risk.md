@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - decision-theory
-updated_on: 2026-04-19
+updated_on: 2026-04-24
 related_pages:
   - [[Behavioral Economics]]
   - [[Prospect Theory and Reference Dependence]]
@@ -42,7 +42,7 @@ This branch centers on the main descriptive model of risky choice in the vault. 
 
 ### 3.2 [[Valuation Anomalies and Constructed Preferences]]
 
-This branch focuses on unstable valuation, entitlement effects, and the possibility that preferences are partly built in context rather than simply revealed. Its core pages are [[Constructed preferences]], [[Preference reversals]], [[Procedure invariance]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Endowment effect]], and [[WTA-WTP asymmetry]]. It is now anchored not only by endowment and valuation experiments, but also by the higher-level construction-of-preference program in [[Slovic 1995]] and [[Lichtenstein and Slovic 2006]], with the Ariely papers serving as later extensions rather than the sole conceptual center.
+This branch focuses on unstable valuation, entitlement effects, and the possibility that preferences are partly built in context rather than simply revealed. Its core pages are [[Constructed preferences]], [[Preference reversals]], [[Procedure invariance]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Endowment effect]], and [[WTA-WTP asymmetry]]. It is now anchored not only by endowment and valuation experiments, but also by the higher-level construction-of-preference program in [[Slovic 1995]] and [[Lichtenstein and Slovic 2006]], with the Ariely papers serving as later extensions rather than the sole conceptual center. [[Achtypi et al. 2021]] adds a useful later refinement by showing that WTA-WTP gaps can reflect market-price beliefs and good-deal reasoning as well as reference dependence or loss aversion.
 
 ### 3.3 [[Market and Financial Implications]]
 
