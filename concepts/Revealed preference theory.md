@@ -10,6 +10,7 @@ tags:
 updated_on: 2026-04-19
 source_count: 4
 related_pages:
+  - [[Preference]]
   - [[Heilmann and Reiss 2022]]
   - [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
@@ -36,7 +37,7 @@ related_pages:
 
 ## Key distinctions
 
-This concept differs from [[Ordinal utility theory]]. Ordinalism still talks in the language of preference and utility representation, even if it rejects cardinal psychic measurement. Revealed preference originally aimed to go further by making actual choice behavior do the theoretical work.
+This concept differs from [[Ordinal utility theory]]. Ordinalism still talks in the language of [[Preference|preference]] and utility representation, even if it rejects cardinal psychic measurement. Revealed preference originally aimed to go further by making actual choice behavior do the theoretical work.
 
 That ambition is often taught through consistency requirements such as WARP, the weak axiom of revealed preference. In plain language, WARP says that if a chooser selects bundle A over bundle B when both are affordable, then later evidence should not show the same chooser selecting B over A when both are again available under comparable conditions. The point is not to peer inside the mind but to read a stable ranking directly from patterned choice.
 
@@ -50,7 +51,7 @@ Hands adds an important historical qualification. Revealed preference should not
 
 ## Related pages
 
-The anchor sources are [[Hands 2010]], [[Bruni and Sugden 2007]], [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], and [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]. The nearest neighboring pages are [[Paretian turn]], [[Utility theory]], [[Behaviorism]], [[Ordinal utility theory]], [[Consumer sovereignty]], [[Behavioral welfare economics]], [[Constructed preferences]], [[Behavioral public policy]], [[Behavioral Public Policy and Its Competing Paradigms]], [[Behavioral Economics]], and [[Foundations and Rationality]].
+The anchor sources are [[Hands 2010]], [[Bruni and Sugden 2007]], [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], and [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]. The nearest neighboring pages are [[Preference]], [[Paretian turn]], [[Utility theory]], [[Behaviorism]], [[Ordinal utility theory]], [[Consumer sovereignty]], [[Behavioral welfare economics]], [[Constructed preferences]], [[Behavioral public policy]], [[Behavioral Public Policy and Its Competing Paradigms]], [[Behavioral Economics]], and [[Foundations and Rationality]].
 
 ## Open questions
 

@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-23
 source_count: 9
 related_pages:
+  - [[Preference]]
   - [[Savage 1954]]
   - [[Savage 1954 - Chapter 02 - Preliminary Considerations on Decision in the Face of Uncertainty]]
   - [[Savage 1954 - Chapter 03 - Personal Probability]]

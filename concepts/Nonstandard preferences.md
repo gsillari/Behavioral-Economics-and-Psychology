@@ -8,6 +8,7 @@ tags:
 updated_on: 2026-04-19
 source_count: 11
 related_pages:
+  - [[Preference]]
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
   - [[Bernheim 2025]]
   - [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]
@@ -38,7 +39,7 @@ to be REVIEWED
 
 ## Core idea
 
-[[Nonstandard preferences]] refers to departures from the standard economic assumption that preferences are stable, time-consistent, self-interested, and independent of framing or reference points. In the current vault, the anchor sources are [[DellaVigna 2009]], which uses this category to organize field evidence on [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]], [[Benartzi and Thaler 1995]], which shows how reference-dependent loss sensitivity can be used to explain the [[Equity premium puzzle]] through [[Myopic loss aversion]], [[Ariely et al. 2003]], which adds a challenge through [[Constructed preferences]] and [[Coherent arbitrariness]], and [[Ariely et al. 2006]], which extends that challenge into experiential goods through [[Preference uncertainty]]. [[Fischhoff and Broomell 2020]] gives this branch an additional methodological foundation by clarifying that preference research lacks an accuracy criterion but still depends on consistency standards and on the practical possibility of eliciting meaningful preferences at all.
+[[Nonstandard preferences]] refers to departures from the standard economic assumption that [[Preference|preferences]] are stable, time-consistent, self-interested, and independent of framing or reference points. In the current vault, the anchor sources are [[DellaVigna 2009]], which uses this category to organize field evidence on [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]], [[Benartzi and Thaler 1995]], which shows how reference-dependent loss sensitivity can be used to explain the [[Equity premium puzzle]] through [[Myopic loss aversion]], [[Ariely et al. 2003]], which adds a challenge through [[Constructed preferences]] and [[Coherent arbitrariness]], and [[Ariely et al. 2006]], which extends that challenge into experiential goods through [[Preference uncertainty]]. [[Fischhoff and Broomell 2020]] gives this branch an additional methodological foundation by clarifying that preference research lacks an accuracy criterion but still depends on consistency standards and on the practical possibility of eliciting meaningful preferences at all.
 
 ## Key distinctions
 
@@ -69,7 +70,7 @@ This concept matters because many behaviorally informed interventions start by a
 
 ## Related pages
 
-The anchor sources are [[DellaVigna 2009]], [[Benartzi and Thaler 1995]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Fischhoff and Broomell 2020]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[Constructed preferences]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Prospect Theory]], and [[Internalities]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[DellaVigna 2009]], [[Benartzi and Thaler 1995]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Fischhoff and Broomell 2020]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference]], [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[Constructed preferences]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Prospect Theory]], and [[Internalities]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

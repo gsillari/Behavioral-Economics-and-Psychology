@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-24
 source_count: 12
 related_pages:
+  - [[Preference]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Bernheim 2025]]
   - [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]
@@ -41,7 +42,7 @@ related_pages:
 
 ## Core idea
 
-[[Constructed preferences]] is the idea that preferences are not always fully pre-existing and simply revealed by choice. In some domains, they are partly formed during elicitation, through context, framing, anchors, and the structure of the decision itself. In the current vault, the concept is best understood through three connected branches:
+[[Constructed preferences]] is the idea that [[Preference|preferences]] are not always fully pre-existing and simply revealed by choice. In some domains, they are partly formed during elicitation, through context, framing, anchors, and the structure of the decision itself. In the current vault, the concept is best understood through three connected branches:
 
 1. procedure-sensitive reversals and valuation anomalies
 2. constructive consumer choice mechanisms
@@ -69,7 +70,7 @@ This concept matters because much of economics and public policy assumes that ch
 
 ## Related pages
 
-The anchor sources are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]], [[Bettman et al. 2006 - Constructive Consumer Choice Processes (in Lichtenstein and Slovic 2006, ch. 17)]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Achtypi et al. 2021]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference reversals]], [[Procedure invariance]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Anchoring]], [[Nonstandard preferences]], [[Behavioral law and economics]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the most relevant syntheses are [[What Behavioral Economics Thinks Rationality Is]] and [[Behavioral Public Policy and Its Competing Paradigms]].
+The anchor sources are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]], [[Bettman et al. 2006 - Constructive Consumer Choice Processes (in Lichtenstein and Slovic 2006, ch. 17)]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Achtypi et al. 2021]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference]], [[Preference reversals]], [[Procedure invariance]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Anchoring]], [[Nonstandard preferences]], [[Behavioral law and economics]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the most relevant syntheses are [[What Behavioral Economics Thinks Rationality Is]] and [[Behavioral Public Policy and Its Competing Paradigms]].
 
 ## Open questions
 

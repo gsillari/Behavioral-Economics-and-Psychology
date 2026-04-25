@@ -10,6 +10,7 @@ tags:
 updated_on: 2026-04-25
 related_pages:
   - [[Behavioral Economics]]
+  - [[Preference]]
   - [[Prospect Theory and Reference Dependence]]
   - [[Valuation Anomalies and Constructed Preferences]]
   - [[Market and Financial Implications]]
@@ -29,7 +30,7 @@ This is **Topic 3 of 7** in the wiki's main topic sequence. The full order is: [
 
 ## Scope
 
-This topic gathers the branch of behavioral economics concerned with risky choice, valuation, and the stability of preference itself. In the current vault, this is where the field moves from judgment errors to more explicit models of choice, especially through prospect theory, reference dependence, valuation anomalies, and applications in finance. [[von Neumann and Morgenstern 1944]] now supplies the canonical risk-side expected-utility benchmark, while [[Heilmann and Reiss 2022]] gives the branch a clearer foundations layer: utility, risk, and preference have their own philosophical histories before they become behavioral flashpoints.
+This topic gathers the branch of behavioral economics concerned with risky choice, valuation, and the stability of [[Preference|preference]] itself. In the current vault, this is where the field moves from judgment errors to more explicit models of choice, especially through prospect theory, reference dependence, valuation anomalies, and applications in finance. [[Preference]] is now the hub page for the concept itself, while [[von Neumann and Morgenstern 1944]] supplies the canonical risk-side expected-utility benchmark and [[Heilmann and Reiss 2022]] gives the branch a clearer foundations layer: utility, risk, and preference have their own philosophical histories before they become behavioral flashpoints.
 
 For PPE students, this topic matters because it links formal decision theory, descriptive psychology, and welfare interpretation. It matters for economics because it revises standard models of risky choice and market behavior. It matters for philosophy because it raises questions about preference, valuation, and the meaning of rational choice. It matters for politics and policy because institutional design often depends on how people experience gains, losses, and changing reference points.
 

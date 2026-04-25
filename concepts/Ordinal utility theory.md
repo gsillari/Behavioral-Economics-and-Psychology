@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-19
 source_count: 4
 related_pages:
+  - [[Preference]]
   - [[Heilmann and Reiss 2022]]
   - [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]
   - [[Hands 2010]]
@@ -28,7 +29,7 @@ related_pages:
 
 ## Core idea
 
-[[Ordinal utility theory]] is the view that consumer choice requires only an ordering of alternatives, not a cardinal measure of psychic satisfaction. In the current vault, the main anchors are now [[Hands 2010]], [[Bruni and Sugden 2007]], and [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]. Together they matter because they reconstruct this move historically rather than treating it as a purely technical refinement. The move to ordinalism was a rejection of hedonistic and introspective cardinal utility, but it was not a simple elimination of every psychological element from consumer theory.
+[[Ordinal utility theory]] is the view that consumer choice requires only an ordering of alternatives, not a cardinal measure of psychic satisfaction. In the current vault, it is one major interpretation of [[Preference]]: preference is treated as a comparative ordering that utility represents. The main anchors are now [[Hands 2010]], [[Bruni and Sugden 2007]], and [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]. Together they matter because they reconstruct this move historically rather than treating it as a purely technical refinement. The move to ordinalism was a rejection of hedonistic and introspective cardinal utility, but it was not a simple elimination of every psychological element from consumer theory.
 
 ## Key distinctions
 

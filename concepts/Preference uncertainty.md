@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-19
 source_count: 6
 related_pages:
+  - [[Preference]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Bernheim 2025]]
   - [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]

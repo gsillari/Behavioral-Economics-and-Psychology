@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-25
 source_count: 5
 related_pages:
+  - [[Preference]]
   - [[von Neumann and Morgenstern 1944]]
   - [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]
   - [[Von Neumann-Morgenstern utility theory]]
@@ -29,7 +30,7 @@ related_pages:
 
 ## Core idea
 
-[[Utility theory]] names a long sequence of attempts to give economics a disciplined language for value and choice. It begins as a theory of what goods are worth to agents, often tied to satisfaction, pleasure, or marginal usefulness. In that early setting, utility still carries a psychological flavor: it looks like something experienced, not merely a formal ranking.
+[[Utility theory]] names a long sequence of attempts to give economics a disciplined language for value and choice. It is closely connected to [[Preference]], but the two concepts should not be collapsed. Utility is usually the representational language; preference is the ordering, choice pattern, or theoretical relation that utility represents. Utility theory begins as a theory of what goods are worth to agents, often tied to satisfaction, pleasure, or marginal usefulness. In that early setting, utility still carries a psychological flavor: it looks like something experienced, not merely a formal ranking.
 
 The first major transformation is ordinalism. As reconstructed by [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], economists increasingly detach utility from direct psychological measurement. Utility becomes a representation of preference order: what matters is whether one bundle is ranked above another, not how much inner satisfaction it produces. [[Ordinal utility theory]] therefore narrows utility, but also makes it more formally usable.
 
@@ -53,7 +54,7 @@ This concept matters because it gives the foundations branch historical continui
 
 ## Related pages
 
-The main historical anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], with [[Hands 2010]] as the key methodological complement. The main twentieth-century risk-side reconstruction is [[Von Neumann-Morgenstern utility theory]], anchored by [[von Neumann and Morgenstern 1944]]. The main uncertainty-side reconstruction is [[Savage 1954]], especially [[Savage 1954 - Chapter 05 - Utility]]. The nearest neighboring pages are [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Prospect Theory]], and [[Foundations and Rationality]].
+The main historical anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], with [[Hands 2010]] as the key methodological complement. The main twentieth-century risk-side reconstruction is [[Von Neumann-Morgenstern utility theory]], anchored by [[von Neumann and Morgenstern 1944]]. The main uncertainty-side reconstruction is [[Savage 1954]], especially [[Savage 1954 - Chapter 05 - Utility]]. The nearest neighboring pages are [[Preference]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Prospect Theory]], and [[Foundations and Rationality]].
 
 ## Open questions
 

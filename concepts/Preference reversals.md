@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-15
 source_count: 5
 related_pages:
+  - [[Preference]]
   - [[Lichtenstein and Slovic 2006]]
   - [[Slovic and Lichtenstein 2006 - Relative Importance of Probabilities and Payoffs in Risk Taking (in Lichtenstein and Slovic 2006, ch. 2)]]
   - [[Grether and Plott 2006 - Economic Theory of Choice and the Preference Reversal Phenomenon (in Lichtenstein and Slovic 2006, ch. 5)]]

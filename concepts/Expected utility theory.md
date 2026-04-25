@@ -8,6 +8,7 @@ tags:
 updated_on: 2026-04-25
 source_count: 18
 related_pages:
+  - [[Preference]]
   - [[von Neumann and Morgenstern 1944]]
   - [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]
   - [[Von Neumann-Morgenstern utility theory]]

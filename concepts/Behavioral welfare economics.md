@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-19
 source_count: 2
 related_pages:
+  - [[Preference]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Bernheim 2025]]
   - [[Consumer sovereignty]]
@@ -42,7 +43,7 @@ For that reason, behavioral welfare economics is not just "welfare economics plu
 
 ## Related pages
 
-The main anchors are [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] and [[Bernheim 2025]]. The nearest neighboring pages are [[Consumer sovereignty]], [[Behavioral public policy]], [[Behavioral law and economics]], [[Constructed preferences]], [[Preference uncertainty]], [[Revealed preference theory]], and [[Behavioral Public Policy and Its Competing Paradigms]].
+The main anchors are [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] and [[Bernheim 2025]]. The nearest neighboring pages are [[Preference]], [[Consumer sovereignty]], [[Behavioral public policy]], [[Behavioral law and economics]], [[Constructed preferences]], [[Preference uncertainty]], [[Revealed preference theory]], and [[Behavioral Public Policy and Its Competing Paradigms]].
 
 ## Open questions
 

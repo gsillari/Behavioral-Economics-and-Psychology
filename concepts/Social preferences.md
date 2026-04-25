@@ -8,6 +8,7 @@ tags:
 updated_on: 2026-04-19
 source_count: 6
 related_pages:
+  - [[Preference]]
   - [[Fehr and Schmidt 1999]]
   - [[Rabin 1993]]
   - [[Jolls et al. 1998]]
