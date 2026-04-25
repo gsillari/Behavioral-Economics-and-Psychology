@@ -29,9 +29,15 @@ related_pages:
 
 ## Core idea
 
-[[Utility theory]] is the broad family of economic theories that use utility to represent value, ranking, or choice. In the current vault, [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] gives the clearest high-level history of that family: from early marginalist and often psychological utility, through [[Ordinal utility theory]], through [[Revealed preference theory]], and into the twentieth-century decision-theoretic reconstructions of utility.
+[[Utility theory]] names a long sequence of attempts to give economics a disciplined language for value and choice. It begins as a theory of what goods are worth to agents, often tied to satisfaction, pleasure, or marginal usefulness. In that early setting, utility still carries a psychological flavor: it looks like something experienced, not merely a formal ranking.
 
-Those later reconstructions now need to be stated more explicitly. One branch is [[Von Neumann-Morgenstern utility theory]], the risk-side reconstruction anchored by [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]. Another is the uncertainty-side reconstruction anchored by [[Savage 1954]] and collected in the vault under [[Subjective expected utility theory]].
+The first major transformation is ordinalism. As reconstructed by [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], economists increasingly detach utility from direct psychological measurement. Utility becomes a representation of preference order: what matters is whether one bundle is ranked above another, not how much inner satisfaction it produces. [[Ordinal utility theory]] therefore narrows utility, but also makes it more formally usable.
+
+The second transformation is the revealed-preference and behaviorist turn. [[Hands 2010]] is important here because it shows that the move away from introspective psychology was not simply the expulsion of psychology from economics. It was a methodological reconstruction. Utility becomes tied to observable choice patterns, and [[Revealed preference theory]] tries to make preference legible through behavior rather than mental states.
+
+The third transformation is the decision-theoretic reconstruction. [[Von Neumann-Morgenstern utility theory]] reintroduces numerical utility, but in a new way: not as measurable pleasure, but as a representation of preferences over probabilistic alternatives. [[Subjective expected utility theory]], anchored in [[Savage 1954]], then extends the architecture to acts under uncertainty, where utility is joined to personal probability.
+
+So the concept should not be read as one doctrine with one meaning of utility. It is a historical family of representational strategies: utility as experienced value, utility as ordinal ranking, utility as revealed choice, utility as risk-side expected-utility representation, and utility as part of a broader theory of uncertain acts. That is why behavioral economics does not attack "utility theory" in general. Different behavioral challenges hit different stages of this family.
 
 ## Key distinctions
 
