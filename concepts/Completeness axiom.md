@@ -6,9 +6,12 @@ tags:
   - economics
   - decision-theory
   - philosophy
-updated_on: 2026-04-06
-source_count: 1
+updated_on: 2026-04-25
+source_count: 2
 related_pages:
+  - [[von Neumann and Morgenstern 1944]]
+  - [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]
+  - [[Von Neumann-Morgenstern utility theory]]
   - [[Aumann 1962]]
   - [[Expected utility theory]]
   - [[Behavioral Economics]]
@@ -19,7 +22,7 @@ related_pages:
 
 ## Core idea
 
-[[Completeness axiom]] is the requirement that, for any two alternatives, an agent can rank one above the other or regard them as equally good. In classical decision theory, completeness is often treated as part of the formal benchmark for rational choice. In the current vault, the anchor source is [[Aumann 1962]], which argues that utility theory can proceed without making that assumption universal.
+[[Completeness axiom]] is the requirement that, for any two alternatives, an agent can rank one above the other or regard them as equally good. In classical decision theory, completeness is often treated as part of the formal benchmark for rational choice. In the current vault, the axiom now has two important anchors: [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]], which uses completeness in the VNM representation while explicitly noting doubts about it, and [[Aumann 1962]], which argues that utility theory can proceed without making that assumption universal.
 
 ## Key distinctions
 
@@ -27,7 +30,9 @@ Completeness is different from transitivity. Transitivity concerns consistency a
 
 ## Evidence and debate
 
-The current vault treats [[Aumann 1962]] as the key starting point. The significance of the paper is that it weakens a standard rationality assumption from within formal theory itself, rather than rejecting decision theory outright. That makes the page an important bridge between classical benchmark thinking and later behavioral work on unstable, constructed, or context-sensitive preferences. The debate is whether incompleteness should be read as a realistic and sometimes rational feature of agency or as a retreat from the ambitions of classical decision theory.
+The current vault now treats [[von Neumann and Morgenstern 1944]] as the classical benchmark source and [[Aumann 1962]] as the key weakening source. The VNM appendix is especially useful because it does not hide the issue: after deriving the numerical utility representation, it remarks that treating preferences as complete may be a doubtful idealization of reality. Aumann then turns that doubt into a formal program by showing how utility theory can proceed without universal completeness.
+
+The significance of this sequence is that the axiom is contested from within formal theory itself, rather than only by later psychology. That makes the page an important bridge between classical benchmark thinking and later behavioral work on unstable, constructed, or context-sensitive preferences. The debate is whether incompleteness should be read as a realistic and sometimes rational feature of agency or as a retreat from the ambitions of classical decision theory.
 
 ## Practical or policy relevance
 
@@ -35,7 +40,7 @@ The axiom matters because policy and welfare analysis often assume that people h
 
 ## Related pages
 
-The anchor source is [[Aumann 1962]]. The closest related concept is [[Expected utility theory]], and the broader topical home is [[Behavioral Economics]]. The main synthesis link is [[What Behavioral Economics Thinks Rationality Is]].
+The anchor sources are [[von Neumann and Morgenstern 1944]] and [[Aumann 1962]]. The closest related concepts are [[Von Neumann-Morgenstern utility theory]] and [[Expected utility theory]], and the broader topical home is [[Behavioral Economics]]. The main synthesis link is [[What Behavioral Economics Thinks Rationality Is]].
 
 ## Open questions
 

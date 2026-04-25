@@ -5,9 +5,11 @@ status: active
 tags:
   - behavioral-economics
   - decision-theory
-updated_on: 2026-04-19
-source_count: 14
+updated_on: 2026-04-25
+source_count: 15
 related_pages:
+  - [[von Neumann and Morgenstern 1944]]
+  - [[Von Neumann-Morgenstern utility theory]]
   - [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]]
   - [[Schnellenbach and Schubert 2015]]
   - [[Mercer 2005]]
@@ -56,7 +58,7 @@ That is why the page matters so much. [[Prospect Theory]] is the point where beh
 
 Three distinctions keep the concept clear.
 
-First, [[Prospect Theory]] is the main behavioral alternative in the vault to [[Expected utility theory]]. Expected utility models evaluate risky options through utilities over final states. Prospect theory instead evaluates gains and losses relative to a benchmark.
+First, [[Prospect Theory]] is the main behavioral alternative in the vault to [[Von Neumann-Morgenstern utility theory]], the risk-side branch of [[Expected utility theory]]. Expected utility models evaluate risky options through utilities over final states. Prospect theory instead evaluates gains and losses relative to a benchmark.
 
 Second, the theory is not identical to any one of its famous ingredients. [[Reference dependence]], [[Loss aversion]], and [[Framing effects]] are all central nearby pages, but prospect theory is the architecture that connects them.
 
@@ -64,7 +66,7 @@ Third, the theory is not the same thing as the broader [[Heuristics and Biases]]
 
 ## The problem the theory solves
 
-The theory begins from a pressure point in classical decision theory. [[Allais 1953]] and the [[Allais paradox]] show that actual risky choice often violates the predictions of [[Expected utility theory]]. In the current vault, that anomaly matters because it forces a question: should the benchmark be defended as merely normative, adjusted from within, or replaced by a more psychologically realistic model?
+The theory begins from a pressure point in classical decision theory. [[Allais 1953]] and the [[Allais paradox]] show that actual risky choice often violates the predictions of the VNM risk-side benchmark. In the current vault, that anomaly matters because it forces a question: should the benchmark be defended as merely normative, adjusted from within, or replaced by a more psychologically realistic model?
 
 [[Prospect Theory]] is Kahneman and Tversky's most influential answer to that question. It preserves the ambition to model risky choice systematically, but changes the object being modeled. The key move is away from final states and toward psychologically coded gains and losses.
 
@@ -154,7 +156,7 @@ Its PPE value is especially strong because it also scales upward. The same gain-
 
 ## Related pages
 
-The core source is [[Kahneman and Tversky 1979]], with [[Tversky and Kahneman 1992]] as the mature cumulative version and [[Tversky and Kahneman 1981 (Framing)]] as the clearest short teaching companion. The main neighboring concept pages are [[Reference dependence]], [[Loss aversion]], [[Framing effects]], [[Expected utility theory]], [[Allais paradox]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[Sunk cost effect]], and [[Behavioral political economy]]. The broader topical home is [[Behavioral Economics]], and the main associated people are [[Daniel Kahneman]] and [[Amos Tversky]].
+The core source is [[Kahneman and Tversky 1979]], with [[Tversky and Kahneman 1992]] as the mature cumulative version and [[Tversky and Kahneman 1981 (Framing)]] as the clearest short teaching companion. The main benchmark source is [[von Neumann and Morgenstern 1944]]. The main neighboring concept pages are [[Reference dependence]], [[Loss aversion]], [[Framing effects]], [[Von Neumann-Morgenstern utility theory]], [[Expected utility theory]], [[Allais paradox]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[Sunk cost effect]], and [[Behavioral political economy]]. The broader topical home is [[Behavioral Economics]], and the main associated people are [[Daniel Kahneman]] and [[Amos Tversky]].
 
 ## Open questions
 

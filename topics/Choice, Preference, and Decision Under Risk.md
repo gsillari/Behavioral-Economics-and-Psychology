@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - decision-theory
-updated_on: 2026-04-24
+updated_on: 2026-04-25
 related_pages:
   - [[Behavioral Economics]]
   - [[Prospect Theory and Reference Dependence]]
@@ -16,6 +16,7 @@ related_pages:
   - [[Heilmann and Reiss 2022]]
   - [[Prospect Theory]]
   - [[Expected utility theory]]
+  - [[Von Neumann-Morgenstern utility theory]]
   - [[Risk attitudes]]
   - [[Ambiguity aversion]]
   - [[Constructed preferences]]
@@ -28,7 +29,7 @@ This is **Topic 3 of 7** in the wiki's main topic sequence. The full order is: [
 
 ## Scope
 
-This topic gathers the branch of behavioral economics concerned with risky choice, valuation, and the stability of preference itself. In the current vault, this is where the field moves from judgment errors to more explicit models of choice, especially through prospect theory, reference dependence, valuation anomalies, and applications in finance. [[Heilmann and Reiss 2022]] now strengthens the branch by giving it a clearer foundations layer: utility, risk, and preference have their own philosophical histories before they become behavioral flashpoints.
+This topic gathers the branch of behavioral economics concerned with risky choice, valuation, and the stability of preference itself. In the current vault, this is where the field moves from judgment errors to more explicit models of choice, especially through prospect theory, reference dependence, valuation anomalies, and applications in finance. [[von Neumann and Morgenstern 1944]] now supplies the canonical risk-side expected-utility benchmark, while [[Heilmann and Reiss 2022]] gives the branch a clearer foundations layer: utility, risk, and preference have their own philosophical histories before they become behavioral flashpoints.
 
 For PPE students, this topic matters because it links formal decision theory, descriptive psychology, and welfare interpretation. It matters for economics because it revises standard models of risky choice and market behavior. It matters for philosophy because it raises questions about preference, valuation, and the meaning of rational choice. It matters for politics and policy because institutional design often depends on how people experience gains, losses, and changing reference points.
 
@@ -38,7 +39,7 @@ This branch therefore sits at the center of the course architecture. It carries 
 
 ### 3.1 [[Prospect Theory and Reference Dependence]]
 
-This branch centers on the main descriptive model of risky choice in the vault. Its core pages are [[Prospect Theory]], [[Reference dependence]], [[Loss aversion]], [[Framing effects]], and [[Sunk cost effect]]. Its benchmark background pages are now [[Expected utility theory]], [[Risk attitudes]], and [[Ambiguity aversion]].
+This branch centers on the main descriptive model of risky choice in the vault. Its core pages are [[Prospect Theory]], [[Reference dependence]], [[Loss aversion]], [[Framing effects]], and [[Sunk cost effect]]. Its benchmark background pages are now [[Expected utility theory]], [[Von Neumann-Morgenstern utility theory]], [[Risk attitudes]], and [[Ambiguity aversion]].
 
 ### 3.2 [[Valuation Anomalies and Constructed Preferences]]
 
