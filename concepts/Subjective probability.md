@@ -6,9 +6,12 @@ tags:
   - probability
   - philosophy
   - decision-theory
-updated_on: 2026-04-23
-source_count: 10
+updated_on: 2026-04-25
+source_count: 13
 related_pages:
+  - [[Ajzen 1977]]
+  - [[Bar-Hillel 1980]]
+  - [[Fischhoff and Bar-Hillel 1984]]
   - [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]]
   - [[de Finetti 1937]]
   - [[Savage 1954]]
@@ -53,7 +56,7 @@ The third distinction is between ordinary subjective probability and the stronge
 
 [[Ellsberg 1961]] then pressures that benchmark in a way the current vault should now describe more precisely. The issue is not merely that people make mistakes with probabilities. It is that many choices under uncertainty resist the idea that one precise personal probability function is always available and appropriate for decision. In the vault, that challenge is collected under [[Ambiguity aversion]] and connected to [[Subjective expected utility theory]] rather than left as a floating criticism of "Bayesianism" in general.
 
-[[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] helps tighten the distinction between risk, uncertainty, and unawareness. [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]] adds the empirical benchmark of calibration. [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]] adds a different benchmark pressure by showing systematic under-updating relative to Bayes's theorem. [[Kahneman and Tversky 1982 - On the Study of Statistical Intuitions (in Kahneman et al. 1982, ch. 34)]] and [[Kahneman and Tversky 1982 - Variants of Uncertainty (in Kahneman et al. 1982, ch. 35)]] then make explicit that probabilistic benchmarks can be both illuminating and contestable.
+[[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] helps tighten the distinction between risk, uncertainty, and unawareness. [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]] adds the empirical benchmark of calibration. [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]] adds a different benchmark pressure by showing systematic under-updating relative to Bayes's theorem. [[Ajzen 1977]], [[Bar-Hillel 1980]], and [[Fischhoff and Bar-Hillel 1984]] add the base-rate branch: they show that failures of Bayesian integration depend partly on whether prior probabilities are perceived as causal, relevant, specific, or needed because individuating evidence is weak. [[Kahneman and Tversky 1982 - On the Study of Statistical Intuitions (in Kahneman et al. 1982, ch. 34)]] and [[Kahneman and Tversky 1982 - Variants of Uncertainty (in Kahneman et al. 1982, ch. 35)]] then make explicit that probabilistic benchmarks can be both illuminating and contestable.
 
 ## Practical or policy relevance
 
@@ -66,7 +69,7 @@ The first question is where [[de Finetti 1937]] is strongest. The second is wher
 
 ## Related pages
 
-The deepest benchmark source is [[de Finetti 1937]]. The main decision-theoretic expansion is [[Savage 1954]], especially Chapters 2-4. The main challenge source is [[Ellsberg 1961]]. The closest neighboring concept pages are [[Subjective expected utility theory]], [[Expected utility theory]], [[Ambiguity aversion]], and [[Nonstandard beliefs]]. The main entity pages are [[Bruno de Finetti]], [[Leonard J. Savage]], [[Daniel Ellsberg]], and [[Ward Edwards]].
+The deepest benchmark source is [[de Finetti 1937]]. The main decision-theoretic expansion is [[Savage 1954]], especially Chapters 2-4. The main challenge source is [[Ellsberg 1961]]. The closest neighboring concept pages are [[Subjective expected utility theory]], [[Expected utility theory]], [[Ambiguity aversion]], [[Base-rate neglect]], and [[Nonstandard beliefs]]. The main entity pages are [[Bruno de Finetti]], [[Leonard J. Savage]], [[Daniel Ellsberg]], and [[Ward Edwards]].
 
 ## Open questions
 

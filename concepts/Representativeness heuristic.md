@@ -5,9 +5,12 @@ status: active
 tags:
   - behavioral-economics
   - cognitive-psychology
-updated_on: 2026-04-07
-source_count: 7
+updated_on: 2026-04-25
+source_count: 10
 related_pages:
+  - [[Ajzen 1977]]
+  - [[Bar-Hillel 1980]]
+  - [[Fischhoff and Bar-Hillel 1984]]
   - [[Kahneman et al. 1982]]
   - [[Kahneman and Tversky 1972]]
   - [[Bar-Hillel 1982 - Studies of Representativeness (in Kahneman et al. 1982, ch. 5)]]
@@ -70,6 +73,8 @@ That is why the representativeness branch becomes so expansive so quickly in the
 
 The clearest route from the general mechanism to a concrete inferential error is [[Base-rate neglect]]. In this family, background frequency information is underweighted because individuating description feels more diagnostic. In the current vault, [[Tversky and Kahneman 1982 - Evidential Impact of Base Rates (in Kahneman et al. 1982, ch. 10)]] is especially valuable because it isolates this evidential failure directly rather than only treating it as one example among many.
 
+The base-rate branch is now richer than simple neglect. [[Ajzen 1977]] and [[Bar-Hillel 1980]] show that base rates gain influence when they are perceived as causal, specific, or relevant to the target case. [[Fischhoff and Bar-Hillel 1984]] then shows that base rates gain influence when representativeness weakens: if a description does not clearly point to one category, people use base rates more. This makes base-rate neglect a graded competition between statistical background and case-based representativeness rather than an all-or-nothing failure.
+
 ### 2. Samples and the law of small numbers
 
 The second major family is the [[Law of small numbers]]. Here the similarity relation is between a small sample and the larger process from which it is drawn. People expect even short runs to look representative of the broader generating structure, which creates gambler's-fallacy reasoning, overinference from streaks, and exaggerated confidence in thin evidence.
@@ -112,7 +117,7 @@ Representativeness matters for policy because citizens and institutions often ju
 
 ## Related pages
 
-The core source sequence is [[Kahneman and Tversky 1972]], [[Tversky and Kahneman 1974]], [[Bar-Hillel 1982 - Studies of Representativeness (in Kahneman et al. 1982, ch. 5)]], [[Tversky and Kahneman 1982 - Evidential Impact of Base Rates (in Kahneman et al. 1982, ch. 10)]], [[Tversky and Kahneman 1981]], [[Tversky and Kahneman 1983]], and [[Kahneman and Frederick 2002]]. The closest neighboring pages are [[Base-rate neglect]], [[Law of small numbers]], [[Conjunction fallacy]], [[Attribute substitution]], [[Heuristics and Biases]], [[Nonstandard beliefs]], and [[Representativeness and Statistical Error]]. The broader domain page is [[Behavioral Economics]].
+The core source sequence is [[Kahneman and Tversky 1972]], [[Tversky and Kahneman 1974]], [[Bar-Hillel 1982 - Studies of Representativeness (in Kahneman et al. 1982, ch. 5)]], [[Tversky and Kahneman 1982 - Evidential Impact of Base Rates (in Kahneman et al. 1982, ch. 10)]], [[Ajzen 1977]], [[Bar-Hillel 1980]], [[Fischhoff and Bar-Hillel 1984]], [[Tversky and Kahneman 1981]], [[Tversky and Kahneman 1983]], and [[Kahneman and Frederick 2002]]. The closest neighboring pages are [[Base-rate neglect]], [[Law of small numbers]], [[Conjunction fallacy]], [[Attribute substitution]], [[Heuristics and Biases]], [[Nonstandard beliefs]], and [[Representativeness and Statistical Error]]. The broader domain page is [[Behavioral Economics]].
 
 ## Open questions
 

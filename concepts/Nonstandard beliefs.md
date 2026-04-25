@@ -5,9 +5,12 @@ status: active
 tags:
   - behavioral-economics
   - beliefs
-updated_on: 2026-04-07
-source_count: 18
+updated_on: 2026-04-25
+source_count: 21
 related_pages:
+  - [[Ajzen 1977]]
+  - [[Bar-Hillel 1980]]
+  - [[Fischhoff and Bar-Hillel 1984]]
   - [[Fischhoff and Broomell 2020]]
   - [[de Finetti 1937]]
   - [[Savage 1954]]
@@ -85,6 +88,8 @@ Third, this is not just a list of biases. It is a meeting point between three la
 
 The first major family comes from the representativeness branch. [[Kahneman and Tversky 1972]] is especially important because it shows how subjective probability judgments can be driven by resemblance rather than by formal statistical reasoning. In the current vault, that branch now includes [[Base-rate neglect]], [[Conjunction fallacy]], and [[Law of small numbers]].
 
+The base-rate branch now has a more precise internal structure. [[Ajzen 1977]] shows that base rates are more likely to be used when they have causal implications for the predicted event. [[Bar-Hillel 1980]] argues that people treat information as relevant when it is specific, identifying, or causal, and that low-relevance base rates can be dominated even when they are normatively probative. [[Fischhoff and Bar-Hillel 1984]] adds that base-rate use rises when individuating descriptions are less diagnostic. These sources make base-rate neglect a problem about the interpretation and perceived relevance of evidence, not just a failure to see numbers.
+
 This family matters because it captures a recurring structure: people use an intuitively compelling cue and then treat it as if it were strong probabilistic evidence. The result is not random noise but a patterned displacement of statistical reasoning by similarity-based judgment.
 
 ### 2. Calibration, confidence, and updating
@@ -131,7 +136,7 @@ The practical value of the page is therefore diagnostic. It helps clarify that â
 
 ## Related pages
 
-The anchor sources are [[de Finetti 1937]], [[Savage 1954]], [[Ellsberg 1961]], [[Kahneman and Tversky 1972]], [[Tversky and Kahneman 1974]], [[DellaVigna 2009]], and [[Fischhoff and Broomell 2020]]. The closest neighboring pages are [[Subjective probability]], [[Subjective expected utility theory]], [[Ambiguity aversion]], [[Base-rate neglect]], [[Conjunction fallacy]], [[Confirmation bias]], [[Probability neglect]], [[Overconfidence]], [[Illusion of control]], [[Law of small numbers]], [[Projection bias]], [[Hindsight bias]], [[Motivated reasoning]], [[Myside bias]], and [[Heuristics and Biases]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[de Finetti 1937]], [[Savage 1954]], [[Ellsberg 1961]], [[Kahneman and Tversky 1972]], [[Tversky and Kahneman 1974]], [[Ajzen 1977]], [[Bar-Hillel 1980]], [[Fischhoff and Bar-Hillel 1984]], [[DellaVigna 2009]], and [[Fischhoff and Broomell 2020]]. The closest neighboring pages are [[Subjective probability]], [[Subjective expected utility theory]], [[Ambiguity aversion]], [[Base-rate neglect]], [[Conjunction fallacy]], [[Confirmation bias]], [[Probability neglect]], [[Overconfidence]], [[Illusion of control]], [[Law of small numbers]], [[Projection bias]], [[Hindsight bias]], [[Motivated reasoning]], [[Myside bias]], and [[Heuristics and Biases]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

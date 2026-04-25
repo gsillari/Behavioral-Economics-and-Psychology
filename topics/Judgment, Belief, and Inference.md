@@ -7,9 +7,12 @@ tags:
   - ppe
   - behavioral-economics
   - judgment
-updated_on: 2026-04-07
+updated_on: 2026-04-25
 related_pages:
   - [[Behavioral Economics]]
+  - [[Ajzen 1977]]
+  - [[Bar-Hillel 1980]]
+  - [[Fischhoff and Bar-Hillel 1984]]
   - [[Fischhoff and Broomell 2020]]
   - [[Kahneman et al. 1982]]
   - [[Representativeness and Statistical Error]]
@@ -40,7 +43,7 @@ The branch therefore sits between the abstract benchmark material in [[Foundatio
 
 ### 2.1 [[Representativeness and Statistical Error]]
 
-This branch focuses on similarity-based judgment and the statistical mistakes that follow from it. Its core pages are [[Representativeness heuristic]], [[Base-rate neglect]], [[Law of small numbers]], [[Conjunction fallacy]], and [[Overconfidence]].
+This branch focuses on similarity-based judgment and the statistical mistakes that follow from it. Its core pages are [[Representativeness heuristic]], [[Base-rate neglect]], [[Law of small numbers]], [[Conjunction fallacy]], and [[Overconfidence]]. The base-rate side is now anchored not only in the Kahneman-Tversky sequence, but also in [[Ajzen 1977]], [[Bar-Hillel 1980]], and [[Fischhoff and Bar-Hillel 1984]], which explain how causal relevance, specificity, and diagnosticity shape whether base rates are used.
 
 ### 2.2 [[Availability, Affect, and Risk Perception]]
 
