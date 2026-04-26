@@ -27,7 +27,7 @@ related_pages:
 
 ## Key claims
 
-The paper's central claim is that there is an important difference between risk and ambiguity. Risk involves known probabilities; ambiguity involves uncertainty about the probabilities themselves. Ellsberg argues that many people systematically prefer risky options with known chances over ambiguous options with unknown chances, and that this pattern conflicts with the Savage-style axioms used to extend expected utility reasoning into uncertain environments. In the current vault, this matters because it complicates the transition from [[Subjective probability]] to rational choice: even if probabilities can in principle be subjective, actual agents may resist acting as if all uncertainty can be compressed into a single coherent credence.
+The paper's central claim is that there is an important difference between risk and ambiguity. Risk involves known probabilities; ambiguity involves uncertainty about the probabilities themselves. Ellsberg argues that many people systematically prefer risky options with known chances over ambiguous options with unknown chances, and that this pattern conflicts with the [[Subjective expected utility theory|Savage benchmark]] for extending expected-utility reasoning into uncertain environments. In the current vault, this matters because it complicates the transition from [[Subjective probability]] to rational choice: even if probabilities can in principle be subjective, actual agents may resist acting as if all uncertainty can be compressed into a single coherent credence.
 
 ## Evidence and methods
 

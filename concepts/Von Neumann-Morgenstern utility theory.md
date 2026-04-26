@@ -7,13 +7,16 @@ tags:
   - decision-theory
   - utility
 updated_on: 2026-04-25
-source_count: 1
+source_count: 2
 related_pages:
+  - [[Rabin and Thaler 2001]]
   - [[von Neumann and Morgenstern 1944]]
   - [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]
   - [[Expected utility theory]]
   - [[Utility theory]]
   - [[Risk attitudes]]
+  - [[Calibration]]
+  - [[Loss aversion]]
   - [[Completeness axiom]]
   - [[Allais paradox]]
   - [[Prospect Theory]]
@@ -45,15 +48,17 @@ The appendix is also important because it identifies possible weak points from i
 
 Those internal cautions matter for later behavioral economics. The [[Allais paradox]] pressures the independence-like structure of expected utility under risk. [[Prospect Theory]] then offers a more psychologically descriptive model of risky choice. VNM utility is therefore not just an old benchmark to be discarded; it is the formal target that makes later anomalies and alternatives legible.
 
+[[Rabin and Thaler 2001]] adds a different kind of pressure. It does not mainly attack the representation theorem. Instead, it attacks a common descriptive use of the VNM framework: explaining ordinary small-stakes risk aversion by concavity of utility over lifetime wealth. Their calibration argument says that if the same utility curve is taken seriously across stakes, modest local risk aversion implies implausibly extreme global risk aversion.
+
 ## Practical or policy relevance
 
 VNM utility matters because economics, law, and policy often model risky choice by assuming agents maximize expected utility. That framework can represent different [[Risk attitudes]] through the curvature of the utility function, but it also imposes strong structure on how probabilities and outcomes combine.
 
-For PPE students, the concept is important because it clarifies what is at stake in later departures from expected utility. A violation of VNM expected utility is not merely a mistake in arithmetic. It is a challenge to a formal picture of coherent preference over risky alternatives.
+For PPE students, the concept is important because it clarifies what is at stake in later departures from expected utility. A violation of VNM expected utility is not merely a mistake in arithmetic. It is a challenge to a formal picture of coherent preference over risky alternatives. But Rabin and Thaler also show a subtler lesson: even when a model can represent risk aversion formally, its usual psychological interpretation may fail once it is calibrated across domains.
 
 ## Related pages
 
-The anchor source is [[von Neumann and Morgenstern 1944]], especially [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]. The closest neighboring pages are [[Expected utility theory]], [[Utility theory]], [[Risk attitudes]], [[Completeness axiom]], [[Allais paradox]], and [[Prospect Theory]]. The main entity pages are [[John von Neumann]] and [[Oskar Morgenstern]].
+The anchor source is [[von Neumann and Morgenstern 1944]], especially [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]. [[Rabin and Thaler 2001]] is the key calibration critique of using the framework to explain everyday risk aversion. The closest neighboring pages are [[Expected utility theory]], [[Utility theory]], [[Risk attitudes]], [[Calibration]], [[Completeness axiom]], [[Allais paradox]], [[Loss aversion]], and [[Prospect Theory]]. The main entity pages are [[John von Neumann]] and [[Oskar Morgenstern]].
 
 ## Open questions
 

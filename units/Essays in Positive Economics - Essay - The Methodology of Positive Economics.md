@@ -2,7 +2,7 @@
 title: Essays in Positive Economics - Essay - The Methodology of Positive Economics
 page_type: unit
 parent_work:
-  - - Friedman 1953
+  - [[Friedman 1953]]
 unit_type: essay
 source_path: raw/books/Friedman 1953.pdf
 coverage_status: ingested
@@ -15,11 +15,11 @@ tags:
   - unit
 updated_on: 2026-04-07
 related_pages:
-  - - - Friedman 1953
-  - - - Milton Friedman
-  - - - Scope and Method of Behavioral Economics
-  - - - Behavioral Economics
-  - - - Foundations and Rationality
+  - [[Friedman 1953]]
+  - [[Milton Friedman]]
+  - [[Scope and Method of Behavioral Economics]]
+  - [[Behavioral Economics]]
+  - [[Foundations and Rationality]]
 ---
 
 # Essays in Positive Economics - Essay - The Methodology of Positive Economics

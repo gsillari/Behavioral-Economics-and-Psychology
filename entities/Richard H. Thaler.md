@@ -7,7 +7,7 @@ tags:
   - person
   - behavioral-economics
   - decision-theory
-updated_on: 2026-04-16
+updated_on: 2026-04-26
 related_pages:
   - [[Nudge]]
   - [[Nesterak 2018]]
@@ -15,10 +15,14 @@ related_pages:
   - [[Thaler 1980]]
   - [[Thaler 1985]]
   - [[Benartzi and Thaler 1995]]
+  - [[Rabin and Thaler 2001]]
   - [[Sunstein and Thaler 2003]]
   - [[Jolls et al. 1998]]
   - [[Kahneman et al. 1990]]
   - [[Mental accounting]]
+  - [[Calibration]]
+  - [[Risk attitudes]]
+  - [[Loss aversion]]
   - [[Prospect Theory]]
   - [[Endowment effect]]
   - [[Sunk cost effect]]
@@ -47,13 +51,15 @@ The early standalone Thaler spine in the vault now begins with [[Thaler 1980]] a
 
 The later Thaler footprint in the vault is already substantial even before more dedicated Thaler ingests arrive. [[Kahneman et al. 1990]] anchors the endowment-effect branch, [[Benartzi and Thaler 1995]] carries prospect-theory reasoning into finance through [[Myopic loss aversion]], [[Jolls et al. 1998]] helps build the behavioral-law-and-economics branch, [[Sunstein and Thaler 2003]] shapes the modern policy branch through [[Libertarian paternalism]], [[Thaler and Sunstein 2021]] now gives that policy branch its main book-length public statement, and [[Nudge]] now gives the vault a cleaner name for the specific tool family associated with that branch. [[Nesterak 2018]] is a useful later retrospective because it shows how Thaler himself described that legacy a decade on: influential, narrower than behavioral economics as a whole, and increasingly tied to worries about sludge and to a broader policy toolkit that includes AI and design thinking.
 
+[[Rabin and Thaler 2001]] adds a particularly important benchmark-facing Thaler source. It argues that economists should not explain ordinary small-stakes risk aversion by concavity of utility over lifetime wealth, because that explanation fails [[Calibration|calibration]] across stakes. The paper also shows the constructive side of Thaler's program: [[Loss aversion]] and [[Mental accounting]] are not merely colorful anomalies, but candidates for replacing a misleading expected-utility explanation.
+
 ## Key relationships
 
-The current strongest direct links are to [[Thaler 1980]], [[Thaler 1985]], [[Mental accounting]], [[Endowment effect]], [[Sunk cost effect]], [[Time inconsistency]], and [[Behavioral Economics]]. The later policy-facing link is through [[Sunstein and Thaler 2003]], while the finance-facing link is through [[Benartzi and Thaler 1995]]. The valuation branch also runs through [[Kahneman et al. 1990]].
+The current strongest direct links are to [[Thaler 1980]], [[Thaler 1985]], [[Rabin and Thaler 2001]], [[Mental accounting]], [[Loss aversion]], [[Risk attitudes]], [[Endowment effect]], [[Sunk cost effect]], [[Time inconsistency]], and [[Behavioral Economics]]. The later policy-facing link is through [[Sunstein and Thaler 2003]], while the finance-facing link is through [[Benartzi and Thaler 1995]]. The valuation branch also runs through [[Kahneman et al. 1990]].
 
 ## Related sources
 
-The current direct Thaler source-family in the vault includes [[Thaler 1980]], [[Thaler 1985]], [[Kahneman et al. 1990]], [[Benartzi and Thaler 1995]], [[Jolls et al. 1998]], [[Sunstein and Thaler 2003]], [[Thaler and Sunstein 2021]], and [[Nesterak 2018]]. As more Thaler papers are added, this page should become one of the main organizing entity hubs for the vault.
+The current direct Thaler source-family in the vault includes [[Thaler 1980]], [[Thaler 1985]], [[Kahneman et al. 1990]], [[Benartzi and Thaler 1995]], [[Rabin and Thaler 2001]], [[Jolls et al. 1998]], [[Sunstein and Thaler 2003]], [[Thaler and Sunstein 2021]], and [[Nesterak 2018]]. As more Thaler papers are added, this page should become one of the main organizing entity hubs for the vault.
 
 ## Biographical note
 

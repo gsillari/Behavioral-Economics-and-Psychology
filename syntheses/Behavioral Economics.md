@@ -6,162 +6,32 @@ tags:
   - synthesis
 updated_on: 2026-04-26
 related_pages:
-  - - - Behavioral Economics Wiki
-  - - - Foundations and Rationality
-  - - - Judgment
-      - Belief
-      - and Inference
-  - - - Choice
-      - Preference
-      - and Decision Under Risk
-  - - - Time
-      - Attention
-      - and Choice Architecture
-  - - - Social Behavior
-      - Law
-      - and Public Policy
-  - - - Behavioral political economy
-  - - - Ecological Rationality and Fast-and-Frugal Heuristics
-  - - - AI
-      - Algorithms
-      - and New Frontiers
-  - - - Coase 1960
-  - - - Friedman 1953
-  - - - Smith 1991
-  - - - Bruni and Sugden 2007
-  - - - Hands 2010
-  - - - Angner 2019
-  - - - Maki 2012
-  - - - Angner and Loewenstein 2012 - Behavioral Economics (in Maki 2012, ch. 22)
-  - - - Heilmann and Reiss 2022
-  - - - Utility theory
-  - - - Risk attitudes
-  - - - Behavioral welfare economics
-  - - - Consumer sovereignty
-  - - - Behaviorism
-  - - - Paretian turn
-  - - - Ordinal utility theory
-  - - - Revealed preference theory
-  - - - de Finetti 1937
-  - - - Ellsberg 1961
-  - - - Dawes 1979
-  - - - Dawes et al. 1989
-  - - - Epley and Gilovich 2001
-  - - - Epley and Gilovich 2005
-  - - - Evans 2008
-  - - - Evans and Stanovich 2013
-  - - - De Neys 2012
-  - - - De Neys 2023
-  - - - Camerer 2019
-  - - - Aumann 1962
-  - - - Allais 1953
-  - - - Allais paradox
-  - - - Tversky and Kahneman 1974
-  - - - Finucane et al. 2000
-  - - - Gigerenzer and Goldstein 1996
-  - - - Todd and Gigerenzer 2007
-  - - - Gigerenzer 2004
-  - - - Heuristics and Biases
-  - - - Logical intuitions
-  - - - Fast and slow thinking
-  - - - Arkes and Blumer 1985
-  - - - Benartzi and Thaler 1995
-  - - - Camerer and Loewenstein 2004
-  - - - Rabin 1998
-  - - - Lichtenstein and Slovic 2006
-  - - - Slovic 1995
-  - - - Ariely et al. 2003
-  - - - Ariely et al. 2006
-  - - - Jolls et al. 1998
-  - - - Gigerenzer 2008
-  - - - Gigerenzer 2024
-  - - - Hortal 2025
-  - - - Samuels et al. 2002
-  - - - Kahneman 2003
-  - - - Camerer et al. 2003
-  - - - Sunstein and Thaler 2003
-  - - - DellaVigna 2009
-  - - - O'Donoghue and Rabin 1999
-  - - - Schnellenbach and Schubert 2015
-  - - - Mercer 2005
-  - - - Levy 1997
-  - - - Barnett et al. 2005
-  - - - Madrian 2014
-  - - - Rationality wars
-  - - - Ecological rationality
-  - - - Adaptive toolbox
-  - - - Ambiguity aversion
-  - - - Clinical versus actuarial judgment
-  - - - Improper linear models
-  - - - Gerd Gigerenzer
-  - - - Evolutionary psychology
-  - - - Behavioral public policy
-  - - - Behavioral law and economics
-  - - - Coase theorem
-  - - - Transaction costs
-  - - - Bounded rationality
-  - - - Bounded self-interest
-  - - - Behavioral Public Policy and Its Competing Paradigms
-  - - - Asymmetric paternalism
-  - - - Libertarian paternalism
-  - - - Field Evidence in Behavioral Economics
-  - - - Nonstandard preferences
-  - - - Constructed preferences
-  - - - Preference reversals
-  - - - Procedure invariance
-  - - - Coherent arbitrariness
-  - - - Preference uncertainty
-  - - - Nonstandard beliefs
-  - - - Subjective probability
-  - - - Daniel Ellsberg
-  - - - Nonstandard decision-making
-  - - - Time inconsistency
-  - - - Social preferences
-  - - - Fairness
-  - - - Experienced utility
-  - - - Reason-based choice
-  - - - Overconfidence
-  - - - Law of small numbers
-  - - - Projection bias
-  - - - Limited attention
-  - - - Menu effects
-  - - - Emotions in decision-making
-  - - - Strategic response to behavioral anomalies
-  - - - Regression to the mean
-  - - - Internalities
-  - - - Representativeness heuristic
-  - - - Availability heuristic
-  - - - Affect heuristic
-  - - - Dread risk
-  - - - Attribute substitution
-  - - - Anchoring
-  - - - Anchoring and adjustment
-  - - - Kahneman and Tversky 1979
-  - - - Tversky and Kahneman 1992
-  - - - Prospect Theory
-  - - - Sunk cost effect
-  - - - Myopic loss aversion
-  - - - Equity premium puzzle
-  - - - Loss aversion
-  - - - WTA-WTP asymmetry
-  - - - Endowment effect
-  - - - Loss-framed incentives
-  - - - Reference dependence
-  - - - Expected utility theory
-  - - - Completeness axiom
-  - - - Framing effects
-  - - - Bini et al. 2026
-  - - - Behavioral economics of AI
-  - - - Machine learning in behavioral economics
-  - - - LLM behavioral biases
-  - - - What Behavioral Economics Thinks Rationality Is
-  - - - Wim De Neys
-  - - - Jonathan St. B. T. Evans
-  - - - Keith E. Stanovich
-  - - - Bruno de Finetti
-  - - - Maurice Allais
-  - - - Daniel Kahneman
-  - - - Amos Tversky
+  - [[Behavioral Economics Wiki]]
+  - [[Foundations and Rationality]]
+  - [[Judgment, Belief, and Inference]]
+  - [[Choice, Preference, and Decision Under Risk]]
+  - [[Time, Attention, and Choice Architecture]]
+  - [[Social Behavior, Law, and Public Policy]]
+  - [[Ecological Rationality and Fast-and-Frugal Heuristics]]
+  - [[AI, Algorithms, and New Frontiers]]
+  - [[Camerer and Loewenstein 2004]]
+  - [[Rabin 1998]]
+  - [[Rabin and Thaler 2001]]
+  - [[Sent 2004]]
+  - [[Angner 2019]]
+  - [[Expected utility theory]]
+  - [[Subjective expected utility theory]]
+  - [[Risk attitudes]]
+  - [[Calibration]]
+  - [[Prospect Theory]]
+  - [[Loss aversion]]
+  - [[Mental accounting]]
+  - [[Heuristics and Biases]]
+  - [[Bounded rationality]]
+  - [[Rationality wars]]
+  - [[Behavioral public policy]]
+  - [[Behavioral law and economics]]
+  - [[Behavioral economics of AI]]
 ---
 
 # Behavioral Economics
@@ -198,6 +68,7 @@ Read in that way, the historical backbone becomes clearer.
 [[Tversky and Kahneman 1992]] later turns that breakthrough into a more general cumulative framework by replacing the original separable weighting scheme with rank-dependent cumulative weights and by extending the theory to uncertain as well as risky prospects with any number of outcomes.
 [[Kahneman 2003]] later gives this whole early cluster a field-level synthesis by showing how intuitive judgment, framing, and descriptive choice theory fit together as maps of bounded rationality.
 [[Thaler 1980]] is the next important bridge in that early story. It is one of the first papers in the vault where an economist takes prospect-theory-style insights and turns them into a program for consumer choice, with early treatments of the endowment effect, sunk costs, regret, and self-control. [[Thaler 1985]] then deepens that bridge by giving the field one of its most durable organizing concepts, [[Mental accounting]], and by showing how coding and local evaluation shape consumer behavior.
+[[Rabin and Thaler 2001]] adds a sharper benchmark-facing bridge by showing that expected-utility explanations of ordinary small-stakes risk aversion fail [[Calibration|calibration]] across stakes. Its positive lesson is also important: [[Loss aversion]] and [[Mental accounting]] are not merely anomalies around the edges, but candidate mechanisms for replacing a misleading wealth-curvature explanation.
 
 The later branches are easier to read once the field is seen as cumulative.
 [[Rabin 1998]] gives the field one of its clearest early architectures. Psychology can make economics more realistic by enriching utility, by showing systematic errors in belief formation, and by challenging the idea that agents always maximize stable, coherent, accurately perceived preferences. That is why the paper now anchors several branches at once: [[Fairness]] and [[Social preferences]], [[Nonstandard beliefs]], [[Reason-based choice]], and [[Experienced utility]].
@@ -211,7 +82,7 @@ Sent complements that internal map with a profession-level map: the rise of beha
 
 ## Subtopics
 
-The first subtopic cluster now has eleven linked parts. One foundational background move is [[von Neumann and Morgenstern 1944]], which anchors [[Von Neumann-Morgenstern utility theory]] as the benchmark for rational choice under risk. [[de Finetti 1937]] then anchors [[Subjective probability]] as a benchmark for rational belief under uncertainty, and [[Savage 1954]] turns that probabilistic benchmark into a fuller theory of acts, utility, and observation, now collected under [[Subjective expected utility theory]]. A closely related challenge now comes from [[Ellsberg 1961]] and [[Ambiguity aversion]], which show that agents may not behave as if uncertain situations can always be represented by a single precise personal probability structure ready for decision. The next pressure point is internal to formal theory itself: [[Aumann 1962]] uses the [[Completeness axiom]] to show that the benchmark of rational choice is revisable from within. The next foundational revision is [[Simon 1955]], where rationality is redefined for finite agents through [[Bounded rationality]] rather than assumed to belong to omniscient maximizers. [[Simon 1979]] then broadens that revision by showing that organizational decision procedures belong inside economics itself. Only after that does the next pressure point arrive in the form of [[Allais paradox]], tied to [[Allais 1953]] and the limits of the VNM branch of [[Expected utility theory]]. [[Thaler 1980]] is the next important internal economics bridge: it takes prospect-theory and bounded-rationality themes into consumer theory and opens a path toward later work on the endowment effect, sunk costs, regret, and self-control. [[Thaler 1985]] then makes that branch more architecturally ambitious by introducing [[Mental accounting]], which helps explain why consumer behavior depends on coding, grouping, and local budgets rather than only on final states or global utility. [[Rabin 1998]] then gives the field a synthetic psychology-and-economics map: richer preferences, biased beliefs, and challenges to stable maximization. The next layer is [[Heuristics and Biases]], including [[Representativeness heuristic]], [[Availability heuristic]], [[Affect heuristic]], and [[Anchoring]]. [[Finucane et al. 2000]] matters here because it shows how the heuristics branch expands into risk perception and public judgment through affective evaluation, not only classic probability tasks, while [[Gigerenzer 2004]] adds the specific crisis case of [[Dread risk]]. Alongside that bias-centered branch, the ecological side is now deeper too: [[Gigerenzer and Goldstein 1996]] gives [[Ecological rationality]] and [[Adaptive toolbox]] a flagship concrete heuristic in [[Take-the-Best heuristic]]. A smaller but important sub-branch now deepens [[Anchoring]] through the Epley-Gilovich mechanism account, where [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]] distinguish self-generated from externally provided anchors and show that effortful correction works selectively rather than uniformly. A linked interpretive branch revises how the older heuristics program is understood through [[Fast and slow thinking]], where [[Evans 2008]] supplies the broad review frame, [[Evans and Stanovich 2013]] gives the dual-process architecture a more explicit type-1/type-2 formulation, and [[De Neys 2012]] and [[De Neys 2023]] then argue that intuitive reasoning may be more conflict-sensitive and interactive than older dual-process stories assumed. The third layer is [[Prospect Theory]], together with [[Loss aversion]], [[Reference dependence]], [[Framing effects]], [[Sunk cost effect]], and now a finance extension through [[Myopic loss aversion]] and the [[Equity premium puzzle]]. That branch now also reaches more directly into valuation and organizations: [[Thaler 1980]] gives the branch an early economics-facing uptake, [[Thaler 1985]] adds the coding and transaction side through [[Mental accounting]], [[Horowitz and McConnell 2002]] strengthens the entitlement-sensitive valuation side through [[WTA-WTP asymmetry]] and [[Endowment effect]], while [[Hossain and List 2009]] extends [[Loss aversion]] into workplace design through [[Loss-framed incentives]]. A neighboring challenge now comes from the construction-of-preference branch anchored by [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], and [[Rabin 1998]], where [[Constructed preferences]], [[Reason-based choice]], [[Preference reversals]], and [[Procedure invariance]] become the deeper conceptual frame for later pages such as [[Coherent arbitrariness]], [[Preference uncertainty]], and [[Experienced utility]]. In that structure, [[Ariely et al. 2003]] and [[Ariely et al. 2006]] remain important, but they now read as later extensions of a broader challenge to stable revealed preference rather than as the branch's sole anchor. The fourth layer is a cross-cutting empirical branch collected under [[Field Evidence in Behavioral Economics]], where [[DellaVigna 2009]] surveys how behavioral patterns appear in markets, politics, labor supply, finance, and other real-world settings, [[Barnett et al. 2005]] adds the methodological caution of [[Regression to the mean]], [[Hossain and List 2009]] adds a natural field experiment on framing and productivity, and [[Madrian 2014]] connects those patterns to policy design. That branch is now structured through three umbrella pages, [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]], a methodological caution page in [[Regression to the mean]], and a wider family of mechanism pages including [[Time inconsistency]], [[Social preferences]], [[Fairness]], [[Overconfidence]], [[Law of small numbers]], [[Projection bias]], [[Limited attention]], [[Menu effects]], [[Emotions in decision-making]], [[Strategic response to behavioral anomalies]], and now [[Mental accounting]]. The fifth branch is [[Behavioral economics of AI]], which now covers both the method-facing machine-learning side and the agent-evaluation side for LLMs. The sixth branch is the debate over rationality itself, collected in [[Rationality wars]], [[Ecological rationality]], [[Adaptive toolbox]], [[Clinical versus actuarial judgment]], [[Evolutionary psychology]], and [[Behavioral public policy]]. That debate branch is now stronger because [[Simon 1955]] gives it a true early anchor in the critique of global rationality, [[Simon 1979]] shows how that critique scales up to organizations and the discipline itself, [[Gigerenzer 2024]] adds a direct retrospective from the ecological-rationality side, and the Evans-Stanovich branch makes explicit that disputes over rationality are also disputes over cognitive architecture. The seventh branch is a more concrete law-and-policy strand, now beginning from the classical benchmark in [[Coase 1960]] with [[Coase theorem]] and [[Transaction costs]], then moving into [[Behavioral law and economics]] in [[Jolls et al. 1998]], where the field is organized around [[Bounded rationality]], self-control problems collected here under [[Time inconsistency]], and [[Social preferences]], and then through [[Sunstein and Thaler 2003]] and [[Libertarian paternalism]], [[Camerer et al. 2003]] and [[Asymmetric paternalism]], [[Madrian 2014]], and now the added lessons from [[Rabin 1998]], [[Finucane et al. 2000]], [[Gigerenzer 2004]], [[Horowitz and McConnell 2002]], [[Hossain and List 2009]], and [[Thaler 1985]] on fairness, self-serving belief, affective risk judgment, catastrophic-risk communication, welfare valuation, choice coding, and behavioral incentive design.
+The first subtopic cluster now has eleven linked parts. One foundational background move is [[von Neumann and Morgenstern 1944]], which anchors [[Von Neumann-Morgenstern utility theory]] as the benchmark for rational choice under risk. [[de Finetti 1937]] then anchors [[Subjective probability]] as a benchmark for rational belief under uncertainty, and [[Savage 1954]] turns that probabilistic benchmark into a fuller theory of acts, utility, and observation, now collected under [[Subjective expected utility theory]]. A closely related challenge now comes from [[Ellsberg 1961]] and [[Ambiguity aversion]], which show that agents may not behave as if uncertain situations can always be represented by a single precise personal probability structure ready for decision. The next pressure point is internal to formal theory itself: [[Aumann 1962]] uses the [[Completeness axiom]] to show that the benchmark of rational choice is revisable from within. The next foundational revision is [[Simon 1955]], where rationality is redefined for finite agents through [[Bounded rationality]] rather than assumed to belong to omniscient maximizers. [[Simon 1979]] then broadens that revision by showing that organizational decision procedures belong inside economics itself. Only after that does the next pressure point arrive in the form of [[Allais paradox]], tied to [[Allais 1953]] and the limits of the VNM branch of [[Expected utility theory]]. [[Rabin and Thaler 2001]] now adds the calibration pressure point: even where the VNM framework can represent risk aversion, using wealth curvature to explain ordinary small-stakes risk aversion has absurd implications across stakes. [[Thaler 1980]] is the next important internal economics bridge: it takes prospect-theory and bounded-rationality themes into consumer theory and opens a path toward later work on the endowment effect, sunk costs, regret, and self-control. [[Thaler 1985]] then makes that branch more architecturally ambitious by introducing [[Mental accounting]], which helps explain why consumer behavior depends on coding, grouping, and local budgets rather than only on final states or global utility. [[Rabin 1998]] then gives the field a synthetic psychology-and-economics map: richer preferences, biased beliefs, and challenges to stable maximization. The next layer is [[Heuristics and Biases]], including [[Representativeness heuristic]], [[Availability heuristic]], [[Affect heuristic]], and [[Anchoring]]. [[Finucane et al. 2000]] matters here because it shows how the heuristics branch expands into risk perception and public judgment through affective evaluation, not only classic probability tasks, while [[Gigerenzer 2004]] adds the specific crisis case of [[Dread risk]]. Alongside that bias-centered branch, the ecological side is now deeper too: [[Gigerenzer and Goldstein 1996]] gives [[Ecological rationality]] and [[Adaptive toolbox]] a flagship concrete heuristic in [[Take-the-Best heuristic]]. A smaller but important sub-branch now deepens [[Anchoring]] through the Epley-Gilovich mechanism account, where [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]] distinguish self-generated from externally provided anchors and show that effortful correction works selectively rather than uniformly. A linked interpretive branch revises how the older heuristics program is understood through [[Fast and slow thinking]], where [[Evans 2008]] supplies the broad review frame, [[Evans and Stanovich 2013]] gives the dual-process architecture a more explicit type-1/type-2 formulation, and [[De Neys 2012]] and [[De Neys 2023]] then argue that intuitive reasoning may be more conflict-sensitive and interactive than older dual-process stories assumed. The third layer is [[Prospect Theory]], together with [[Loss aversion]], [[Reference dependence]], [[Framing effects]], [[Sunk cost effect]], and now a finance extension through [[Myopic loss aversion]] and the [[Equity premium puzzle]]. That branch now also reaches more directly into valuation and organizations: [[Thaler 1980]] gives the branch an early economics-facing uptake, [[Thaler 1985]] adds the coding and transaction side through [[Mental accounting]], [[Rabin and Thaler 2001]] links loss aversion and mental accounting to the general explanation of small-stakes risk aversion, [[Horowitz and McConnell 2002]] strengthens the entitlement-sensitive valuation side through [[WTA-WTP asymmetry]] and [[Endowment effect]], while [[Hossain and List 2009]] extends [[Loss aversion]] into workplace design through [[Loss-framed incentives]]. A neighboring challenge now comes from the construction-of-preference branch anchored by [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], and [[Rabin 1998]], where [[Constructed preferences]], [[Reason-based choice]], [[Preference reversals]], and [[Procedure invariance]] become the deeper conceptual frame for later pages such as [[Coherent arbitrariness]], [[Preference uncertainty]], and [[Experienced utility]]. In that structure, [[Ariely et al. 2003]] and [[Ariely et al. 2006]] remain important, but they now read as later extensions of a broader challenge to stable revealed preference rather than as the branch's sole anchor. The fourth layer is a cross-cutting empirical branch collected under [[Field Evidence in Behavioral Economics]], where [[DellaVigna 2009]] surveys how behavioral patterns appear in markets, politics, labor supply, finance, and other real-world settings, [[Barnett et al. 2005]] adds the methodological caution of [[Regression to the mean]], [[Hossain and List 2009]] adds a natural field experiment on framing and productivity, and [[Madrian 2014]] connects those patterns to policy design. That branch is now structured through three umbrella pages, [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]], a methodological caution page in [[Regression to the mean]], and a wider family of mechanism pages including [[Time inconsistency]], [[Social preferences]], [[Fairness]], [[Overconfidence]], [[Law of small numbers]], [[Projection bias]], [[Limited attention]], [[Menu effects]], [[Emotions in decision-making]], [[Strategic response to behavioral anomalies]], and now [[Mental accounting]]. The fifth branch is [[Behavioral economics of AI]], which now covers both the method-facing machine-learning side and the agent-evaluation side for LLMs. The sixth branch is the debate over rationality itself, collected in [[Rationality wars]], [[Ecological rationality]], [[Adaptive toolbox]], [[Clinical versus actuarial judgment]], [[Evolutionary psychology]], and [[Behavioral public policy]]. That debate branch is now stronger because [[Simon 1955]] gives it a true early anchor in the critique of global rationality, [[Simon 1979]] shows how that critique scales up to organizations and the discipline itself, [[Gigerenzer 2024]] adds a direct retrospective from the ecological-rationality side, and the Evans-Stanovich branch makes explicit that disputes over rationality are also disputes over cognitive architecture. The seventh branch is a more concrete law-and-policy strand, now beginning from the classical benchmark in [[Coase 1960]] with [[Coase theorem]] and [[Transaction costs]], then moving into [[Behavioral law and economics]] in [[Jolls et al. 1998]], where the field is organized around [[Bounded rationality]], self-control problems collected here under [[Time inconsistency]], and [[Social preferences]], and then through [[Sunstein and Thaler 2003]] and [[Libertarian paternalism]], [[Camerer et al. 2003]] and [[Asymmetric paternalism]], [[Madrian 2014]], and now the added lessons from [[Rabin 1998]], [[Finucane et al. 2000]], [[Gigerenzer 2004]], [[Horowitz and McConnell 2002]], [[Hossain and List 2009]], and [[Thaler 1985]] on fairness, self-serving belief, affective risk judgment, catastrophic-risk communication, welfare valuation, choice coding, and behavioral incentive design.
 
 ## Canonical pages
 

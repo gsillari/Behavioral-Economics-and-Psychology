@@ -6,8 +6,9 @@ tags:
   - behavioral-economics
   - decision-theory
 updated_on: 2026-04-24
-source_count: 8
+source_count: 9
 related_pages:
+  - [[Rabin and Thaler 2001]]
   - [[Benartzi and Thaler 1995]]
   - [[Horowitz and McConnell 2002]]
   - [[Achtypi et al. 2021]]
@@ -24,6 +25,9 @@ related_pages:
   - [[Endowment effect]]
   - [[Kahneman and Tversky 1979]]
   - [[Reference dependence]]
+  - [[Risk attitudes]]
+  - [[Calibration]]
+  - [[Mental accounting]]
   - [[Framing effects]]
   - [[Behavioral Economics]]
 ---
@@ -40,7 +44,7 @@ That is why the page matters. [[Loss aversion]] helps explain why the status quo
 
 Three distinctions keep the concept coherent.
 
-First, [[Loss aversion]] is not the same as risk aversion. Risk aversion concerns attitudes toward uncertainty. Loss aversion concerns the relative weight of outcomes once they are coded as gains or losses. A person can be loss-averse and still take risks in the loss domain.
+First, [[Loss aversion]] is not the same as risk aversion. Risk aversion in expected utility is usually represented by concavity of utility over final wealth. Loss aversion concerns the relative weight of outcomes once they are coded as gains or losses relative to a reference point. A person can be loss-averse and still take risks in the loss domain.
 
 Second, the concept depends on [[Reference dependence]]. Something counts as a loss only relative to a benchmark such as the status quo, an expectation, an entitlement, or a recent outcome. Without a reference point, there is no clear sense in which a choice involves a loss at all.
 
@@ -62,6 +66,8 @@ This sequence is what links [[Loss aversion]] to a wide family of seemingly diff
 ### 1. Prospect theory and choice under risk
 
 The foundational background comes from [[Kahneman and Tversky 1979]], where the asymmetry between gains and losses is one of the defining features of [[Prospect Theory]]. In the current vault, this is still the cleanest starting point. The theory shows why the same objective change can be experienced differently depending on whether it is coded as a gain or as a loss. That is also why [[Framing effects]] matter so much: framing can change which side of the value function an outcome falls on.
+
+[[Rabin and Thaler 2001]] adds a benchmark-facing reason why loss aversion matters. Their [[Calibration|calibration]] argument says that ordinary small-stakes risk aversion should not be explained by diminishing marginal utility of lifetime wealth. Loss aversion is the more plausible descriptive mechanism because it works locally: small losses can loom larger than small gains without implying crazy aversion to large favorable gambles.
 
 ### 2. Valuation, ownership, and entitlement
 
@@ -97,7 +103,7 @@ It also matters in finance and organizations. Frequent feedback can magnify expe
 
 ## Related pages
 
-The most important neighboring pages are [[Prospect Theory]], [[Reference dependence]], [[Framing effects]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[WTA-WTP asymmetry]], [[Endowment effect]], [[Loss-framed incentives]], and [[Behavioral political economy]]. The core source notes are [[Kahneman and Tversky 1979]], [[Benartzi and Thaler 1995]], [[Horowitz and McConnell 2002]], [[Achtypi et al. 2021]], [[Hossain and List 2009]], [[Laibson and List 2015]], [[Mercer 2005]], and [[Levy 1997]]. The broader topical home is [[Behavioral Economics]].
+The most important neighboring pages are [[Prospect Theory]], [[Reference dependence]], [[Framing effects]], [[Risk attitudes]], [[Calibration]], [[Mental accounting]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[WTA-WTP asymmetry]], [[Endowment effect]], [[Loss-framed incentives]], and [[Behavioral political economy]]. The core source notes are [[Kahneman and Tversky 1979]], [[Rabin and Thaler 2001]], [[Benartzi and Thaler 1995]], [[Horowitz and McConnell 2002]], [[Achtypi et al. 2021]], [[Hossain and List 2009]], [[Laibson and List 2015]], [[Mercer 2005]], and [[Levy 1997]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

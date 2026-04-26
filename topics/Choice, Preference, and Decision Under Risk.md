@@ -10,6 +10,7 @@ tags:
 updated_on: 2026-04-25
 related_pages:
   - [[Behavioral Economics]]
+  - [[Rabin and Thaler 2001]]
   - [[Preference]]
   - [[Prospect Theory and Reference Dependence]]
   - [[Valuation Anomalies and Constructed Preferences]]
@@ -19,6 +20,7 @@ related_pages:
   - [[Expected utility theory]]
   - [[Von Neumann-Morgenstern utility theory]]
   - [[Risk attitudes]]
+  - [[Calibration]]
   - [[Ambiguity aversion]]
   - [[Constructed preferences]]
   - [[Myopic loss aversion]]
@@ -30,7 +32,7 @@ This is **Topic 3 of 7** in the wiki's main topic sequence. The full order is: [
 
 ## Scope
 
-This topic gathers the branch of behavioral economics concerned with risky choice, valuation, and the stability of [[Preference|preference]] itself. In the current vault, this is where the field moves from judgment errors to more explicit models of choice, especially through prospect theory, reference dependence, valuation anomalies, and applications in finance. [[Preference]] is now the hub page for the concept itself, while [[von Neumann and Morgenstern 1944]] supplies the canonical risk-side expected-utility benchmark and [[Heilmann and Reiss 2022]] gives the branch a clearer foundations layer: utility, risk, and preference have their own philosophical histories before they become behavioral flashpoints.
+This topic gathers the branch of behavioral economics concerned with risky choice, valuation, and the stability of [[Preference|preference]] itself. In the current vault, this is where the field moves from judgment errors to more explicit models of choice, especially through prospect theory, reference dependence, valuation anomalies, and applications in finance. [[Preference]] is now the hub page for the concept itself, while [[von Neumann and Morgenstern 1944]] supplies the canonical risk-side expected-utility benchmark and [[Heilmann and Reiss 2022]] gives the branch a clearer foundations layer: utility, risk, and preference have their own philosophical histories before they become behavioral flashpoints. [[Rabin and Thaler 2001]] now adds the key calibration pressure point: ordinary small-stakes risk aversion should not be casually read as evidence for strong concavity of utility over lifetime wealth.
 
 For PPE students, this topic matters because it links formal decision theory, descriptive psychology, and welfare interpretation. It matters for economics because it revises standard models of risky choice and market behavior. It matters for philosophy because it raises questions about preference, valuation, and the meaning of rational choice. It matters for politics and policy because institutional design often depends on how people experience gains, losses, and changing reference points.
 
@@ -40,7 +42,7 @@ This branch therefore sits at the center of the course architecture. It carries 
 
 ### 3.1 [[Prospect Theory and Reference Dependence]]
 
-This branch centers on the main descriptive model of risky choice in the vault. Its core pages are [[Prospect Theory]], [[Reference dependence]], [[Loss aversion]], [[Framing effects]], and [[Sunk cost effect]]. Its benchmark background pages are now [[Expected utility theory]], [[Von Neumann-Morgenstern utility theory]], [[Risk attitudes]], and [[Ambiguity aversion]].
+This branch centers on the main descriptive model of risky choice in the vault. Its core pages are [[Prospect Theory]], [[Reference dependence]], [[Loss aversion]], [[Framing effects]], and [[Sunk cost effect]]. Its benchmark background pages are now [[Expected utility theory]], [[Von Neumann-Morgenstern utility theory]], [[Risk attitudes]], [[Calibration]], and [[Ambiguity aversion]].
 
 ### 3.2 [[Valuation Anomalies and Constructed Preferences]]
 
@@ -48,7 +50,7 @@ This branch focuses on unstable valuation, entitlement effects, and the possibil
 
 ### 3.3 [[Market and Financial Implications]]
 
-This branch focuses on how behavioral patterns reshape market interpretation and financial behavior. Its core pages are [[Myopic loss aversion]] and [[Equity premium puzzle]].
+This branch focuses on how behavioral patterns reshape market interpretation and financial behavior. Its core pages are [[Myopic loss aversion]] and [[Equity premium puzzle]]. [[Rabin and Thaler 2001]] also belongs here because it generalizes the same narrow-evaluation logic beyond finance into small-stakes risk-taking and consumer insurance.
 
 ## Links to the rest of the topic
 

@@ -7,10 +7,11 @@ tags:
   - ppe
   - behavioral-economics
   - rationality
-updated_on: 2026-04-25
+updated_on: 2026-04-26
 related_pages:
   - [[Foundations and Rationality]]
   - [[Behavioral Economics]]
+  - [[Rabin and Thaler 2001]]
   - [[Heilmann and Reiss 2022]]
   - [[Utility theory]]
   - [[Expected utility theory]]
@@ -19,6 +20,7 @@ related_pages:
   - [[Subjective expected utility theory]]
   - [[Savage 1954]]
   - [[Risk attitudes]]
+  - [[Calibration]]
   - [[Completeness axiom]]
   - [[Subjective probability]]
   - [[Allais paradox]]
@@ -62,6 +64,8 @@ For PPE students, this is an especially important bridge concept. It shows that 
 
 [[Risk attitudes]] now belongs explicitly in this opening section because expected-utility theory does not only tell us how to aggregate outcomes and probabilities. It also provides a formal language for risk aversion, risk seeking, and risk neutrality through the curvature of utility. [[von Neumann and Morgenstern 1944]] supplies the risk-side representation, while [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] is especially useful because it makes clear that standard risk attitudes are not the same thing as ambiguity-sensitive behavior and not the same thing as later prospect-theoretic coding of gains and losses.
 
+[[Rabin and Thaler 2001]] adds the crucial [[Calibration|calibration]] limit. The issue is not whether expected utility can represent risk aversion, but whether diminishing marginal utility of lifetime wealth can credibly explain ordinary small-stakes risk aversion. Rabin and Thaler argue that once the curvature needed for small gambles is carried across stakes, the model predicts absurdly extreme aversion to large favorable gambles. This makes calibration a benchmark-side problem, not only a later behavioral add-on.
+
 ### [[Allais paradox]]
 
 [[Allais paradox]] is one of the clearest early cracks in the standard rational-choice picture. It names a pattern of preferences over lotteries that conflicts with the independence axiom of [[Expected utility theory]]. In the current vault, it matters because [[Allais 1953]] provides one of the earliest and most famous demonstrations that plausible actual choices can violate the classical benchmark in a stable, non-random way.
@@ -80,7 +84,7 @@ For PPE students, ambiguity aversion matters in at least three ways. First, it r
 
 ## Why this section matters
 
-Taken together, these six concepts show that the standard model of rationality is not one thing but at least two linked benchmark families: coherent choice under risk and coherent choice under uncertainty. They also show that the limits of standard rationality arise in more than one way. [[Completeness axiom]] shows pressure from inside formal theory. [[Allais paradox]] shows pressure from systematic violations in risky choice. [[Ambiguity aversion]] shows pressure from how people relate to uncertainty when probabilities are not crisp.
+Taken together, these six concepts show that the standard model of rationality is not one thing but at least two linked benchmark families: coherent choice under risk and coherent choice under uncertainty. They also show that the limits of standard rationality arise in more than one way. [[Completeness axiom]] shows pressure from inside formal theory. [[Allais paradox]] shows pressure from systematic violations in risky choice. [[Calibration]] shows pressure from cross-domain implications of the model. [[Ambiguity aversion]] shows pressure from how people relate to uncertainty when probabilities are not crisp.
 
 That is why this section should come first in the topic architecture. Before students encounter heuristics, prospect theory, paternalism, or AI, they need to see what behavioral economics is reacting against and why those older benchmarks were powerful enough to matter.
 
