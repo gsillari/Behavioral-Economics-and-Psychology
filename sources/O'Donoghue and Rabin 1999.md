@@ -11,7 +11,9 @@ tags:
   - source
 updated_on: 2026-04-26
 related_pages:
+  - [[Matthew Rabin]]
   - [[Camerer et al. 2004]]
+  - [[Rabin 1998]]
   - [[Frederick et al. 2002]]
   - [[Time inconsistency]]
   - [[Nonstandard preferences]]
@@ -29,7 +31,7 @@ related_pages:
 
 ## Summary
 
-[[O'Donoghue and Rabin 1999]] is one of the clearest formal sources for the self-control branch of behavioral economics. The local text is the reprint in [[Camerer et al. 2004]], but the vault catalogs it under the original article identity because it is a standalone, widely cited contribution to the literature on [[Time inconsistency]].
+[[O'Donoghue and Rabin 1999]] is one of the clearest formal sources for the self-control branch of behavioral economics. The local text is the reprint in [[Camerer et al. 2004]], but the vault catalogs it under the original article identity because it is a standalone, widely cited contribution to the literature on [[Time inconsistency]]. It is also one of the main downstream formal developments of the broader psychology-and-economics architecture in [[Rabin 1998]].
 
 The paper uses a present-biased preference model to show why people may delay actions they should take now, take actions now that they should delay, and make different choices depending on whether they understand their own future self-control problems. Its central contribution is not merely the use of quasi-hyperbolic discounting. It is the analytic separation of immediate costs, immediate rewards, sophistication, and naivete.
 

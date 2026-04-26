@@ -5,14 +5,16 @@ status: active
 tags:
   - behavioral-economics
   - beliefs
-updated_on: 2026-04-08
-source_count: 2
+updated_on: 2026-04-26
+source_count: 3
 related_pages:
+  - [[Rabin 1998]]
   - [[Loewenstein 2007]]
   - [[Loewenstein et al. 2007 - Projection Bias in Predicting Future Utility (in Loewenstein 2007, ch. 13)]]
   - [[DellaVigna 2009]]
   - [[George Loewenstein]]
   - [[Nonstandard beliefs]]
+  - [[Experienced utility]]
   - [[Emotions in decision-making]]
   - [[Time inconsistency]]
   - [[Internalities]]
@@ -23,7 +25,7 @@ related_pages:
 
 ## Core idea
 
-[[Projection bias]] is the tendency to expect future preferences to be too similar to current preferences. In the current vault, the anchor source is now [[Loewenstein et al. 2007 - Projection Bias in Predicting Future Utility (in Loewenstein 2007, ch. 13)]], which treats the idea as a general mechanism of mispredicting future utility rather than as a loose label for a few field anomalies. [[DellaVigna 2009]] remains important because it shows how the mechanism travels into real economic settings.
+[[Projection bias]] is the tendency to expect future preferences or experiences to be too similar to current preferences or experiences. In the current vault, the anchor source is now [[Loewenstein et al. 2007 - Projection Bias in Predicting Future Utility (in Loewenstein 2007, ch. 13)]], which treats the idea as a general mechanism of mispredicting future utility rather than as a loose label for a few field anomalies. [[Rabin 1998]] supplies the broader welfare context through [[Experienced utility]], and [[DellaVigna 2009]] remains important because it shows how the mechanism travels into real economic settings.
 
 ## Key distinctions
 
@@ -43,7 +45,7 @@ This concept matters because many economic decisions are made under temporary st
 
 ## Related pages
 
-The anchor sources are [[Loewenstein et al. 2007 - Projection Bias in Predicting Future Utility (in Loewenstein 2007, ch. 13)]] and [[DellaVigna 2009]]. The closest neighboring pages are [[Time inconsistency]], [[Emotions in decision-making]], [[Nonstandard beliefs]], and [[Internalities]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Loewenstein et al. 2007 - Projection Bias in Predicting Future Utility (in Loewenstein 2007, ch. 13)]], [[Rabin 1998]], and [[DellaVigna 2009]]. The closest neighboring pages are [[Experienced utility]], [[Time inconsistency]], [[Emotions in decision-making]], [[Nonstandard beliefs]], and [[Internalities]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

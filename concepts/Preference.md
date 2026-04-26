@@ -8,8 +8,8 @@ tags:
   - welfare
   - behavioral-economics
   - philosophy-of-economics
-updated_on: 2026-04-25
-source_count: 8
+updated_on: 2026-04-26
+source_count: 9
 related_pages:
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
   - [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]
@@ -17,6 +17,7 @@ related_pages:
   - [[Bruni and Sugden 2007]]
   - [[von Neumann and Morgenstern 1944]]
   - [[Savage 1954]]
+  - [[Rabin 1998]]
   - [[Lichtenstein and Slovic 2006]]
   - [[Slovic 1995]]
   - [[Utility theory]]
@@ -27,8 +28,11 @@ related_pages:
   - [[Constructed preferences]]
   - [[Preference reversals]]
   - [[Preference uncertainty]]
+  - [[Experienced utility]]
+  - [[Reason-based choice]]
   - [[Nonstandard preferences]]
   - [[Social preferences]]
+  - [[Fairness]]
   - [[Consumer sovereignty]]
   - [[Behavioral welfare economics]]
   - [[Behavioral Economics]]
@@ -47,7 +51,7 @@ The simplest interpretation treats a preference as a comparative ranking: an age
 
 Decision theory then changes the objects of preference. In [[Expected utility theory]], especially the risk-side branch collected under [[Von Neumann-Morgenstern utility theory]], preferences are over lotteries or probabilistic alternatives. If those preferences satisfy the relevant axioms, they can be represented by a numerical utility function. In [[Subjective expected utility theory]], anchored by [[Savage 1954]], preferences are over acts whose consequences depend on states of the world. There, preference helps discipline both utility and subjective probability.
 
-Behavioral economics then makes preference itself a problem. Pages such as [[Constructed preferences]], [[Preference reversals]], and [[Preference uncertainty]] show that preferences may not always be stable, complete, or waiting to be revealed. They can be shaped by elicitation procedure, framing, anchors, comparison sets, entitlement positions, attention, affect, and experience. In that setting, preference is no longer just the input to choice theory. It becomes one of the things choice theory and behavioral economics must explain.
+Behavioral economics then makes preference itself a problem. Pages such as [[Constructed preferences]], [[Preference reversals]], and [[Preference uncertainty]] show that preferences may not always be stable, complete, or waiting to be revealed. [[Rabin 1998]] gives this problem a wider architecture: psychology may enrich preference content through [[Fairness]] and other social motives, expose mistaken belief formation, and then press even harder by showing that choice can depend on reasons, procedures, and experienced welfare rather than on a stable ordering alone. Preferences can be shaped by elicitation procedure, framing, anchors, comparison sets, entitlement positions, attention, affect, social motives, and experience. In that setting, preference is no longer just the input to choice theory. It becomes one of the things choice theory and behavioral economics must explain.
 
 ## Key distinctions
 
@@ -57,7 +61,9 @@ The second distinction is between preference as representation and preference as
 
 The third distinction is between preference content and preference structure. [[Nonstandard preferences]] usually changes what agents care about: time, reference points, fairness, social comparison, or loss. [[Constructed preferences]] goes deeper by questioning whether a determinate preference was already there before the choice or elicitation procedure.
 
-The fourth distinction is between preference over ordinary alternatives and preference over formal decision objects. In ordinary consumer theory, the alternatives may be goods or bundles. In [[Expected utility theory]], they are lotteries. In [[Subjective expected utility theory]], they are acts. This matters because the same word, preference, does different theoretical work in each setting.
+The fourth distinction is between preference, reasons, and experience. [[Reason-based choice]] shows that people may choose options that are easier to justify, while [[Experienced utility]] shows that what people choose may diverge from how outcomes are lived or remembered. Both distinctions matter because they loosen the link between preference, choice, and welfare.
+
+The fifth distinction is between preference over ordinary alternatives and preference over formal decision objects. In ordinary consumer theory, the alternatives may be goods or bundles. In [[Expected utility theory]], they are lotteries. In [[Subjective expected utility theory]], they are acts. This matters because the same word, preference, does different theoretical work in each setting.
 
 ## Evidence and debate
 
@@ -69,6 +75,8 @@ The fourth distinction is between preference over ordinary alternatives and pref
 
 The behavioral branch then pressures each of those uses. [[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] argue that elicitation procedures can help construct the preferences they appear merely to measure. [[Preference reversals]] and failures of [[Procedure invariance]] challenge the idea that different elicitation methods reveal the same underlying ordering. [[Preference uncertainty]] adds the possibility that even experience may not always settle valuation. These results do not show that preference is useless, but they do show that its interpretation is much less automatic than standard revealed-preference and welfare arguments often assume.
 
+[[Rabin 1998]] is the best single economics-facing overview of why that pressure comes in layers. Some psychological findings simply enrich preference content, as with [[Fairness]] and other-regarding motivation. Others challenge the belief side of choice. Still others challenge the maximization picture itself by emphasizing [[Reason-based choice]], melioration, and [[Experienced utility]]. That makes Rabin a natural bridge between this preference page and the wider architecture of [[Behavioral Economics]].
+
 ## Why it matters here
 
 This concept should function as the hub for the vault's preference branch. Without it, the wiki has many excellent downstream pages but no central place explaining what changes when economists move from ordinal utility to revealed preference, from revealed preference to EUT and SEU, and from classical decision theory to behavioral economics.
@@ -79,7 +87,7 @@ It also matters pedagogically. PPE students often encounter preference as if it 
 
 The main philosophy-facing anchor is [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]. The main history-of-utility anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]. The main methodological anchors are [[Hands 2010]] and [[Bruni and Sugden 2007]]. The main decision-theoretic anchors are [[von Neumann and Morgenstern 1944]], [[Von Neumann-Morgenstern utility theory]], [[Savage 1954]], and [[Subjective expected utility theory]]. The main behavioral anchors are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Constructed preferences]], [[Preference reversals]], and [[Preference uncertainty]].
 
-The closest neighboring concept pages are [[Utility theory]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Nonstandard preferences]], [[Social preferences]], [[Consumer sovereignty]], and [[Behavioral welfare economics]]. The main topic home is [[Choice, Preference, and Decision Under Risk]].
+The closest neighboring concept pages are [[Utility theory]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Nonstandard preferences]], [[Social preferences]], [[Fairness]], [[Reason-based choice]], [[Experienced utility]], [[Consumer sovereignty]], and [[Behavioral welfare economics]]. The main topic home is [[Choice, Preference, and Decision Under Risk]].
 
 ## Open questions
 

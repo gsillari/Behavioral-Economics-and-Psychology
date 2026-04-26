@@ -6,8 +6,9 @@ tags:
   - behavioral-public-policy
   - policy
 updated_on: 2026-04-26
-source_count: 52
+source_count: 53
 related_pages:
+  - [[Rabin 1998]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Debiasing]]
   - [[Nudge]]
@@ -86,6 +87,9 @@ related_pages:
   - [[Behavioral political economy]]
   - [[Bounded rationality]]
   - [[Social preferences]]
+  - [[Fairness]]
+  - [[Reason-based choice]]
+  - [[Experienced utility]]
   - [[Constructed preferences]]
   - [[Mental accounting]]
   - [[Opportunity cost neglect]]
@@ -146,7 +150,7 @@ Fifth, [[Sugden 2018]] adds a stronger internal challenge to welfare-correction 
 
 [[Coase 1960]] provides the classical benchmark in the current vault. Policy should compare institutions in light of rights allocation and [[Transaction costs]], not assume that regulation is automatically superior to private adjustment. That benchmark remains important because behavioral policy should still be comparative and institutional rather than simply interventionist.
 
-[[Jolls et al. 1998]] is the key bridge source. It translates behavioral findings into law-and-policy language through the triad of [[Bounded rationality]], bounded willpower, and [[Social preferences]]. In the current vault, that self-control branch is gathered under [[Time inconsistency]]. The important move is not just that people make mistakes. It is that realistic policy analysis should no longer assume a fully attentive, fully self-controlled, fully self-interested chooser as its default model. [[Thaler and Sunstein 2021]] then gives that general move its most famous public-policy expression. The book's early units, especially the introduction and Chapters 4 and 5, turn the diagnosis of frailty into a practical language of choice architecture, low-cost steering, and context-sensitive intervention.
+[[Rabin 1998]] gives the broad psychology-and-economics background for this move: policy analysis has to deal with richer preferences, biased beliefs, and choices that may be reason-dependent or welfare-mispredicting. [[Jolls et al. 1998]] is then the key legal-policy bridge source. It translates behavioral findings into law-and-policy language through the triad of [[Bounded rationality]], bounded willpower, and [[Social preferences]]. In the current vault, that self-control branch is gathered under [[Time inconsistency]], while the social branch now runs through [[Fairness]] as well as social preferences more generally. The important move is not just that people make mistakes. It is that realistic policy analysis should no longer assume a fully attentive, fully self-controlled, fully self-interested chooser as its default model. [[Thaler and Sunstein 2021]] then gives that general move its most famous public-policy expression. The book's early units, especially the introduction and Chapters 4 and 5, turn the diagnosis of frailty into a practical language of choice architecture, low-cost steering, and context-sensitive intervention.
 
 This bridge matters because it turns behavioral public policy into a redesign of public reasoning, not just an add-on to microeconomics.
 
@@ -167,7 +171,7 @@ This is one reason the concept should not collapse into nudging. The field is pa
 
 Behavioral policy also has to decide what counts as helping people. This is where the concept becomes philosophically difficult, and in the current vault the welfare problem is best understood in three steps.
 
-The first step is the destabilization of revealed welfare. [[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] show that preferences may be partly constructed in elicitation rather than simply waiting to be revealed. [[Ariely et al. 2006]] sharpens that point through [[Preference uncertainty]], where even experienced goods may fail to produce a settled ranking. [[O'Donoghue and Rabin 1999]] adds the temporal version of the same difficulty: a short-run choice may be an expression of preference, but it may also be a present-biased action that the same person would resist from a more distant standpoint. [[Thaler 1985]] adds a different mechanism through [[Mental accounting]], and [[Frederick et al. 2009]] adds another through [[Opportunity cost neglect]]. Taken together, these sources show why policy cannot simply read welfare off willingness to pay, default acceptance, or short-run choice.
+The first step is the destabilization of revealed welfare. [[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] show that preferences may be partly constructed in elicitation rather than simply waiting to be revealed. [[Rabin 1998]] adds two especially important mechanisms: [[Reason-based choice]], where context supplies or removes justifications, and [[Experienced utility]], where what people choose may diverge from how outcomes are lived or remembered. [[Ariely et al. 2006]] sharpens the construction point through [[Preference uncertainty]], where even experienced goods may fail to produce a settled ranking. [[O'Donoghue and Rabin 1999]] adds the temporal version of the same difficulty: a short-run choice may be an expression of preference, but it may also be a present-biased action that the same person would resist from a more distant standpoint. [[Thaler 1985]] adds a different mechanism through [[Mental accounting]], and [[Frederick et al. 2009]] adds another through [[Opportunity cost neglect]]. Taken together, these sources show why policy cannot simply read welfare off willingness to pay, default acceptance, or short-run choice.
 
 The second step is the reconstructive response. [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] is especially useful here because it names the issue directly: once behavioral evidence destabilizes revealed preference, policy has to decide how much of [[Consumer sovereignty]] it can preserve and what should replace it where it fails. This is the problem space of [[Behavioral welfare economics]]. Many behavioral-policy arguments respond by trying to identify a better ordering than the observed one: long-run interests, more reflective judgments, preferences under full attention, or choices purged of error.
 

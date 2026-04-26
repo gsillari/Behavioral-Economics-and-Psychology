@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - policy
-updated_on: 2026-04-07
+updated_on: 2026-04-26
 related_pages:
   - [[Behavioral Economics]]
   - [[Social Motivation and Interpersonal Influence]]
@@ -15,6 +15,8 @@ related_pages:
   - [[Behavioral Law, Welfare, and Institutions]]
   - [[Behavioral political economy]]
   - [[Social preferences]]
+  - [[Fairness]]
+  - [[Self-serving bias]]
   - [[Behavioral public policy]]
   - [[Behavioral law and economics]]
 ---
@@ -35,7 +37,7 @@ This branch therefore turns the field outward: from how individuals choose to ho
 
 ### 5.1 [[Social Motivation and Interpersonal Influence]]
 
-This branch focuses on other-regarding motivation and the ways people influence each other’s behavior. Its core pages are [[Social preferences]] and [[Social preferences]].
+This branch focuses on other-regarding motivation and the ways people influence each other's behavior. Its core pages are [[Social preferences]], [[Fairness]], and [[Self-serving bias]].
 
 ### 5.2 [[Behavioral Public Policy and Institutional Design]]
 

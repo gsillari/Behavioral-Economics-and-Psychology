@@ -6,13 +6,14 @@ tags:
   - behavioral-economics
   - decision-theory
   - welfare
-updated_on: 2026-04-24
-source_count: 12
+updated_on: 2026-04-26
+source_count: 13
 related_pages:
   - [[Preference]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Bernheim 2025]]
   - [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]
+  - [[Rabin 1998]]
   - [[Lichtenstein and Slovic 2006]]
   - [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]]
   - [[Bettman et al. 2006 - Constructive Consumer Choice Processes (in Lichtenstein and Slovic 2006, ch. 17)]]
@@ -26,6 +27,8 @@ related_pages:
   - [[Procedure invariance]]
   - [[Coherent arbitrariness]]
   - [[Preference uncertainty]]
+  - [[Reason-based choice]]
+  - [[Experienced utility]]
   - [[WTA-WTP asymmetry]]
   - [[Anchoring]]
   - [[Nonstandard preferences]]
@@ -48,7 +51,7 @@ related_pages:
 2. constructive consumer choice mechanisms
 3. welfare and policy problems created by unstable or elicited preference
 
-[[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] give the first branch its classic statement, while [[Ariely et al. 2003]] and [[Ariely et al. 2006]] extend it into anchoring, path-dependent valuation, and experience goods.
+[[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] give the first branch its classic statement, while [[Rabin 1998]] gives the branch a broader economics-facing interpretation through [[Reason-based choice]], melioration, and [[Experienced utility]]. [[Ariely et al. 2003]] and [[Ariely et al. 2006]] then extend it into anchoring, path-dependent valuation, and experience goods.
 
 ## Key distinctions
 
@@ -60,6 +63,8 @@ The first branch is the classic reversals-and-procedure branch. [[Slovic 1995]] 
 
 The second branch is the consumer-choice branch. [[Bettman et al. 2006 - Constructive Consumer Choice Processes (in Lichtenstein and Slovic 2006, ch. 17)]] matters because it moves the idea beyond gambling and valuation tasks. Preferences are not only distorted in special experiments; they can be assembled adaptively in ordinary consumer choice as people simplify, compare, and search under task-specific constraints. [[Ariely et al. 2003]] adds a later and more provocative extension: arbitrary anchors can generate stable-looking but path-dependent valuations, now tracked under [[Coherent arbitrariness]]. [[Ariely et al. 2006]] adds a related but distinct point for experience goods, where even direct sampling may fail to generate a settled evaluative ordering, which the vault tracks under [[Preference uncertainty]].
 
+[[Rabin 1998]] adds the reason-based branch. People may choose partly by searching for justifications rather than by consulting a pre-existing ordering. Compromise options, dominated alternatives, deferral, and salient reasons can all change what choice looks like. Melioration belongs here as an explanatory mechanism: people may make locally improving choices without maximizing global welfare. This is why [[Reason-based choice]] should be treated as a mechanism inside the constructed-preferences family rather than as a separate rival to it.
+
 The third branch is the welfare-and-policy branch. [[Horowitz and McConnell 2002]] matters here because large [[WTA-WTP asymmetry|WTA-WTP asymmetries]] show how valuation can depend on entitlement position and elicitation method rather than only on stable taste. [[Achtypi et al. 2021]] sharpens the point by showing that elicited buying and selling prices may mix desire for the object with market-price beliefs and good-deal reasoning. That does not make valuation arbitrary, but it does make the interpretation of reported WTP and WTA less transparent. [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] then states the larger implication directly: once construction effects are serious, the old ideal of [[Consumer sovereignty]] becomes much harder to interpret and [[Behavioral welfare economics]] becomes unavoidable. [[Bernheim 2025]] adds an important guardrail by insisting that this does not automatically show that policy makers can recover a deeper or truer preference ordering. Construction reveals a welfare problem, but not yet its solution.
 
 That is why the debate is both descriptive and normative. The descriptive claim is that elicitation, comparison, and context can help constitute preference. The normative claim is harder: if preferences are partly constructed at the moment of choice, what becomes of welfare analysis based on willingness to pay, revealed preference, or short-run acceptance? In the current vault, this is the point at which the page connects directly to paternalism, welfare interpretation, and institutional legitimacy.
@@ -70,7 +75,7 @@ This concept matters because much of economics and public policy assumes that ch
 
 ## Related pages
 
-The anchor sources are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]], [[Bettman et al. 2006 - Constructive Consumer Choice Processes (in Lichtenstein and Slovic 2006, ch. 17)]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Achtypi et al. 2021]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference]], [[Preference reversals]], [[Procedure invariance]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Anchoring]], [[Nonstandard preferences]], [[Behavioral law and economics]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the most relevant syntheses are [[What Behavioral Economics Thinks Rationality Is]] and [[Behavioral Public Policy and Its Competing Paradigms]].
+The anchor sources are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Rabin 1998]], [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]], [[Bettman et al. 2006 - Constructive Consumer Choice Processes (in Lichtenstein and Slovic 2006, ch. 17)]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Achtypi et al. 2021]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference]], [[Preference reversals]], [[Procedure invariance]], [[Reason-based choice]], [[Experienced utility]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Anchoring]], [[Nonstandard preferences]], [[Behavioral law and economics]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the most relevant syntheses are [[What Behavioral Economics Thinks Rationality Is]] and [[Behavioral Public Policy and Its Competing Paradigms]].
 
 ## Open questions
 

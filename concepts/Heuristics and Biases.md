@@ -5,9 +5,10 @@ status: active
 tags:
   - behavioral-economics
   - cognitive-psychology
-updated_on: 2026-04-24
-source_count: 44
+updated_on: 2026-04-26
+source_count: 45
 related_pages:
+  - [[Rabin 1998]]
   - [[Kahneman and Tversky 1996]]
   - [[Gigerenzer 1996]]
   - [[Kahneman et al. 1982]]
@@ -165,6 +166,8 @@ The foundational exchange here is the 1996 pair [[Kahneman and Tversky 1996]] an
 
 [[DellaVigna 2009]] matters because it asks which parts of the original program actually survive outside the lab and how they connect to field evidence on [[Nonstandard beliefs]] and [[Nonstandard decision-making]]. [[Fischhoff 1982 - Debiasing (in Kahneman et al. 1982, ch. 31)]], [[Arkes 1991]], and [[Soll et al. 2015]] matter because they show that the program never stopped at diagnosis. It also generated a corrective branch, now tracked under [[Debiasing]], that asks how errors can be reduced through training, better representations, or redesigned environments. [[Fischhoff 2002]] then gives that later branch a more explicit application-facing statement from inside the green book itself. [[Camerer et al. 2003]] shows how findings about predictable mistakes can be translated into a policy design standard under [[Asymmetric paternalism]]. [[Bini et al. 2026]] adds a further extension by using the heuristics-and-biases tradition as a way of benchmarking AI systems. These later moves do not define the original program, but they show why it remained central long after the initial experiments.
 
+[[Rabin 1998]] is important for this extension because it translates the judgment branch into economics-facing language. Base-rate neglect, the law of small numbers, regression neglect, belief perseverance, overconfidence, and self-serving inference matter not only as cognitive illusions, but because they alter economic prediction, bargaining, market behavior, and institutional design.
+
 ## Practical or policy relevance
 
 The concept matters because public reasoning, expert judgment, and institutional decision-making often occur under uncertainty, time pressure, and incomplete information. If the resulting errors are systematic, institutions can sometimes anticipate them and redesign procedures, disclosures, defaults, and safeguards accordingly. That is the route from the classic experimental program into [[Behavioral public policy]].
@@ -181,7 +184,7 @@ For the internal expansion of the program, start with [[Base-rate neglect]], [[L
 
 For reinterpretation and critique, start with [[Fast and slow thinking]], [[Logical intuitions]], [[Ecological rationality]], [[Adaptive toolbox]], and [[Rationality wars]].
 
-For downstream use, start with [[Debiasing]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Behavioral public policy]], [[Asymmetric paternalism]], and [[Behavioral economics of AI]].
+For downstream use, start with [[Rabin 1998]], [[Debiasing]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Behavioral public policy]], [[Asymmetric paternalism]], and [[Behavioral economics of AI]].
 
 ## Open questions
 

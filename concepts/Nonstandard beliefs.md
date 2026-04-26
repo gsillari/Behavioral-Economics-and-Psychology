@@ -5,9 +5,10 @@ status: active
 tags:
   - behavioral-economics
   - beliefs
-updated_on: 2026-04-25
-source_count: 21
+updated_on: 2026-04-26
+source_count: 22
 related_pages:
+  - [[Rabin 1998]]
   - [[Ajzen 1977]]
   - [[Bar-Hillel 1980]]
   - [[Fischhoff and Bar-Hillel 1984]]
@@ -40,6 +41,7 @@ related_pages:
   - [[Law of small numbers]]
   - [[Projection bias]]
   - [[Motivated reasoning]]
+  - [[Self-serving bias]]
   - [[Kunda 1990]]
   - [[Epley and Gilovich 2016]]
   - [[Stanovich and West 2007]]
@@ -58,7 +60,7 @@ related_pages:
 
 [[Nonstandard beliefs]] is the umbrella concept the current vault uses for departures from the standard assumption that people hold roughly correct, coherent, or well-calibrated beliefs about probabilities, states of the world, causal structure, and their own future behavior. The title is slightly awkward as a concept name, but it remains useful as a field-level organizing label because it captures a whole branch of behavioral work rather than a single mechanism.
 
-In the current vault, the concept matters because behavioral economics does not only revise preferences and decision procedures. It also revises what we should expect from belief formation itself. People may misread frequencies, overweight vivid scenarios, underuse base rates, project present tastes into the future, reason toward preferred conclusions, or react differently when uncertainty cannot be represented by one sharp probability.
+In the current vault, the concept matters because behavioral economics does not only revise preferences and decision procedures. It also revises what we should expect from belief formation itself. [[Rabin 1998]] is an important economics-facing map of this branch: people may misread frequencies, overweight vivid scenarios, underuse base rates, project present tastes into the future, reason toward preferred conclusions, or react differently when uncertainty cannot be represented by one sharp probability.
 
 ## Key distinctions
 
@@ -110,6 +112,8 @@ The fourth family is the motivated-belief branch. [[Kunda 1990]] argues that bel
 
 This branch matters because it breaks the simple picture in which nonstandard belief is only a matter of weak reasoning skill. Sometimes people reason actively, but in a direction that is already goal-laden.
 
+[[Rabin 1998]] gives this family a direct connection to economics by treating overconfidence, confirmation, belief perseverance, and self-serving inference as potential sources of market, bargaining, and institutional error. That matters because motivated belief is not merely a psychological curiosity; it can change negotiations, legal disputes, and policy evaluation whenever agents interpret the same evidence through interest-laden perspectives.
+
 ### 5. Beliefs about the self and the future
 
 [[Projection bias]] is especially important here. It captures the way present tastes and states can distort beliefs about future preferences and future behavior. In the DellaVigna framework, that makes it a bridge between the belief branch and the preference branch: people do not merely want unstable things, they also mispredict what they themselves will later want.
@@ -136,7 +140,7 @@ The practical value of the page is therefore diagnostic. It helps clarify that â
 
 ## Related pages
 
-The anchor sources are [[de Finetti 1937]], [[Savage 1954]], [[Ellsberg 1961]], [[Kahneman and Tversky 1972]], [[Tversky and Kahneman 1974]], [[Ajzen 1977]], [[Bar-Hillel 1980]], [[Fischhoff and Bar-Hillel 1984]], [[DellaVigna 2009]], and [[Fischhoff and Broomell 2020]]. The closest neighboring pages are [[Subjective probability]], [[Subjective expected utility theory]], [[Ambiguity aversion]], [[Base-rate neglect]], [[Conjunction fallacy]], [[Confirmation bias]], [[Probability neglect]], [[Overconfidence]], [[Illusion of control]], [[Law of small numbers]], [[Projection bias]], [[Hindsight bias]], [[Motivated reasoning]], [[Myside bias]], and [[Heuristics and Biases]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[de Finetti 1937]], [[Savage 1954]], [[Ellsberg 1961]], [[Rabin 1998]], [[Kahneman and Tversky 1972]], [[Tversky and Kahneman 1974]], [[Ajzen 1977]], [[Bar-Hillel 1980]], [[Fischhoff and Bar-Hillel 1984]], [[DellaVigna 2009]], and [[Fischhoff and Broomell 2020]]. The closest neighboring pages are [[Subjective probability]], [[Subjective expected utility theory]], [[Ambiguity aversion]], [[Base-rate neglect]], [[Conjunction fallacy]], [[Confirmation bias]], [[Probability neglect]], [[Overconfidence]], [[Illusion of control]], [[Law of small numbers]], [[Projection bias]], [[Hindsight bias]], [[Motivated reasoning]], [[Self-serving bias]], [[Myside bias]], and [[Heuristics and Biases]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

@@ -7,8 +7,8 @@ tags:
   - decision-theory
   - welfare
   - history-of-economics
-updated_on: 2026-04-19
-source_count: 4
+updated_on: 2026-04-26
+source_count: 5
 related_pages:
   - [[Preference]]
   - [[Heilmann and Reiss 2022]]
@@ -16,6 +16,7 @@ related_pages:
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
   - [[Hands 2010]]
   - [[Bruni and Sugden 2007]]
+  - [[Rabin 1998]]
   - [[Paretian turn]]
   - [[Behaviorism]]
   - [[Utility theory]]
@@ -23,6 +24,8 @@ related_pages:
   - [[Consumer sovereignty]]
   - [[Behavioral welfare economics]]
   - [[Constructed preferences]]
+  - [[Experienced utility]]
+  - [[Reason-based choice]]
   - [[Behavioral public policy]]
   - [[Behavioral Public Policy and Its Competing Paradigms]]
   - [[Behavioral Economics]]
@@ -45,13 +48,15 @@ It also differs from later behavioral critiques of welfare inference. In the cur
 
 ## Why it matters here
 
-This concept matters because it sits at the hinge between formal consumer theory and later behavioral criticism. The theory helped stabilize the idea that economists can infer preference from choice without relying on introspection. That methodological move then became a welfare template as well: if stable choice reveals preference, and preference satisfaction tracks welfare, then economists have a disciplined reason to defer to consumer choice. Later behavioral work pressures exactly that chain of inference by showing framing effects, preference reversals, context dependence, and construction effects.
+This concept matters because it sits at the hinge between formal consumer theory and later behavioral criticism. The theory helped stabilize the idea that economists can infer preference from choice without relying on introspection. That methodological move then became a welfare template as well: if stable choice reveals preference, and preference satisfaction tracks welfare, then economists have a disciplined reason to defer to consumer choice. Later behavioral work pressures exactly that chain of inference by showing framing effects, preference reversals, context dependence, construction effects, reason-dependent choice, and gaps between decision utility and [[Experienced utility]].
 
 Hands adds an important historical qualification. Revealed preference should not be read as the neutral endpoint of a simple escape from psychology. It was one specific solution to the problem of scientific legitimacy, and it bore the marks of [[Behaviorism]] much more strongly than the broader ordinal revolution did. [[Bruni and Sugden 2007]] deepens that qualification by arguing that revealed-preference and `discovered preference` defenses also inherit the unresolved problems of the [[Paretian turn]]: they narrow the domain in which rational-choice theory is meant to apply, and they still need an explanation of why the preferences they posit should be stable and consistent.
 
+[[Rabin 1998]] adds the behavioral pressure point most directly relevant to welfare. If choice can be shaped by available reasons, local melioration, or mistaken forecasts of experienced welfare, then observed choice is still evidence, but it is not automatically the final word on preference or welfare.
+
 ## Related pages
 
-The anchor sources are [[Hands 2010]], [[Bruni and Sugden 2007]], [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], and [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]. The nearest neighboring pages are [[Preference]], [[Paretian turn]], [[Utility theory]], [[Behaviorism]], [[Ordinal utility theory]], [[Consumer sovereignty]], [[Behavioral welfare economics]], [[Constructed preferences]], [[Behavioral public policy]], [[Behavioral Public Policy and Its Competing Paradigms]], [[Behavioral Economics]], and [[Foundations and Rationality]].
+The anchor sources are [[Hands 2010]], [[Bruni and Sugden 2007]], [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]], and [[Rabin 1998]]. The nearest neighboring pages are [[Preference]], [[Paretian turn]], [[Utility theory]], [[Behaviorism]], [[Ordinal utility theory]], [[Consumer sovereignty]], [[Behavioral welfare economics]], [[Constructed preferences]], [[Reason-based choice]], [[Experienced utility]], [[Behavioral public policy]], [[Behavioral Public Policy and Its Competing Paradigms]], [[Behavioral Economics]], and [[Foundations and Rationality]].
 
 ## Open questions
 

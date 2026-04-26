@@ -6,8 +6,8 @@ tags:
   - economics
   - decision-theory
   - history-of-economics
-updated_on: 2026-04-25
-source_count: 5
+updated_on: 2026-04-26
+source_count: 6
 related_pages:
   - [[Preference]]
   - [[von Neumann and Morgenstern 1944]]
@@ -17,6 +17,8 @@ related_pages:
   - [[Hands 2010]]
   - [[Savage 1954]]
   - [[Savage 1954 - Chapter 05 - Utility]]
+  - [[Rabin 1998]]
+  - [[Experienced utility]]
   - [[Ordinal utility theory]]
   - [[Revealed preference theory]]
   - [[Expected utility theory]]
@@ -38,7 +40,7 @@ The second transformation is the revealed-preference and behaviorist turn. [[Han
 
 The third transformation is the decision-theoretic reconstruction. [[Von Neumann-Morgenstern utility theory]] reintroduces numerical utility, but in a new way: not as measurable pleasure, but as a representation of preferences over probabilistic alternatives. [[Subjective expected utility theory]], anchored in [[Savage 1954]], then extends the architecture to acts under uncertainty, where utility is joined to personal probability.
 
-So the concept should not be read as one doctrine with one meaning of utility. It is a historical family of representational strategies: utility as experienced value, utility as ordinal ranking, utility as revealed choice, utility as risk-side expected-utility representation, and utility as part of a broader theory of uncertain acts. That is why behavioral economics does not attack "utility theory" in general. Different behavioral challenges hit different stages of this family.
+So the concept should not be read as one doctrine with one meaning of utility. It is a historical family of representational strategies: utility as experienced value, utility as ordinal ranking, utility as revealed choice, utility as risk-side expected-utility representation, and utility as part of a broader theory of uncertain acts. [[Rabin 1998]] makes the older experienced-value meaning newly important by distinguishing choice-based decision utility from [[Experienced utility]]. That is why behavioral economics does not attack "utility theory" in general. Different behavioral challenges hit different stages of this family.
 
 ## Key distinctions
 
@@ -48,13 +50,13 @@ The page also matters because it blocks a common simplification. Utility theory 
 
 ## Why it matters here
 
-This concept matters because it gives the foundations branch historical continuity. Without it, the vault jumps too quickly from revealed preference and expected utility to behavioral criticism. With it, the sequence becomes easier to teach: utility was first a theory of value and satisfaction, later a theory of ranking, later a theory of observed choice, and later again a decision-theoretic theory of evaluation under risk and uncertainty.
+This concept matters because it gives the foundations branch historical continuity. Without it, the vault jumps too quickly from revealed preference and expected utility to behavioral criticism. With it, the sequence becomes easier to teach: utility was first a theory of value and satisfaction, later a theory of ranking, later a theory of observed choice, and later again a decision-theoretic theory of evaluation under risk and uncertainty. Behavioral economics then partly reopens the older question of lived welfare through [[Experienced utility]].
 
 [[Hands 2010]] is useful here because it clarifies the methodological pressure behind ordinalism and revealed preference. [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]] then shows how numerical utility could re-enter economics through preferences over probabilistic alternatives rather than through introspective measurement. [[Savage 1954 - Chapter 05 - Utility]] shows that the later utility tradition did not stop with risk-side models of lotteries. Savage rebuilds utility as part of a larger theory of acts, evidence, and uncertainty.
 
 ## Related pages
 
-The main historical anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], with [[Hands 2010]] as the key methodological complement. The main twentieth-century risk-side reconstruction is [[Von Neumann-Morgenstern utility theory]], anchored by [[von Neumann and Morgenstern 1944]]. The main uncertainty-side reconstruction is [[Savage 1954]], especially [[Savage 1954 - Chapter 05 - Utility]]. The nearest neighboring pages are [[Preference]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Prospect Theory]], and [[Foundations and Rationality]].
+The main historical anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], with [[Hands 2010]] as the key methodological complement. The main twentieth-century risk-side reconstruction is [[Von Neumann-Morgenstern utility theory]], anchored by [[von Neumann and Morgenstern 1944]]. The main uncertainty-side reconstruction is [[Savage 1954]], especially [[Savage 1954 - Chapter 05 - Utility]]. [[Rabin 1998]] is the key behavioral bridge to [[Experienced utility]]. The nearest neighboring pages are [[Preference]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Prospect Theory]], [[Experienced utility]], and [[Foundations and Rationality]].
 
 ## Open questions
 
