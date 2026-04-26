@@ -5,8 +5,8 @@ status: active
 tags:
   - behavioral-economics
   - microeconomics
-updated_on: 2026-04-19
-source_count: 11
+updated_on: 2026-04-26
+source_count: 12
 related_pages:
   - [[Preference]]
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
@@ -15,6 +15,7 @@ related_pages:
   - [[Fischhoff and Broomell 2020]]
   - [[Benartzi and Thaler 1995]]
   - [[DellaVigna 2009]]
+  - [[O'Donoghue and Rabin 1999]]
   - [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]]
   - [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]]
   - [[Ariely et al. 2003]]
@@ -39,7 +40,7 @@ to be REVIEWED
 
 ## Core idea
 
-[[Nonstandard preferences]] refers to departures from the standard economic assumption that [[Preference|preferences]] are stable, time-consistent, self-interested, and independent of framing or reference points. In the current vault, the anchor sources are [[DellaVigna 2009]], which uses this category to organize field evidence on [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]], [[Benartzi and Thaler 1995]], which shows how reference-dependent loss sensitivity can be used to explain the [[Equity premium puzzle]] through [[Myopic loss aversion]], [[Ariely et al. 2003]], which adds a challenge through [[Constructed preferences]] and [[Coherent arbitrariness]], and [[Ariely et al. 2006]], which extends that challenge into experiential goods through [[Preference uncertainty]]. [[Fischhoff and Broomell 2020]] gives this branch an additional methodological foundation by clarifying that preference research lacks an accuracy criterion but still depends on consistency standards and on the practical possibility of eliciting meaningful preferences at all.
+[[Nonstandard preferences]] refers to departures from the standard economic assumption that [[Preference|preferences]] are stable, time-consistent, self-interested, and independent of framing or reference points. In the current vault, the anchor sources are [[DellaVigna 2009]], which uses this category to organize field evidence on [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]], [[O'Donoghue and Rabin 1999]], which gives the time-inconsistency branch a precise model of present bias and sophistication versus naivete, [[Benartzi and Thaler 1995]], which shows how reference-dependent loss sensitivity can be used to explain the [[Equity premium puzzle]] through [[Myopic loss aversion]], [[Ariely et al. 2003]], which adds a challenge through [[Constructed preferences]] and [[Coherent arbitrariness]], and [[Ariely et al. 2006]], which extends that challenge into experiential goods through [[Preference uncertainty]]. [[Fischhoff and Broomell 2020]] gives this branch an additional methodological foundation by clarifying that preference research lacks an accuracy criterion but still depends on consistency standards and on the practical possibility of eliciting meaningful preferences at all.
 
 ## Key distinctions
 
@@ -52,6 +53,7 @@ The evidence includes self-control problems in savings and consumption, referenc
 That is one reason this page should remain one of the most central children of the DellaVigna branch.
 
 [[Benartzi and Thaler 1995]] extends this picture into finance by arguing that prospect-theoretic loss sensitivity plus short evaluation horizons can shape portfolio choice strongly enough to address the [[Equity premium puzzle]].
+[[O'Donoghue and Rabin 1999]] gives the intertemporal-preference branch its most useful compact architecture. Present bias can produce procrastination for immediate-cost activities and preproperation for immediate-reward activities, while the distinction between sophisticated and naive agents explains why some people seek commitment and others repeatedly mispredict their own future discipline. That makes time inconsistency a structured family of nonstandard preferences, not just a loose observation that people sometimes lack willpower.
 [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]] strengthens the intertemporal side by arguing that many apparent differences in discounting are better understood through a richer value structure than through a single stable discount rate.
 [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]] sharpens the debate on construction by showing how joint and separate evaluation change the weight of attributes through evaluability.
 [[Ariely et al. 2003]] then sharpens the debate further by suggesting that preferences may sometimes be partly constructed during elicitation, with arbitrary anchors helping determine valuation levels while preserving stable-looking relative demand.
@@ -70,7 +72,7 @@ This concept matters because many behaviorally informed interventions start by a
 
 ## Related pages
 
-The anchor sources are [[DellaVigna 2009]], [[Benartzi and Thaler 1995]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Fischhoff and Broomell 2020]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference]], [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[Constructed preferences]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Prospect Theory]], and [[Internalities]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[DellaVigna 2009]], [[O'Donoghue and Rabin 1999]], [[Benartzi and Thaler 1995]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Fischhoff and Broomell 2020]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference]], [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[Constructed preferences]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Prospect Theory]], and [[Internalities]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

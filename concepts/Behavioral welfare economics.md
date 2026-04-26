@@ -6,17 +6,20 @@ tags:
   - welfare
   - behavioral-public-policy
   - behavioral-economics
-updated_on: 2026-04-19
-source_count: 2
+updated_on: 2026-04-26
+source_count: 3
 related_pages:
   - [[Preference]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Bernheim 2025]]
+  - [[O'Donoghue and Rabin 1999]]
   - [[Consumer sovereignty]]
   - [[Behavioral public policy]]
   - [[Behavioral law and economics]]
   - [[Constructed preferences]]
   - [[Preference uncertainty]]
+  - [[Time inconsistency]]
+  - [[Internalities]]
   - [[Revealed preference theory]]
   - [[Behavioral Public Policy and Its Competing Paradigms]]
 ---
@@ -25,7 +28,7 @@ related_pages:
 
 ## Core idea
 
-[[Behavioral welfare economics]] is the attempt to rethink welfare analysis once actual choice no longer looks like a transparent guide to what people value. In the current vault, [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] now gives the cleanest overview of that project, while [[Bernheim 2025]] gives one of its strongest internal restrictions.
+[[Behavioral welfare economics]] is the attempt to rethink welfare analysis once actual choice no longer looks like a transparent guide to what people value. In the current vault, [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] now gives the cleanest overview of that project, [[Bernheim 2025]] gives one of its strongest internal restrictions, and [[O'Donoghue and Rabin 1999]] supplies a canonical self-control case in which current choice may conflict with the chooser's own temporally extended welfare.
 
 ## Key distinctions
 
@@ -37,13 +40,13 @@ That gives the field a three-step structure. Standard welfare economics says tha
 
 ## Why it matters here
 
-This concept matters because much of the vault's policy debate turns on it, even when the phrase is not used explicitly. If preferences are partly [[Constructed preferences|constructed]], if people display [[Preference uncertainty]], or if observed choice depends heavily on framing and timing, then policy cannot simply defer to current choice without further argument. But the page also matters because it blocks an equally quick move in the opposite direction: once observed choice becomes unreliable, analysts still need a defensible account of what should replace it. That is where the Bernheim and Sugden cautions become central.
+This concept matters because much of the vault's policy debate turns on it, even when the phrase is not used explicitly. If preferences are partly [[Constructed preferences|constructed]], if people display [[Preference uncertainty]], or if observed choice depends heavily on framing and timing, then policy cannot simply defer to current choice without further argument. [[O'Donoghue and Rabin 1999]] makes the timing problem especially vivid: eating, smoking, saving, or delaying a task may look like ordinary preference satisfaction or like a present self imposing costs on a later self. But the page also matters because it blocks an equally quick move in the opposite direction: once observed choice becomes unreliable, analysts still need a defensible account of what should replace it. That is where the Bernheim and Sugden cautions become central.
 
 For that reason, behavioral welfare economics is not just "welfare economics plus biases." It is a dispute about whether a choice pattern records a mistake, a conflict between short-run and long-run aims, an unsettled valuation, or simply an analyst's overconfident benchmark. That is why the concept sits so close to both [[Behavioral public policy]] and the philosophy of preference.
 
 ## Related pages
 
-The main anchors are [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] and [[Bernheim 2025]]. The nearest neighboring pages are [[Preference]], [[Consumer sovereignty]], [[Behavioral public policy]], [[Behavioral law and economics]], [[Constructed preferences]], [[Preference uncertainty]], [[Revealed preference theory]], and [[Behavioral Public Policy and Its Competing Paradigms]].
+The main anchors are [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]], [[Bernheim 2025]], and [[O'Donoghue and Rabin 1999]]. The nearest neighboring pages are [[Preference]], [[Consumer sovereignty]], [[Behavioral public policy]], [[Behavioral law and economics]], [[Constructed preferences]], [[Preference uncertainty]], [[Time inconsistency]], [[Internalities]], [[Revealed preference theory]], and [[Behavioral Public Policy and Its Competing Paradigms]].
 
 ## Open questions
 

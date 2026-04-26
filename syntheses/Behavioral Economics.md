@@ -4,7 +4,7 @@ page_type: syntheses
 status: active
 tags:
   - synthesis
-updated_on: 2026-04-25
+updated_on: 2026-04-26
 related_pages:
   - - - Behavioral Economics Wiki
   - - - Foundations and Rationality
@@ -80,6 +80,7 @@ related_pages:
   - - - Camerer et al. 2003
   - - - Sunstein and Thaler 2003
   - - - DellaVigna 2009
+  - - - O'Donoghue and Rabin 1999
   - - - Schnellenbach and Schubert 2015
   - - - Mercer 2005
   - - - Levy 1997
@@ -196,6 +197,7 @@ Read in that way, the historical backbone becomes clearer.
 
 The later branches are easier to read once the field is seen as cumulative.
 [[DellaVigna 2009]] surveys the field evidence behind many behavioral claims and now anchors a large taxonomy of mechanisms in the field.
+[[O'Donoghue and Rabin 1999]] gives that taxonomy a crucial formal source for the self-control branch by distinguishing present bias, procrastination, preproperation, sophistication, and naivete.
 [[Madrian 2014]] shows how those behavioral frictions can be translated into policy design.
 [[Camerer and Loewenstein 2004]] is therefore not just a summary source.
 It is one of the pages that makes the overall structure of [[Behavioral Economics]] visible.

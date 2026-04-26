@@ -5,8 +5,8 @@ status: active
 tags:
   - behavioral-public-policy
   - policy
-updated_on: 2026-04-22
-source_count: 51
+updated_on: 2026-04-26
+source_count: 52
 related_pages:
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Debiasing]]
@@ -31,6 +31,7 @@ related_pages:
   - [[Fischhoff and Broomell 2020]]
   - [[Schnellenbach and Schubert 2015]]
   - [[Laibson and List 2015]]
+  - [[O'Donoghue and Rabin 1999]]
   - [[Ludwig et al. 2024]]
   - [[Angwin et al. 2016]]
   - [[Kleinberg et al. 2016]]
@@ -151,7 +152,7 @@ This bridge matters because it turns behavioral public policy into a redesign of
 
 ## The First Problem: Diagnosis
 
-Behavioral policy begins with a diagnosis of the friction at issue. [[DellaVigna 2009]] and [[Madrian 2014]] are especially important here. They push the field away from a generic "people are biased" story and toward a mechanism-by-mechanism approach.
+Behavioral policy begins with a diagnosis of the friction at issue. [[DellaVigna 2009]], [[Madrian 2014]], and [[O'Donoghue and Rabin 1999]] are especially important here. They push the field away from a generic "people are biased" story and toward a mechanism-by-mechanism approach. O'Donoghue and Rabin are particularly useful for the self-control branch because they distinguish present bias from ordinary impatience, immediate-cost procrastination from immediate-reward preproperation, and sophisticated demand for commitment from naive overconfidence about future discipline.
 
 Different mechanisms call for different policy responses:
 
@@ -166,7 +167,7 @@ This is one reason the concept should not collapse into nudging. The field is pa
 
 Behavioral policy also has to decide what counts as helping people. This is where the concept becomes philosophically difficult, and in the current vault the welfare problem is best understood in three steps.
 
-The first step is the destabilization of revealed welfare. [[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] show that preferences may be partly constructed in elicitation rather than simply waiting to be revealed. [[Ariely et al. 2006]] sharpens that point through [[Preference uncertainty]], where even experienced goods may fail to produce a settled ranking. [[Thaler 1985]] adds a different mechanism through [[Mental accounting]], and [[Frederick et al. 2009]] adds another through [[Opportunity cost neglect]]. Taken together, these sources show why policy cannot simply read welfare off willingness to pay, default acceptance, or short-run choice.
+The first step is the destabilization of revealed welfare. [[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] show that preferences may be partly constructed in elicitation rather than simply waiting to be revealed. [[Ariely et al. 2006]] sharpens that point through [[Preference uncertainty]], where even experienced goods may fail to produce a settled ranking. [[O'Donoghue and Rabin 1999]] adds the temporal version of the same difficulty: a short-run choice may be an expression of preference, but it may also be a present-biased action that the same person would resist from a more distant standpoint. [[Thaler 1985]] adds a different mechanism through [[Mental accounting]], and [[Frederick et al. 2009]] adds another through [[Opportunity cost neglect]]. Taken together, these sources show why policy cannot simply read welfare off willingness to pay, default acceptance, or short-run choice.
 
 The second step is the reconstructive response. [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] is especially useful here because it names the issue directly: once behavioral evidence destabilizes revealed preference, policy has to decide how much of [[Consumer sovereignty]] it can preserve and what should replace it where it fails. This is the problem space of [[Behavioral welfare economics]]. Many behavioral-policy arguments respond by trying to identify a better ordering than the observed one: long-run interests, more reflective judgments, preferences under full attention, or choices purged of error.
 
