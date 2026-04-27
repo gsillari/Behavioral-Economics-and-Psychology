@@ -6,7 +6,7 @@ tags:
   - home
   - landing-page
   - behavioral-economics
-updated_on: 2026-04-07
+updated_on: 2026-04-27
 related_pages:
   - [[Behavioral Economics]]
   - [[What Behavioral Economics Thinks Rationality Is]]
@@ -106,7 +106,7 @@ This branch covers the main alternative to bias-first interpretations of reasoni
 
 ### 7. [[AI, Algorithms, and New Frontiers]]
 
-This branch covers recent extensions of behavioral economics into AI, machine learning, and new forms of judgment and decision support. Key pages include [[Behavioral economics of AI]], [[Behavioral economics of AI]], and [[Behavioral economics of AI]].
+This branch covers recent extensions of behavioral economics into AI, machine learning, and new forms of judgment and decision support. Key pages include [[Behavioral economics of AI]], [[Algorithmic bias]], [[Clinical versus actuarial judgment]], [[Predictive optimization]], and [[Algorithmic harm]].
 
 ## Key syntheses
 

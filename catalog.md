@@ -1,6 +1,6 @@
 # Wiki Catalog
 
-Updated: 2026-04-26
+Updated: 2026-04-27
 
 Read this file first when answering questions from the wiki. It is the machine-friendly catalog of durable pages and should stay current as the vault grows.
 
