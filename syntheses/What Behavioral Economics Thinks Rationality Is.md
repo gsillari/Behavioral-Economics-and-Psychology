@@ -6,10 +6,12 @@ tags:
   - behavioral-economics
   - philosophy
   - ppe
-updated_on: 2026-04-25
+updated_on: 2026-04-27
 query: What does behavioral economics think rationality is?
 generated_on: 2026-04-05
 sources_used:
+  - [[Wason 1968]]
+  - [[Cosmides and Tooby 2000]]
   - [[Camerer and Loewenstein 2004]]
   - [[Bruni and Sugden 2007]]
   - [[Hands 2010]]
@@ -60,6 +62,9 @@ sources_used:
   - [[Bernheim 2025]]
   - [[Bini et al. 2026]]
 related_pages:
+  - [[Wason 1968]]
+  - [[Cosmides and Tooby 2000]]
+  - [[Wason selection task]]
   - [[Behavioral Economics]]
   - [[Herbert A. Simon]]
   - [[Simon 1955]]
@@ -188,7 +193,7 @@ The key claim is not that cognition is random, but that it is patterned.
 This gives behavioral economics one of its enduring themes: humans regularly depart from formal standards, and those departures are systematic enough to study.
 It also fixes one of the main normative targets of the field, because the source treats probability theory and related statistical norms as the background against which bias becomes visible.
 
-[[Evans 2008]] and [[Evans and Stanovich 2013]] make clear that this debate is also about cognitive architecture. They supply a broad dual-process framework in which intuitive and reflective reasoning are treated as importantly different kinds of processing, with the later Evans-Stanovich paper sharpening the vocabulary into type 1 and type 2 processing. [[De Neys 2012]] and [[De Neys 2023]] then complicate a simple reading of that story. They suggest that biased responders may still register conflict and show [[Logical intuitions]], and that [[Fast and slow thinking]] should not be modeled as a crude contrast between an illogical intuitive system and a fully corrective reflective system. This matters because it weakens the temptation to equate intuitive response with norm blindness. Rationality in behavioral economics is therefore not only a question of whether people get the right answer, but also of whether they detect that a tempting answer conflicts with a better one and of how cognition itself should be modeled.
+[[Wason 1968]] gives this architecture debate one of its classic task anchors. The [[Wason selection task]] makes the difference between a matching or confirming response and a falsification response visible in a very small experimental design. [[Cosmides and Tooby 2000]] then complicates the lesson by showing why the same task family can be read as evidence for specialized social-reasoning competence rather than only as failure of logic. [[Evans 2008]] and [[Evans and Stanovich 2013]] make clear that this debate is also about cognitive architecture. They supply a broad dual-process framework in which intuitive and reflective reasoning are treated as importantly different kinds of processing, with the later Evans-Stanovich paper sharpening the vocabulary into type 1 and type 2 processing. [[De Neys 2012]] and [[De Neys 2023]] then complicate a simple reading of that story. They suggest that biased responders may still register conflict and show [[Logical intuitions]], and that [[Fast and slow thinking]] should not be modeled as a crude contrast between an illogical intuitive system and a fully corrective reflective system. This matters because it weakens the temptation to equate intuitive response with norm blindness. Rationality in behavioral economics is therefore not only a question of whether people get the right answer, but also of whether they detect that a tempting answer conflicts with a better one and of how cognition itself should be modeled.
 
 ## Prospect theory and the move from anomaly to model
 

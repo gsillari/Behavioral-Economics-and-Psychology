@@ -7,9 +7,12 @@ tags:
   - ppe
   - behavioral-economics
   - rationality
-updated_on: 2026-04-25
+updated_on: 2026-04-27
 related_pages:
   - [[Behavioral Economics]]
+  - [[Wason 1968]]
+  - [[Cosmides and Tooby 2000]]
+  - [[Wason selection task]]
   - [[Standard Rationality and Its Limits]]
   - [[Competing Views of Rationality]]
   - [[Cognitive Architectures of Judgment]]
@@ -56,11 +59,11 @@ This branch introduces the classical benchmarks of rational choice and rational 
 
 ### 1.2 [[Competing Views of Rationality]]
 
-This branch asks what replaces or revises the classical benchmark once behavioral critique begins. Its core pages are [[Bounded rationality]], [[Rationality wars]], [[Ecological rationality]], [[Evolutionary psychology]], and [[Argumentative theory of reasoning]]. The historical anchor here is now [[Simon 1955]], which gives [[Bounded rationality]] the status of a major conceptual alternative rather than a later add-on, while [[Mercier and Sperber 2011]] adds a later but important challenge at the level of what reasoning is for. [[Rich 2016]] now helps clarify that benchmark competition can also end in hybrid or purpose-relative evaluation rather than in simple victory for one side.
+This branch asks what replaces or revises the classical benchmark once behavioral critique begins. Its core pages are [[Bounded rationality]], [[Rationality wars]], [[Ecological rationality]], [[Evolutionary psychology]], [[Wason selection task]], and [[Argumentative theory of reasoning]]. The historical anchor here is now [[Simon 1955]], which gives [[Bounded rationality]] the status of a major conceptual alternative rather than a later add-on. [[Wason 1968]] gives the branch a compact experimental paradigm for formal-reasoning failure, while [[Cosmides and Tooby 2000]] shows how the same paradigm can be reinterpreted through evolved social-reasoning mechanisms. [[Mercier and Sperber 2011]] adds a later but important challenge at the level of what reasoning is for. [[Rich 2016]] now helps clarify that benchmark competition can also end in hybrid or purpose-relative evaluation rather than in simple victory for one side.
 
 ### 1.3 [[Cognitive Architectures of Judgment]]
 
-This branch moves from benchmark failure to process explanation. Its core pages are [[Fast and slow thinking]], [[Logical intuitions]], and [[Heuristics and Biases]].
+This branch moves from benchmark failure to process explanation. Its core pages are [[Fast and slow thinking]], [[Logical intuitions]], [[Wason selection task]], and [[Heuristics and Biases]].
 
 ### 1.4 [[Scope and Method of Behavioral Economics]]
 

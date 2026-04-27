@@ -5,9 +5,12 @@ status: active
 tags:
   - behavioral-economics
   - cognitive-psychology
-updated_on: 2026-04-26
-source_count: 45
+updated_on: 2026-04-27
+source_count: 47
 related_pages:
+  - [[Wason 1968]]
+  - [[Cosmides and Tooby 2000]]
+  - [[Wason selection task]]
   - [[Rabin 1998]]
   - [[Kahneman and Tversky 1996]]
   - [[Gigerenzer 1996]]
@@ -110,6 +113,8 @@ The concept differs from [[Prospect Theory]]. [[Heuristics and Biases]] is a pro
 
 It also differs from [[Fast and slow thinking]]. The heuristics-and-biases tradition is an empirical program about recurring patterns of judgment. Dual-process theory is one later way of interpreting those patterns in terms of cognitive architecture.
 
+It also differs from the [[Wason selection task]], though the two are closely connected in teaching. Wason's task is a conditional-reasoning paradigm about rule testing and falsification. It belongs near confirmation bias because subjects often seek matching or confirming cases, but it is not simply one of the original heuristic families.
+
 Most importantly, the program differs from looser talk about “cognitive bias” because its findings are tied to benchmark norms. A judgment counts as biased here because it departs from probability theory, statistical reasoning, Bayesian updating, or related ideals of disciplined inference. That is why this page belongs in the rationality branch of the vault, not only in a psychology branch.
 
 ## The Original Program
@@ -158,6 +163,8 @@ The original program did not remain intellectually stable. In the current vault,
 
 [[Evans 2008]] and [[Evans and Stanovich 2013]] show how the classic findings were absorbed into a broader architecture of [[Fast and slow thinking]]. This does not settle the meaning of the bias findings, but it explains why heuristics-and-biases became central to wider disputes about cognitive architecture. [[De Neys 2012]] and [[De Neys 2023]] then revise that interpretation by arguing that intuitive responders may detect conflict and that the old picture of blind intuition plus corrective reflection is too simple.
 
+[[Wason 1968]] and [[Cosmides and Tooby 2000]] add a useful neighboring reasoning paradigm. Wason's abstract selection task appears to support a bias-centered story about confirmation and failure to seek falsification. Cosmides and Tooby use social-contract versions of the same task to argue that content can reveal specialized competence rather than merely disguise error. That pair makes the heuristics-and-biases branch more careful: the lesson of a norm violation depends partly on task interpretation and partly on the cognitive machinery the task recruits.
+
 ### Ecological Critique
 
 The foundational exchange here is the 1996 pair [[Kahneman and Tversky 1996]] and [[Gigerenzer 1996]]. Kahneman and Tversky defend the reality of cognitive illusions and insist that large inferential errors survive methodological objections more often than Gigerenzer allows. Gigerenzer's reply is that the deeper problem is not only empirical but methodological: the norms are too narrow and the heuristics too vaguely specified. That exchange matters because it is where the later [[Rationality wars]] become fully explicit inside this branch. [[Gigerenzer 2008]] is then the strongest direct positive challenge in the vault. It does not deny that people use heuristics. It denies that the right evaluative question is always whether they approximate one universal formal standard. This is the major route from [[Heuristics and Biases]] into [[Ecological rationality]], the [[Adaptive toolbox]], and the broader [[Rationality wars]]. [[Gigerenzer et al. 2002]] is especially useful here because it places the fast-and-frugal challenge inside the green book itself. [[Samuels et al. 2002]] matters because it adds the caution that some famous clashes around the program are partly rhetorical or benchmark-dependent rather than cleanly substantive.
@@ -182,7 +189,7 @@ For the canonical mechanisms, start with [[Representativeness heuristic]], [[Ava
 
 For the internal expansion of the program, start with [[Base-rate neglect]], [[Law of small numbers]], [[Conjunction fallacy]], [[Hindsight bias]], [[Confirmation bias]], [[Probability neglect]], [[Illusion of control]], and [[Overconfidence]].
 
-For reinterpretation and critique, start with [[Fast and slow thinking]], [[Logical intuitions]], [[Ecological rationality]], [[Adaptive toolbox]], and [[Rationality wars]].
+For reinterpretation and critique, start with [[Wason selection task]], [[Fast and slow thinking]], [[Logical intuitions]], [[Ecological rationality]], [[Adaptive toolbox]], [[Evolutionary psychology]], and [[Rationality wars]].
 
 For downstream use, start with [[Rabin 1998]], [[Debiasing]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Behavioral public policy]], [[Asymmetric paternalism]], and [[Behavioral economics of AI]].
 
