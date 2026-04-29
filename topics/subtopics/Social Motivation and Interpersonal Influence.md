@@ -17,6 +17,8 @@ related_pages:
   - [[Dictator game]]
   - [[Trust game]]
   - [[Public goods game]]
+  - [[Experimental games]]
+  - [[Cultural variation in social preferences]]
   - [[Cooperation]]
   - [[Free riding]]
   - [[Conditional cooperation]]
@@ -38,6 +40,6 @@ This topic gathers the parts of the vault where behavior is shaped by fairness, 
 
 ## Current focus
 
-The topic now has a game-theory entry path. [[Ultimatum game]], [[Dictator game]], and [[Trust game]] introduce the experimental settings through which fairness, giving, trust, reciprocity, and betrayal became economically visible. [[Public goods game]] adds the collective-action side: [[Free riding]] creates the standard problem, [[Conditional cooperation]] explains why cooperation can decay without universal selfishness, and [[Costly punishment]] shows how norm enforcement can stabilize contribution. [[Inequity aversion]] and [[Reciprocity]] then show two ways those patterns are formalized: as concern with unequal outcomes or as response to perceived kindness and unkindness.
+The topic now has a game-theory entry path. [[Experimental games]] is the methodological hub. [[Ultimatum game]], [[Dictator game]], and [[Trust game]] introduce the experimental settings through which fairness, giving, trust, reciprocity, and betrayal became economically visible. [[Public goods game]] adds the collective-action side: [[Free riding]] creates the standard problem, [[Conditional cooperation]] explains why cooperation can decay without universal selfishness, and [[Costly punishment]] shows how norm enforcement can stabilize contribution. [[Cultural variation in social preferences]] now adds the anthropological correction: these motives are real, but their expression varies across societies and local social worlds. [[Inequity aversion]] and [[Reciprocity]] then show two ways those patterns are formalized: as concern with unequal outcomes or as response to perceived kindness and unkindness.
 
 A later drafting pass should connect this branch more fully to field settings: labor markets, bargaining, compliance, institutional legitimacy, and public policy.

@@ -7,7 +7,7 @@ tags:
   - social-behavior
   - behavioral-law
 updated_on: 2026-04-29
-source_count: 10
+source_count: 11
 related_pages:
   - [[Rabin 1998]]
   - [[Rabin 1993]]
@@ -17,6 +17,7 @@ related_pages:
   - [[Berg et al. 1995]]
   - [[Bohnet and Zeckhauser 2004]]
   - [[Fehr and Gachter 2000]]
+  - [[Henrich et al. 2004]]
   - [[Jolls et al. 1998]]
   - [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]]
   - [[Game theory]]
@@ -27,6 +28,8 @@ related_pages:
   - [[Cooperation]]
   - [[Free riding]]
   - [[Costly punishment]]
+  - [[Cultural variation in social preferences]]
+  - [[Experimental games]]
   - [[Inequity aversion]]
   - [[Reciprocity]]
   - [[Trust]]
@@ -74,6 +77,8 @@ The fifth distinction is between interpersonal fairness and algorithmic fairness
 
 [[Fehr and Gachter 2000]] brings fairness into the public-goods branch. Cooperators punish free riders even when punishment is costly, suggesting that unfair exploitation in a social dilemma can trigger norm enforcement rather than passive withdrawal alone.
 
+[[Henrich et al. 2004]] adds the cross-cultural caution. Fairness is not a single universal response pattern that can be read off from student ultimatum games. Offers, rejections, and public-goods contributions vary across societies, and the variation appears connected to local norms, market integration, anonymity, and payoffs to cooperation.
+
 [[Jolls et al. 1998]] imports fairness into behavioral law and economics through the language of bounded self-interest. Legal rules, bargaining settings, compliance, and institutional legitimacy often depend on fairness perceptions rather than only on deterrence or price incentives. [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]] then complicates the branch by showing that fairness judgments can themselves be biased by role and interest.
 
 ## Practical or policy relevance
@@ -82,7 +87,7 @@ This concept matters because institutions frequently rely on fairness perception
 
 ## Related pages
 
-The anchor sources are [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Rabin 1998]], [[Rabin 1993]], [[Fehr and Schmidt 1999]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Fehr and Gachter 2000]], [[Jolls et al. 1998]], and [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]]. The closest neighboring pages are [[Social preferences]], [[Game theory]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Costly punishment]], [[Inequity aversion]], [[Reciprocity]], [[Trust]], [[Self-serving bias]], [[Motivated reasoning]], [[Behavioral law and economics]], [[Behavioral public policy]], and [[Statistical fairness criteria]].
+The anchor sources are [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Rabin 1998]], [[Rabin 1993]], [[Fehr and Schmidt 1999]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Fehr and Gachter 2000]], [[Henrich et al. 2004]], [[Jolls et al. 1998]], and [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]]. The closest neighboring pages are [[Social preferences]], [[Game theory]], [[Experimental games]], [[Cultural variation in social preferences]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Costly punishment]], [[Inequity aversion]], [[Reciprocity]], [[Trust]], [[Self-serving bias]], [[Motivated reasoning]], [[Behavioral law and economics]], [[Behavioral public policy]], and [[Statistical fairness criteria]].
 
 ## Open questions
 

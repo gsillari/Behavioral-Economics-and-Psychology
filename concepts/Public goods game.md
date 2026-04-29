@@ -7,18 +7,21 @@ tags:
   - behavioral-economics
   - experimental-economics
 updated_on: 2026-04-29
-source_count: 4
+source_count: 5
 related_pages:
   - [[Dawes and Thaler 1988]]
   - [[Ledyard 1995]]
   - [[Fehr and Gachter 2000]]
   - [[Chaudhuri 2011]]
+  - [[Henrich et al. 2004]]
   - [[Game theory]]
   - [[Cooperation]]
   - [[Free riding]]
   - [[Conditional cooperation]]
   - [[Costly punishment]]
   - [[Social preferences]]
+  - [[Cultural variation in social preferences]]
+  - [[Experimental games]]
 ---
 
 # Public goods game
@@ -35,9 +38,11 @@ The public-goods game should be understood as a diagnostic environment, not just
 
 [[Fehr and Gachter 2000]] adds the punishment result: when subjects can punish free riders, cooperation can be maintained at much higher levels. [[Chaudhuri 2011]] then broadens the picture by showing that cooperation can also be sustained through conditional cooperation, non-monetary disapproval, advice, communication, and assortative matching.
 
+[[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]] adds the cross-cultural extension. Public-goods contributions in the small-scale societies studied also conflict with the selfishness axiom, but they vary across groups. The result makes the game a bridge between laboratory cooperation research and ethnographic questions about local payoffs to cooperation, market integration, sharing norms, and institutional context.
+
 ## Related pages
 
-The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], and [[Chaudhuri 2011]]. The closest neighboring pages are [[Game theory]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], and [[Social preferences]].
+The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], and [[Henrich et al. 2004]]. The closest neighboring pages are [[Game theory]], [[Experimental games]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Cultural variation in social preferences]], and [[Social preferences]].
 
 ## Open questions
 

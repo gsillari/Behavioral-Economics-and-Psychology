@@ -17,6 +17,8 @@ related_pages:
   - [[Social preferences]]
   - [[Fairness]]
   - [[Game theory]]
+  - [[Experimental games]]
+  - [[Cultural variation in social preferences]]
   - [[Ultimatum game]]
   - [[Dictator game]]
   - [[Trust game]]
@@ -50,7 +52,7 @@ This branch therefore turns the field outward: from how individuals choose to ho
 
 ### 5.1 [[Social Motivation and Interpersonal Influence]]
 
-This branch focuses on other-regarding motivation and the ways people influence each other's behavior. Its core pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Cooperation]], [[Reciprocity]], and [[Self-serving bias]]. The experimental-game entry points are [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]].
+This branch focuses on other-regarding motivation and the ways people influence each other's behavior. Its core pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Cooperation]], [[Reciprocity]], [[Cultural variation in social preferences]], and [[Self-serving bias]]. The experimental-game entry points are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]].
 
 ### 5.2 [[Behavioral Public Policy and Institutional Design]]
 

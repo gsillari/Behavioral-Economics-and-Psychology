@@ -7,7 +7,7 @@ tags:
   - game-theory
   - behavioral-economics
 updated_on: 2026-04-29
-source_count: 11
+source_count: 12
 related_pages:
   - [[von Neumann and Morgenstern 1944]]
   - [[Guth et al. 1982]]
@@ -17,6 +17,8 @@ related_pages:
   - [[Ledyard 1995]]
   - [[Fehr and Gachter 2000]]
   - [[Chaudhuri 2011]]
+  - [[Henrich et al. 2004]]
+  - [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]
   - [[Rabin 1993]]
   - [[Fehr and Schmidt 1999]]
   - [[Camerer et al. 2003]]
@@ -24,6 +26,8 @@ related_pages:
   - [[Dictator game]]
   - [[Trust game]]
   - [[Public goods game]]
+  - [[Experimental games]]
+  - [[Cultural variation in social preferences]]
   - [[Cooperation]]
   - [[Free riding]]
   - [[Conditional cooperation]]
@@ -52,15 +56,17 @@ The [[Trust game]] adds a different strategic structure. In [[Berg et al. 1995]]
 
 The [[Public goods game]] adds the cooperation branch. In the narrow benchmark, each person has an incentive to [[Free riding|free ride]] while benefiting from others' contributions. [[Dawes and Thaler 1988]] and [[Ledyard 1995]] show that people contribute more than the strong free-rider prediction permits, but that cooperation is fragile. [[Fehr and Gachter 2000]] and [[Chaudhuri 2011]] then show how [[Costly punishment]], [[Conditional cooperation]], communication, disapproval, and sorting can stabilize cooperation.
 
+[[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]] makes the methodological point explicit: these games are [[Experimental games|experimental games]], not just illustrative stories. They are controlled devices for measuring motives such as reciprocity, inequity aversion, altruism, trust, and punishment. [[Henrich et al. 2004]] then shows why the interpretation of those devices needs cross-cultural and ethnographic discipline.
+
 ## Evidence and debate
 
 [[Rabin 1993]] and [[Fehr and Schmidt 1999]] show two ways to bring these experimental patterns back into formal game theory. Rabin models fairness through reciprocity and perceived kindness. Fehr and Schmidt model fairness through [[Inequity aversion]], where players dislike disadvantageous inequality and, to a lesser degree, advantageous inequality. The public-goods literature adds a further bridge: even where the material game predicts free riding, conditional cooperation and punishment can change the effective strategic environment.
 
-This is the constructive side of behavioral game theory. The experiments do not simply say that game theory fails. They suggest that strategic analysis needs a richer account of payoffs, social meaning, and institutional context.
+This is the constructive side of behavioral game theory. The experiments do not simply say that game theory fails. They suggest that strategic analysis needs a richer account of payoffs, social meaning, cultural variation, and institutional context.
 
 ## Related pages
 
-The central experimental pages are [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Fairness]], [[Social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal anchors are [[Rabin 1993]] and [[Fehr and Schmidt 1999]].
+The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal anchors are [[Rabin 1993]] and [[Fehr and Schmidt 1999]].
 
 ## Open questions
 

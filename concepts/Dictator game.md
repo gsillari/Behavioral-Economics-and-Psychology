@@ -7,11 +7,14 @@ tags:
   - game-theory
   - social-preferences
 updated_on: 2026-04-29
-source_count: 3
+source_count: 4
 related_pages:
   - [[Camerer and Thaler 1995]]
   - [[Fehr and Schmidt 1999]]
+  - [[Henrich et al. 2004]]
   - [[Game theory]]
+  - [[Experimental games]]
+  - [[Cultural variation in social preferences]]
   - [[Ultimatum game]]
   - [[Fairness]]
   - [[Social preferences]]
@@ -32,9 +35,11 @@ The dictator game separates social preference from strategic precaution, but it 
 
 [[Fehr and Schmidt 1999]] uses dictator evidence as one test for [[Inequity aversion]], but the paper also notes limits: a simple inequity-aversion model does not automatically explain every dictator result. That matters because the dictator game is often where social-preference models become empirically delicate.
 
+[[Henrich et al. 2004]] places the dictator game inside a wider cross-cultural measurement strategy. Used beside the [[Ultimatum game]], it helps ask whether positive transfers reflect fear of rejection, sharing norms, altruism, entitlement, or local construals of windfall allocation.
+
 ## Related pages
 
-The anchor sources are [[Camerer and Thaler 1995]] and [[Fehr and Schmidt 1999]]. The closest neighboring pages are [[Ultimatum game]], [[Fairness]], [[Social preferences]], [[Inequity aversion]], and [[Game theory]].
+The anchor sources are [[Camerer and Thaler 1995]], [[Fehr and Schmidt 1999]], and [[Henrich et al. 2004]]. The closest neighboring pages are [[Ultimatum game]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Experimental games]], [[Inequity aversion]], and [[Game theory]].
 
 ## Open questions
 

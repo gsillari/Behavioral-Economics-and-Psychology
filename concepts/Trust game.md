@@ -7,11 +7,14 @@ tags:
   - game-theory
   - social-preferences
 updated_on: 2026-04-29
-source_count: 3
+source_count: 4
 related_pages:
   - [[Berg et al. 1995]]
   - [[Bohnet and Zeckhauser 2004]]
+  - [[Henrich et al. 2004]]
   - [[Game theory]]
+  - [[Experimental games]]
+  - [[Cultural variation in social preferences]]
   - [[Trust]]
   - [[Reciprocity]]
   - [[Betrayal aversion]]
@@ -37,9 +40,11 @@ This is why [[Betrayal aversion]] belongs inside the trust branch. A trust decis
 
 The [[Ultimatum game]] teaches the fairness branch through costly rejection of unfair offers. The [[Trust game]] teaches the reciprocity branch through vulnerability and return. Together, they introduce behavioral game theory without reducing it to a catalog of experiments.
 
+[[Henrich et al. 2004]] places the trust game inside a broader comparative toolkit for studying how trust and reciprocity vary with social history, local exchange, resettlement, market exposure, and norms of interaction.
+
 ## Related pages
 
-The anchor sources are [[Berg et al. 1995]] and [[Bohnet and Zeckhauser 2004]]. The closest neighboring pages are [[Trust]], [[Reciprocity]], [[Betrayal aversion]], [[Social preferences]], [[Fairness]], [[Risk attitudes]], and [[Game theory]].
+The anchor sources are [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], and [[Henrich et al. 2004]]. The closest neighboring pages are [[Trust]], [[Reciprocity]], [[Betrayal aversion]], [[Social preferences]], [[Fairness]], [[Cultural variation in social preferences]], [[Experimental games]], [[Risk attitudes]], and [[Game theory]].
 
 ## Open questions
 

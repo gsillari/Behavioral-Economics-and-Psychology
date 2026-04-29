@@ -6,7 +6,7 @@ tags:
   - behavioral-economics
   - social-behavior
 updated_on: 2026-04-29
-source_count: 15
+source_count: 16
 related_pages:
   - [[Preference]]
   - [[Rabin 1998]]
@@ -20,6 +20,7 @@ related_pages:
   - [[Ledyard 1995]]
   - [[Fehr and Gachter 2000]]
   - [[Chaudhuri 2011]]
+  - [[Henrich et al. 2004]]
   - [[Jolls et al. 1998]]
   - [[DellaVigna 2009]]
   - [[Laibson and List 2015]]
@@ -30,6 +31,8 @@ related_pages:
   - [[Dictator game]]
   - [[Trust game]]
   - [[Public goods game]]
+  - [[Experimental games]]
+  - [[Cultural variation in social preferences]]
   - [[Cooperation]]
   - [[Free riding]]
   - [[Conditional cooperation]]
@@ -70,6 +73,8 @@ The internal distinctions matter. Altruism concerns positive concern for others'
 
 [[Dawes and Thaler 1988]] and [[Ledyard 1995]] add the public-goods branch. They show that cooperation is neither universal selfishness nor simple altruism: people contribute more than the strong free-rider prediction allows, but repeated interaction often produces decay. [[Fehr and Gachter 2000]] explains one stabilizing mechanism, costly punishment of free riders. [[Chaudhuri 2011]] then gives the mature survey picture: conditional cooperators, free riders, punishment, communication, disapproval, advice, and sorting form a structured set of mechanisms.
 
+[[Henrich et al. 2004]] adds the cross-cultural correction. The point is not only that people have social preferences, but that the expression of fairness, reciprocity, punishment, sharing, and cooperation varies across societies and tracks local forms of livelihood, market integration, social structure, and the payoffs to cooperation. This is why [[Cultural variation in social preferences]] now belongs next to this page rather than as a distant anthropology aside.
+
 [[Jolls et al. 1998]] treats fairness-related behavior as one of the main ways real motivation departs from the standard law-and-economics picture of pure self-interest. [[Fehr and Schmidt 1999]] then gives the branch one of its most influential formalizations by modeling aversion to inequitable outcomes. [[Rabin 1993]] adds a different structure, emphasizing reciprocity and the role of perceived kindness or unkindness in shaping response. Together, those two sources matter because they show that social preferences are not one thin add-on to utility, but a family of models with different behavioral emphases. [[DellaVigna 2009]] then uses charitable giving, worker responses to wage cuts, gift exchange in fundraising and labor settings, and workplace productivity responses to unexpected pay changes as core field cases. [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]] usefully complicates this branch. It shows that bargaining failure can arise not only because people care about fairness, but because they form self-serving beliefs about what fairness requires. The evidence therefore supports the idea that other-regarding motives matter, but it also raises problems of interpretation: some observed conflict or generosity may reflect status concerns, repeated-game incentives, social pressure, or biased fairness judgment rather than stable altruistic preferences. DellaVigna explicitly notes that laboratory models of social preferences often overpredict field giving.
 
 [[Laibson and List 2015]] is useful as a compact teaching statement of this branch because it treats concern for others as one of the six core principles of behavioral economics. That helps the current vault preserve an important balance: not every deviation from the standard model is a mistake or bias. Some are departures because utility itself is richer than narrow self-interest allows.
@@ -80,7 +85,7 @@ This concept matters because many important institutions assume that people are 
 
 ## Related pages
 
-The anchor sources are [[Rabin 1998]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Jolls et al. 1998]], [[Fehr and Schmidt 1999]], [[Rabin 1993]], [[DellaVigna 2009]], [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Game theory]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Self-serving bias]], [[Motivated reasoning]], and [[Nonstandard preferences]]. The main entity page is [[Matthew Rabin]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Rabin 1998]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Henrich et al. 2004]], [[Jolls et al. 1998]], [[Fehr and Schmidt 1999]], [[Rabin 1993]], [[DellaVigna 2009]], [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Game theory]], [[Experimental games]], [[Cultural variation in social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Self-serving bias]], [[Motivated reasoning]], and [[Nonstandard preferences]]. The main entity page is [[Matthew Rabin]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 
