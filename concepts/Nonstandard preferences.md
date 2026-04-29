@@ -5,8 +5,8 @@ status: active
 tags:
   - behavioral-economics
   - microeconomics
-updated_on: 2026-04-26
-source_count: 14
+updated_on: 2026-04-29
+source_count: 18
 related_pages:
   - [[Preference]]
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
@@ -17,6 +17,10 @@ related_pages:
   - [[Fischhoff and Broomell 2020]]
   - [[Benartzi and Thaler 1995]]
   - [[DellaVigna 2009]]
+  - [[Guth et al. 1982]]
+  - [[Camerer and Thaler 1995]]
+  - [[Berg et al. 1995]]
+  - [[Bohnet and Zeckhauser 2004]]
   - [[O'Donoghue and Rabin 1999]]
   - [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]]
   - [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]]
@@ -26,6 +30,14 @@ related_pages:
   - [[Reference dependence]]
   - [[Social preferences]]
   - [[Fairness]]
+  - [[Game theory]]
+  - [[Ultimatum game]]
+  - [[Dictator game]]
+  - [[Trust game]]
+  - [[Trust]]
+  - [[Reciprocity]]
+  - [[Inequity aversion]]
+  - [[Betrayal aversion]]
   - [[Experienced utility]]
   - [[Reason-based choice]]
   - [[Myopic loss aversion]]
@@ -49,11 +61,13 @@ to be REVIEWED
 
 ## Core idea
 
-[[Nonstandard preferences]] refers to departures from the standard economic assumption that [[Preference|preferences]] are stable, time-consistent, self-interested, and independent of framing or reference points. In the current vault, the anchor sources are [[Rabin 1998]], which gives the branch its broad psychology-and-economics architecture, [[DellaVigna 2009]], which uses this category to organize field evidence on [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]], [[O'Donoghue and Rabin 1999]], which gives the time-inconsistency branch a precise model of present bias and sophistication versus naivete, [[Benartzi and Thaler 1995]], which shows how reference-dependent loss sensitivity can be used to explain the [[Equity premium puzzle]] through [[Myopic loss aversion]], [[Rabin and Thaler 2001]], which generalizes the loss-aversion-and-narrow-bracketing account to ordinary small-stakes risk aversion, [[Ariely et al. 2003]], which adds a challenge through [[Constructed preferences]] and [[Coherent arbitrariness]], and [[Ariely et al. 2006]], which extends that challenge into experiential goods through [[Preference uncertainty]]. [[Fischhoff and Broomell 2020]] gives this branch an additional methodological foundation by clarifying that preference research lacks an accuracy criterion but still depends on consistency standards and on the practical possibility of eliciting meaningful preferences at all.
+[[Nonstandard preferences]] refers to departures from the standard economic assumption that [[Preference|preferences]] are stable, time-consistent, self-interested, and independent of framing or reference points. In the current vault, the anchor sources are [[Rabin 1998]], which gives the branch its broad psychology-and-economics architecture, [[DellaVigna 2009]], which uses this category to organize field evidence on [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], and [[Bohnet and Zeckhauser 2004]], which give the social-preference branch its experimental-game spine, [[O'Donoghue and Rabin 1999]], which gives the time-inconsistency branch a precise model of present bias and sophistication versus naivete, [[Benartzi and Thaler 1995]], which shows how reference-dependent loss sensitivity can be used to explain the [[Equity premium puzzle]] through [[Myopic loss aversion]], [[Rabin and Thaler 2001]], which generalizes the loss-aversion-and-narrow-bracketing account to ordinary small-stakes risk aversion, [[Ariely et al. 2003]], which adds a challenge through [[Constructed preferences]] and [[Coherent arbitrariness]], and [[Ariely et al. 2006]], which extends that challenge into experiential goods through [[Preference uncertainty]]. [[Fischhoff and Broomell 2020]] gives this branch an additional methodological foundation by clarifying that preference research lacks an accuracy criterion but still depends on consistency standards and on the practical possibility of eliciting meaningful preferences at all.
 
 ## Key distinctions
 
-This concept differs from [[Nonstandard beliefs]], where the issue is incorrect expectations about the world, and from [[Nonstandard decision-making]], where the issue is the process by which choices are made even when preferences and beliefs are held fixed. In the current vault, the main subtypes are intertemporal instability in [[Time inconsistency]], reference-point dependence in [[Reference dependence]], concern for other people's payoffs in [[Social preferences]], finance-oriented loss sensitivity in [[Myopic loss aversion]], and the more radical possibility of [[Constructed preferences]], where the issue is not only unusual preference content but the instability or partial formation of preferences themselves.
+This concept differs from [[Nonstandard beliefs]], where the issue is incorrect expectations about the world, and from [[Nonstandard decision-making]], where the issue is the process by which choices are made even when preferences and beliefs are held fixed. In the current vault, the main subtypes are intertemporal instability in [[Time inconsistency]], reference-point dependence in [[Reference dependence]], concern for other people's payoffs and treatment in [[Social preferences]], finance-oriented loss sensitivity in [[Myopic loss aversion]], and the more radical possibility of [[Constructed preferences]], where the issue is not only unusual preference content but the instability or partial formation of preferences themselves.
+
+The game-theory branch gives the social-preference subtype its clearest diagnostic tools. The [[Ultimatum game]] shows costly rejection of unfair treatment, the [[Dictator game]] removes strategic rejection to probe giving and social meaning, and the [[Trust game]] separates reciprocity and betrayal from ordinary risk.
 
 ## Evidence and debate
 

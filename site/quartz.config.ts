@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "gsillari.github.io/Behavioral-Economics-and-Psychology",
-    ignorePatterns: ["private", "templates", ".github", ".obsidian", "outputs", "site"],
+    ignorePatterns: ["private", "templates", ".github", ".git", ".obsidian", "outputs", "site"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
