@@ -6,7 +6,7 @@ tags:
   - behavioral-economics
   - microeconomics
 updated_on: 2026-04-29
-source_count: 18
+source_count: 22
 related_pages:
   - [[Preference]]
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
@@ -21,6 +21,10 @@ related_pages:
   - [[Camerer and Thaler 1995]]
   - [[Berg et al. 1995]]
   - [[Bohnet and Zeckhauser 2004]]
+  - [[Dawes and Thaler 1988]]
+  - [[Ledyard 1995]]
+  - [[Fehr and Gachter 2000]]
+  - [[Chaudhuri 2011]]
   - [[O'Donoghue and Rabin 1999]]
   - [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]]
   - [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]]
@@ -34,6 +38,11 @@ related_pages:
   - [[Ultimatum game]]
   - [[Dictator game]]
   - [[Trust game]]
+  - [[Public goods game]]
+  - [[Cooperation]]
+  - [[Free riding]]
+  - [[Conditional cooperation]]
+  - [[Costly punishment]]
   - [[Trust]]
   - [[Reciprocity]]
   - [[Inequity aversion]]
@@ -67,7 +76,7 @@ to be REVIEWED
 
 This concept differs from [[Nonstandard beliefs]], where the issue is incorrect expectations about the world, and from [[Nonstandard decision-making]], where the issue is the process by which choices are made even when preferences and beliefs are held fixed. In the current vault, the main subtypes are intertemporal instability in [[Time inconsistency]], reference-point dependence in [[Reference dependence]], concern for other people's payoffs and treatment in [[Social preferences]], finance-oriented loss sensitivity in [[Myopic loss aversion]], and the more radical possibility of [[Constructed preferences]], where the issue is not only unusual preference content but the instability or partial formation of preferences themselves.
 
-The game-theory branch gives the social-preference subtype its clearest diagnostic tools. The [[Ultimatum game]] shows costly rejection of unfair treatment, the [[Dictator game]] removes strategic rejection to probe giving and social meaning, and the [[Trust game]] separates reciprocity and betrayal from ordinary risk.
+The game-theory branch gives the social-preference subtype its clearest diagnostic tools. The [[Ultimatum game]] shows costly rejection of unfair treatment, the [[Dictator game]] removes strategic rejection to probe giving and social meaning, the [[Trust game]] separates reciprocity and betrayal from ordinary risk, and the [[Public goods game]] shows how [[Cooperation]] can persist despite [[Free riding|free-riding]] incentives.
 
 ## Evidence and debate
 

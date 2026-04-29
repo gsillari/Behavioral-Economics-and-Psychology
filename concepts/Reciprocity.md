@@ -7,17 +7,22 @@ tags:
   - social-behavior
   - game-theory
 updated_on: 2026-04-29
-source_count: 4
+source_count: 6
 related_pages:
   - [[Rabin 1993]]
   - [[Berg et al. 1995]]
   - [[Camerer and Thaler 1995]]
+  - [[Fehr and Gachter 2000]]
+  - [[Chaudhuri 2011]]
   - [[Fehr and Schmidt 1999]]
   - [[Social preferences]]
   - [[Fairness]]
   - [[Trust]]
   - [[Trust game]]
   - [[Ultimatum game]]
+  - [[Cooperation]]
+  - [[Public goods game]]
+  - [[Costly punishment]]
 ---
 
 # Reciprocity
@@ -32,11 +37,13 @@ The concept differs from altruism because it is conditional on treatment. A reci
 
 [[Rabin 1993]] is the formal anchor because it builds fairness and reciprocity into game theory through perceived intentions. [[Berg et al. 1995]] gives the trust-game anchor: first movers trust partly because second movers often reciprocate. [[Camerer and Thaler 1995]] connects reciprocity to ultimatum behavior, where responders reject low offers not merely because they dislike inequality, but because low offers can be interpreted as rude or unfair treatment.
 
+[[Fehr and Gachter 2000]] adds the public-goods punishment branch. Cooperators punish free riders even when punishment is costly, which makes reciprocity visible as norm enforcement rather than only as positive return of favors. [[Chaudhuri 2011]] then shows why this mechanism should be placed inside a broader cooperation architecture: punishment is powerful, but conditional cooperation, communication, disapproval, and sorting can also sustain cooperation.
+
 [[Fehr and Schmidt 1999]] matters as a contrast. Its model explains many fairness patterns through outcome-based inequity aversion rather than intention-based reciprocity. The contrast is useful: social preferences are not one thing. Some models focus on outcomes; others focus on treatment, intention, and response.
 
 ## Related pages
 
-The closest pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Trust game]], [[Ultimatum game]], [[Inequity aversion]], and [[Game theory]]. The anchor sources are [[Rabin 1993]], [[Berg et al. 1995]], [[Camerer and Thaler 1995]], and [[Fehr and Schmidt 1999]].
+The closest pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Trust game]], [[Ultimatum game]], [[Cooperation]], [[Public goods game]], [[Costly punishment]], [[Inequity aversion]], and [[Game theory]]. The anchor sources are [[Rabin 1993]], [[Berg et al. 1995]], [[Camerer and Thaler 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], and [[Fehr and Schmidt 1999]].
 
 ## Open questions
 

@@ -20,6 +20,11 @@ related_pages:
   - [[Ultimatum game]]
   - [[Dictator game]]
   - [[Trust game]]
+  - [[Public goods game]]
+  - [[Cooperation]]
+  - [[Free riding]]
+  - [[Conditional cooperation]]
+  - [[Costly punishment]]
   - [[Trust]]
   - [[Reciprocity]]
   - [[Inequity aversion]]
@@ -45,7 +50,7 @@ This branch therefore turns the field outward: from how individuals choose to ho
 
 ### 5.1 [[Social Motivation and Interpersonal Influence]]
 
-This branch focuses on other-regarding motivation and the ways people influence each other's behavior. Its core pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Reciprocity]], and [[Self-serving bias]]. The experimental-game entry points are [[Ultimatum game]], [[Dictator game]], and [[Trust game]].
+This branch focuses on other-regarding motivation and the ways people influence each other's behavior. Its core pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Cooperation]], [[Reciprocity]], and [[Self-serving bias]]. The experimental-game entry points are [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]].
 
 ### 5.2 [[Behavioral Public Policy and Institutional Design]]
 
