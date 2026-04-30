@@ -5,11 +5,13 @@ status: active
 tags:
   - behavioral-economics
   - social-behavior
-updated_on: 2026-04-29
-source_count: 16
+updated_on: 2026-04-30
+source_count: 17
 related_pages:
   - [[Preference]]
   - [[Rabin 1998]]
+  - [[Skyrms 2014]]
+  - [[Evolutionary game theory]]
   - [[Fehr and Schmidt 1999]]
   - [[Rabin 1993]]
   - [[Guth et al. 1982]]
@@ -57,6 +59,8 @@ The new game-theory spine makes that idea more concrete. [[Guth et al. 1982]] an
 
 [[Jolls et al. 1998]] gives the legal-policy framing through fairness, acrimony, and scruples, [[Fehr and Schmidt 1999]] gives a formal model of [[Inequity aversion]], [[Rabin 1993]] adds reciprocity and fairness-sensitive response to treatment by others, and [[DellaVigna 2009]] reviews field evidence on giving, reciprocity, and workplace behavior. The older label bounded self-interest now lives inside this page as the earlier legal-policy vocabulary for the same broad motivational departure from narrow self-interest.
 
+[[Skyrms 2014]] adds an origin-and-dynamics layer without replacing the preference models. Some social behavior may be represented as richer utility, but Skyrms asks how fairness, cooperation, and convention become stable in populations. That makes [[Evolutionary game theory]] a bridge between social preferences and social institutions.
+
 ## Key distinctions
 
 The concept differs from pure self-interest because it allows altruism, reciprocity, [[Fairness]], inequality aversion, status, or procedural concerns to enter utility directly. It also differs from interpersonal influence or conformity effects, where behavior changes because of social pressure or the influence of others rather than because the welfare or treatment of others enters utility. It further differs from [[Self-serving bias]], where the main issue is not what enters utility but how people interpret fairness or entitlement in ways that favor their own role.
@@ -85,7 +89,7 @@ This concept matters because many important institutions assume that people are 
 
 ## Related pages
 
-The anchor sources are [[Rabin 1998]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Henrich et al. 2004]], [[Jolls et al. 1998]], [[Fehr and Schmidt 1999]], [[Rabin 1993]], [[DellaVigna 2009]], [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Game theory]], [[Experimental games]], [[Cultural variation in social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Self-serving bias]], [[Motivated reasoning]], and [[Nonstandard preferences]]. The main entity page is [[Matthew Rabin]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Rabin 1998]], [[Skyrms 2014]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Henrich et al. 2004]], [[Jolls et al. 1998]], [[Fehr and Schmidt 1999]], [[Rabin 1993]], [[DellaVigna 2009]], [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Game theory]], [[Evolutionary game theory]], [[Experimental games]], [[Cultural variation in social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Self-serving bias]], [[Motivated reasoning]], and [[Nonstandard preferences]]. The main entity page is [[Matthew Rabin]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

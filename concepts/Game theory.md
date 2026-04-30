@@ -6,14 +6,16 @@ tags:
   - economics
   - game-theory
   - behavioral-economics
-updated_on: 2026-04-29
-source_count: 14
+updated_on: 2026-04-30
+source_count: 15
 related_pages:
   - [[von Neumann and Morgenstern 1944]]
   - [[Schelling 1960]]
   - [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]
   - [[Lewis 1969]]
   - [[Lewis 1969 - Chapter 01 - Coordination and Convention]]
+  - [[Skyrms 2014]]
+  - [[Evolutionary game theory]]
   - [[Guth et al. 1982]]
   - [[Camerer and Thaler 1995]]
   - [[Berg et al. 1995]]
@@ -55,11 +57,17 @@ The key move is conceptual. Standard game theory can be descriptively wrong eith
 
 In the fairness-and-trust branch, the payoff problem is central. Players may care about being treated fairly, about punishing unkindness, about reciprocating trust, or about avoiding betrayal. If those motives are real, then the material-payoff game is not yet the full behavioral game.
 
+## Evolutionary dynamics
+
+[[Skyrms 2014]] adds a further branch through [[Evolutionary game theory]]. Static game theory asks which strategies are equilibria. Evolutionary game theory asks which strategies spread, persist, or disappear when payoff differences drive reproduction, imitation, reinforcement, or cultural transmission. That distinction matters because evolutionary dynamics need not select the same outcomes as rational equilibrium analysis.
+
+In the social-contract branch, this gives the wiki a more dynamic account of fairness, cooperation, and convention. Equal division may be selected in a bargaining population even when Nash equilibrium leaves many strict equilibria. Costly rejection in the [[Ultimatum game]] may survive even though it fails sequential rationality. [[Cooperation]] may evolve when interaction is correlated rather than random. [[Convention]] may emerge when cues, roles, or noise break symmetry and stabilize a correlated equilibrium.
+
 ## Coordination and interdependent decision
 
 [[Coordination games]] are the Schelling entry point into this branch. They show that shared interests do not automatically solve strategic interaction. Agents may all prefer to coordinate, yet still need a salient place, time, convention, label, rule, or boundary that each can expect the others to recognize.
 
-[[Lewis 1969]] then turns this into the theory of [[Convention]]. A convention is a recurrent solution to a coordination problem sustained by expectations, alternatives, conditional reasons to conform, and [[Common knowledge]]. This matters because coordination is not the same thing as cooperation. Cooperation often asks whether people contribute despite incentives to defect. Coordination asks whether actions mesh. Schelling's chapter also shows why the distinction between pure conflict and common interest is too crude: many political, social, and bargaining settings mix conflict over distribution with dependence on mutual accommodation.
+[[Lewis 1969]] then turns this into the theory of [[Convention]]. A convention is a recurrent solution to a coordination problem sustained by expectations, alternatives, conditional reasons to conform, and [[Common knowledge]]. [[Skyrms 2014 - Chapter 04 - Correlated Convention]] then adds the evolutionary step: conventions can also arise when population dynamics, learning, and role-cues break symmetry and make one correlated equilibrium self-sustaining. This matters because coordination is not the same thing as cooperation. Cooperation often asks whether people contribute despite incentives to defect. Coordination asks whether actions mesh. Schelling's chapter also shows why the distinction between pure conflict and common interest is too crude: many political, social, and bargaining settings mix conflict over distribution with dependence on mutual accommodation.
 
 ## Why ultimatum and trust games matter
 
@@ -81,7 +89,7 @@ This is the constructive side of behavioral game theory. The experiments do not 
 
 ## Related pages
 
-The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Coordination games]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal anchors are [[Schelling 1960]], [[Lewis 1969]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
+The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Evolutionary game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal anchors are [[Schelling 1960]], [[Lewis 1969]], [[Skyrms 2014]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
 
 ## Open questions
 

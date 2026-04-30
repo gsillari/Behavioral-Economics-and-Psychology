@@ -6,7 +6,7 @@ tags:
   - home
   - landing-page
   - behavioral-economics
-updated_on: 2026-04-27
+updated_on: 2026-04-30
 related_pages:
   - [[Behavioral Economics]]
   - [[What Behavioral Economics Thinks Rationality Is]]
@@ -16,6 +16,8 @@ related_pages:
   - [[Choice, Preference, and Decision Under Risk]]
   - [[Time, Attention, and Choice Architecture]]
   - [[Social Behavior, Law, and Public Policy]]
+  - [[Social Motivation and Interpersonal Influence]]
+  - [[Coordination, Convention, and Evolutionary Game Theory]]
   - [[Ecological Rationality and Fast-and-Frugal Heuristics]]
   - [[AI, Algorithms, and New Frontiers]]
   - [[Behavioral public policy]]
@@ -98,7 +100,7 @@ This branch covers self-control, limited attention, and interventions into decis
 
 ### 5. [[Social Behavior, Law, and Public Policy]]
 
-This branch covers social preferences, persuasion, law, and public policy. It links the psychology of choice to institutions, regulation, and political judgment.
+This branch covers social preferences, experimental games, cooperation, coordination, convention, evolutionary game theory, law, welfare, and public policy. It links the psychology of choice to strategic interaction and institutional design.
 
 ### 6. [[Ecological Rationality and Fast-and-Frugal Heuristics]]
 

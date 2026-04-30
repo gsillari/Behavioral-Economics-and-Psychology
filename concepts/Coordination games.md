@@ -7,7 +7,7 @@ tags:
   - coordination
   - strategic-interaction
 updated_on: 2026-04-30
-source_count: 2
+source_count: 3
 related_pages:
   - [[Schelling 1960]]
   - [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]
@@ -16,6 +16,9 @@ related_pages:
   - [[Lewis 1969 - Chapter 01 - Coordination and Convention]]
   - [[Lewis 1969 - Chapter 02 - Convention Refined]]
   - [[Lewis 1969 - Chapter 03 - Convention Contrasted]]
+  - [[Skyrms 2014]]
+  - [[Skyrms 2014 - Chapter 04 - Correlated Convention]]
+  - [[Evolutionary game theory]]
   - [[Convention]]
   - [[Common knowledge]]
   - [[Game theory]]
@@ -33,6 +36,8 @@ related_pages:
 [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]] makes this the central lesson of [[Schelling 1960]]. Pure coordination is the opposite limiting case from pure conflict. In pure conflict, one player's gain is the other's loss. In pure coordination, the players' interests are aligned, but they may still fail if they cannot find the same action, signal, meeting place, boundary, convention, or rule.
 
 [[Lewis 1969]] is the immediate philosophical successor. Lewis takes Schelling's focal-point insight and turns it into a general theory of [[Convention]]: recurrent coordination problems can become stable social regularities when conformity, expectations of conformity, and conditional reasons to conform are mutually known.
+
+[[Skyrms 2014 - Chapter 04 - Correlated Convention]] adds the evolutionary successor to this branch. It asks how correlated conventions can emerge when symmetric rational choice leaves agents stuck among equivalent options. The answer is not just "common knowledge" but symmetry-breaking through cues, roles, learning, noise, and population dynamics.
 
 ## Why coordination is not trivial
 
@@ -52,6 +57,8 @@ Lewis deepens the Schelling branch by asking when a solution to a coordination p
 
 This is the bridge to social institutions. A convention can stabilize traffic practices, linguistic usage, bargaining practices, or informal rules without being reducible to law, morality, explicit agreement, or imitation. It is equilibrium-like, but it is also socially and epistemically structured.
 
+Skyrms adds a dynamic version of the same bridge. In hawk-dove and chicken-like settings, a shared cue can let players condition behavior on roles rather than fall back into an inefficient mixed equilibrium. Once one such correlated equilibrium spreads, it can become a custom. This is why [[Evolutionary game theory]] belongs in the coordination branch rather than only in biology: it explains how role-based conventions can arise before they are written down as rules.
+
 ## Relation to cooperation and bargaining
 
 Coordination is close to [[Cooperation]], but it is not the same mechanism. Cooperation often concerns incentives to contribute or defect. Coordination concerns whether agents can make their actions mesh. A group can fail to coordinate even when everyone wants the same outcome; it can also coordinate on a bad or fragile equilibrium.
@@ -64,7 +71,7 @@ This page should become the entry point for Schelling-style coordination, Lewis-
 
 ## Related pages
 
-The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], and [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]]. The nearest neighbors are [[Convention]], [[Common knowledge]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].
+The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]], and [[Skyrms 2014 - Chapter 04 - Correlated Convention]]. The nearest neighbors are [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].
 
 ## Open questions
 

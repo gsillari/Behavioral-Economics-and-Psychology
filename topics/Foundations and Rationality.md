@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - rationality
-updated_on: 2026-04-27
+updated_on: 2026-04-30
 related_pages:
   - [[Behavioral Economics]]
   - [[Wason 1968]]
@@ -22,6 +22,8 @@ related_pages:
   - [[von Neumann and Morgenstern 1944]]
   - [[Schelling 1960]]
   - [[Lewis 1969]]
+  - [[Skyrms 2014]]
+  - [[Evolutionary game theory]]
   - [[Coordination games]]
   - [[Convention]]
   - [[Common knowledge]]
@@ -54,17 +56,25 @@ This topic gathers the benchmark ideas against which behavioral economics define
 
 For PPE students, this topic matters because it sits at the junction of all three disciplines. It matters for economics because models of choice and belief depend on formal assumptions about rationality. It matters for philosophy because those assumptions carry normative weight and raise questions about coherence, belief, agency, and evaluation. It matters for politics and public policy because every behavioral intervention presupposes some account of when a person is choosing well and when institutional correction is justified.
 
-This first topic therefore begins with the strongest classical benchmarks and their limits. The point is not to dismiss those benchmarks. It is to see what they were trying to do, why they were attractive, and where later work in the vault begins to put them under pressure. In the current vault, [[Hands 2010]] now adds an important earlier methodological layer to that history by showing that even before later behavioral economics, consumer theory had already been reconstructed through disputes over what kinds of psychology counted as scientifically acceptable. [[Heilmann and Reiss 2022]] adds a second kind of clarification by giving the vault compact philosophical overviews of [[Utility theory]], risk, welfare, and preference. [[von Neumann and Morgenstern 1944]] now adds the canonical risk-side benchmark through [[Von Neumann-Morgenstern utility theory]], while [[Savage 1954]] makes the uncertainty-side benchmark explicit through personal probability, utility over acts, observation, and partition structure, all collected under [[Subjective expected utility theory]]. [[Schelling 1960]] now adds a strategic-rationality branch: [[Coordination games]] show that rational interaction can depend on salience, labels, convention, and mutually consistent expectations rather than on payoff ordering alone. [[Lewis 1969]] sharpens that branch by turning Schelling-style focal points into a theory of [[Convention]] grounded in [[Common knowledge]], making it a precursor to game-theoretic accounts of social institutions. [[Simon 1955]] now matters especially because it marks one of the earliest and deepest shifts away from the image of an omniscient chooser toward a theory of rationality for finite agents, while [[Simon 1979]] shows how that shift matures into a wider account of decision making in organizations and the economic sciences. [[Rich 2016]] adds a fourth clarification at the meta-level: once rival benchmarks are on the table, the question is no longer only which one is right, but which one is useful for which evaluative purpose.
+This first topic therefore begins with the strongest classical benchmarks and their limits. The point is not to dismiss those benchmarks. It is to see what they were trying to do, why they were attractive, and where later work in the vault begins to put them under pressure.
+
+The first branch is decision-theoretic. [[von Neumann and Morgenstern 1944]] supplies the risk-side benchmark through [[Von Neumann-Morgenstern utility theory]], while [[Savage 1954]] supplies the uncertainty-side benchmark through [[Subjective expected utility theory]]. [[Heilmann and Reiss 2022]] helps organize the surrounding concepts of [[Utility theory]], risk, welfare, and preference.
+
+The second branch is methodological. [[Hands 2010]] shows that even before later behavioral economics, consumer theory had already been reconstructed through disputes over which forms of psychology counted as scientifically acceptable. This is why [[Ordinal utility theory]], [[Revealed preference theory]], and [[Behaviorism]] belong in the foundations layer rather than as background trivia.
+
+The third branch is strategic. [[Schelling 1960]] shows that rational interaction can depend on salience, labels, convention, and mutually consistent expectations rather than on payoff ordering alone. [[Lewis 1969]] turns this into a theory of [[Convention]] grounded in [[Common knowledge]]. [[Skyrms 2014]] adds the evolutionary version through [[Evolutionary game theory]], showing how fairness, cooperation, ownership, and convention can emerge dynamically even when static rational-choice analysis underselects or mispredicts them.
+
+The fourth branch is revisionary. [[Simon 1955]] marks one of the earliest and deepest shifts away from the image of an omniscient chooser toward a theory of rationality for finite agents, while [[Simon 1979]] shows how that shift matures into a wider account of decision making in organizations and the economic sciences. [[Rich 2016]] adds a meta-level clarification: once rival benchmarks are on the table, the question is no longer only which one is right, but which one is useful for which evaluative purpose.
 
 ## Subtopics
 
 ### 1.1 [[Standard Rationality and Its Limits]]
 
-This branch introduces the classical benchmarks of rational choice and rational belief, together with their earliest limits. Its core concept pages are [[Expected utility theory]], [[Von Neumann-Morgenstern utility theory]], [[Subjective expected utility theory]], [[Completeness axiom]], [[Subjective probability]], [[Allais paradox]], and [[Ambiguity aversion]]. The branch now also needs the background concepts [[Utility theory]], [[Ordinal utility theory]], and [[Revealed preference theory]], because those theories shaped how economics reformulated choice once cardinal and introspective utility came under pressure.
+This branch introduces the classical benchmarks of rational choice and rational belief, together with their earliest limits. Its core concept pages are [[Expected utility theory]], [[Von Neumann-Morgenstern utility theory]], [[Subjective expected utility theory]], [[Completeness axiom]], [[Subjective probability]], [[Allais paradox]], and [[Ambiguity aversion]]. The branch also needs the background concepts [[Utility theory]], [[Ordinal utility theory]], and [[Revealed preference theory]], because those theories shaped how economics reformulated choice once cardinal and introspective utility came under pressure.
 
 ### 1.2 [[Competing Views of Rationality]]
 
-This branch asks what replaces or revises the classical benchmark once behavioral critique begins. Its core pages are [[Bounded rationality]], [[Rationality wars]], [[Ecological rationality]], [[Evolutionary psychology]], [[Wason selection task]], and [[Argumentative theory of reasoning]]. The historical anchor here is now [[Simon 1955]], which gives [[Bounded rationality]] the status of a major conceptual alternative rather than a later add-on. [[Wason 1968]] gives the branch a compact experimental paradigm for formal-reasoning failure, while [[Cosmides and Tooby 2000]] shows how the same paradigm can be reinterpreted through evolved social-reasoning mechanisms. [[Mercier and Sperber 2011]] adds a later but important challenge at the level of what reasoning is for. [[Rich 2016]] now helps clarify that benchmark competition can also end in hybrid or purpose-relative evaluation rather than in simple victory for one side.
+This branch asks what replaces or revises the classical benchmark once behavioral critique begins. Its core pages are [[Bounded rationality]], [[Rationality wars]], [[Ecological rationality]], [[Evolutionary psychology]], [[Wason selection task]], and [[Argumentative theory of reasoning]]. The historical anchor is [[Simon 1955]], which gives [[Bounded rationality]] the status of a major conceptual alternative rather than a later add-on. The rationality-wars material then asks whether apparent failures of reasoning are genuine irrationality, task mismatch, ecological adaptation, or evidence for different standards of evaluation.
 
 ### 1.3 [[Cognitive Architectures of Judgment]]
 
@@ -76,7 +86,7 @@ This branch asks what behavioral economics studies as a field, what kinds of dep
 
 ## Links to the rest of the topic
 
-The point of the full topic is cumulative: standard rationality first, its limits second, rival frameworks third. The first branch establishes the classical benchmarks and their cracks. The second asks what new standards of rationality compete once those cracks appear, with [[Simon 1955]] now providing the earliest major benchmark revision in the topic tree. The third gives the main cognitive architectures used to explain judgment. The fourth asks how behavioral economics becomes a field rather than a collection of isolated findings.
+The point of the full topic is cumulative: benchmarks first, limits second, rival frameworks third. The first branch establishes the classical decision-theoretic standards and their cracks. The second asks what new standards of rationality compete once those cracks appear. The third gives the cognitive architectures used to explain judgment. The fourth asks how behavioral economics becomes a field rather than a collection of isolated findings.
 
 ## Open questions
 

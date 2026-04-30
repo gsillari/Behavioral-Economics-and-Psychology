@@ -7,12 +7,15 @@ tags:
   - anthropology
   - social-preferences
   - game-theory
-updated_on: 2026-04-29
-source_count: 2
+updated_on: 2026-04-30
+source_count: 3
 related_pages:
   - [[Henrich et al. 2004]]
   - [[Henrich et al. 2004 - Chapter 01 - Introduction and Guide to the Volume]]
   - [[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]]
+  - [[Skyrms 2014]]
+  - [[Skyrms 2014 - Chapter 02 - Fairness and Commitment]]
+  - [[Evolutionary game theory]]
   - [[Social preferences]]
   - [[Fairness]]
   - [[Ultimatum game]]
@@ -37,9 +40,11 @@ This concept changes how the wiki should interpret the fairness and ultimatum-ga
 
 The concept also clarifies why ethnography matters. The same formal game can cue different analogies: sharing a windfall, bargaining with a stranger, distributing meat, risking reputation, avoiding shame, responding to hostility, or engaging in market-like exchange. Without ethnographic context, experimental-game behavior can be overinterpreted.
 
+[[Skyrms 2014 - Chapter 02 - Fairness and Commitment]] fits this point into an evolutionary story. Skyrms treats ultimatum behavior as norm-sensitive and path-dependent: different cultures may stabilize different frames for what the experimental situation means. That makes cultural variation a constraint on simple evolutionary stories, not a rejection of evolutionary explanation.
+
 ## Related pages
 
-The anchor source is [[Henrich et al. 2004]], especially [[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]]. The closest neighboring pages are [[Social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Public goods game]], [[Trust game]], [[Experimental games]], and [[Game theory]].
+The anchor source is [[Henrich et al. 2004]], especially [[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]]. [[Skyrms 2014 - Chapter 02 - Fairness and Commitment]] is the main evolutionary-game-theoretic neighbor. The closest neighboring pages are [[Social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Public goods game]], [[Trust game]], [[Experimental games]], [[Evolutionary game theory]], and [[Game theory]].
 
 ## Open questions
 

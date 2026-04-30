@@ -6,14 +6,18 @@ tags:
   - behavioral-economics
   - valuation
   - decision-theory
-updated_on: 2026-04-24
-source_count: 12
+updated_on: 2026-04-30
+source_count: 13
 related_pages:
   - [[Thaler 1980]]
   - [[Kahneman et al. 1990]]
   - [[Knetsch and Sinden 1984]]
   - [[Van Boven et al. 2000]]
   - [[Achtypi et al. 2021]]
+  - [[Skyrms 2014]]
+  - [[Skyrms 2014 - Chapter 04 - Correlated Convention]]
+  - [[Evolutionary game theory]]
+  - [[Convention]]
   - [[List 2003]]
   - [[List 2004]]
   - [[Lerner et al. 2004]]
@@ -51,13 +55,15 @@ The endowment effect is one important route into [[WTA-WTP asymmetry]], but the 
 
 Debate concerns whether the effect is best explained by loss aversion, market inexperience, attachment, emotion, egocentric perspective-taking failures, market-price beliefs, good-deal reasoning, or procedural features of elicitation.
 
+[[Skyrms 2014 - Chapter 04 - Correlated Convention]] adds a different but useful neighboring perspective: ownership can function as a role cue in strategic contests. The "bourgeois" strategy - fight as owner, yield as intruder - is a correlated convention in hawk-dove settings. This does not replace the behavioral-economics explanations of WTA-WTP gaps, but it helps explain why ownership and possession may be socially and strategically meaningful rather than psychologically arbitrary.
+
 ## Practical or policy relevance
 
 This concept matters because many institutional settings create entitlements before valuation occurs. That means compensation, legal remedies, and market design can be shaped by ownership effects rather than by stable underlying value alone. The newer emotion result in the current vault also suggests that measured valuation may be sensitive not only to ownership but to transient affective context. [[Achtypi et al. 2021]] adds that measured valuation may also reflect perceived market worth and the desire to avoid a bad deal. The List papers add that institutional learning and market experience may dampen the effect, while [[Zaklan 2023]] shows that in some large trading systems initial entitlement may matter less in aggregate than simpler behavioral stories would suggest.
 
 ## Related pages
 
-The main anchor sources are [[Thaler 1980]], [[Kahneman et al. 1990]], [[Knetsch and Sinden 1984]], [[Van Boven et al. 2000]], [[Horowitz and McConnell 2002]], [[Lerner et al. 2004]], [[Achtypi et al. 2021]], [[List 2003]], [[List 2004]], [[Zaklan 2023]], [[Slovic 1995]], and [[Lichtenstein and Slovic 2006]]. The closest neighboring pages are [[WTA-WTP asymmetry]], [[Constructed preferences]], [[Procedure invariance]], [[Loss aversion]], [[Reference dependence]], [[Emotions in decision-making]], and [[Coase theorem]]. The broader topical homes are [[Choice, Preference, and Decision Under Risk]] and [[Behavioral Economics]].
+The main anchor sources are [[Thaler 1980]], [[Kahneman et al. 1990]], [[Knetsch and Sinden 1984]], [[Van Boven et al. 2000]], [[Horowitz and McConnell 2002]], [[Lerner et al. 2004]], [[Achtypi et al. 2021]], [[List 2003]], [[List 2004]], [[Zaklan 2023]], [[Slovic 1995]], and [[Lichtenstein and Slovic 2006]]. [[Skyrms 2014]] is a neighboring ownership-and-convention source rather than a direct endowment-effect anchor. The closest neighboring pages are [[WTA-WTP asymmetry]], [[Constructed preferences]], [[Procedure invariance]], [[Loss aversion]], [[Reference dependence]], [[Emotions in decision-making]], [[Convention]], [[Evolutionary game theory]], and [[Coase theorem]]. The broader topical homes are [[Choice, Preference, and Decision Under Risk]] and [[Behavioral Economics]].
 
 ## Open questions
 

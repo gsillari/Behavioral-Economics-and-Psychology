@@ -6,11 +6,14 @@ tags:
   - behavioral-economics
   - game-theory
   - social-preferences
-updated_on: 2026-04-29
-source_count: 5
+updated_on: 2026-04-30
+source_count: 6
 related_pages:
   - [[Guth et al. 1982]]
   - [[Camerer and Thaler 1995]]
+  - [[Skyrms 2014]]
+  - [[Skyrms 2014 - Chapter 02 - Fairness and Commitment]]
+  - [[Evolutionary game theory]]
   - [[Henrich et al. 2004]]
   - [[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]]
   - [[Fehr and Schmidt 1999]]
@@ -41,13 +44,15 @@ The game is not just an anecdote about people being nice. It distinguishes sever
 
 [[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]] adds the cross-cultural pressure point. The student-population pattern is not a universal baseline: across the fifteen small-scale societies in [[Henrich et al. 2004]], offers and rejections vary substantially, and group-level features such as market integration and payoffs to cooperation matter more than simple individual predictors. This means the ultimatum game should be read as a diagnostic tool for social preferences and local norms, not as evidence for one universal fairness parameter.
 
+[[Skyrms 2014 - Chapter 02 - Fairness and Commitment]] adds a different question: how could costly rejection and fair offers become dynamically stable? Skyrms argues that evolutionary dynamics need not eliminate strategies that fail sequential rationality. Fairman-like strategies can survive in polymorphic populations, and cultural framing helps explain why different societies treat the same formal ultimatum game as different kinds of social situation.
+
 ## Place in the wiki
 
-This page should be the main bridge from [[Game theory]] to [[Fairness]]. It shows why fairness matters in strategic interaction even when the game is one-shot and anonymous. It also belongs near [[Dictator game]], because the dictator game removes the responder's rejection power and therefore helps separate generosity from fear of punishment. The cross-cultural material now also places it near [[Cultural variation in social preferences]] and [[Experimental games]].
+This page should be the main bridge from [[Game theory]] to [[Fairness]]. It shows why fairness matters in strategic interaction even when the game is one-shot and anonymous. It also belongs near [[Dictator game]], because the dictator game removes the responder's rejection power and therefore helps separate generosity from fear of punishment. The cross-cultural material places it near [[Cultural variation in social preferences]] and [[Experimental games]], while Skyrms places it near [[Evolutionary game theory]].
 
 ## Related pages
 
-The anchor sources are [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Henrich et al. 2004]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]]. The closest neighboring pages are [[Game theory]], [[Dictator game]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Experimental games]], [[Inequity aversion]], and [[Reciprocity]].
+The anchor sources are [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Skyrms 2014]], [[Henrich et al. 2004]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]]. The closest neighboring pages are [[Game theory]], [[Evolutionary game theory]], [[Dictator game]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Experimental games]], [[Inequity aversion]], and [[Reciprocity]].
 
 ## Open questions
 
