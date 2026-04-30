@@ -7,9 +7,13 @@ tags:
   - game-theory
   - behavioral-economics
 updated_on: 2026-04-29
-source_count: 12
+source_count: 14
 related_pages:
   - [[von Neumann and Morgenstern 1944]]
+  - [[Schelling 1960]]
+  - [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]
+  - [[Lewis 1969]]
+  - [[Lewis 1969 - Chapter 01 - Coordination and Convention]]
   - [[Guth et al. 1982]]
   - [[Camerer and Thaler 1995]]
   - [[Berg et al. 1995]]
@@ -27,6 +31,9 @@ related_pages:
   - [[Trust game]]
   - [[Public goods game]]
   - [[Experimental games]]
+  - [[Coordination games]]
+  - [[Convention]]
+  - [[Common knowledge]]
   - [[Cultural variation in social preferences]]
   - [[Cooperation]]
   - [[Free riding]]
@@ -44,7 +51,15 @@ related_pages:
 
 [[Game theory]] is the analysis of choice when outcomes depend on the choices of more than one agent. In the current wiki it should not become a general encyclopedia page. Its main job is to mark the strategic-choice benchmark that behavioral economics modifies through experimental games, social preferences, fairness, trust, cooperation, reciprocity, and bounded strategic reasoning.
 
-The key move is conceptual. Standard game theory can be descriptively wrong either because agents fail to reason through the equilibrium logic, or because the payoff structure used by the analyst is too thin. In the fairness-and-trust branch, the second problem is central. Players may care about being treated fairly, about punishing unkindness, about reciprocating trust, or about avoiding betrayal. If those motives are real, then the material-payoff game is not yet the full behavioral game.
+The key move is conceptual. Standard game theory can be descriptively wrong either because agents fail to reason through the equilibrium logic, because the payoff structure used by the analyst is too thin, or because the representation strips away the labels and signals through which agents coordinate. [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]] adds this third route: some games turn on mutually consistent expectations, focal clues, and tacit coordination rather than on conflict alone.
+
+In the fairness-and-trust branch, the payoff problem is central. Players may care about being treated fairly, about punishing unkindness, about reciprocating trust, or about avoiding betrayal. If those motives are real, then the material-payoff game is not yet the full behavioral game.
+
+## Coordination and interdependent decision
+
+[[Coordination games]] are the Schelling entry point into this branch. They show that shared interests do not automatically solve strategic interaction. Agents may all prefer to coordinate, yet still need a salient place, time, convention, label, rule, or boundary that each can expect the others to recognize.
+
+[[Lewis 1969]] then turns this into the theory of [[Convention]]. A convention is a recurrent solution to a coordination problem sustained by expectations, alternatives, conditional reasons to conform, and [[Common knowledge]]. This matters because coordination is not the same thing as cooperation. Cooperation often asks whether people contribute despite incentives to defect. Coordination asks whether actions mesh. Schelling's chapter also shows why the distinction between pure conflict and common interest is too crude: many political, social, and bargaining settings mix conflict over distribution with dependence on mutual accommodation.
 
 ## Why ultimatum and trust games matter
 
@@ -66,7 +81,7 @@ This is the constructive side of behavioral game theory. The experiments do not 
 
 ## Related pages
 
-The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal anchors are [[Rabin 1993]] and [[Fehr and Schmidt 1999]].
+The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Coordination games]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal anchors are [[Schelling 1960]], [[Lewis 1969]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
 
 ## Open questions
 

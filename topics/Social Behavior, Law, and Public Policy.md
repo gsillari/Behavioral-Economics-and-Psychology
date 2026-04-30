@@ -11,6 +11,11 @@ updated_on: 2026-04-29
 related_pages:
   - [[Behavioral Economics]]
   - [[Social Motivation and Interpersonal Influence]]
+  - [[Coordination games]]
+  - [[Schelling 1960]]
+  - [[Lewis 1969]]
+  - [[Convention]]
+  - [[Common knowledge]]
   - [[Behavioral Public Policy and Institutional Design]]
   - [[Behavioral Law, Welfare, and Institutions]]
   - [[Behavioral political economy]]
@@ -52,7 +57,7 @@ This branch therefore turns the field outward: from how individuals choose to ho
 
 ### 5.1 [[Social Motivation and Interpersonal Influence]]
 
-This branch focuses on other-regarding motivation and the ways people influence each other's behavior. Its core pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Cooperation]], [[Reciprocity]], [[Cultural variation in social preferences]], and [[Self-serving bias]]. The experimental-game entry points are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]].
+This branch focuses on other-regarding motivation, coordination, convention, and the ways people influence each other's behavior. Its core pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Cooperation]], [[Coordination games]], [[Convention]], [[Reciprocity]], [[Cultural variation in social preferences]], and [[Self-serving bias]]. The experimental-game entry points are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]].
 
 ### 5.2 [[Behavioral Public Policy and Institutional Design]]
 
