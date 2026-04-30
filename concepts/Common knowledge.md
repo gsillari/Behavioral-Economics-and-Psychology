@@ -8,10 +8,11 @@ tags:
   - coordination
   - convention
 updated_on: 2026-04-30
-source_count: 1
+source_count: 2
 related_pages:
   - [[Lewis 1969]]
   - [[Lewis 1969 - Chapter 02 - Convention Refined]]
+  - [[Van Huyck et al. 1990]]
   - [[Convention]]
   - [[Coordination games]]
   - [[Game theory]]
@@ -31,6 +32,12 @@ Lewis uses common knowledge to refine the theory of convention. A regularity can
 
 This is why common knowledge belongs near [[Coordination games]]. A salient focal point, rule, precedent, or label works only when it can become mutually recognized as a basis for action.
 
+## Limits of common knowledge
+
+[[Van Huyck et al. 1990]] is a useful warning against overloading the concept. In their tacit coordination experiments, subjects have complete information about the payoff table and the strategic setting is made public. Yet the group often fails to coordinate on the payoff-dominant equilibrium and instead converges toward the secure low outcome.
+
+The lesson is that common knowledge of the game is not the same as common expectations about equilibrium selection. Common knowledge can help sustain a convention once a regularity exists, but it does not by itself say which equilibrium agents should expect others to choose when several strict equilibria are available.
+
 ## Why it matters for PPE
 
 For PPE students, common knowledge matters because many social and political institutions depend on shared expectations. Laws, conventions, money, language, queues, traffic norms, political procedures, and bargaining practices often require not just private belief but public or mutually accessible belief.
@@ -39,7 +46,7 @@ It also matters for behavioral economics because it clarifies a non-bias role fo
 
 ## Related pages
 
-The anchor source is [[Lewis 1969]], especially [[Lewis 1969 - Chapter 02 - Convention Refined]]. The closest concept neighbors are [[Convention]], [[Coordination games]], and [[Game theory]].
+The anchor source is [[Lewis 1969]], especially [[Lewis 1969 - Chapter 02 - Convention Refined]]. [[Van Huyck et al. 1990]] is the key experimental limit case. The closest concept neighbors are [[Convention]], [[Coordination games]], and [[Game theory]].
 
 ## Open questions
 

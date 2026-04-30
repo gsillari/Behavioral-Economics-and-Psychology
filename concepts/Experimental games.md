@@ -6,11 +6,13 @@ tags:
   - behavioral-economics
   - experimental-economics
   - game-theory
-updated_on: 2026-04-29
-source_count: 1
+updated_on: 2026-04-30
+source_count: 2
 related_pages:
   - [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]
+  - [[Van Huyck et al. 1990]]
   - [[Game theory]]
+  - [[Coordination games]]
   - [[Social preferences]]
   - [[Ultimatum game]]
   - [[Dictator game]]
@@ -24,9 +26,11 @@ related_pages:
 
 ## Core idea
 
-[[Experimental games]] are controlled strategic-choice tasks used to measure social preferences, norms, beliefs, and forms of cooperation. In this wiki, they are the methodological bridge between [[Game theory]] and the social-preference concepts: [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], and punishment games are not just named examples, but instruments for separating mechanisms.
+[[Experimental games]] are controlled strategic-choice tasks used to measure social preferences, norms, beliefs, strategic uncertainty, and forms of cooperation. In this wiki, they are the methodological bridge between [[Game theory]] and behavioral evidence: [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], punishment games, and tacit coordination games are not just named examples, but instruments for separating mechanisms.
 
-The anchor source is [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. Their key point is that games can be used in two ways. They can generate predictions under assumptions of rational self-interest, and they can serve as a taxonomy of social situations that makes deviations from those predictions interpretable.
+One anchor source is [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. Their key point is that games can be used in two ways. They can generate predictions under assumptions of rational self-interest, and they can serve as a taxonomy of social situations that makes deviations from those predictions interpretable.
+
+[[Van Huyck et al. 1990]] adds a second use: experimental games can test equilibrium selection itself. Their tacit coordination experiments ask whether subjects can converge on the payoff-dominant equilibrium when many strict equilibria are available and no explicit communication is allowed.
 
 ## What they measure
 
@@ -34,15 +38,17 @@ Different games isolate different parts of social motivation. The [[Ultimatum ga
 
 The point is not that each game maps one-to-one onto one motive. The point is comparative. Looking across games helps distinguish altruism, [[Reciprocity]], [[Inequity aversion]], [[Costly punishment]], and [[Trust]].
 
+Coordination games add a different diagnostic. In Van Huyck, Battalio, and Beil's minimum-effort games, the issue is not fairness or generosity. The issue is whether players can form common expectations about which equilibrium others will choose. The observed movement toward the secure but inefficient equilibrium makes strategic uncertainty experimentally visible.
+
 ## Methodological caution
 
-Experimental games are deliberately simplified. Anonymous one-shot play without communication is a baseline, not a theory of real life. Researchers can then add communication, repetition, identification, group membership, field context, or strategy-method elicitation to see what changes.
+Experimental games are deliberately simplified. Anonymous one-shot play without communication is a baseline, not a theory of real life. Researchers can then add communication, repetition, identification, group membership, field context, monitoring, group-size variation, or strategy-method elicitation to see what changes.
 
 This caution becomes crucial in cross-cultural research. [[Henrich et al. 2004]] shows that the same material game may be construed differently across societies. Experimental games therefore need ethnographic interpretation as well as formal clarity.
 
 ## Related pages
 
-The anchor unit is [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. The closest neighboring pages are [[Game theory]], [[Social preferences]], [[Cultural variation in social preferences]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], and [[Costly punishment]].
+The anchor unit is [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. The key coordination source is [[Van Huyck et al. 1990]]. The closest neighboring pages are [[Game theory]], [[Coordination games]], [[Social preferences]], [[Cultural variation in social preferences]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], and [[Costly punishment]].
 
 ## Open questions
 

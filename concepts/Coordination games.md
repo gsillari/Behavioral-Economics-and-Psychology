@@ -7,7 +7,7 @@ tags:
   - coordination
   - strategic-interaction
 updated_on: 2026-04-30
-source_count: 3
+source_count: 4
 related_pages:
   - [[Schelling 1960]]
   - [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]
@@ -18,6 +18,7 @@ related_pages:
   - [[Lewis 1969 - Chapter 03 - Convention Contrasted]]
   - [[Skyrms 2014]]
   - [[Skyrms 2014 - Chapter 04 - Correlated Convention]]
+  - [[Van Huyck et al. 1990]]
   - [[Evolutionary game theory]]
   - [[Convention]]
   - [[Common knowledge]]
@@ -39,6 +40,8 @@ related_pages:
 
 [[Skyrms 2014 - Chapter 04 - Correlated Convention]] adds the evolutionary successor to this branch. It asks how correlated conventions can emerge when symmetric rational choice leaves agents stuck among equivalent options. The answer is not just "common knowledge" but symmetry-breaking through cues, roles, learning, noise, and population dynamics.
 
+[[Van Huyck et al. 1990]] adds the experimental counterpart. It shows that in tacit minimum-effort coordination games, groups may fail to reach the payoff-dominant equilibrium even when interests are aligned, rules and payoffs are common knowledge, and the efficient outcome is itself an equilibrium. Without a focal point or convention that makes high effort credible, strategic uncertainty can push subjects toward a secure but inefficient equilibrium.
+
 ## Why coordination is not trivial
 
 Schelling's crucial move is to show that a shared interest does not eliminate the strategic problem. Two people who need to meet without communication, drivers who need to avoid collision, dancers adjusting to unfamiliar music, or an audience deciding whether to keep applauding all face the same kind of issue: each must act with an eye to what will be mutually recognized.
@@ -59,6 +62,14 @@ This is the bridge to social institutions. A convention can stabilize traffic pr
 
 Skyrms adds a dynamic version of the same bridge. In hawk-dove and chicken-like settings, a shared cue can let players condition behavior on roles rather than fall back into an inefficient mixed equilibrium. Once one such correlated equilibrium spreads, it can become a custom. This is why [[Evolutionary game theory]] belongs in the coordination branch rather than only in biology: it explains how role-based conventions can arise before they are written down as rules.
 
+## Strategic uncertainty and coordination failure
+
+Van Huyck, Battalio, and Beil make the negative case experimentally. Their minimum-effort game has many strict equilibria. The all-high-effort equilibrium is payoff-dominant; the all-low-effort equilibrium is secure. In large groups, first-period play does not converge on either principle deductively, and repeated play drives subjects toward the secure low outcome rather than the efficient high one.
+
+This is not a prisoner's dilemma result. There is no incentive to defect from the efficient outcome once everyone expects it. The problem is whether everyone can expect it in the first place. The result therefore sharpens the Schelling-Lewis branch: focal points and conventions matter because, without some expectation-focusing device, common interest and common knowledge may still leave agents exposed to strategic uncertainty.
+
+Group size is part of the mechanism. In a minimum-effort game, one low choice pulls down the payoff-relevant minimum for everyone. Small doubts about each other player's willingness to choose the high action compound as the group grows, making the secure action increasingly attractive. The same paper finds more efficient convergence in fixed pairs, which helps explain why some coordination problems are manageable locally but fragile at scale.
+
 ## Relation to cooperation and bargaining
 
 Coordination is close to [[Cooperation]], but it is not the same mechanism. Cooperation often concerns incentives to contribute or defect. Coordination concerns whether agents can make their actions mesh. A group can fail to coordinate even when everyone wants the same outcome; it can also coordinate on a bad or fragile equilibrium.
@@ -67,11 +78,11 @@ Schelling also treats coordination as central to mixed-motive games. Bargaining 
 
 ## Place in the wiki
 
-This page should become the entry point for Schelling-style coordination, Lewis-style convention, focal points, salience, tacit agreement, mutual perception, and common knowledge. It belongs under [[Game theory]], but it also connects to the social-behavior branch because political action, convention, protest, bargaining, traffic norms, and institutional settlement often depend on the same logic.
+This page should become the entry point for Schelling-style coordination, Lewis-style convention, focal points, salience, tacit agreement, mutual perception, common knowledge, and strategic uncertainty. It belongs under [[Game theory]], but it also connects to the social-behavior branch because political action, convention, protest, bargaining, traffic norms, and institutional settlement often depend on the same logic.
 
 ## Related pages
 
-The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]], and [[Skyrms 2014 - Chapter 04 - Correlated Convention]]. The nearest neighbors are [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].
+The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]], [[Skyrms 2014 - Chapter 04 - Correlated Convention]], and [[Van Huyck et al. 1990]]. The nearest neighbors are [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Experimental games]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].
 
 ## Open questions
 

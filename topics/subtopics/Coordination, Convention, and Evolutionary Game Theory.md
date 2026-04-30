@@ -17,6 +17,7 @@ related_pages:
   - [[Evolutionary game theory]]
   - [[Schelling 1960]]
   - [[Lewis 1969]]
+  - [[Van Huyck et al. 1990]]
   - [[Skyrms 2014]]
   - [[Cooperation]]
   - [[Fairness]]
@@ -27,7 +28,7 @@ related_pages:
 
 ## Scope
 
-This subtopic gathers the strategic-institutional side of Topic 5: how agents coordinate, how conventions stabilize, and how social order can emerge without explicit agreement or centralized enforcement. It is the natural home for the sequence [[Schelling 1960]] -> [[Lewis 1969]] -> [[Skyrms 2014]].
+This subtopic gathers the strategic-institutional side of Topic 5: how agents coordinate, how conventions stabilize, and how social order can emerge without explicit agreement or centralized enforcement. It is the natural home for the sequence [[Schelling 1960]] -> [[Lewis 1969]] -> [[Van Huyck et al. 1990]] -> [[Skyrms 2014]].
 
 The branch is distinct from the social-preferences branch. [[Social preferences]] asks what people care about. This branch asks how patterns of action become mutually stable: through focal points, common knowledge, correlated equilibria, learning, local interaction, evolutionary dynamics, and cultural transmission.
 
@@ -37,7 +38,9 @@ The first anchor is [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04
 
 The second anchor is [[Lewis 1969]]. Lewis turns Schelling's insight into a philosophical theory of [[Convention]]. A convention is not merely a habit or rule; it is a recurrent solution to a coordination problem sustained by expectations, alternatives, conditional reasons to conform, and [[Common knowledge]].
 
-The third anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], asking how conventions, cooperation, ownership, and fair division can emerge dynamically. This shifts the explanatory question from "which equilibrium should rational agents select?" to "which strategies and conventions can spread and persist under learning, imitation, correlation, mutation, and cultural transmission?"
+The third anchor is [[Van Huyck et al. 1990]]. It supplies the experimental warning: when there is no focal or conventional equilibrium-selection device, groups may converge to a secure but inefficient equilibrium even though the efficient outcome is also an equilibrium and everyone would prefer it.
+
+The fourth anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], asking how conventions, cooperation, ownership, and fair division can emerge dynamically. This shifts the explanatory question from "which equilibrium should rational agents select?" to "which strategies and conventions can spread and persist under learning, imitation, correlation, mutation, and cultural transmission?"
 
 ## Why it matters for PPE
 
@@ -47,7 +50,7 @@ For PPE students, the point is especially useful: institutions are not only ince
 
 ## Related pages
 
-The central concept pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
+The central concept pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
 
 ## Open questions
 
