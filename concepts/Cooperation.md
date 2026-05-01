@@ -7,7 +7,7 @@ tags:
   - game-theory
   - social-preferences
 updated_on: 2026-04-30
-source_count: 6
+source_count: 7
 related_pages:
   - [[Dawes and Thaler 1988]]
   - [[Ledyard 1995]]
@@ -16,10 +16,12 @@ related_pages:
   - [[Fehr and Schmidt 1999]]
   - [[Skyrms 2014]]
   - [[Skyrms 2014 - Chapter 03 - Mutual Aid]]
+  - [[Hardin 1968]]
   - [[Evolutionary game theory]]
   - [[Game theory]]
   - [[Public goods game]]
   - [[Free riding]]
+  - [[Tragedy of the commons]]
   - [[Conditional cooperation]]
   - [[Costly punishment]]
   - [[Reciprocity]]
@@ -37,9 +39,11 @@ The key conceptual point is that cooperation is not one motive. [[Dawes and Thal
 
 [[Skyrms 2014 - Chapter 03 - Mutual Aid]] adds the evolutionary-game-theoretic foundation. Cooperation can become dynamically viable when interactions are correlated: cooperators meet cooperators more often than random pairing would predict. Correlation can come from kinship, partner choice, repeated interaction, signaling, local clustering, or group structure.
 
+[[Hardin 1968]] adds the commons version of the same family of problems. In the [[Tragedy of the commons]], the issue is not only whether people contribute to a public good, but whether open-access rules make individually rational use of a shared resource collectively destructive. This gives the cooperation page a bridge from laboratory contribution games to environmental resources, pollution, population pressure, and institutional design.
+
 ## Structure of the problem
 
-The standard problem is [[Free riding]]. In a [[Public goods game]], each participant may prefer that others contribute while she keeps her own endowment. If everyone reasons this way, the group underprovides the public good. The behavioral anomaly is that people often contribute anyway, especially early, but contributions frequently decay when cooperators observe or expect free riding.
+The standard problem is [[Free riding]]. In a [[Public goods game]], each participant may prefer that others contribute while she keeps her own endowment. If everyone reasons this way, the group underprovides the public good. In a [[Tragedy of the commons]], the mirror problem is overuse: each user takes too much from, or puts too much waste into, a shared resource because the costs are dispersed. The behavioral anomaly is that people often contribute anyway, especially early, but contributions frequently decay when cooperators observe or expect free riding.
 
 [[Conditional cooperation]] explains much of the fragility. Many people are willing to contribute if they believe others will contribute, but reduce contributions when they expect others to free ride. Cooperation can therefore unravel without everyone being selfish.
 
@@ -49,7 +53,7 @@ Skyrms's contribution is to clarify that cooperation need not be explained only 
 
 ## Related pages
 
-The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], and [[Skyrms 2014 - Chapter 03 - Mutual Aid]]. The closest neighboring pages are [[Game theory]], [[Evolutionary game theory]], [[Public goods game]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], [[Social preferences]], and [[Fairness]].
+The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Skyrms 2014 - Chapter 03 - Mutual Aid]], and [[Hardin 1968]]. The closest neighboring pages are [[Game theory]], [[Evolutionary game theory]], [[Public goods game]], [[Free riding]], [[Tragedy of the commons]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], [[Social preferences]], and [[Fairness]].
 
 ## Open questions
 

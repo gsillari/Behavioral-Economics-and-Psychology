@@ -7,7 +7,7 @@ tags:
   - ppe
   - game-theory
   - social-institutions
-updated_on: 2026-04-30
+updated_on: 2026-05-01
 related_pages:
   - [[Social Behavior, Law, and Public Policy]]
   - [[Game theory]]
@@ -19,7 +19,9 @@ related_pages:
   - [[Lewis 1969]]
   - [[Van Huyck et al. 1990]]
   - [[Skyrms 2014]]
+  - [[Hardin 1968]]
   - [[Cooperation]]
+  - [[Tragedy of the commons]]
   - [[Fairness]]
   - [[Endowment effect]]
 ---
@@ -30,7 +32,7 @@ related_pages:
 
 This subtopic gathers the strategic-institutional side of Topic 5: how agents coordinate, how conventions stabilize, and how social order can emerge without explicit agreement or centralized enforcement. It is the natural home for the sequence [[Schelling 1960]] -> [[Lewis 1969]] -> [[Van Huyck et al. 1990]] -> [[Skyrms 2014]].
 
-The branch is distinct from the social-preferences branch. [[Social preferences]] asks what people care about. This branch asks how patterns of action become mutually stable: through focal points, common knowledge, correlated equilibria, learning, local interaction, evolutionary dynamics, and cultural transmission.
+The branch is distinct from the social-preferences branch. [[Social preferences]] asks what people care about. This branch asks how patterns of action become mutually stable or collectively destructive: through focal points, common knowledge, correlated equilibria, learning, local interaction, evolutionary dynamics, cultural transmission, and institutional access rules.
 
 ## Current focus
 
@@ -42,6 +44,8 @@ The third anchor is [[Van Huyck et al. 1990]]. It supplies the experimental warn
 
 The fourth anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], asking how conventions, cooperation, ownership, and fair division can emerge dynamically. This shifts the explanatory question from "which equilibrium should rational agents select?" to "which strategies and conventions can spread and persist under learning, imitation, correlation, mutation, and cultural transmission?"
 
+[[Hardin 1968]] adds the open-access failure case through [[Tragedy of the commons]]. Where Schelling and Lewis explain how coordination can stabilize, and Skyrms explains how cooperation and convention can evolve, Hardin shows how an institutional arrangement can make individually rational use collectively destructive unless access, use, or pollution is governed.
+
 ## Why it matters for PPE
 
 This branch is where the wiki connects behavioral economics to social institutions. Traffic rules, property-like expectations, bargaining conventions, informal norms, and cooperative practices often work because people expect others to act in mutually compatible ways. That makes them strategic and social before they are legal or moral.
@@ -50,7 +54,7 @@ For PPE students, the point is especially useful: institutions are not only ince
 
 ## Related pages
 
-The central concept pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
+The central concept pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Tragedy of the commons]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
 
 ## Open questions
 

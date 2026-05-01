@@ -6,8 +6,8 @@ tags:
   - economics
   - game-theory
   - behavioral-economics
-updated_on: 2026-04-30
-source_count: 16
+updated_on: 2026-05-01
+source_count: 17
 related_pages:
   - [[von Neumann and Morgenstern 1944]]
   - [[Schelling 1960]]
@@ -25,6 +25,7 @@ related_pages:
   - [[Fehr and Gachter 2000]]
   - [[Chaudhuri 2011]]
   - [[Henrich et al. 2004]]
+  - [[Hardin 1968]]
   - [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]
   - [[Rabin 1993]]
   - [[Fehr and Schmidt 1999]]
@@ -40,6 +41,7 @@ related_pages:
   - [[Cultural variation in social preferences]]
   - [[Cooperation]]
   - [[Free riding]]
+  - [[Tragedy of the commons]]
   - [[Conditional cooperation]]
   - [[Costly punishment]]
   - [[Fairness]]
@@ -82,6 +84,8 @@ The [[Trust game]] adds a different strategic structure. In [[Berg et al. 1995]]
 
 The [[Public goods game]] adds the cooperation branch. In the narrow benchmark, each person has an incentive to [[Free riding|free ride]] while benefiting from others' contributions. [[Dawes and Thaler 1988]] and [[Ledyard 1995]] show that people contribute more than the strong free-rider prediction permits, but that cooperation is fragile. [[Fehr and Gachter 2000]] and [[Chaudhuri 2011]] then show how [[Costly punishment]], [[Conditional cooperation]], communication, disapproval, and sorting can stabilize cooperation.
 
+[[Hardin 1968]] extends this branch beyond laboratory contribution games. The [[Tragedy of the commons]] shows how an open-access resource can turn individually rational action into collective ruin when each user receives the benefit of extra use and spreads the cost across the group. The game-theoretic lesson is institutional: changing motives is not the only route; changing access rules, sanctions, taxes, or rights can change the strategic environment.
+
 [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]] makes the methodological point explicit: these games are [[Experimental games|experimental games]], not just illustrative stories. They are controlled devices for measuring motives such as reciprocity, inequity aversion, altruism, trust, and punishment. [[Van Huyck et al. 1990]] shows that the same experimental method can also study equilibrium selection and strategic uncertainty. [[Henrich et al. 2004]] then shows why the interpretation of experimental games needs cross-cultural and ethnographic discipline.
 
 ## Evidence and debate
@@ -92,7 +96,7 @@ This is the constructive side of behavioral game theory. The experiments do not 
 
 ## Related pages
 
-The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Evolutionary game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal and experimental anchors are [[Schelling 1960]], [[Lewis 1969]], [[Van Huyck et al. 1990]], [[Skyrms 2014]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
+The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Evolutionary game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Tragedy of the commons]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal and experimental anchors are [[Schelling 1960]], [[Lewis 1969]], [[Van Huyck et al. 1990]], [[Skyrms 2014]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
 
 ## Open questions
 

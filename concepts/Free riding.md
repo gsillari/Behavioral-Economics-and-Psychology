@@ -6,15 +6,17 @@ tags:
   - economics
   - game-theory
   - cooperation
-updated_on: 2026-04-29
-source_count: 4
+updated_on: 2026-05-01
+source_count: 5
 related_pages:
   - [[Dawes and Thaler 1988]]
   - [[Ledyard 1995]]
   - [[Fehr and Gachter 2000]]
   - [[Chaudhuri 2011]]
+  - [[Hardin 1968]]
   - [[Public goods game]]
   - [[Cooperation]]
+  - [[Tragedy of the commons]]
   - [[Costly punishment]]
   - [[Conditional cooperation]]
   - [[Social preferences]]
@@ -28,6 +30,8 @@ related_pages:
 
 In the narrow self-interest benchmark, free riding is often the dominant strategy: each person would rather keep her own endowment while others contribute. [[Dawes and Thaler 1988]] makes this the cooperation anomaly: actual subjects often contribute more than the free-rider prediction allows. [[Ledyard 1995]] then shows that the anomaly is real but fragile, because contributions often decline over repeated play.
 
+[[Hardin 1968]] adds the commons analogue. In the [[Tragedy of the commons]], each user can benefit from adding one more use of an open-access resource while the costs are spread across everyone. Free riding here is not only failure to contribute; it can also be overuse of a common resource or underinvestment in preserving it.
+
 ## Why it matters
 
 Free riding is not only a behavior but a threat to cooperative expectations. [[Conditional cooperation|Conditional cooperators]] may be willing to contribute when they expect others to do so, but reduce contributions when they believe others are exploiting them. A small number of free riders can therefore destabilize a group by changing what cooperators expect.
@@ -36,7 +40,7 @@ Free riding is not only a behavior but a threat to cooperative expectations. [[C
 
 ## Related pages
 
-The closest pages are [[Public goods game]], [[Cooperation]], [[Conditional cooperation]], [[Costly punishment]], [[Social preferences]], and [[Game theory]]. The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], and [[Chaudhuri 2011]].
+The closest pages are [[Public goods game]], [[Cooperation]], [[Tragedy of the commons]], [[Conditional cooperation]], [[Costly punishment]], [[Social preferences]], and [[Game theory]]. The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], and [[Hardin 1968]].
 
 ## Open questions
 

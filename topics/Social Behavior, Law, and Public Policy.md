@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - policy
-updated_on: 2026-04-30
+updated_on: 2026-05-01
 related_pages:
   - [[Behavioral Economics]]
   - [[Social Motivation and Interpersonal Influence]]
@@ -33,6 +33,7 @@ related_pages:
   - [[Public goods game]]
   - [[Cooperation]]
   - [[Free riding]]
+  - [[Tragedy of the commons]]
   - [[Conditional cooperation]]
   - [[Costly punishment]]
   - [[Trust]]
@@ -64,7 +65,7 @@ This branch focuses on other-regarding motivation and experimental games. Its co
 
 ### 5.2 [[Coordination, Convention, and Evolutionary Game Theory]]
 
-This branch focuses on the strategic emergence of social order. Its core pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], and [[Cooperation]]. The source sequence is [[Schelling 1960]] -> [[Lewis 1969]] -> [[Skyrms 2014]]: focal points, convention, and evolutionary dynamics.
+This branch focuses on the strategic emergence of social order. Its core pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Cooperation]], and [[Tragedy of the commons]]. The source sequence is [[Schelling 1960]] -> [[Lewis 1969]] -> [[Skyrms 2014]], with [[Hardin 1968]] adding the open-access commons problem: focal points, convention, evolutionary dynamics, and institutional failure.
 
 ### 5.3 [[Behavioral Public Policy and Institutional Design]]
 
