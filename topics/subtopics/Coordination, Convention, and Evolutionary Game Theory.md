@@ -11,6 +11,9 @@ updated_on: 2026-05-01
 related_pages:
   - [[Social Behavior, Law, and Public Policy]]
   - [[Game theory]]
+  - [[Behavioral game theory]]
+  - [[Camerer 2003]]
+  - [[Camerer 2003 - Chapter 01 - Introduction]]
   - [[Coordination games]]
   - [[Convention]]
   - [[Common knowledge]]
@@ -44,7 +47,9 @@ The second anchor is [[Lewis 1969]]. Lewis turns Schelling's insight into a phil
 
 The third anchor is [[Van Huyck et al. 1990]]. It supplies the experimental warning: when there is no focal or conventional equilibrium-selection device, groups may converge to a secure but inefficient equilibrium even though the efficient outcome is also an equilibrium and everyone would prefer it.
 
-The fourth anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], asking how conventions, cooperation, ownership, and fair division can emerge dynamically. This shifts the explanatory question from "which equilibrium should rational agents select?" to "which strategies and conventions can spread and persist under learning, imitation, correlation, mutation, and cultural transmission?"
+The fourth anchor is [[Camerer 2003 - Chapter 01 - Introduction]]. It places coordination experiments inside [[Behavioral game theory]]: games remain formal models of strategic interdependence, but experiments show how expectations, history, learning, and limited strategic reasoning affect which equilibrium people actually reach.
+
+The fifth anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], asking how conventions, cooperation, ownership, and fair division can emerge dynamically. This shifts the explanatory question from "which equilibrium should rational agents select?" to "which strategies and conventions can spread and persist under learning, imitation, correlation, mutation, and cultural transmission?"
 
 [[Hardin 1968]] adds the open-access failure case through [[Tragedy of the commons]]. Where Schelling and Lewis explain how coordination can stabilize, and Skyrms explains how cooperation and convention can evolve, Hardin shows how an institutional arrangement can make individually rational use collectively destructive unless access, use, or pollution is governed.
 
@@ -58,7 +63,7 @@ For PPE students, the point is especially useful: institutions are not only ince
 
 ## Related pages
 
-The central concept pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Tragedy of the commons]], [[Common-pool resources]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
+The central concept pages are [[Game theory]], [[Behavioral game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Tragedy of the commons]], [[Common-pool resources]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
 
 ## Open questions
 

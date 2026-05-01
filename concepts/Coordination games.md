@@ -7,8 +7,11 @@ tags:
   - coordination
   - strategic-interaction
 updated_on: 2026-04-30
-source_count: 4
+source_count: 5
 related_pages:
+  - [[Camerer 2003]]
+  - [[Camerer 2003 - Chapter 01 - Introduction]]
+  - [[Behavioral game theory]]
   - [[Schelling 1960]]
   - [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]
   - [[Thomas C. Schelling]]
@@ -41,6 +44,8 @@ related_pages:
 [[Skyrms 2014 - Chapter 04 - Correlated Convention]] adds the evolutionary successor to this branch. It asks how correlated conventions can emerge when symmetric rational choice leaves agents stuck among equivalent options. The answer is not just "common knowledge" but symmetry-breaking through cues, roles, learning, noise, and population dynamics.
 
 [[Van Huyck et al. 1990]] adds the experimental counterpart. It shows that in tacit minimum-effort coordination games, groups may fail to reach the payoff-dominant equilibrium even when interests are aligned, rules and payoffs are common knowledge, and the efficient outcome is itself an equilibrium. Without a focal point or convention that makes high effort credible, strategic uncertainty can push subjects toward a secure but inefficient equilibrium.
+
+[[Camerer 2003 - Chapter 01 - Introduction]] places this coordination branch inside [[Behavioral game theory]]. His introductory continental-divide example makes the point especially cleanly: when there are multiple equilibria, small early differences in expectations can push groups toward different stable outcomes. The experiment is not a rejection of game theory, but a warning that equilibrium selection, history, and expectation formation are behavioral parts of the strategic problem.
 
 ## Why coordination is not trivial
 
@@ -82,7 +87,7 @@ This page should become the entry point for Schelling-style coordination, Lewis-
 
 ## Related pages
 
-The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]], [[Skyrms 2014 - Chapter 04 - Correlated Convention]], and [[Van Huyck et al. 1990]]. The nearest neighbors are [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Experimental games]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].
+The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]], [[Skyrms 2014 - Chapter 04 - Correlated Convention]], [[Van Huyck et al. 1990]], and [[Camerer 2003 - Chapter 01 - Introduction]]. The nearest neighbors are [[Behavioral game theory]], [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Experimental games]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].
 
 ## Open questions
 

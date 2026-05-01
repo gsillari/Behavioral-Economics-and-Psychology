@@ -7,8 +7,13 @@ tags:
   - law
   - decision-making
 updated_on: 2026-04-22
-source_count: 6
+source_count: 7
 related_pages:
+  - [[Camerer 2003]]
+  - [[Camerer 2003 - Chapter 01 - Introduction]]
+  - [[Behavioral game theory]]
+  - [[Game theory]]
+  - [[Experimental games]]
   - [[Simon 1955]]
   - [[Simon 1956]]
   - [[Simon 1979]]
@@ -59,6 +64,8 @@ This concept differs from [[Time inconsistency]], where the main problem is fail
 
 [[Smith 1991]] adds a different and useful extension of the Simonian branch. The paper does not deny individual cognitive limits. Instead it argues that one should not infer too quickly from those limits to failure at the level of institutions. Experimental markets can generate substantively rational outcomes even when participants do not understand the equilibrium theory describing them. In the current vault, that matters as a reminder that bounded rationality can coexist with institutionally mediated rationality rather than simply replacing rational outcomes with error.
 
+[[Camerer 2003 - Chapter 01 - Introduction]] adds the strategic-interaction version of the same problem. In games, bounded rationality is not only limited search over individual options; it is also limited reasoning about other reasoners, learning from repeated play, and forming expectations under strategic uncertainty. That is why [[Behavioral game theory]] belongs next to this concept: it asks how far standard strategic models can be extended once players are cognitively finite but still responsive to incentives and interaction.
+
 [[Kahneman 2003]] adds a later psychological map of how bounded rationality appears in judgment and choice, linking the concept to intuitive processing, framing, and [[Attribute substitution]]. In that sense, Kahneman helps translate Simon's general benchmark shift into the later language of behavioral economics. [[Laibson and List 2015]] adds a useful didactic compression of that move for the classroom: people try to optimize, but they sometimes fail in predictable ways, and experience helps explain who fails less often. That is not as deep as Simon's foundation, but it is a good teaching restatement of why the benchmark needs revision at all.
 
 From there, the concept radiates outward into several later branches of the vault, especially [[Heuristics and Biases]], [[Limited attention]], [[Framing effects]], [[Behavioral law and economics]], and the broader question of whether institutions should be designed for optimizing agents or for finite, searching, satisficing ones. Those later uses matter, but they should be read as downstream extensions of the Simonian core rather than as part of the concept's foundation.
@@ -73,7 +80,7 @@ It also matters more broadly because it is one of the background concepts agains
 
 ## Related pages
 
-The anchor sources are [[Simon 1955]], [[Simon 1956]], [[Simon 1979]], [[Smith 1991]], and [[Petracca 2017]], with [[Kahneman 2003]] as the main later translation into behavioral-economics language. The closest neighboring pages are [[Ecological rationality]], [[Cognitivism]], [[Situated cognition]], [[Embodied cognition]], [[Clinical versus actuarial judgment]], [[Behavioral law and economics]], [[Heuristics and Biases]], [[Limited attention]], [[Framing effects]], and [[Behavioral public policy]]. The broader topical homes are [[Competing Views of Rationality]] and [[Behavioral Economics]]. The main entity pages are [[Herbert A. Simon]] and [[Vernon L. Smith]].
+The anchor sources are [[Simon 1955]], [[Simon 1956]], [[Simon 1979]], [[Smith 1991]], and [[Petracca 2017]], with [[Kahneman 2003]] as the main later translation into behavioral-economics language and [[Camerer 2003 - Chapter 01 - Introduction]] as the strategic-interaction extension. The closest neighboring pages are [[Ecological rationality]], [[Cognitivism]], [[Situated cognition]], [[Embodied cognition]], [[Clinical versus actuarial judgment]], [[Behavioral game theory]], [[Behavioral law and economics]], [[Heuristics and Biases]], [[Limited attention]], [[Framing effects]], and [[Behavioral public policy]]. The broader topical homes are [[Competing Views of Rationality]] and [[Behavioral Economics]]. The main entity pages are [[Herbert A. Simon]] and [[Vernon L. Smith]].
 
 ## Open questions
 

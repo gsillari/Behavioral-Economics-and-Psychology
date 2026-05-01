@@ -14,7 +14,9 @@ tags:
 updated_on: 2026-05-01
 related_pages:
   - [[Colin Camerer]]
+  - [[Camerer 2003 - Chapter 01 - Introduction]]
   - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
+  - [[Behavioral game theory]]
   - [[Game theory]]
   - [[Experimental games]]
   - [[Social preferences]]
@@ -40,11 +42,11 @@ For this wiki, the book is best treated as a source family. It does not merely r
 
 The current ingest covers:
 
+- [[Camerer 2003 - Chapter 01 - Introduction]]: fully ingested as the methodological unit for [[Behavioral game theory]], the games/game-theory distinction, experimental regularity, and the role of experimental design.
 - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]: fully ingested as the first unit. This chapter strengthens the [[Social preferences]], [[Fairness]], [[Altruism]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Reciprocity]], and [[Inequity aversion]] branches.
 
 Planned interactive ingest:
 
-- Chapter 1, `Introduction`: likely important for the book's methodological framing and the role of experimental regularities.
 - Chapter 7, `Coordination`: likely important for [[Coordination games]], focality, market entry, weak-link games, and path dependence.
 - Chapter 9, `Conclusion`: likely important for summarizing what behavioral game theory knew by 2003 and for open research questions.
 

@@ -6,8 +6,12 @@ tags:
   - behavioral-economics
   - philosophy
 updated_on: 2026-04-27
-source_count: 23
+source_count: 24
 related_pages:
+  - [[Camerer 2003]]
+  - [[Camerer 2003 - Chapter 01 - Introduction]]
+  - [[Behavioral game theory]]
+  - [[Game theory]]
   - [[Wason 1968]]
   - [[Cosmides and Tooby 2000]]
   - [[Wason selection task]]
@@ -84,6 +88,8 @@ The fourth distinction is between loose dual-process talk and stronger architect
 
 The fifth distinction is between methodological and normative uses of rationality. [[Berg and Gigerenzer 2010]] argues that much behavioral economics still preserves Friedman-style `as-if` explanation even while presenting itself as more realistic. [[Bernheim 2025]] adds that even a justified benchmark does not automatically tell policy when a deviation is a mistake rather than simply a departure from one evaluative ideal.
 
+[[Camerer 2003 - Chapter 01 - Introduction]] gives the strategic-interaction version of this methodological point. Behavioral evidence in games should not be read as simply refuting [[Game theory]]. Camerer's position is more constructive: keep the formal representation of strategic interdependence, but use experiments to discipline the assumptions about preferences, beliefs, learning, and depth of reasoning that the model builds into players.
+
 The sixth distinction is between winner-take-all and hybrid interpretations of the wars. [[Rich 2016]] matters here because it argues that the strongest versions of axiomatic and ecological rationality are not best treated as mutually exclusive frameworks. For the purpose of improving reasoning, she argues, each has a distinctive cost-benefit profile, and a hybrid that uses axiomatic criteria to evaluate candidate processes may be better than either pure approach.
 
 The seventh distinction is between task failure and mechanism diagnosis. [[Wason 1968]] shows that subjects often fail to search for the falsifying case in abstract conditional reasoning. [[Cosmides and Tooby 2000]] then argues that similar conditional tasks can elicit strong performance when they instantiate social exchange and cheater detection. That pair is valuable because it prevents a lazy reading of the rationality wars. The dispute is not only whether people pass or fail a benchmark task; it is what the task is measuring and which cognitive machinery it activates.
@@ -106,7 +112,7 @@ The concept matters because [[Behavioral public policy]] depends on assumptions 
 
 ## Related pages
 
-The anchor sources are [[Wason 1968]], [[Cosmides and Tooby 2000]], [[Kahneman and Tversky 1996]], [[Gigerenzer 1996]], [[Gigerenzer 2008]], [[Gigerenzer 2024]], [[Smith 1991]], [[Smith 2003]], [[Dekker and Remic 2019]], [[Berg and Gigerenzer 2010]], [[Petracca 2017]], [[Hortal 2025]], [[Rich 2016]], [[Samuels et al. 2002]], [[Sloman 1996]], [[Evans 2008]], [[Evans and Stanovich 2013]], [[Keren and Schul 2009]], [[De Neys 2012]], [[De Neys 2023]], [[Mercier and Sperber 2011]], [[Stanovich and West 2000]], [[Stanovich and West 2007]], and [[Bernheim 2025]]. The closest neighboring concepts are [[Wason selection task]], [[Bounded rationality]], [[Ecological rationality]], [[Constructivist rationality]], [[Adaptive toolbox]], [[Heuristics and Biases]], [[Confirmation bias]], [[Cognitivism]], [[Situated cognition]], [[Embodied cognition]], [[Logical intuitions]], [[Fast and slow thinking]], [[Argumentative theory of reasoning]], [[Myside bias]], [[Evolutionary psychology]], and [[Behavioral public policy]]. The main entity pages are [[Peter C. Wason]], [[Leda Cosmides]], [[John Tooby]], [[Herbert A. Simon]], [[Daniel Kahneman]], [[Amos Tversky]], [[Gerd Gigerenzer]], [[Vernon L. Smith]], [[Steven A. Sloman]], [[Jonathan St. B. T. Evans]], [[Keith E. Stanovich]], [[Richard F. West]], [[Wim De Neys]], [[Hugo Mercier]], [[Dan Sperber]], [[Gideon Keren]], [[Yaacov Schul]], [[Milton Friedman]], and [[B. Douglas Bernheim]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Wason 1968]], [[Cosmides and Tooby 2000]], [[Kahneman and Tversky 1996]], [[Gigerenzer 1996]], [[Gigerenzer 2008]], [[Gigerenzer 2024]], [[Smith 1991]], [[Smith 2003]], [[Dekker and Remic 2019]], [[Berg and Gigerenzer 2010]], [[Petracca 2017]], [[Hortal 2025]], [[Rich 2016]], [[Samuels et al. 2002]], [[Sloman 1996]], [[Evans 2008]], [[Evans and Stanovich 2013]], [[Keren and Schul 2009]], [[De Neys 2012]], [[De Neys 2023]], [[Mercier and Sperber 2011]], [[Stanovich and West 2000]], [[Stanovich and West 2007]], [[Bernheim 2025]], and [[Camerer 2003 - Chapter 01 - Introduction]]. The closest neighboring concepts are [[Wason selection task]], [[Bounded rationality]], [[Ecological rationality]], [[Constructivist rationality]], [[Adaptive toolbox]], [[Heuristics and Biases]], [[Confirmation bias]], [[Cognitivism]], [[Situated cognition]], [[Embodied cognition]], [[Logical intuitions]], [[Fast and slow thinking]], [[Argumentative theory of reasoning]], [[Behavioral game theory]], [[Myside bias]], [[Evolutionary psychology]], and [[Behavioral public policy]]. The main entity pages are [[Peter C. Wason]], [[Leda Cosmides]], [[John Tooby]], [[Herbert A. Simon]], [[Daniel Kahneman]], [[Amos Tversky]], [[Gerd Gigerenzer]], [[Vernon L. Smith]], [[Steven A. Sloman]], [[Jonathan St. B. T. Evans]], [[Keith E. Stanovich]], [[Richard F. West]], [[Wim De Neys]], [[Hugo Mercier]], [[Dan Sperber]], [[Gideon Keren]], [[Yaacov Schul]], [[Milton Friedman]], and [[B. Douglas Bernheim]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 
