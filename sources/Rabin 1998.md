@@ -14,7 +14,6 @@ related_pages:
   - [[Matthew Rabin]]
   - [[Scope and Method of Behavioral Economics]]
   - [[Behavioral Economics]]
-  - [[Nonstandard preferences]]
   - [[Nonstandard beliefs]]
   - [[Nonstandard decision-making]]
   - [[Preference]]
@@ -54,7 +53,7 @@ For PPE students, [[Rabin 1998]] matters because it makes behavioral economics r
 
 ## Links into the wiki
 
-This source should become a major anchor for [[Scope and Method of Behavioral Economics]], [[Behavioral Economics]], [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]]. It also creates or strengthens three important concept pages: [[Fairness]], [[Experienced utility]], and [[Reason-based choice]].
+This source should become a major anchor for [[Scope and Method of Behavioral Economics]], [[Behavioral Economics]], preference-side mechanisms, [[Nonstandard beliefs]], and [[Nonstandard decision-making]]. It also creates or strengthens three important concept pages: [[Fairness]], [[Experienced utility]], and [[Reason-based choice]].
 
 Melioration is important in the paper, but for now it should remain an explanatory mechanism inside [[Rabin 1998]], [[Reason-based choice]], [[Time inconsistency]], and [[Internalities]] rather than becoming a separate concept page.
 

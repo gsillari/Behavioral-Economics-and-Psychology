@@ -11,11 +11,11 @@ tags:
 updated_on: 2026-04-07
 related_pages:
   - [[Field Evidence in Behavioral Economics]]
-  - [[Nonstandard preferences]]
+  - [[Time inconsistency]]
+  - [[Reference dependence]]
+  - [[Social preferences]]
   - [[Nonstandard beliefs]]
   - [[Nonstandard decision-making]]
-  - [[Time inconsistency]]
-  - [[Social preferences]]
   - [[Overconfidence]]
   - [[Law of small numbers]]
   - [[Projection bias]]
@@ -35,7 +35,7 @@ related_pages:
 # DellaVigna 2009: Psychology and economics
 ## Summary
 
-[[DellaVigna 2009]] surveys the field evidence for behavioral economics across three broad classes of departures from the standard model: [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]].
+[[DellaVigna 2009]] surveys the field evidence for behavioral economics across three broad classes of departures from the standard model: preference-side mechanisms, [[Nonstandard beliefs]], and [[Nonstandard decision-making]].
 Rather than focusing on laboratory anomalies alone, the paper assembles evidence from domains such as consumption, finance, crime, voting, charitable giving, labor supply, and market interaction.
 In the current vault, this source functions as the main empirical organizer of the field.
 
@@ -46,7 +46,7 @@ That is why the source now sits at the center of [[Field Evidence in Behavioral 
 ## Key claims
 
 The paper's first claim is that behavioral economics has accumulated credible field evidence for systematic deviations from the standard model in at least three areas.
-First, individuals often display [[Nonstandard preferences]], including [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]].
+First, individuals often display preference-side departures from the standard model, especially [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]].
 Second, they exhibit [[Nonstandard beliefs]], including [[Overconfidence]], [[Projection bias]], and the [[Law of small numbers]].
 Third, they display [[Nonstandard decision-making]], including [[Framing effects]], [[Limited attention]], [[Menu effects]], interpersonal influence, and [[Emotions in decision-making]].
 
@@ -126,7 +126,7 @@ That is exactly why [[Strategic response to behavioral anomalies]] should be a m
 ## Why it matters for PPE
 
 For PPE students, this paper matters because it shows behavioral economics operating at the scale of a real empirical research program rather than as a handful of famous experiments.
-It matters for economics because it demonstrates that [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]] show up in markets and institutions.
+It matters for economics because it demonstrates that preference-side mechanisms, [[Nonstandard beliefs]], and [[Nonstandard decision-making]] show up in markets and institutions.
 It matters for philosophy because it sharpens the question of how much empirical deviation is needed before a rationality benchmark should be revised.
 It matters for politics because it highlights how policy makers, firms, employers, and other strategic actors respond to predictable patterns in human behavior.
 
@@ -138,7 +138,7 @@ Instead of learning biases one by one, they can learn how behavioral economics o
 
 The main derived concept page is [[Field Evidence in Behavioral Economics]].
 But the source should continue to do much more than anchor a single hub.
-It should organize the larger DellaVigna branch: [[Nonstandard preferences]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Time inconsistency]], [[Social preferences]], [[Overconfidence]], [[Law of small numbers]], [[Projection bias]], [[Limited attention]], [[Menu effects]], [[Emotions in decision-making]], and [[Strategic response to behavioral anomalies]].
+It should organize the larger DellaVigna branch: [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Overconfidence]], [[Law of small numbers]], [[Projection bias]], [[Limited attention]], [[Menu effects]], [[Emotions in decision-making]], and [[Strategic response to behavioral anomalies]].
 
 The paper also deepens [[Heuristics and Biases]] by broadening the empirical base beyond the lab.
 It strengthens [[Prospect Theory]] by situating [[Reference dependence]] and [[Framing effects]] within field applications rather than purely experimental settings.

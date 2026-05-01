@@ -17,7 +17,6 @@ related_pages:
   - [[Procedure invariance]]
   - [[Preference uncertainty]]
   - [[Anchoring]]
-  - [[Nonstandard preferences]]
   - [[Behavioral Economics]]
 ---
 
@@ -41,7 +40,7 @@ This concept matters because markets, institutions, and policies often infer wel
 
 ## Related pages
 
-The anchor sources are [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Slovic 1995]], and [[Lichtenstein and Slovic 2006]]. The closest neighboring pages are [[Constructed preferences]], [[Preference reversals]], [[Procedure invariance]], [[Preference uncertainty]], [[Anchoring]], and [[Nonstandard preferences]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Slovic 1995]], and [[Lichtenstein and Slovic 2006]]. The closest neighboring pages are [[Constructed preferences]], [[Preference reversals]], [[Procedure invariance]], [[Preference uncertainty]], [[Anchoring]], and [[Preference]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

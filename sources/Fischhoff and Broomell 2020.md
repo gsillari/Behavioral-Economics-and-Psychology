@@ -17,7 +17,6 @@ related_pages:
   - [[Judgment, Belief, and Inference]]
   - [[Scope and Method of Behavioral Economics]]
   - [[Nonstandard beliefs]]
-  - [[Nonstandard preferences]]
   - [[Nonstandard decision-making]]
   - [[Behavioral public policy]]
   - [[Risk perception]]
@@ -32,7 +31,7 @@ related_pages:
 
 [[Fischhoff and Broomell 2020]] is a high-level review of judgment and decision making that deserves weight in the current vault because it organizes the mature field without flattening it. The paper frames decision science as the interaction of three kinds of work: analysis of the decisions people face, description of their natural responses, and interventions designed to help them do better. It then reviews the three core elements of decision making itself: judgment, preference, and choice.
 
-In the current wiki, that makes the paper less a source for one narrow concept than a grounding review across several existing ones. It helps explain why pages such as [[Nonstandard beliefs]], [[Nonstandard preferences]], and [[Nonstandard decision-making]] belong together without collapsing into one undifferentiated catalog of biases. It also helps the vault connect basic research to applications in health, public policy, intelligence analysis, and risk management.
+In the current wiki, that makes the paper less a source for one narrow concept than a grounding review across several existing ones. It helps explain why belief, preference, and decision-process pages belong together without collapsing into one undifferentiated catalog of biases. It also helps the vault connect basic research to applications in health, public policy, intelligence analysis, and risk management.
 
 ## Key claims
 
@@ -67,7 +66,7 @@ Pedagogically, the paper is valuable because it helps students see one continuou
 
 ## Links into the wiki
 
-The paper should ground [[Nonstandard beliefs]] by clarifying why belief research is organized around accuracy and consistency standards and by showing that alternative inferential standards and task construal matter. It should ground [[Nonstandard preferences]] by clarifying why preference anomalies often expose not only odd tastes but also hard measurement problems and unstable elicitation contexts. It should ground [[Nonstandard decision-making]] by showing how modeling, repeated decisions, and intervention design fit around the core choice problem rather than around isolated biases.
+The paper should ground [[Nonstandard beliefs]] by clarifying why belief research is organized around accuracy and consistency standards and by showing that alternative inferential standards and task construal matter. It should ground [[Preference]] by clarifying why preference anomalies often expose not only odd tastes but also hard measurement problems and unstable elicitation contexts. It should ground [[Nonstandard decision-making]] by showing how modeling, repeated decisions, and intervention design fit around the core choice problem rather than around isolated biases.
 
 It also belongs in [[Judgment, Belief, and Inference]] and [[Scope and Method of Behavioral Economics]] because it gives the field a mature methodological self-description. In the policy branch, it should support [[Behavioral public policy]] and [[Risk perception]] by showing that applied decision science includes decision aids, expert elicitation, risk analysis, and communication as well as nudges or defaults. At the synthesis level, it complements [[Camerer and Loewenstein 2004]]: Camerer and Loewenstein map behavioral economics as a research program, while Fischhoff and Broomell map judgment and decision making as a mature analytical-behavioral field.
 

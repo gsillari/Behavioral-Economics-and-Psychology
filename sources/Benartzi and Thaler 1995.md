@@ -15,7 +15,6 @@ related_pages:
   - [[Loss aversion]]
   - [[Prospect Theory]]
   - [[Reference dependence]]
-  - [[Nonstandard preferences]]
   - [[Behavioral Economics]]
 ---
 
@@ -38,7 +37,7 @@ For PPE students, this paper matters because it shows behavioral economics movin
 
 ## Links into the wiki
 
-The main derived concepts are [[Myopic loss aversion]] and [[Equity premium puzzle]]. The source directly expands [[Loss aversion]] from a risky-choice mechanism into a finance application, deepens [[Prospect Theory]] by showing one route into asset-pricing debates, and strengthens [[Nonstandard preferences]] by adding a concrete market domain in which reference-dependent preferences matter. It also enriches the topic page [[Behavioral Economics]] by adding a clearer behavioral-finance branch.
+The main derived concepts are [[Myopic loss aversion]] and [[Equity premium puzzle]]. The source directly expands [[Loss aversion]] from a risky-choice mechanism into a finance application, deepens [[Prospect Theory]] by showing one route into asset-pricing debates, and strengthens [[Preference]] by adding a concrete market domain in which reference-dependent preferences matter. It also enriches the topic page [[Behavioral Economics]] by adding a clearer behavioral-finance branch.
 
 ## Open questions
 

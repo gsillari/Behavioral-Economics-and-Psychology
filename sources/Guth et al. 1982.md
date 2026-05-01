@@ -15,7 +15,6 @@ related_pages:
   - [[Ultimatum game]]
   - [[Fairness]]
   - [[Social preferences]]
-  - [[Nonstandard preferences]]
 ---
 
 # Guth et al. 1982: An experimental analysis of ultimatum bargaining
@@ -38,7 +37,7 @@ For PPE students, [[Guth et al. 1982]] matters because it makes strategic ration
 
 ## Links into the wiki
 
-The direct concept target is [[Ultimatum game]]. The broader targets are [[Fairness]], [[Social preferences]], [[Nonstandard preferences]], and [[Game theory]]. [[Camerer and Thaler 1995]] later turns this original anomaly into a compact overview of ultimatum and dictator evidence.
+The direct concept target is [[Ultimatum game]]. The broader targets are [[Fairness]], [[Social preferences]], [[Preference]], and [[Game theory]]. [[Camerer and Thaler 1995]] later turns this original anomaly into a compact overview of ultimatum and dictator evidence.
 
 ## Bibliographic reference
 

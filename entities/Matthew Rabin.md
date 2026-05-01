@@ -29,4 +29,4 @@ related_pages:
 
 ## Links into the wiki
 
-Rabin should be linked primarily to [[Fairness]], [[Social preferences]], [[Time inconsistency]], [[Calibration]], [[Risk attitudes]], [[Nonstandard preferences]], [[Nonstandard beliefs]], [[Reason-based choice]], [[Experienced utility]], and [[Behavioral Economics]].
+Rabin should be linked primarily to [[Fairness]], [[Social preferences]], [[Time inconsistency]], [[Calibration]], [[Risk attitudes]], [[Preference]], [[Nonstandard beliefs]], [[Reason-based choice]], [[Experienced utility]], and [[Behavioral Economics]].

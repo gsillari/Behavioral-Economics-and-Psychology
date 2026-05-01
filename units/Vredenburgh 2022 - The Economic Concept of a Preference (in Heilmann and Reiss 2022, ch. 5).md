@@ -21,7 +21,6 @@ related_pages:
   - [[Ordinal utility theory]]
   - [[Behaviorism]]
   - [[Constructed preferences]]
-  - [[Nonstandard preferences]]
   - [[Preference uncertainty]]
 ---
 
@@ -47,7 +46,7 @@ This chapter matters because it helps the preference branch stop looking like a 
 
 ## Links into the wiki
 
-This unit should primarily strengthen [[Revealed preference theory]], [[Ordinal utility theory]], [[Behaviorism]], [[Constructed preferences]], [[Nonstandard preferences]], and [[Preference uncertainty]].
+This unit should primarily strengthen [[Revealed preference theory]], [[Ordinal utility theory]], [[Behaviorism]], [[Constructed preferences]], [[Preference]], and [[Preference uncertainty]].
 
 ## Bibliographic reference
 

@@ -20,7 +20,6 @@ related_pages:
   - [[Libertarian paternalism]]
   - [[Asymmetric paternalism]]
   - [[Constructed preferences]]
-  - [[Nonstandard preferences]]
   - [[Preference uncertainty]]
   - [[Opportunity criterion]]
   - [[Sugden 2018 - Chapter 01 - The Liberal Tradition and the Challenge from Behavioural Economics]]
@@ -87,7 +86,7 @@ Highest-priority future units:
 
 ## Links into the wiki
 
-The strongest current update targets are [[Behavioral public policy]], [[Behavioral Public Policy and Its Competing Paradigms]], [[Behavioral law and economics]], [[Libertarian paternalism]], [[Asymmetric paternalism]], [[Constructed preferences]], [[Nonstandard preferences]], [[Preference uncertainty]], and [[Robert Sugden]]. The book's main durable conceptual addition in the current vault is [[Opportunity criterion]].
+The strongest current update targets are [[Behavioral public policy]], [[Behavioral Public Policy and Its Competing Paradigms]], [[Behavioral law and economics]], [[Libertarian paternalism]], [[Asymmetric paternalism]], [[Constructed preferences]], [[Preference]], [[Preference uncertainty]], and [[Robert Sugden]]. The book's main durable conceptual addition in the current vault is [[Opportunity criterion]].
 
 The most important negative lesson is equally valuable: not every instability in choice should be redescribed as evidence about a deeper rational self waiting to be recovered by policy.
 

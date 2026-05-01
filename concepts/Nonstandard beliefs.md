@@ -66,7 +66,7 @@ In the current vault, the concept matters because behavioral economics does not 
 
 Three distinctions make the page easier to use.
 
-First, this concept differs from [[Nonstandard preferences]], where the issue is what people want, and from [[Nonstandard decision-making]], where the issue is how choices are processed. Here the main problem is belief formation or uncertainty representation.
+First, this concept differs from preference-side mechanisms, where the issue is what people want, and from [[Nonstandard decision-making]], where the issue is how choices are processed. Here the main problem is belief formation or uncertainty representation.
 
 Second, not every case in this branch is a simple false belief. Some cases concern miscalibration or incoherence. Others concern the way uncertainty is represented. [[Ellsberg 1961]] matters for exactly this reason: the issue is not just “wrong probability,” but whether people are willing to treat ambiguous situations as if they were representable by the precise personal probabilities required by [[Subjective expected utility theory]].
 

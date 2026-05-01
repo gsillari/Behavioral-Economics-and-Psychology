@@ -16,7 +16,6 @@ related_pages:
   - [[Rabin 1998]]
   - [[Frederick et al. 2002]]
   - [[Time inconsistency]]
-  - [[Nonstandard preferences]]
   - [[Internalities]]
   - [[Behavioral welfare economics]]
   - [[Behavioral public policy]]
@@ -51,7 +50,7 @@ For PPE students, [[O'Donoghue and Rabin 1999]] matters because it turns self-co
 
 ## Links into the wiki
 
-This source should mainly strengthen [[Time inconsistency]], [[Self-Control and Dynamic Inconsistency]], and [[Nonstandard preferences]]. It also belongs close to [[Internalities]], [[Behavioral welfare economics]], and [[Behavioral public policy]], because its examples show why observed choice may not settle welfare when present and future selves conflict.
+This source should mainly strengthen [[Time inconsistency]], [[Self-Control and Dynamic Inconsistency]], and [[Preference]]. It also belongs close to [[Internalities]], [[Behavioral welfare economics]], and [[Behavioral public policy]], because its examples show why observed choice may not settle welfare when present and future selves conflict.
 
 ## Bibliographic reference
 

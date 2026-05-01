@@ -15,7 +15,6 @@ related_pages:
   - [[Preference uncertainty]]
   - [[Ariely et al. 2006]]
   - [[Anchoring]]
-  - [[Nonstandard preferences]]
   - [[Behavioral law and economics]]
   - [[Behavioral Economics]]
   - [[What Behavioral Economics Thinks Rationality Is]]
@@ -41,7 +40,7 @@ For PPE students, this paper matters because it raises a deeper challenge than m
 
 ## Links into the wiki
 
-The main derived concept pages are [[Coherent arbitrariness]] and [[Constructed preferences]]. The source also significantly deepens [[Anchoring]] by extending it from numerical estimates to willingness-to-pay judgments, and it broadens [[Nonstandard preferences]] by suggesting that the issue is not only unstable or nonstandard preference content, but also the partial construction of preferences at the moment of choice. [[Ariely et al. 2006]] now extends this branch into experiential goods through [[Preference uncertainty]]. At the topic and synthesis level, the paper strengthens [[Behavioral Economics]], [[What Behavioral Economics Thinks Rationality Is]], and [[Behavioral Public Policy and Its Competing Paradigms]] by making welfare interpretation more difficult.
+The main derived concept pages are [[Coherent arbitrariness]] and [[Constructed preferences]]. The source also significantly deepens [[Anchoring]] by extending it from numerical estimates to willingness-to-pay judgments, and it broadens [[Preference]] by suggesting that the issue is not only unstable or nonstandard preference content, but also the partial construction of preferences at the moment of choice. [[Ariely et al. 2006]] now extends this branch into experiential goods through [[Preference uncertainty]]. At the topic and synthesis level, the paper strengthens [[Behavioral Economics]], [[What Behavioral Economics Thinks Rationality Is]], and [[Behavioral Public Policy and Its Competing Paradigms]] by making welfare interpretation more difficult.
 
 ## Open questions
 

@@ -31,7 +31,6 @@ related_pages:
   - [[Experienced utility]]
   - [[WTA-WTP asymmetry]]
   - [[Anchoring]]
-  - [[Nonstandard preferences]]
   - [[Behavioral law and economics]]
   - [[Behavioral public policy]]
   - [[Behavioral welfare economics]]
@@ -55,7 +54,7 @@ related_pages:
 
 ## Key distinctions
 
-This concept differs from [[Nonstandard preferences]], where the main claim is often that preferences have unusual content, such as [[Time inconsistency]], [[Reference dependence]], or [[Social preferences]]. Constructed preferences push further by questioning whether preferences are stable enough to be treated as fully formed before choice. It also differs from [[Anchoring]], which identifies one mechanism of distortion, and from [[Preference uncertainty]], which is the more specific claim that people may not know how much they value an experience. Constructed preferences is the broader claim that such mechanisms can help constitute the preference that later appears to be revealed. In the current vault, [[Preference reversals]] and violations of [[Procedure invariance]] are the clearest early route into that stronger claim.
+This concept differs from preference-side mechanisms that give agents unusual or richer preference content, such as [[Time inconsistency]], [[Reference dependence]], or [[Social preferences]]. Constructed preferences push further by questioning whether preferences are stable enough to be treated as fully formed before choice. It also differs from [[Anchoring]], which identifies one mechanism of distortion, and from [[Preference uncertainty]], which is the more specific claim that people may not know how much they value an experience. Constructed preferences is the broader claim that such mechanisms can help constitute the preference that later appears to be revealed. In the current vault, [[Preference reversals]] and violations of [[Procedure invariance]] are the clearest early route into that stronger claim.
 
 ## Evidence and debate
 
@@ -75,7 +74,7 @@ This concept matters because much of economics and public policy assumes that ch
 
 ## Related pages
 
-The anchor sources are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Rabin 1998]], [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]], [[Bettman et al. 2006 - Constructive Consumer Choice Processes (in Lichtenstein and Slovic 2006, ch. 17)]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Achtypi et al. 2021]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference]], [[Preference reversals]], [[Procedure invariance]], [[Reason-based choice]], [[Experienced utility]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Anchoring]], [[Nonstandard preferences]], [[Behavioral law and economics]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the most relevant syntheses are [[What Behavioral Economics Thinks Rationality Is]] and [[Behavioral Public Policy and Its Competing Paradigms]].
+The anchor sources are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Rabin 1998]], [[Tversky et al. 2006 - Contingent Weighting in Judgment and Choice (in Lichtenstein and Slovic 2006, ch. 6)]], [[Bettman et al. 2006 - Constructive Consumer Choice Processes (in Lichtenstein and Slovic 2006, ch. 17)]], [[Hsee et al. 2007 - Preference Reversals Between Joint and Separate Evaluations of Options (in Loewenstein 2007, ch. 9)]], [[Ariely et al. 2003]], [[Ariely et al. 2006]], [[Achtypi et al. 2021]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Preference]], [[Preference reversals]], [[Procedure invariance]], [[Reason-based choice]], [[Experienced utility]], [[Coherent arbitrariness]], [[Preference uncertainty]], [[Anchoring]], [[Behavioral law and economics]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the most relevant syntheses are [[What Behavioral Economics Thinks Rationality Is]] and [[Behavioral Public Policy and Its Competing Paradigms]].
 
 ## Open questions
 

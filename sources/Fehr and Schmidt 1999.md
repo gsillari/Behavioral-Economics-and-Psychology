@@ -18,7 +18,6 @@ related_pages:
   - [[Social preferences]]
   - [[Fairness]]
   - [[Reciprocity]]
-  - [[Nonstandard preferences]]
   - [[Behavioral law and economics]]
   - [[Behavioral public policy]]
   - [[Behavioral Economics]]
@@ -38,7 +37,7 @@ For PPE students, [[Fehr and Schmidt 1999]] matters because it makes one of the 
 
 ## Links into the wiki
 
-This source should mainly strengthen [[Social preferences]], [[Fairness]], and [[Inequity aversion]]. It also belongs near [[Ultimatum game]], [[Dictator game]], [[Game theory]], [[Nonstandard preferences]], [[Behavioral law and economics]], and [[Behavioral public policy]].
+This source should mainly strengthen [[Social preferences]], [[Fairness]], and [[Inequity aversion]]. It also belongs near [[Ultimatum game]], [[Dictator game]], [[Game theory]], [[Preference]], [[Behavioral law and economics]], and [[Behavioral public policy]].
 
 ## Bibliographic reference
 

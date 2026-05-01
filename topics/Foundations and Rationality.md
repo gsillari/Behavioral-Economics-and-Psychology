@@ -82,7 +82,7 @@ This branch moves from benchmark failure to process explanation. Its core pages 
 
 ### 1.4 [[Scope and Method of Behavioral Economics]]
 
-This branch asks what behavioral economics studies as a field, what kinds of departures it tracks, and how it establishes empirical relevance. Its core pages are [[Field Evidence in Behavioral Economics]], [[Nonstandard preferences]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Strategic response to behavioral anomalies]], and [[Regression to the mean]]. It now also connects more explicitly to [[Hands 2010]], [[Behaviorism]], [[Ordinal utility theory]], and [[Revealed preference theory]], because the field's later psychology debates rest on earlier disputes about what sort of psychology consumer theory had already accepted or rejected.
+This branch asks what behavioral economics studies as a field, what kinds of departures it tracks, and how it establishes empirical relevance. Its core pages are [[Field Evidence in Behavioral Economics]], [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Strategic response to behavioral anomalies]], and [[Regression to the mean]]. It now also connects more explicitly to [[Hands 2010]], [[Behaviorism]], [[Ordinal utility theory]], and [[Revealed preference theory]], because the field's later psychology debates rest on earlier disputes about what sort of psychology consumer theory had already accepted or rejected.
 
 ## Links to the rest of the topic
 

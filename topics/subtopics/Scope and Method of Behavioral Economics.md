@@ -28,7 +28,9 @@ related_pages:
   - [[Revealed preference theory]]
   - [[Fischhoff and Broomell 2020]]
   - [[Field Evidence in Behavioral Economics]]
-  - [[Nonstandard preferences]]
+  - [[Time inconsistency]]
+  - [[Reference dependence]]
+  - [[Social preferences]]
   - [[Nonstandard beliefs]]
   - [[Nonstandard decision-making]]
   - [[Strategic response to behavioral anomalies]]
@@ -39,7 +41,7 @@ related_pages:
 
 ## Scope
 
-This subtopic gathers the field-level and methodological questions that determine what behavioral economics studies, what counts as evidence, and how deep its challenge to standard economics is. The main concept pages are [[Field Evidence in Behavioral Economics]], [[Nonstandard preferences]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Strategic response to behavioral anomalies]], and [[Regression to the mean]].
+This subtopic gathers the field-level and methodological questions that determine what behavioral economics studies, what counts as evidence, and how deep its challenge to standard economics is. The main concept pages are [[Field Evidence in Behavioral Economics]], the preference-side mechanisms [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]], plus [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Strategic response to behavioral anomalies]], and [[Regression to the mean]].
 
 The first methodological question is about scope. [[Rabin 1998]] gives the branch its clearest early architecture by separating richer preferences, biased beliefs, and challenges to stable maximization. [[Camerer and Loewenstein 2004]] then presents behavioral economics as a research program that keeps economics' formal discipline while making the psychological assumptions more realistic.
 

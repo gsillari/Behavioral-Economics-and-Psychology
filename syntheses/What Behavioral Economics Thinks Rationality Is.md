@@ -87,7 +87,9 @@ related_pages:
   - [[Coherent arbitrariness]]
   - [[Preference uncertainty]]
   - [[Field Evidence in Behavioral Economics]]
-  - [[Nonstandard preferences]]
+  - [[Time inconsistency]]
+  - [[Reference dependence]]
+  - [[Social preferences]]
   - [[Nonstandard beliefs]]
   - [[Nonstandard decision-making]]
   - [[Time inconsistency]]
@@ -216,7 +218,7 @@ That move does not eliminate the classical benchmark. [[Expected utility theory]
 [[Ariely et al. 2006]] deepens this problem by moving from ordinary goods to experiences. The paper suggests that people may face [[Preference uncertainty]]: they may not have a settled sense of whether an experience is good or bad even after sampling it. That matters because it weakens a common fallback response to constructed-preference arguments, namely that experience will reveal the true underlying taste. In the current vault, the rationality problem is therefore not only that judgments can be biased or that values can be arbitrarily anchored. It is also that the preference being inferred may remain underdetermined for some domains of choice.
 
 [[DellaVigna 2009]] adds an important empirical step to this picture.
-The paper surveys field evidence showing that [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]] appear across domains such as finance, voting, labor supply, charitable giving, and consumer behavior.
+The paper surveys field evidence showing that preference-side mechanisms, [[Nonstandard beliefs]], and [[Nonstandard decision-making]] appear across domains such as finance, voting, labor supply, charitable giving, and consumer behavior.
 In the expanded vault, that means rationality disputes now connect directly to mechanisms such as [[Time inconsistency]], [[Overconfidence]], and [[Limited attention]], as well as to the institutional question of [[Strategic response to behavioral anomalies]].
 That matters because it shifts the debate from "are there lab anomalies?" to "how extensive are these deviations in real institutions and markets?"
 It also forces a further question: which mechanisms are field-robust enough to bear theoretical and policy weight, and which remain thinner or more context-bound?

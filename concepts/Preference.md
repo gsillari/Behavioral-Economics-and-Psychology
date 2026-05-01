@@ -30,7 +30,8 @@ related_pages:
   - [[Preference uncertainty]]
   - [[Experienced utility]]
   - [[Reason-based choice]]
-  - [[Nonstandard preferences]]
+  - [[Time inconsistency]]
+  - [[Reference dependence]]
   - [[Social preferences]]
   - [[Fairness]]
   - [[Consumer sovereignty]]
@@ -59,11 +60,13 @@ The first distinction is between preference as ranking and preference as choice 
 
 The second distinction is between preference as representation and preference as welfare. A preference ordering may represent how an agent chooses, but it does not automatically settle what is good for the agent. [[Consumer sovereignty]] treats the satisfaction of the consumer's own preferences as normatively important. [[Behavioral welfare economics]] begins when that inference becomes less secure, because choices may be unstable, impulsive, manipulated, or context-dependent.
 
-The third distinction is between preference content and preference structure. [[Nonstandard preferences]] usually changes what agents care about: time, reference points, fairness, social comparison, or loss. [[Constructed preferences]] goes deeper by questioning whether a determinate preference was already there before the choice or elicitation procedure.
+The third distinction is between preference content and preference structure. Many behavioral findings enrich or revise what agents care about: time and self-control in [[Time inconsistency]], baselines and losses in [[Reference dependence]], and fairness, reciprocity, or others' payoffs in [[Social preferences]]. [[Constructed preferences]] goes deeper by questioning whether a determinate preference was already there before the choice or elicitation procedure.
 
-The fourth distinction is between preference, reasons, and experience. [[Reason-based choice]] shows that people may choose options that are easier to justify, while [[Experienced utility]] shows that what people choose may diverge from how outcomes are lived or remembered. Both distinctions matter because they loosen the link between preference, choice, and welfare.
+The fourth distinction is between preference as a target of measurement and preference as a difficult elicitation problem. [[Fischhoff and Broomell 2020]] is useful here because preference research lacks the relatively clear accuracy criterion available for belief research. That does not make preference evidence useless, but it means elicitation depends heavily on consistency standards, task interpretation, and whether people can meaningfully state tradeoffs in unfamiliar or abstract formats.
 
-The fifth distinction is between preference over ordinary alternatives and preference over formal decision objects. In ordinary consumer theory, the alternatives may be goods or bundles. In [[Expected utility theory]], they are lotteries. In [[Subjective expected utility theory]], they are acts. This matters because the same word, preference, does different theoretical work in each setting.
+The fifth distinction is between preference, reasons, and experience. [[Reason-based choice]] shows that people may choose options that are easier to justify, while [[Experienced utility]] shows that what people choose may diverge from how outcomes are lived or remembered. Both distinctions matter because they loosen the link between preference, choice, and welfare.
+
+The sixth distinction is between preference over ordinary alternatives and preference over formal decision objects. In ordinary consumer theory, the alternatives may be goods or bundles. In [[Expected utility theory]], they are lotteries. In [[Subjective expected utility theory]], they are acts. This matters because the same word, preference, does different theoretical work in each setting.
 
 ## Evidence and debate
 
@@ -87,7 +90,7 @@ It also matters pedagogically. PPE students often encounter preference as if it 
 
 The main philosophy-facing anchor is [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]. The main history-of-utility anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]. The main methodological anchors are [[Hands 2010]] and [[Bruni and Sugden 2007]]. The main decision-theoretic anchors are [[von Neumann and Morgenstern 1944]], [[Von Neumann-Morgenstern utility theory]], [[Savage 1954]], and [[Subjective expected utility theory]]. The main behavioral anchors are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Constructed preferences]], [[Preference reversals]], and [[Preference uncertainty]].
 
-The closest neighboring concept pages are [[Utility theory]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Nonstandard preferences]], [[Social preferences]], [[Fairness]], [[Reason-based choice]], [[Experienced utility]], [[Consumer sovereignty]], and [[Behavioral welfare economics]]. The main topic home is [[Choice, Preference, and Decision Under Risk]].
+The closest neighboring concept pages are [[Utility theory]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Fairness]], [[Constructed preferences]], [[Preference uncertainty]], [[Reason-based choice]], [[Experienced utility]], [[Consumer sovereignty]], and [[Behavioral welfare economics]]. The main topic home is [[Choice, Preference, and Decision Under Risk]].
 
 ## Open questions
 

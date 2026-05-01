@@ -47,7 +47,6 @@ related_pages:
   - [[Inequity aversion]]
   - [[Betrayal aversion]]
   - [[Self-serving bias]]
-  - [[Nonstandard preferences]]
   - [[Matthew Rabin]]
   - [[Behavioral Economics]]
 ---
@@ -96,7 +95,7 @@ This concept matters because many important institutions assume that people are 
 
 ## Related pages
 
-The anchor sources are [[Rabin 1998]], [[Camerer 2003]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], [[Skyrms 2014]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Henrich et al. 2004]], [[Jolls et al. 1998]], [[Fehr and Schmidt 1999]], [[Rabin 1993]], [[DellaVigna 2009]], [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Game theory]], [[Evolutionary game theory]], [[Experimental games]], [[Cultural variation in social preferences]], [[Fairness]], [[Altruism]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Self-serving bias]], [[Motivated reasoning]], and [[Nonstandard preferences]]. The main entity pages are [[Matthew Rabin]] and [[Colin Camerer]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Rabin 1998]], [[Camerer 2003]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], [[Skyrms 2014]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Henrich et al. 2004]], [[Jolls et al. 1998]], [[Fehr and Schmidt 1999]], [[Rabin 1993]], [[DellaVigna 2009]], [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Preference]], [[Game theory]], [[Evolutionary game theory]], [[Experimental games]], [[Cultural variation in social preferences]], [[Fairness]], [[Altruism]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Self-serving bias]], and [[Motivated reasoning]]. The main entity pages are [[Matthew Rabin]] and [[Colin Camerer]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

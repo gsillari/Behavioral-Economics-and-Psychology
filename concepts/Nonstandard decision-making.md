@@ -38,7 +38,7 @@ to be REVIEWED
 
 ## Key distinctions
 
-This concept differs from [[Nonstandard preferences]] and [[Nonstandard beliefs]].
+This concept differs from preference-side mechanisms such as [[Time inconsistency]], [[Reference dependence]], and [[Social preferences]], and from [[Nonstandard beliefs]].
 The point here is not that people want different things or believe the wrong probabilities, but that they simplify, ignore, frame, or react to decisions in ways that alter choice even when preferences and beliefs are held fixed.
 In this sense, it sits closest to the procedural side of [[Heuristics and Biases]].
 It is the part of the behavioral field where presentation, salience, attention, and decision architecture do the most work.

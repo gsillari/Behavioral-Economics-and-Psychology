@@ -15,7 +15,6 @@ related_pages:
   - [[Camerer et al. 2004]]
   - [[Fairness]]
   - [[Social preferences]]
-  - [[Nonstandard preferences]]
   - [[Behavioral law and economics]]
   - [[Behavioral public policy]]
   - [[Behavioral Economics]]
@@ -35,7 +34,7 @@ For PPE students, [[Rabin 1993]] matters because it is one of the clearest bridg
 
 ## Links into the wiki
 
-This source should mainly strengthen [[Fairness]] and [[Social preferences]]. It also belongs near [[Nonstandard preferences]], [[Behavioral law and economics]], and [[Behavioral public policy]]. The main entity page is [[Matthew Rabin]].
+This source should mainly strengthen [[Fairness]] and [[Social preferences]]. It also belongs near [[Preference]], [[Behavioral law and economics]], and [[Behavioral public policy]]. The main entity page is [[Matthew Rabin]].
 
 ## Bibliographic reference
 
