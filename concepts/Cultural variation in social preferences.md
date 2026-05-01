@@ -8,8 +8,9 @@ tags:
   - social-preferences
   - game-theory
 updated_on: 2026-04-30
-source_count: 3
+source_count: 4
 related_pages:
+  - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
   - [[Henrich et al. 2004]]
   - [[Henrich et al. 2004 - Chapter 01 - Introduction and Guide to the Volume]]
   - [[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]]
@@ -18,6 +19,7 @@ related_pages:
   - [[Evolutionary game theory]]
   - [[Social preferences]]
   - [[Fairness]]
+  - [[Altruism]]
   - [[Ultimatum game]]
   - [[Dictator game]]
   - [[Public goods game]]
@@ -42,9 +44,11 @@ The concept also clarifies why ethnography matters. The same formal game can cue
 
 [[Skyrms 2014 - Chapter 02 - Fairness and Commitment]] fits this point into an evolutionary story. Skyrms treats ultimatum behavior as norm-sensitive and path-dependent: different cultures may stabilize different frames for what the experimental situation means. That makes cultural variation a constraint on simple evolutionary stories, not a rejection of evolutionary explanation.
 
+[[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] is useful here as a synthetic bridge. Camerer presents cross-national ultimatum-game results and the early small-scale-society evidence as showing that offers and rejections are not only preference measurements but culturally meaningful actions. The same game can look like bargaining, sharing, insult, gift exchange, or market exchange depending on local social interpretation.
+
 ## Related pages
 
-The anchor source is [[Henrich et al. 2004]], especially [[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]]. [[Skyrms 2014 - Chapter 02 - Fairness and Commitment]] is the main evolutionary-game-theoretic neighbor. The closest neighboring pages are [[Social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Public goods game]], [[Trust game]], [[Experimental games]], [[Evolutionary game theory]], and [[Game theory]].
+The anchor source is [[Henrich et al. 2004]], especially [[Henrich et al. 2004 - Chapter 02 - Overview and Synthesis]]. [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] is the main behavioral-game-theory synthesis, and [[Skyrms 2014 - Chapter 02 - Fairness and Commitment]] is the main evolutionary-game-theoretic neighbor. The closest neighboring pages are [[Social preferences]], [[Fairness]], [[Altruism]], [[Ultimatum game]], [[Dictator game]], [[Public goods game]], [[Trust game]], [[Experimental games]], [[Evolutionary game theory]], and [[Game theory]].
 
 ## Open questions
 

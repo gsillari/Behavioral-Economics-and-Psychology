@@ -1,0 +1,34 @@
+---
+title: Colin Camerer
+page_type: entity
+status: active
+tags:
+  - behavioral-economics
+  - economist
+  - experimental-economics
+updated_on: 2026-05-01
+related_pages:
+  - [[Camerer 2003]]
+  - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
+  - [[Camerer and Thaler 1995]]
+  - [[Camerer and Loewenstein 2004]]
+  - [[Camerer et al. 2003]]
+  - [[Camerer 2019]]
+  - [[Game theory]]
+  - [[Experimental games]]
+  - [[Social preferences]]
+  - [[Fairness]]
+  - [[Behavioral Economics]]
+---
+
+# Colin Camerer
+
+## Who or what it is
+
+[[Colin Camerer]] is a central figure in behavioral economics and experimental economics. In the current vault, he matters especially as a bridge between psychological realism and formal economic modeling. His work helps turn anomalies in strategic interaction, choice, and policy into experimentally disciplined models.
+
+[[Camerer 2003]] is his main book-length anchor for [[Game theory]] and [[Experimental games]]. [[Camerer and Thaler 1995]] anchors the ultimatum-and-dictator branch, [[Camerer and Loewenstein 2004]] helps frame behavioral economics as a field, [[Camerer et al. 2003]] anchors [[Asymmetric paternalism]], and [[Camerer 2019]] belongs to the later behavioral-economics-of-AI branch.
+
+## Links into the wiki
+
+The most important nearby pages are [[Game theory]], [[Experimental games]], [[Social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Behavioral Economics]], and [[Behavioral public policy]].

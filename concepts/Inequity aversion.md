@@ -7,12 +7,14 @@ tags:
   - social-preferences
   - game-theory
 updated_on: 2026-04-29
-source_count: 2
+source_count: 3
 related_pages:
   - [[Fehr and Schmidt 1999]]
+  - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
   - [[Fehr and Gachter 2000]]
   - [[Fairness]]
   - [[Social preferences]]
+  - [[Altruism]]
   - [[Ultimatum game]]
   - [[Dictator game]]
   - [[Cooperation]]
@@ -36,9 +38,11 @@ Inequity aversion gives the fairness branch one formal route back into [[Game th
 
 But the concept should not absorb all of fairness. [[Reciprocity]] and intention-based models matter because people often care not only about unequal outcomes, but also about how those outcomes came about. That is why [[Rabin 1993]] and [[Fehr and Schmidt 1999]] are complementary rather than redundant.
 
+[[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] makes this tradeoff explicit. Inequity aversion is powerful because it is simple and portable: unequal payoffs can be represented directly in social utility and then analyzed with familiar game-theoretic tools. But Camerer also stresses its limit. If people react differently to the same allocation depending on entitlement, intention, chance, or unchosen alternatives, then a purely outcome-based model is missing part of the psychology.
+
 ## Related pages
 
-The anchor sources are [[Fehr and Schmidt 1999]] and [[Fehr and Gachter 2000]]. The closest neighboring pages are [[Fairness]], [[Social preferences]], [[Reciprocity]], [[Ultimatum game]], [[Dictator game]], [[Cooperation]], [[Public goods game]], [[Costly punishment]], and [[Game theory]].
+The anchor sources are [[Fehr and Schmidt 1999]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], and [[Fehr and Gachter 2000]]. The closest neighboring pages are [[Fairness]], [[Social preferences]], [[Altruism]], [[Reciprocity]], [[Ultimatum game]], [[Dictator game]], [[Cooperation]], [[Public goods game]], [[Costly punishment]], and [[Game theory]].
 
 ## Open questions
 

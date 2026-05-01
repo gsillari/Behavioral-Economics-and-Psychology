@@ -7,11 +7,13 @@ tags:
   - social-behavior
   - game-theory
 updated_on: 2026-04-29
-source_count: 2
+source_count: 3
 related_pages:
+  - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
   - [[Berg et al. 1995]]
   - [[Bohnet and Zeckhauser 2004]]
   - [[Trust game]]
+  - [[Altruism]]
   - [[Reciprocity]]
   - [[Betrayal aversion]]
   - [[Social preferences]]
@@ -27,6 +29,8 @@ related_pages:
 
 The central experimental source is [[Berg et al. 1995]], where subjects in a one-shot anonymous investment setting transfer and return money despite the absence of reputation, contracts, or punishment. That makes trust and [[Reciprocity]] visible as behavioral ingredients in economic interaction.
 
+[[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] makes the distinction between trust and trustworthiness explicit. Trust is the first mover's willingness to become vulnerable. Trustworthiness is the second mover's response, which may reflect [[Altruism]], reciprocity, fairness, or some mixture of these. This prevents the trust branch from being reduced to a single prosocial motive.
+
 ## Distinction from risk
 
 Trust involves risk, but it is not identical to risk. In ordinary risk, the bad outcome is produced by chance or an impersonal state of the world. In trust, the bad outcome is produced by another person's decision not to honor the vulnerability one has created. [[Bohnet and Zeckhauser 2004]] shows this distinction experimentally by comparing matched trust and risk conditions and finding that betrayal carries an additional cost.
@@ -35,7 +39,7 @@ This distinction prevents the trust branch from collapsing into [[Risk attitudes
 
 ## Related pages
 
-The anchor sources are [[Berg et al. 1995]] and [[Bohnet and Zeckhauser 2004]]. The closest neighboring pages are [[Trust game]], [[Reciprocity]], [[Betrayal aversion]], [[Social preferences]], [[Fairness]], and [[Game theory]].
+The anchor sources are [[Berg et al. 1995]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], and [[Bohnet and Zeckhauser 2004]]. The closest neighboring pages are [[Trust game]], [[Altruism]], [[Reciprocity]], [[Betrayal aversion]], [[Social preferences]], [[Fairness]], and [[Game theory]].
 
 ## Open questions
 

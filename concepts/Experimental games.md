@@ -7,8 +7,10 @@ tags:
   - experimental-economics
   - game-theory
 updated_on: 2026-04-30
-source_count: 2
+source_count: 3
 related_pages:
+  - [[Camerer 2003]]
+  - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
   - [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]
   - [[Van Huyck et al. 1990]]
   - [[Game theory]]
@@ -18,6 +20,7 @@ related_pages:
   - [[Dictator game]]
   - [[Trust game]]
   - [[Public goods game]]
+  - [[Altruism]]
   - [[Costly punishment]]
   - [[Cultural variation in social preferences]]
 ---
@@ -29,6 +32,8 @@ related_pages:
 [[Experimental games]] are controlled strategic-choice tasks used to measure social preferences, norms, beliefs, strategic uncertainty, and forms of cooperation. In this wiki, they are the methodological bridge between [[Game theory]] and behavioral evidence: [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], punishment games, and tacit coordination games are not just named examples, but instruments for separating mechanisms.
 
 One anchor source is [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. Their key point is that games can be used in two ways. They can generate predictions under assumptions of rational self-interest, and they can serve as a taxonomy of social situations that makes deviations from those predictions interpretable.
+
+[[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] gives the book-length version of this methodological point for the social-preferences branch. Ultimatum games, dictator games, and trust games are not just examples of anomalous generosity. They are paired instruments for separating fear of rejection, [[Altruism]], [[Inequity aversion]], [[Reciprocity]], trust, and trustworthiness.
 
 [[Van Huyck et al. 1990]] adds a second use: experimental games can test equilibrium selection itself. Their tacit coordination experiments ask whether subjects can converge on the payoff-dominant equilibrium when many strict equilibria are available and no explicit communication is allowed.
 
@@ -48,7 +53,7 @@ This caution becomes crucial in cross-cultural research. [[Henrich et al. 2004]]
 
 ## Related pages
 
-The anchor unit is [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. The key coordination source is [[Van Huyck et al. 1990]]. The closest neighboring pages are [[Game theory]], [[Coordination games]], [[Social preferences]], [[Cultural variation in social preferences]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], and [[Costly punishment]].
+The anchor units are [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] and [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. The key coordination source is [[Van Huyck et al. 1990]]. The closest neighboring pages are [[Game theory]], [[Coordination games]], [[Social preferences]], [[Cultural variation in social preferences]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Altruism]], and [[Costly punishment]].
 
 ## Open questions
 

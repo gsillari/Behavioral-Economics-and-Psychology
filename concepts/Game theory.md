@@ -7,9 +7,11 @@ tags:
   - game-theory
   - behavioral-economics
 updated_on: 2026-05-01
-source_count: 18
+source_count: 19
 related_pages:
   - [[von Neumann and Morgenstern 1944]]
+  - [[Camerer 2003]]
+  - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
   - [[Schelling 1960]]
   - [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]
   - [[Lewis 1969]]
@@ -48,6 +50,7 @@ related_pages:
   - [[Costly punishment]]
   - [[Fairness]]
   - [[Social preferences]]
+  - [[Altruism]]
   - [[Reciprocity]]
   - [[Behavioral Economics]]
 ---
@@ -61,6 +64,8 @@ related_pages:
 The key move is conceptual. Standard game theory can be descriptively wrong either because agents fail to reason through the equilibrium logic, because the payoff structure used by the analyst is too thin, because the representation strips away the labels and signals through which agents coordinate, or because equilibrium analysis leaves too many self-enforcing outcomes. [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]] adds the focal-point route: some games turn on mutually consistent expectations, focal clues, and tacit coordination rather than on conflict alone. [[Van Huyck et al. 1990]] adds the experimental route: when many equilibria are available, subjects may converge on a secure but inefficient equilibrium rather than the payoff-dominant one.
 
 In the fairness-and-trust branch, the payoff problem is central. Players may care about being treated fairly, about punishing unkindness, about reciprocating trust, or about avoiding betrayal. If those motives are real, then the material-payoff game is not yet the full behavioral game.
+
+[[Camerer 2003]] is the main book-length anchor for this behavioral-game-theory project. Its Chapter 2 makes the joint-hypothesis point cleanly: experiments reject money-payoff-only utility plus standard reasoning, not game theory as such. The constructive task is to enrich payoffs, beliefs, and reasoning in ways that remain precise enough to predict behavior.
 
 ## Evolutionary dynamics
 
@@ -84,6 +89,8 @@ The [[Dictator game]] then removes the responder's veto. It helps separate strat
 
 The [[Trust game]] adds a different strategic structure. In [[Berg et al. 1995]], the first mover makes herself vulnerable to the second mover's reciprocity. [[Bohnet and Zeckhauser 2004]] then shows why this is not just a risky lottery: betrayal by another person can have a cost beyond the material payoff.
 
+[[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] consolidates these games into a measurement sequence. Ultimatum games measure costly punishment and negative reciprocity. Dictator games remove rejection power and reveal the residual role of [[Altruism]] and framing. Trust games distinguish trust from trustworthiness and show why reciprocity and vulnerability matter in strategic exchange.
+
 The [[Public goods game]] adds the cooperation branch. In the narrow benchmark, each person has an incentive to [[Free riding|free ride]] while benefiting from others' contributions. [[Dawes and Thaler 1988]] and [[Ledyard 1995]] show that people contribute more than the strong free-rider prediction permits, but that cooperation is fragile. [[Fehr and Gachter 2000]] and [[Chaudhuri 2011]] then show how [[Costly punishment]], [[Conditional cooperation]], communication, disapproval, and sorting can stabilize cooperation.
 
 [[Hardin 1968]] extends this branch beyond laboratory contribution games. The [[Tragedy of the commons]] shows how an open-access resource can turn individually rational action into collective ruin when each user receives the benefit of extra use and spreads the cost across the group. The game-theoretic lesson is institutional: changing motives is not the only route; changing access rules, sanctions, taxes, or rights can change the strategic environment.
@@ -94,13 +101,13 @@ The [[Public goods game]] adds the cooperation branch. In the narrow benchmark, 
 
 ## Evidence and debate
 
-[[Rabin 1993]] and [[Fehr and Schmidt 1999]] show two ways to bring these experimental patterns back into formal game theory. Rabin models fairness through reciprocity and perceived kindness. Fehr and Schmidt model fairness through [[Inequity aversion]], where players dislike disadvantageous inequality and, to a lesser degree, advantageous inequality. The public-goods literature adds a further bridge: even where the material game predicts free riding, conditional cooperation and punishment can change the effective strategic environment.
+[[Rabin 1993]] and [[Fehr and Schmidt 1999]] show two ways to bring these experimental patterns back into formal game theory. Rabin models fairness through reciprocity and perceived kindness, using a fairness-equilibrium approach in which beliefs about kind or unkind treatment are part of equilibrium. Fehr and Schmidt model fairness through [[Inequity aversion]], where players dislike disadvantageous inequality and, to a lesser degree, advantageous inequality. Camerer treats this as a real modeling tradeoff: reciprocity models better capture intentions and unchosen alternatives, while inequity-aversion models are simpler to use. The public-goods literature adds a further bridge: even where the material game predicts free riding, conditional cooperation and punishment can change the effective strategic environment.
 
 This is the constructive side of behavioral game theory. The experiments do not simply say that game theory fails. They suggest that strategic analysis needs a richer account of payoffs, social meaning, cultural variation, and institutional context.
 
 ## Related pages
 
-The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Evolutionary game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Trust]], [[Cooperation]], [[Free riding]], [[Tragedy of the commons]], [[Common-pool resources]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal and experimental anchors are [[Schelling 1960]], [[Lewis 1969]], [[Van Huyck et al. 1990]], [[Skyrms 2014]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
+The central experimental pages are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Evolutionary game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Altruism]], [[Trust]], [[Cooperation]], [[Free riding]], [[Tragedy of the commons]], [[Common-pool resources]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal and experimental anchors are [[Camerer 2003]], [[Schelling 1960]], [[Lewis 1969]], [[Van Huyck et al. 1990]], [[Skyrms 2014]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
 
 ## Open questions
 

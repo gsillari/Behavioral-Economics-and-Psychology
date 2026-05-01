@@ -10,6 +10,8 @@ tags:
 updated_on: 2026-05-01
 related_pages:
   - [[Behavioral Economics]]
+  - [[Camerer 2003]]
+  - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
   - [[Social Motivation and Interpersonal Influence]]
   - [[Coordination, Convention, and Evolutionary Game Theory]]
   - [[Evolutionary game theory]]
@@ -38,6 +40,7 @@ related_pages:
   - [[Conditional cooperation]]
   - [[Costly punishment]]
   - [[Trust]]
+  - [[Altruism]]
   - [[Reciprocity]]
   - [[Inequity aversion]]
   - [[Betrayal aversion]]
@@ -62,7 +65,7 @@ This branch therefore turns the field outward: from how individuals choose to ho
 
 ### 5.1 [[Social Motivation and Interpersonal Influence]]
 
-This branch focuses on other-regarding motivation and experimental games. Its core pages are [[Social preferences]], [[Fairness]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Cultural variation in social preferences]], and [[Self-serving bias]]. The experimental-game entry points are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]].
+This branch focuses on other-regarding motivation and experimental games. Its core pages are [[Social preferences]], [[Fairness]], [[Altruism]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Cultural variation in social preferences]], and [[Self-serving bias]]. The experimental-game entry points are [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]], with [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] now serving as the main synthesis for the dictator-ultimatum-trust sequence.
 
 ### 5.2 [[Coordination, Convention, and Evolutionary Game Theory]]
 

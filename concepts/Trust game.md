@@ -7,8 +7,9 @@ tags:
   - game-theory
   - social-preferences
 updated_on: 2026-04-29
-source_count: 4
+source_count: 5
 related_pages:
+  - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
   - [[Berg et al. 1995]]
   - [[Bohnet and Zeckhauser 2004]]
   - [[Henrich et al. 2004]]
@@ -16,6 +17,7 @@ related_pages:
   - [[Experimental games]]
   - [[Cultural variation in social preferences]]
   - [[Trust]]
+  - [[Altruism]]
   - [[Reciprocity]]
   - [[Betrayal aversion]]
   - [[Social preferences]]
@@ -29,6 +31,8 @@ related_pages:
 The [[Trust game]] is an experimental game in which a first mover can make herself vulnerable by transferring resources to a second mover, often with the transfer multiplied, and the second mover can then reciprocate or exploit that trust. It is the main experimental bridge between [[Game theory]], [[Trust]], and [[Reciprocity]] in the current wiki.
 
 In [[Berg et al. 1995]], the investment-game design controls for repeated-game reputation, contracts, and punishment threats. The key result is that anonymous subjects still send and return money. That makes trust and reciprocity visible as economically relevant motives rather than as decorative moral vocabulary.
+
+[[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] clarifies the decomposition. The first mover's transfer measures trust: willingness to become vulnerable to the second mover's choice. The second mover's return measures trustworthiness, but trustworthiness is not one thing. It can reflect [[Altruism]], positive [[Reciprocity]] toward someone who took a risk, or a fairness judgment about what repayment is due.
 
 ## Trust is not just risk
 
@@ -44,7 +48,7 @@ The [[Ultimatum game]] teaches the fairness branch through costly rejection of u
 
 ## Related pages
 
-The anchor sources are [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], and [[Henrich et al. 2004]]. The closest neighboring pages are [[Trust]], [[Reciprocity]], [[Betrayal aversion]], [[Social preferences]], [[Fairness]], [[Cultural variation in social preferences]], [[Experimental games]], [[Risk attitudes]], and [[Game theory]].
+The anchor sources are [[Berg et al. 1995]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], [[Bohnet and Zeckhauser 2004]], and [[Henrich et al. 2004]]. The closest neighboring pages are [[Trust]], [[Altruism]], [[Reciprocity]], [[Betrayal aversion]], [[Social preferences]], [[Fairness]], [[Cultural variation in social preferences]], [[Experimental games]], [[Risk attitudes]], and [[Game theory]].
 
 ## Open questions
 
