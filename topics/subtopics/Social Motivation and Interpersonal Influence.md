@@ -19,6 +19,7 @@ related_pages:
   - [[Trust game]]
   - [[Public goods game]]
   - [[Tragedy of the commons]]
+  - [[Common-pool resources]]
   - [[Experimental games]]
   - [[Cultural variation in social preferences]]
   - [[Cooperation]]
@@ -44,7 +45,7 @@ The neighboring strategic branch now lives in [[Coordination, Convention, and Ev
 
 ## Current focus
 
-The topic now has an experimental-game entry path. [[Experimental games]] is the methodological hub. [[Ultimatum game]], [[Dictator game]], and [[Trust game]] introduce the settings through which fairness, giving, trust, reciprocity, and betrayal became economically visible. [[Public goods game]] adds the collective-action side: [[Free riding]] creates the standard problem, [[Conditional cooperation]] explains why cooperation can decay without universal selfishness, and [[Costly punishment]] shows how norm enforcement can stabilize contribution. [[Tragedy of the commons]] extends this branch toward open-access resources, environmental degradation, and the institutional design of shared resources.
+The topic now has an experimental-game entry path. [[Experimental games]] is the methodological hub. [[Ultimatum game]], [[Dictator game]], and [[Trust game]] introduce the settings through which fairness, giving, trust, reciprocity, and betrayal became economically visible. [[Public goods game]] adds the collective-action side: [[Free riding]] creates the standard problem, [[Conditional cooperation]] explains why cooperation can decay without universal selfishness, and [[Costly punishment]] shows how norm enforcement can stabilize contribution. [[Tragedy of the commons]] and [[Common-pool resources]] extend this branch toward open-access resources, environmental degradation, self-governance, and the institutional design of shared resources.
 
 The internal conceptual split is between social motives and social interpretation. [[Inequity aversion]] and [[Reciprocity]] formalize two motivational routes: concern with unequal outcomes and response to perceived kindness or unkindness. [[Self-serving bias]] and [[Motivated reasoning]] show that people may also interpret fairness, entitlement, and responsibility in role-serving ways. [[Cultural variation in social preferences]] adds the anthropological correction: these motives are real, but their expression varies across societies and local social worlds.
 

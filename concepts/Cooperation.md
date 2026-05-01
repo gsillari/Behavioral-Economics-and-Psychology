@@ -6,8 +6,8 @@ tags:
   - behavioral-economics
   - game-theory
   - social-preferences
-updated_on: 2026-04-30
-source_count: 7
+updated_on: 2026-05-01
+source_count: 8
 related_pages:
   - [[Dawes and Thaler 1988]]
   - [[Ledyard 1995]]
@@ -17,6 +17,8 @@ related_pages:
   - [[Skyrms 2014]]
   - [[Skyrms 2014 - Chapter 03 - Mutual Aid]]
   - [[Hardin 1968]]
+  - [[Ostrom 2008]]
+  - [[Common-pool resources]]
   - [[Evolutionary game theory]]
   - [[Game theory]]
   - [[Public goods game]]
@@ -41,6 +43,8 @@ The key conceptual point is that cooperation is not one motive. [[Dawes and Thal
 
 [[Hardin 1968]] adds the commons version of the same family of problems. In the [[Tragedy of the commons]], the issue is not only whether people contribute to a public good, but whether open-access rules make individually rational use of a shared resource collectively destructive. This gives the cooperation page a bridge from laboratory contribution games to environmental resources, pollution, population pressure, and institutional design.
 
+[[Ostrom 2008]] then changes the shape of that bridge. Commons failure is not the fate of every shared resource; it is one outcome for [[Common-pool resources]] under weak or absent governance. Where users can communicate, define boundaries, monitor behavior, and sanction violations, cooperation can become institutionally credible rather than merely motivationally admirable.
+
 ## Structure of the problem
 
 The standard problem is [[Free riding]]. In a [[Public goods game]], each participant may prefer that others contribute while she keeps her own endowment. If everyone reasons this way, the group underprovides the public good. In a [[Tragedy of the commons]], the mirror problem is overuse: each user takes too much from, or puts too much waste into, a shared resource because the costs are dispersed. The behavioral anomaly is that people often contribute anyway, especially early, but contributions frequently decay when cooperators observe or expect free riding.
@@ -51,9 +55,11 @@ The standard problem is [[Free riding]]. In a [[Public goods game]], each partic
 
 Skyrms's contribution is to clarify that cooperation need not be explained only by adding social preferences to a one-shot payoff table. The structure of interaction matters. Under random pairing, defection may dominate; under correlated pairing, cooperation can spread and stabilize. This gives the cooperation page a bridge from laboratory public-goods evidence to [[Evolutionary game theory]] and institutional design.
 
+Ostrom adds the field-facing institutional version of the same lesson. Communication and rule-making can transform the strategic situation: users who would overuse a resource under open access may sustain it when rights, duties, monitoring, and sanctions are locally legitimate. That makes cooperation a property of social organization as well as of individual preference.
+
 ## Related pages
 
-The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Skyrms 2014 - Chapter 03 - Mutual Aid]], and [[Hardin 1968]]. The closest neighboring pages are [[Game theory]], [[Evolutionary game theory]], [[Public goods game]], [[Free riding]], [[Tragedy of the commons]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], [[Social preferences]], and [[Fairness]].
+The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Skyrms 2014 - Chapter 03 - Mutual Aid]], [[Hardin 1968]], and [[Ostrom 2008]]. The closest neighboring pages are [[Game theory]], [[Evolutionary game theory]], [[Public goods game]], [[Free riding]], [[Tragedy of the commons]], [[Common-pool resources]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], [[Social preferences]], and [[Fairness]].
 
 ## Open questions
 

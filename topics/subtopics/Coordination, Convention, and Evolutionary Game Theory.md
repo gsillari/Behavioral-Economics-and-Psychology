@@ -20,8 +20,10 @@ related_pages:
   - [[Van Huyck et al. 1990]]
   - [[Skyrms 2014]]
   - [[Hardin 1968]]
+  - [[Ostrom 2008]]
   - [[Cooperation]]
   - [[Tragedy of the commons]]
+  - [[Common-pool resources]]
   - [[Fairness]]
   - [[Endowment effect]]
 ---
@@ -46,6 +48,8 @@ The fourth anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], 
 
 [[Hardin 1968]] adds the open-access failure case through [[Tragedy of the commons]]. Where Schelling and Lewis explain how coordination can stabilize, and Skyrms explains how cooperation and convention can evolve, Hardin shows how an institutional arrangement can make individually rational use collectively destructive unless access, use, or pollution is governed.
 
+[[Ostrom 2008]] begins the next step in the branch. The issue is not simply that commons fail, but that [[Common-pool resources]] can be governed by different institutional arrangements. Communication, boundaries, monitoring, sanctions, and legitimate local rules can alter the effective game. This connects the coordination-and-convention sequence to the later analysis of self-governance and institutional diversity.
+
 ## Why it matters for PPE
 
 This branch is where the wiki connects behavioral economics to social institutions. Traffic rules, property-like expectations, bargaining conventions, informal norms, and cooperative practices often work because people expect others to act in mutually compatible ways. That makes them strategic and social before they are legal or moral.
@@ -54,7 +58,7 @@ For PPE students, the point is especially useful: institutions are not only ince
 
 ## Related pages
 
-The central concept pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Tragedy of the commons]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
+The central concept pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Tragedy of the commons]], [[Common-pool resources]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
 
 ## Open questions
 

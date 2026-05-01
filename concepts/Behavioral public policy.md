@@ -6,7 +6,7 @@ tags:
   - behavioral-public-policy
   - policy
 updated_on: 2026-05-01
-source_count: 54
+source_count: 55
 related_pages:
   - [[Rabin 1998]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
@@ -58,7 +58,9 @@ related_pages:
   - [[Coase theorem]]
   - [[Transaction costs]]
   - [[Hardin 1968]]
+  - [[Ostrom 2008]]
   - [[Tragedy of the commons]]
+  - [[Common-pool resources]]
   - [[Jolls et al. 1998]]
   - [[Slovic 1995]]
   - [[Slovic 1987]]
@@ -153,6 +155,8 @@ Fifth, [[Sugden 2018]] adds a stronger internal challenge to welfare-correction 
 [[Coase 1960]] provides the classical benchmark in the current vault. Policy should compare institutions in light of rights allocation and [[Transaction costs]], not assume that regulation is automatically superior to private adjustment. That benchmark remains important because behavioral policy should still be comparative and institutional rather than simply interventionist.
 
 [[Hardin 1968]] adds a different classical policy pressure point. The [[Tragedy of the commons]] is not primarily a bias story; it is a case where individually rational responses to an open-access structure can destroy a shared resource. That matters here because behavioral public policy should not collapse into persuasion or nudging. Some problems require changing the institutional game itself: rights, taxes, quotas, monitoring, sanctions, or other collectively legitimate constraints.
+
+[[Ostrom 2008]] adds the institutional-design lesson that makes this branch less blunt. [[Common-pool resources]] are not automatically open-access tragedies, and neither centralized control nor privatization is a universal cure. Users may sometimes create effective rules, boundaries, monitoring, and sanctions themselves. For behavioral public policy, this is a useful antidote to one-size-fits-all intervention: the same behavioral problem can call for different institutional arrangements depending on communication, trust, enforcement, local knowledge, and legitimacy.
 
 [[Rabin 1998]] gives the broad psychology-and-economics background for this move: policy analysis has to deal with richer preferences, biased beliefs, and choices that may be reason-dependent or welfare-mispredicting. [[Jolls et al. 1998]] is then the key legal-policy bridge source. It translates behavioral findings into law-and-policy language through the triad of [[Bounded rationality]], bounded willpower, and [[Social preferences]]. In the current vault, that self-control branch is gathered under [[Time inconsistency]], while the social branch now runs through [[Fairness]] as well as social preferences more generally. The important move is not just that people make mistakes. It is that realistic policy analysis should no longer assume a fully attentive, fully self-controlled, fully self-interested chooser as its default model. [[Thaler and Sunstein 2021]] then gives that general move its most famous public-policy expression. The book's early units, especially the introduction and Chapters 4 and 5, turn the diagnosis of frailty into a practical language of choice architecture, low-cost steering, and context-sensitive intervention.
 

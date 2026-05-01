@@ -7,13 +7,15 @@ tags:
   - game-theory
   - cooperation
 updated_on: 2026-05-01
-source_count: 5
+source_count: 6
 related_pages:
   - [[Dawes and Thaler 1988]]
   - [[Ledyard 1995]]
   - [[Fehr and Gachter 2000]]
   - [[Chaudhuri 2011]]
   - [[Hardin 1968]]
+  - [[Ostrom 2008]]
+  - [[Common-pool resources]]
   - [[Public goods game]]
   - [[Cooperation]]
   - [[Tragedy of the commons]]
@@ -32,15 +34,17 @@ In the narrow self-interest benchmark, free riding is often the dominant strateg
 
 [[Hardin 1968]] adds the commons analogue. In the [[Tragedy of the commons]], each user can benefit from adding one more use of an open-access resource while the costs are spread across everyone. Free riding here is not only failure to contribute; it can also be overuse of a common resource or underinvestment in preserving it.
 
+[[Ostrom 2008]] adds the institutional correction. Free riding threatens [[Common-pool resources]], but it does not automatically determine their fate. Users may solve both the first-order problem of overuse and the second-order problem of creating rules through communication, boundaries, monitoring, and sanctions. That makes free riding a problem for governance design, not just a prediction of selfish behavior.
+
 ## Why it matters
 
 Free riding is not only a behavior but a threat to cooperative expectations. [[Conditional cooperation|Conditional cooperators]] may be willing to contribute when they expect others to do so, but reduce contributions when they believe others are exploiting them. A small number of free riders can therefore destabilize a group by changing what cooperators expect.
 
-[[Fehr and Gachter 2000]] shows why [[Costly punishment]] becomes important: cooperators may punish free riders even at a cost to themselves, and the threat of punishment can raise contributions. [[Chaudhuri 2011]] adds the later caution that punishment is only one institutional response; communication, disapproval, sorting, and advice can also reduce free riding.
+[[Fehr and Gachter 2000]] shows why [[Costly punishment]] becomes important: cooperators may punish free riders even at a cost to themselves, and the threat of punishment can raise contributions. [[Chaudhuri 2011]] adds the later caution that punishment is only one institutional response; communication, disapproval, sorting, and advice can also reduce free riding. Ostrom extends that point to field institutions: monitoring and sanctioning work best when embedded in legitimate local rules rather than treated as external coercion alone.
 
 ## Related pages
 
-The closest pages are [[Public goods game]], [[Cooperation]], [[Tragedy of the commons]], [[Conditional cooperation]], [[Costly punishment]], [[Social preferences]], and [[Game theory]]. The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], and [[Hardin 1968]].
+The closest pages are [[Public goods game]], [[Cooperation]], [[Tragedy of the commons]], [[Common-pool resources]], [[Conditional cooperation]], [[Costly punishment]], [[Social preferences]], and [[Game theory]]. The anchor sources are [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Hardin 1968]], and [[Ostrom 2008]].
 
 ## Open questions
 

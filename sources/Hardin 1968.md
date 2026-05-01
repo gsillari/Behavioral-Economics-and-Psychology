@@ -14,6 +14,8 @@ updated_on: 2026-05-01
 related_pages:
   - [[Garrett Hardin]]
   - [[Tragedy of the commons]]
+  - [[Ostrom 2008]]
+  - [[Common-pool resources]]
   - [[Cooperation]]
   - [[Free riding]]
   - [[Public goods game]]
@@ -38,7 +40,7 @@ The most famous policy phrase is "mutual coercion, mutually agreed upon." Hardin
 
 Hardin's general commons mechanism should be separated from his specific and highly controversial population argument. The paper treats unrestricted reproductive freedom as a commons problem and defends coercive limits on that freedom. That claim should not be imported into the wiki uncritically. The durable conceptual contribution is the open-access incentive structure and the critique of purely technical fixes; the population-policy conclusion is a historically important but normatively contested application.
 
-The paper also should not be read as proving that only privatization or centralized coercion can solve commons problems. Hardin discusses property, public allocation, taxes, and law, but the later commons literature adds a much richer account of self-governance, local rules, monitoring, and institutional diversity. This vault still needs that later corrective literature.
+The paper also should not be read as proving that only privatization or centralized coercion can solve commons problems. [[Ostrom 2008]] supplies the key corrective now represented in the vault: a [[Common-pool resources|common-pool resource]] is not the same thing as an open-access resource. Hardin's tragedy is a powerful model for poorly governed open access, but later commons research asks when users can create rules, boundaries, monitoring, sanctions, and self-governing institutions.
 
 ## Why it matters for PPE
 
