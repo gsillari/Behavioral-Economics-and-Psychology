@@ -7,12 +7,13 @@ tags:
   - game-theory
   - behavioral-economics
 updated_on: 2026-05-01
-source_count: 19
+source_count: 20
 related_pages:
   - [[von Neumann and Morgenstern 1944]]
   - [[Camerer 2003]]
   - [[Camerer 2003 - Chapter 01 - Introduction]]
   - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Behavioral game theory]]
   - [[Schelling 1960]]
   - [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]
@@ -41,6 +42,8 @@ related_pages:
   - [[Public goods game]]
   - [[Experimental games]]
   - [[Coordination games]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
   - [[Convention]]
   - [[Common knowledge]]
   - [[Cultural variation in social preferences]]
@@ -63,7 +66,7 @@ related_pages:
 
 [[Game theory]] is the analysis of choice when outcomes depend on the choices of more than one agent. In the current wiki it should not become a general encyclopedia page. Its main job is to mark the strategic-choice benchmark that behavioral economics modifies through experimental games, social preferences, fairness, trust, cooperation, reciprocity, and bounded strategic reasoning.
 
-The key move is conceptual. [[Camerer 2003 - Chapter 01 - Introduction]] distinguishes games from game theory. Games are representations of strategic situations; analytical game theory derives what players with specified rationality and information would do; [[Behavioral game theory]] asks what people actually do and uses experimental regularities to revise the assumptions. Standard game theory can be descriptively wrong either because agents fail to reason through the equilibrium logic, because the payoff structure used by the analyst is too thin, because the representation strips away the labels and signals through which agents coordinate, or because equilibrium analysis leaves too many self-enforcing outcomes. [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]] adds the focal-point route: some games turn on mutually consistent expectations, focal clues, and tacit coordination rather than on conflict alone. [[Van Huyck et al. 1990]] adds the experimental route: when many equilibria are available, subjects may converge on a secure but inefficient equilibrium rather than the payoff-dominant one.
+The key move is conceptual. [[Camerer 2003 - Chapter 01 - Introduction]] distinguishes games from game theory. Games are representations of strategic situations; analytical game theory derives what players with specified rationality and information would do; [[Behavioral game theory]] asks what people actually do and uses experimental regularities to revise the assumptions. Standard game theory can be descriptively wrong either because agents fail to reason through the equilibrium logic, because the payoff structure used by the analyst is too thin, because the representation strips away the labels and signals through which agents coordinate, or because equilibrium analysis leaves too many self-enforcing outcomes. [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]] adds the focal-point route: some games turn on mutually consistent expectations, focal clues, and tacit coordination rather than on conflict alone. [[Van Huyck et al. 1990]] adds the experimental route: when many equilibria are available, subjects may converge on a secure but inefficient equilibrium rather than the payoff-dominant one. [[Camerer 2003 - Chapter 07 - Coordination]] turns this into a broader map of [[Equilibrium selection]], showing when focality, communication, assignment, precedent, risk dominance, simplicity, loss avoidance, or level-1 reasoning actually guide play.
 
 In the fairness-and-trust branch, the payoff problem is central. Players may care about being treated fairly, about punishing unkindness, about reciprocating trust, or about avoiding betrayal. If those motives are real, then the material-payoff game is not yet the full behavioral game.
 
@@ -82,6 +85,8 @@ In the social-contract branch, this gives the wiki a more dynamic account of fai
 [[Lewis 1969]] then turns this into the theory of [[Convention]]. A convention is a recurrent solution to a coordination problem sustained by expectations, alternatives, conditional reasons to conform, and [[Common knowledge]]. [[Skyrms 2014 - Chapter 04 - Correlated Convention]] then adds the evolutionary step: conventions can also arise when population dynamics, learning, and role-cues break symmetry and make one correlated equilibrium self-sustaining. This matters because coordination is not the same thing as cooperation. Cooperation often asks whether people contribute despite incentives to defect. Coordination asks whether actions mesh. Schelling's chapter also shows why the distinction between pure conflict and common interest is too crude: many political, social, and bargaining settings mix conflict over distribution with dependence on mutual accommodation.
 
 [[Van Huyck et al. 1990]] is the laboratory anchor for this branch. In their minimum-effort game, all equal-effort profiles are strict equilibria, the all-high profile is payoff-dominant, and the all-low profile is secure. Large groups repeatedly converge toward the secure low outcome. This result matters for game theory because it separates equilibrium existence from equilibrium selection: knowing which outcomes are self-enforcing if expected does not explain which outcome becomes expected.
+
+[[Camerer 2003 - Chapter 07 - Coordination]] then gives the empirical sequel. It compares matching games, battle-of-the-sexes games, market-entry games, weak-link games, median-action games, and organizational-culture experiments. The result is not one master selection rule. It is a behavioral account of how different equilibrium-selection principles become active in different representations and institutions.
 
 ## Why ultimatum and trust games matter
 
@@ -109,7 +114,7 @@ This is the constructive side of behavioral game theory. The experiments do not 
 
 ## Related pages
 
-The central experimental pages are [[Behavioral game theory]], [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Evolutionary game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Altruism]], [[Trust]], [[Cooperation]], [[Free riding]], [[Tragedy of the commons]], [[Common-pool resources]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal and experimental anchors are [[Camerer 2003]], [[Schelling 1960]], [[Lewis 1969]], [[Van Huyck et al. 1990]], [[Skyrms 2014]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
+The central experimental pages are [[Behavioral game theory]], [[Experimental games]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], and [[Public goods game]]. The central motive and mechanism pages are [[Evolutionary game theory]], [[Coordination games]], [[Focal points]], [[Equilibrium selection]], [[Convention]], [[Common knowledge]], [[Fairness]], [[Social preferences]], [[Cultural variation in social preferences]], [[Altruism]], [[Trust]], [[Cooperation]], [[Free riding]], [[Tragedy of the commons]], [[Common-pool resources]], [[Conditional cooperation]], [[Costly punishment]], [[Reciprocity]], [[Inequity aversion]], and [[Betrayal aversion]]. The central formal and experimental anchors are [[Camerer 2003]], [[Schelling 1960]], [[Lewis 1969]], [[Van Huyck et al. 1990]], [[Skyrms 2014]], [[Rabin 1993]], and [[Fehr and Schmidt 1999]].
 
 ## Open questions
 

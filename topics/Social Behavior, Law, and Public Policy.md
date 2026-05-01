@@ -12,11 +12,14 @@ related_pages:
   - [[Behavioral Economics]]
   - [[Camerer 2003]]
   - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Social Motivation and Interpersonal Influence]]
   - [[Coordination, Convention, and Evolutionary Game Theory]]
   - [[Evolutionary game theory]]
   - [[Skyrms 2014]]
   - [[Coordination games]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
   - [[Schelling 1960]]
   - [[Lewis 1969]]
   - [[Convention]]
@@ -69,7 +72,7 @@ This branch focuses on other-regarding motivation and experimental games. Its co
 
 ### 5.2 [[Coordination, Convention, and Evolutionary Game Theory]]
 
-This branch focuses on the strategic emergence of social order. Its core pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Cooperation]], [[Tragedy of the commons]], and [[Common-pool resources]]. The source sequence is [[Schelling 1960]] -> [[Lewis 1969]] -> [[Skyrms 2014]], with [[Hardin 1968]] adding the open-access commons problem and [[Ostrom 2008]] adding the later institutional-governance correction: focal points, convention, evolutionary dynamics, institutional failure, and institutional repair.
+This branch focuses on the strategic emergence of social order. Its core pages are [[Game theory]], [[Coordination games]], [[Focal points]], [[Equilibrium selection]], [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Cooperation]], [[Tragedy of the commons]], and [[Common-pool resources]]. The source sequence is [[Schelling 1960]] -> [[Lewis 1969]] -> [[Camerer 2003 - Chapter 07 - Coordination]] -> [[Skyrms 2014]], with [[Hardin 1968]] adding the open-access commons problem and [[Ostrom 2008]] adding the later institutional-governance correction. The institutional thread should keep two functions visible: institutions can support cooperation, and they can solve equilibrium-selection problems by making one pattern salient, credible, and expected.
 
 ### 5.3 [[Behavioral Public Policy and Institutional Design]]
 

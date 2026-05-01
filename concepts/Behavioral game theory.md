@@ -7,11 +7,12 @@ tags:
   - game-theory
   - experimental-economics
 updated_on: 2026-05-01
-source_count: 1
+source_count: 3
 related_pages:
   - [[Camerer 2003]]
   - [[Camerer 2003 - Chapter 01 - Introduction]]
   - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Colin Camerer]]
   - [[Game theory]]
   - [[Experimental games]]
@@ -21,6 +22,8 @@ related_pages:
   - [[Dictator game]]
   - [[Trust game]]
   - [[Coordination games]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
   - [[Cooperation]]
   - [[Rationality wars]]
   - [[Bounded rationality]]
@@ -44,7 +47,7 @@ Second, players may have limited strategic reasoning. The beauty-contest example
 
 Third, players learn. In coordination and beauty-contest settings, behavior may begin far from equilibrium and move toward a pattern over time. Learning is therefore not an afterthought; it is often part of the explanation.
 
-Fourth, equilibrium selection may depend on history, salience, communication, analogy, and convention. The continental-divide example shows how groups can converge to different equilibria from small initial differences.
+Fourth, equilibrium selection may depend on history, salience, communication, analogy, and convention. The continental-divide example shows how groups can converge to different equilibria from small initial differences. [[Camerer 2003 - Chapter 07 - Coordination]] turns this into a systematic experimental branch: [[Focal points]], risk dominance, payoff dominance, communication, assignment, path dependence, loss avoidance, simplicity, and level-1 reasoning all become candidate principles for [[Equilibrium selection]], but each works only in some environments.
 
 ## Relation to rationality
 
@@ -54,7 +57,7 @@ This makes behavioral game theory especially important for [[Bounded rationality
 
 ## Related pages
 
-The anchor source is [[Camerer 2003]], especially [[Camerer 2003 - Chapter 01 - Introduction]]. The closest neighboring pages are [[Game theory]], [[Experimental games]], [[Social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Coordination games]], [[Cooperation]], [[Rationality wars]], and [[Bounded rationality]].
+The anchor source is [[Camerer 2003]], especially [[Camerer 2003 - Chapter 01 - Introduction]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], and [[Camerer 2003 - Chapter 07 - Coordination]]. The closest neighboring pages are [[Game theory]], [[Experimental games]], [[Social preferences]], [[Fairness]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Coordination games]], [[Focal points]], [[Equilibrium selection]], [[Cooperation]], [[Rationality wars]], and [[Bounded rationality]].
 
 ## Open questions
 

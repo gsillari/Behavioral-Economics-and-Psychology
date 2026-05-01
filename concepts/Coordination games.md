@@ -6,11 +6,12 @@ tags:
   - game-theory
   - coordination
   - strategic-interaction
-updated_on: 2026-04-30
-source_count: 5
+updated_on: 2026-05-01
+source_count: 6
 related_pages:
   - [[Camerer 2003]]
   - [[Camerer 2003 - Chapter 01 - Introduction]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Behavioral game theory]]
   - [[Schelling 1960]]
   - [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]
@@ -22,6 +23,8 @@ related_pages:
   - [[Skyrms 2014]]
   - [[Skyrms 2014 - Chapter 04 - Correlated Convention]]
   - [[Van Huyck et al. 1990]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
   - [[Evolutionary game theory]]
   - [[Convention]]
   - [[Common knowledge]]
@@ -47,11 +50,13 @@ related_pages:
 
 [[Camerer 2003 - Chapter 01 - Introduction]] places this coordination branch inside [[Behavioral game theory]]. His introductory continental-divide example makes the point especially cleanly: when there are multiple equilibria, small early differences in expectations can push groups toward different stable outcomes. The experiment is not a rejection of game theory, but a warning that equilibrium selection, history, and expectation formation are behavioral parts of the strategic problem.
 
+[[Camerer 2003 - Chapter 07 - Coordination]] then gives the book-length experimental synthesis. It shows that coordination is selected by different principles in different environments: [[Focal points]] and common ground in matching games, communication and assurance in stag hunts, secure low choices in weak-link games, assignment when it does not conflict with equality or payoff dominance, path dependence in continental-divide games, and loss avoidance or [[Mental accounting]] in preplay-fee experiments. The chapter's central lesson is that [[Equilibrium selection]] is empirical as well as formal.
+
 ## Why coordination is not trivial
 
 Schelling's crucial move is to show that a shared interest does not eliminate the strategic problem. Two people who need to meet without communication, drivers who need to avoid collision, dancers adjusting to unfamiliar music, or an audience deciding whether to keep applauding all face the same kind of issue: each must act with an eye to what will be mutually recognized.
 
-This is why focal clues matter. A salient time, place, label, boundary, or convention can coordinate expectations even without explicit communication. The clue works not because it mechanically causes behavior, but because each player can see it as something the other player may also see as a natural point of convergence.
+This is why [[Focal points|focal clues]] matter. A salient time, place, label, boundary, or convention can coordinate expectations even without explicit communication. The clue works not because it mechanically causes behavior, but because each player can see it as something the other player may also see as a natural point of convergence.
 
 ## Labels and rationality
 
@@ -63,7 +68,7 @@ This makes coordination games a useful bridge between formal rationality and beh
 
 Lewis deepens the Schelling branch by asking when a solution to a coordination problem becomes a convention. The answer is not merely "when people repeatedly do it." A convention requires a regularity that agents expect one another to follow, alternatives that could also have solved the problem, and enough [[Common knowledge]] to make conformity self-sustaining.
 
-This is the bridge to social institutions. A convention can stabilize traffic practices, linguistic usage, bargaining practices, or informal rules without being reducible to law, morality, explicit agreement, or imitation. It is equilibrium-like, but it is also socially and epistemically structured.
+This is the bridge to social institutions. A convention can stabilize traffic practices, linguistic usage, bargaining practices, or informal rules without being reducible to law, morality, explicit agreement, or imitation. It is equilibrium-like, but it is also socially and epistemically structured. One plausible function of institutions is therefore equilibrium selection: they make one pattern salient, credible, and expected. A second, partly distinct function is cooperation: they can change incentives, monitoring, sanctions, or norms so that people contribute rather than defect.
 
 Skyrms adds a dynamic version of the same bridge. In hawk-dove and chicken-like settings, a shared cue can let players condition behavior on roles rather than fall back into an inefficient mixed equilibrium. Once one such correlated equilibrium spreads, it can become a custom. This is why [[Evolutionary game theory]] belongs in the coordination branch rather than only in biology: it explains how role-based conventions can arise before they are written down as rules.
 
@@ -85,9 +90,15 @@ Schelling also treats coordination as central to mixed-motive games. Bargaining 
 
 This page should become the entry point for Schelling-style coordination, Lewis-style convention, focal points, salience, tacit agreement, mutual perception, common knowledge, and strategic uncertainty. It belongs under [[Game theory]], but it also connects to the social-behavior branch because political action, convention, protest, bargaining, traffic norms, and institutional settlement often depend on the same logic.
 
+## Selection principles
+
+Camerer's Chapter 7 is now the wiki's main map of selection principles. The important point for this page is not to memorize a list, but to see that each principle has a domain of force. Payoff dominance matters when efficient coordination is safe enough. Risk dominance and security matter when high coordination is fragile. Communication helps when it creates assurance or a unique claim, but can fail when distributional conflict is central. Assignment works when players accept it as the relevant cue. Precedent, simplicity, equality, and loss avoidance can all become behaviorally real selection devices.
+
+This keeps the coordination branch from collapsing into either pure formalism or pure psychology. The formal game identifies possible equilibria; the behavioral evidence explains which cues people use to select among them.
+
 ## Related pages
 
-The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]], [[Skyrms 2014 - Chapter 04 - Correlated Convention]], [[Van Huyck et al. 1990]], and [[Camerer 2003 - Chapter 01 - Introduction]]. The nearest neighbors are [[Behavioral game theory]], [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Experimental games]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].
+The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]], [[Skyrms 2014 - Chapter 04 - Correlated Convention]], [[Van Huyck et al. 1990]], [[Camerer 2003 - Chapter 01 - Introduction]], and [[Camerer 2003 - Chapter 07 - Coordination]]. The nearest neighbors are [[Focal points]], [[Equilibrium selection]], [[Behavioral game theory]], [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Experimental games]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].
 
 ## Open questions
 

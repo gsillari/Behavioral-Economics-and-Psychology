@@ -14,7 +14,10 @@ related_pages:
   - [[Behavioral game theory]]
   - [[Camerer 2003]]
   - [[Camerer 2003 - Chapter 01 - Introduction]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Coordination games]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
   - [[Convention]]
   - [[Common knowledge]]
   - [[Evolutionary game theory]]
@@ -35,9 +38,9 @@ related_pages:
 
 ## Scope
 
-This subtopic gathers the strategic-institutional side of Topic 5: how agents coordinate, how conventions stabilize, and how social order can emerge without explicit agreement or centralized enforcement. It is the natural home for the sequence [[Schelling 1960]] -> [[Lewis 1969]] -> [[Van Huyck et al. 1990]] -> [[Skyrms 2014]].
+This subtopic gathers the strategic-institutional side of Topic 5: how agents coordinate, how conventions stabilize, and how social order can emerge without explicit agreement or centralized enforcement. It is the natural home for the sequence [[Schelling 1960]] -> [[Lewis 1969]] -> [[Van Huyck et al. 1990]] -> [[Camerer 2003 - Chapter 07 - Coordination]] -> [[Skyrms 2014]].
 
-The branch is distinct from the social-preferences branch. [[Social preferences]] asks what people care about. This branch asks how patterns of action become mutually stable or collectively destructive: through focal points, common knowledge, correlated equilibria, learning, local interaction, evolutionary dynamics, cultural transmission, and institutional access rules.
+The branch is distinct from the social-preferences branch. [[Social preferences]] asks what people care about. This branch asks how patterns of action become mutually stable or collectively destructive: through [[Focal points]], [[Equilibrium selection]], common knowledge, correlated equilibria, learning, local interaction, evolutionary dynamics, cultural transmission, and institutional access rules.
 
 ## Current focus
 
@@ -49,7 +52,9 @@ The third anchor is [[Van Huyck et al. 1990]]. It supplies the experimental warn
 
 The fourth anchor is [[Camerer 2003 - Chapter 01 - Introduction]]. It places coordination experiments inside [[Behavioral game theory]]: games remain formal models of strategic interdependence, but experiments show how expectations, history, learning, and limited strategic reasoning affect which equilibrium people actually reach.
 
-The fifth anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], asking how conventions, cooperation, ownership, and fair division can emerge dynamically. This shifts the explanatory question from "which equilibrium should rational agents select?" to "which strategies and conventions can spread and persist under learning, imitation, correlation, mutation, and cultural transmission?"
+The fifth anchor is [[Camerer 2003 - Chapter 07 - Coordination]]. It supplies the empirical map of [[Equilibrium selection]]: focality in matching games, assurance through communication, security in weak-link games, assignment when no rival principle dominates, path dependence in continental-divide experiments, simplicity, loss avoidance, and level-1 reasoning.
+
+The sixth anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], asking how conventions, cooperation, ownership, and fair division can emerge dynamically. This shifts the explanatory question from "which equilibrium should rational agents select?" to "which strategies and conventions can spread and persist under learning, imitation, correlation, mutation, and cultural transmission?"
 
 [[Hardin 1968]] adds the open-access failure case through [[Tragedy of the commons]]. Where Schelling and Lewis explain how coordination can stabilize, and Skyrms explains how cooperation and convention can evolve, Hardin shows how an institutional arrangement can make individually rational use collectively destructive unless access, use, or pollution is governed.
 
@@ -59,11 +64,11 @@ The fifth anchor is [[Skyrms 2014]]. Skyrms adds [[Evolutionary game theory]], a
 
 This branch is where the wiki connects behavioral economics to social institutions. Traffic rules, property-like expectations, bargaining conventions, informal norms, and cooperative practices often work because people expect others to act in mutually compatible ways. That makes them strategic and social before they are legal or moral.
 
-For PPE students, the point is especially useful: institutions are not only incentive systems imposed from above. Some are equilibria, conventions, and evolutionary products that can stabilize, fail, or lock populations into inferior patterns.
+For PPE students, the point is especially useful: institutions are not only incentive systems imposed from above. Some are equilibria, conventions, and evolutionary products that can stabilize, fail, or lock populations into inferior patterns. Two plausible institutional functions should therefore stay visible in this branch: institutions can support [[Cooperation]], and they can solve [[Equilibrium selection]] problems by making one pattern salient, credible, and expected.
 
 ## Related pages
 
-The central concept pages are [[Game theory]], [[Behavioral game theory]], [[Coordination games]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Tragedy of the commons]], [[Common-pool resources]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
+The central concept pages are [[Game theory]], [[Behavioral game theory]], [[Coordination games]], [[Focal points]], [[Equilibrium selection]], [[Convention]], [[Common knowledge]], [[Experimental games]], and [[Evolutionary game theory]]. The neighboring social-behavior pages are [[Cooperation]], [[Tragedy of the commons]], [[Common-pool resources]], [[Fairness]], [[Social preferences]], and [[Endowment effect]].
 
 ## Open questions
 

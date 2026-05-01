@@ -6,17 +6,20 @@ tags:
   - behavioral-economics
   - experimental-economics
   - game-theory
-updated_on: 2026-04-30
-source_count: 3
+updated_on: 2026-05-01
+source_count: 4
 related_pages:
   - [[Camerer 2003]]
   - [[Camerer 2003 - Chapter 01 - Introduction]]
   - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Behavioral game theory]]
   - [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]
   - [[Van Huyck et al. 1990]]
   - [[Game theory]]
   - [[Coordination games]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
   - [[Social preferences]]
   - [[Ultimatum game]]
   - [[Dictator game]]
@@ -41,13 +44,15 @@ One anchor source is [[Camerer and Fehr 2004 - Measuring Social Norms and Prefer
 
 [[Van Huyck et al. 1990]] adds a second use: experimental games can test equilibrium selection itself. Their tacit coordination experiments ask whether subjects can converge on the payoff-dominant equilibrium when many strict equilibria are available and no explicit communication is allowed.
 
+[[Camerer 2003 - Chapter 07 - Coordination]] generalizes that use. Coordination experiments compare selection principles directly: focality in matching games, communication in battle-of-the-sexes and stag-hunt games, security in weak-link games, assignment in matching tasks, path dependence in continental-divide games, and loss avoidance in preplay-fee games. Experimental games therefore do not only measure preferences. They also measure how players form shared expectations.
+
 ## What they measure
 
 Different games isolate different parts of social motivation. The [[Ultimatum game]] makes costly rejection of unfair offers visible. The [[Dictator game]] removes rejection and helps probe altruism, sharing, and entitlement. The [[Trust game]] measures vulnerability and positive reciprocity. The [[Public goods game]] measures cooperation, free riding, and conditional contribution. Punishment games measure whether people enforce norms even when enforcement is costly.
 
 The point is not that each game maps one-to-one onto one motive. The point is comparative. Looking across games helps distinguish altruism, [[Reciprocity]], [[Inequity aversion]], [[Costly punishment]], and [[Trust]].
 
-Coordination games add a different diagnostic. In Van Huyck, Battalio, and Beil's minimum-effort games, the issue is not fairness or generosity. The issue is whether players can form common expectations about which equilibrium others will choose. The observed movement toward the secure but inefficient equilibrium makes strategic uncertainty experimentally visible.
+Coordination games add a different diagnostic. In Van Huyck, Battalio, and Beil's minimum-effort games, the issue is not fairness or generosity. The issue is whether players can form common expectations about which equilibrium others will choose. The observed movement toward the secure but inefficient equilibrium makes strategic uncertainty experimentally visible. Camerer's coordination chapter then shows how [[Focal points]], communication, assignment, simplicity, and precedent can sometimes overcome that uncertainty.
 
 ## Methodological caution
 
@@ -59,7 +64,7 @@ This caution becomes crucial in cross-cultural research. [[Henrich et al. 2004]]
 
 ## Related pages
 
-The anchor units are [[Camerer 2003 - Chapter 01 - Introduction]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], and [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. The key coordination source is [[Van Huyck et al. 1990]]. The closest neighboring pages are [[Behavioral game theory]], [[Game theory]], [[Coordination games]], [[Social preferences]], [[Cultural variation in social preferences]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Altruism]], and [[Costly punishment]].
+The anchor units are [[Camerer 2003 - Chapter 01 - Introduction]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], [[Camerer 2003 - Chapter 07 - Coordination]], and [[Camerer and Fehr 2004 - Measuring Social Norms and Preferences Using Experimental Games (in Henrich et al. 2004, ch. 3)]]. The key coordination source is [[Van Huyck et al. 1990]]. The closest neighboring pages are [[Behavioral game theory]], [[Game theory]], [[Coordination games]], [[Focal points]], [[Equilibrium selection]], [[Social preferences]], [[Cultural variation in social preferences]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Altruism]], and [[Costly punishment]].
 
 ## Open questions
 

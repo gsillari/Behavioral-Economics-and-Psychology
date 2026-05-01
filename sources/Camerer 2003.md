@@ -16,6 +16,7 @@ related_pages:
   - [[Colin Camerer]]
   - [[Camerer 2003 - Chapter 01 - Introduction]]
   - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Behavioral game theory]]
   - [[Game theory]]
   - [[Experimental games]]
@@ -28,6 +29,11 @@ related_pages:
   - [[Reciprocity]]
   - [[Inequity aversion]]
   - [[Cultural variation in social preferences]]
+  - [[Coordination games]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
+  - [[Convention]]
+  - [[Common knowledge]]
 ---
 
 # Camerer 2003: Behavioral Game Theory
@@ -44,10 +50,10 @@ The current ingest covers:
 
 - [[Camerer 2003 - Chapter 01 - Introduction]]: fully ingested as the methodological unit for [[Behavioral game theory]], the games/game-theory distinction, experimental regularity, and the role of experimental design.
 - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]: fully ingested as the first unit. This chapter strengthens the [[Social preferences]], [[Fairness]], [[Altruism]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Reciprocity]], and [[Inequity aversion]] branches.
+- [[Camerer 2003 - Chapter 07 - Coordination]]: fully ingested as the coordination unit. This chapter creates [[Focal points]] and [[Equilibrium selection]], strengthens [[Coordination games]], and connects experimental coordination evidence to [[Convention]], [[Common knowledge]], [[Mental accounting]], and institutional analysis.
 
 Planned interactive ingest:
 
-- Chapter 7, `Coordination`: likely important for [[Coordination games]], focality, market entry, weak-link games, and path dependence.
 - Chapter 9, `Conclusion`: likely important for summarizing what behavioral game theory knew by 2003 and for open research questions.
 
 Other chapters are mapped but not yet ingested in this pass.

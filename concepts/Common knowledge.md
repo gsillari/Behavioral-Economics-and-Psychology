@@ -7,14 +7,17 @@ tags:
   - epistemology
   - coordination
   - convention
-updated_on: 2026-04-30
-source_count: 2
+updated_on: 2026-05-01
+source_count: 3
 related_pages:
   - [[Lewis 1969]]
   - [[Lewis 1969 - Chapter 02 - Convention Refined]]
   - [[Van Huyck et al. 1990]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Convention]]
   - [[Coordination games]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
   - [[Game theory]]
 ---
 
@@ -38,6 +41,8 @@ This is why common knowledge belongs near [[Coordination games]]. A salient foca
 
 The lesson is that common knowledge of the game is not the same as common expectations about equilibrium selection. Common knowledge can help sustain a convention once a regularity exists, but it does not by itself say which equilibrium agents should expect others to choose when several strict equilibria are available.
 
+[[Camerer 2003 - Chapter 07 - Coordination]] adds the positive side. Common ground can make a [[Focal points|focal point]] usable: a label, precedent, visual feature, assignment, or signal matters when players can expect others to recognize it too. The chapter's psycholinguistic appendix is especially useful here because it treats coordination as a problem of shared meaning, not merely shared information.
+
 ## Why it matters for PPE
 
 For PPE students, common knowledge matters because many social and political institutions depend on shared expectations. Laws, conventions, money, language, queues, traffic norms, political procedures, and bargaining practices often require not just private belief but public or mutually accessible belief.
@@ -46,7 +51,7 @@ It also matters for behavioral economics because it clarifies a non-bias role fo
 
 ## Related pages
 
-The anchor source is [[Lewis 1969]], especially [[Lewis 1969 - Chapter 02 - Convention Refined]]. [[Van Huyck et al. 1990]] is the key experimental limit case. The closest concept neighbors are [[Convention]], [[Coordination games]], and [[Game theory]].
+The anchor source is [[Lewis 1969]], especially [[Lewis 1969 - Chapter 02 - Convention Refined]]. [[Van Huyck et al. 1990]] is the key experimental limit case, and [[Camerer 2003 - Chapter 07 - Coordination]] is the main experimental extension into focality and common ground. The closest concept neighbors are [[Convention]], [[Coordination games]], [[Focal points]], [[Equilibrium selection]], and [[Game theory]].
 
 ## Open questions
 

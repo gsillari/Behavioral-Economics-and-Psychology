@@ -7,8 +7,8 @@ tags:
   - game-theory
   - coordination
   - social-institutions
-updated_on: 2026-04-30
-source_count: 4
+updated_on: 2026-05-01
+source_count: 5
 related_pages:
   - [[Lewis 1969]]
   - [[Lewis 1969 - Chapter 01 - Coordination and Convention]]
@@ -21,7 +21,10 @@ related_pages:
   - [[Evolutionary game theory]]
   - [[Schelling 1960]]
   - [[Van Huyck et al. 1990]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Coordination games]]
+  - [[Focal points]]
+  - [[Equilibrium selection]]
   - [[Common knowledge]]
   - [[Game theory]]
   - [[Social Motivation and Interpersonal Influence]]
@@ -67,9 +70,11 @@ Skyrms broadens this institutional point by showing how conventions can arise th
 
 [[Van Huyck et al. 1990]] adds a cautionary experimental contrast. When subjects face a tacit coordination game without a settled convention or focal cue, repeated play can converge to a secure but inefficient equilibrium. This shows why conventions are not merely decorative social regularities. They can do real equilibrium-selection work by making one pattern credible enough that agents are willing to coordinate on it.
 
+[[Camerer 2003 - Chapter 07 - Coordination]] broadens that lesson. Institutions can support [[Cooperation]], but they can also solve [[Equilibrium selection]] problems: they create labels, assignments, precedents, standards, common ground, and public expectations that make one equilibrium easier to recognize than its rivals. This is one reason conventions belong in the theory of institutions rather than in a merely cultural appendix to game theory.
+
 ## Related pages
 
-The anchor source is [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]], [[Lewis 1969 - Chapter 02 - Convention Refined]], and [[Lewis 1969 - Chapter 03 - Convention Contrasted]]. The predecessor source is [[Schelling 1960]]. The evolutionary extension is [[Skyrms 2014]], especially [[Skyrms 2014 - Chapter 04 - Correlated Convention]]. The experimental contrast is [[Van Huyck et al. 1990]]. The closest concept neighbors are [[Coordination games]], [[Common knowledge]], [[Evolutionary game theory]], and [[Game theory]].
+The anchor source is [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]], [[Lewis 1969 - Chapter 02 - Convention Refined]], and [[Lewis 1969 - Chapter 03 - Convention Contrasted]]. The predecessor source is [[Schelling 1960]]. The evolutionary extension is [[Skyrms 2014]], especially [[Skyrms 2014 - Chapter 04 - Correlated Convention]]. The experimental contrasts and extensions are [[Van Huyck et al. 1990]] and [[Camerer 2003 - Chapter 07 - Coordination]]. The closest concept neighbors are [[Coordination games]], [[Focal points]], [[Equilibrium selection]], [[Common knowledge]], [[Evolutionary game theory]], and [[Game theory]].
 
 ## Open questions
 
