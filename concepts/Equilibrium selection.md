@@ -67,6 +67,10 @@ Equilibrium selection is a behavioral problem because formal structure alone oft
 
 This is why equilibrium selection belongs near [[Behavioral game theory]] and [[Experimental games]]. The issue is not whether people are irrational because they fail to pick the economist's favorite equilibrium. The issue is which cues and principles people can mutually rely on when rational choice leaves several self-enforcing possibilities.
 
+## 3D graph prototype
+
+The [[Focal points]] page has a small experimental graph that is useful for this concept too: [open the movable 3D first-degree graph for Focal points](../static/ego-graphs/focal-points-3d.html). It visualizes one local neighborhood inside the coordination/equilibrium-selection branch.
+
 ## Related pages
 
 The central unit is [[Camerer 2003 - Chapter 07 - Coordination]]. The foundational predecessor is [[Schelling 1960]], the philosophical successor is [[Lewis 1969]], and the key experimental warning is [[Van Huyck et al. 1990]]. The closest neighboring concepts are [[Coordination games]], [[Focal points]], [[Convention]], [[Common knowledge]], [[Game theory]], [[Behavioral game theory]], [[Experimental games]], [[Mental accounting]], and [[Reference dependence]].

@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BEP Wiki 3D Ego Graph - Focal points</title>
+    <style>
+      :root {
+        --bg: #0d1117;
+        --panel: rgba(18, 24, 33, 0.84);
+        --text: #edf2f7;
+        --muted: #9fb1c4;
+        --accent: #f6bd60;
+        --concept: #84a59d;
+        --source: #7b97aa;
+        --unit: #d99058;
+        --topic: #b8a1d9;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        overflow: hidden;
+        background:
+          radial-gradient(circle at 18% 18%, rgba(132, 165, 157, 0.22), transparent 30%),
+          radial-gradient(circle at 82% 12%, rgba(246, 189, 96, 0.16), transparent 24%),
+          linear-gradient(135deg, #090d13 0%, var(--bg) 54%, #141824 100%);
+        color: var(--text);
+        font-family: "Source Sans Pro", "Avenir Next", sans-serif;
+      }
+
+      #graph {
+        width: 100vw;
+        height: 100vh;
+      }
+
+      .hud {
+        position: fixed;
+        z-index: 10;
+        top: 18px;
+        left: 18px;
+        max-width: 390px;
+        padding: 18px 18px 16px;
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        border-radius: 18px;
+        background: var(--panel);
+        box-shadow: 0 16px 48px rgba(0, 0, 0, 0.34);
+        backdrop-filter: blur(14px);
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: 20px;
+        line-height: 1.1;
+      }
+
+      p {
+        margin: 0 0 12px;
+        color: var(--muted);
+        line-height: 1.35;
+      }
+
+      .controls {
+        display: grid;
+        gap: 7px;
+        margin-top: 10px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .legend {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px 12px;
+        margin-top: 12px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .legend span {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+      }
+
+      .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 999px;
+        display: inline-block;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+      }
+
+      button,
+      a.button {
+        appearance: none;
+        border: 1px solid rgba(255, 255, 255, 0.16);
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.08);
+        color: var(--text);
+        cursor: pointer;
+        font: inherit;
+        font-size: 13px;
+        padding: 7px 11px;
+        text-decoration: none;
+      }
+
+      button:hover,
+      a.button:hover {
+        border-color: rgba(246, 189, 96, 0.7);
+        background: rgba(246, 189, 96, 0.14);
+      }
+
+      .status {
+        position: fixed;
+        z-index: 10;
+        left: 18px;
+        bottom: 18px;
+        max-width: min(520px, calc(100vw - 36px));
+        padding: 10px 13px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 14px;
+        background: rgba(18, 24, 33, 0.72);
+        color: var(--muted);
+        font-size: 13px;
+        backdrop-filter: blur(12px);
+      }
+
+      @media (max-width: 720px) {
+        .hud {
+          inset: 10px 10px auto;
+          max-width: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main id="graph" aria-label="Interactive 3D ego graph"></main>
+    <section class="hud">
+      <h1>3D Ego Graph: Focal points</h1>
+      <p>
+        Prototype of a movable first-degree graph around one BEP concept. Drag to rotate,
+        scroll or pinch to zoom, right-drag to pan. Click a node to open its wiki page.
+      </p>
+      <div class="legend">
+        <span><i class="dot" style="background: var(--accent)"></i>center</span>
+        <span><i class="dot" style="background: var(--concept)"></i>concept</span>
+        <span><i class="dot" style="background: var(--source)"></i>source</span>
+        <span><i class="dot" style="background: var(--unit)"></i>unit</span>
+        <span><i class="dot" style="background: var(--topic)"></i>topic</span>
+      </div>
+      <div class="controls">
+        <span>Outgoing links are warm; incoming ties are cool.</span>
+        <span>Hover labels show page titles. The center node is pinned visually, not physically.</span>
+      </div>
+      <div class="actions">
+        <button id="reheat" type="button">Reheat layout</button>
+        <button id="focus" type="button">Focus center</button>
+        <a class="button" href="./focal-points.json">View JSON</a>
+      </div>
+    </section>
+    <aside id="status" class="status">Loading graph data...</aside>
+
+    <script src="https://unpkg.com/3d-force-graph@1.77.0/dist/3d-force-graph.min.js"></script>
+    <script>
+      const colors = {
+        center: "#f6bd60",
+        concept: "#84a59d",
+        source: "#7b97aa",
+        unit: "#d99058",
+        topic: "#b8a1d9",
+        fallback: "#cfd7df",
+      }
+
+      const status = document.getElementById("status")
+      const fallbackData = {
+        center: "Focal points",
+        nodes: [
+          { id: "Focal points", type: "concept", central: true, url: "../../concepts/Focal%20points" },
+          { id: "Coordination games", type: "concept", url: "../../concepts/Coordination%20games" },
+          { id: "Equilibrium selection", type: "concept", url: "../../concepts/Equilibrium%20selection" },
+          { id: "Convention", type: "concept", url: "../../concepts/Convention" },
+          { id: "Common knowledge", type: "concept", url: "../../concepts/Common%20knowledge" },
+          { id: "Game theory", type: "concept", url: "../../concepts/Game%20theory" },
+          { id: "Behavioral game theory", type: "concept", url: "../../concepts/Behavioral%20game%20theory" },
+          { id: "Experimental games", type: "concept", url: "../../concepts/Experimental%20games" },
+          { id: "Mental accounting", type: "concept", url: "../../concepts/Mental%20accounting" },
+          { id: "Schelling 1960", type: "source", url: "../../sources/Schelling%201960" },
+          {
+            id: "Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision",
+            type: "unit",
+            url: "../../units/Schelling%201960%20-%20Chapter%2004%20-%20Toward%20a%20Theory%20of%20Interdependent%20Decision",
+          },
+          { id: "Lewis 1969", type: "source", url: "../../sources/Lewis%201969" },
+          { id: "Camerer 2003", type: "source", url: "../../sources/Camerer%202003" },
+          {
+            id: "Camerer 2003 - Chapter 07 - Coordination",
+            type: "unit",
+            url: "../../units/Camerer%202003%20-%20Chapter%2007%20-%20Coordination",
+          },
+          {
+            id: "Coordination, Convention, and Evolutionary Game Theory",
+            type: "topic",
+            url: "../../topics/subtopics/Coordination,%20Convention,%20and%20Evolutionary%20Game%20Theory",
+          },
+          {
+            id: "Social Behavior, Law, and Public Policy",
+            type: "topic",
+            url: "../../topics/Social%20Behavior,%20Law,%20and%20Public%20Policy",
+          },
+        ],
+        links: [
+          { source: "Focal points", target: "Coordination games", relation: "outgoing" },
+          { source: "Focal points", target: "Equilibrium selection", relation: "outgoing" },
+          { source: "Focal points", target: "Convention", relation: "outgoing" },
+          { source: "Focal points", target: "Common knowledge", relation: "outgoing" },
+          { source: "Focal points", target: "Game theory", relation: "outgoing" },
+          { source: "Focal points", target: "Behavioral game theory", relation: "outgoing" },
+          { source: "Focal points", target: "Schelling 1960", relation: "outgoing" },
+          {
+            source: "Focal points",
+            target: "Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision",
+            relation: "outgoing",
+          },
+          { source: "Focal points", target: "Lewis 1969", relation: "outgoing" },
+          { source: "Focal points", target: "Camerer 2003", relation: "outgoing" },
+          { source: "Focal points", target: "Camerer 2003 - Chapter 07 - Coordination", relation: "outgoing" },
+          { source: "Experimental games", target: "Focal points", relation: "incoming" },
+          { source: "Mental accounting", target: "Focal points", relation: "incoming" },
+          { source: "Coordination, Convention, and Evolutionary Game Theory", target: "Focal points", relation: "incoming" },
+          { source: "Social Behavior, Law, and Public Policy", target: "Focal points", relation: "incoming" },
+        ],
+      }
+
+      const loadGraph = (data, sourceLabel = "JSON") => {
+        graph.graphData(data)
+        status.textContent = `${data.nodes.length} nodes, ${data.links.length} first-degree ties around ${data.center}. Data source: ${sourceLabel}.`
+        setTimeout(() => graph.zoomToFit(900, 90), 650)
+      }
+
+      const nodeColor = (node) => {
+        if (node.central) return colors.center
+        return colors[node.type] || colors.fallback
+      }
+
+      const graph = ForceGraph3D()(document.getElementById("graph"))
+        .backgroundColor("rgba(0,0,0,0)")
+        .showNavInfo(false)
+        .nodeLabel((node) => `${node.id}<br><small>${node.type}</small>`)
+        .nodeColor(nodeColor)
+        .nodeOpacity(0.96)
+        .nodeRelSize(5.6)
+        .nodeVal((node) => (node.central ? 7 : node.type === "concept" ? 3.2 : 2.4))
+        .linkColor((link) => (link.relation === "incoming" ? "rgba(123,151,170,0.62)" : "rgba(246,189,96,0.66)"))
+        .linkWidth((link) => (link.relation === "incoming" ? 1.2 : 1.7))
+        .linkOpacity(0.72)
+        .linkDirectionalParticles((link) => (link.relation === "incoming" ? 1 : 2))
+        .linkDirectionalParticleWidth(1.8)
+        .linkDirectionalParticleSpeed(0.006)
+        .onNodeHover((node) => {
+          document.body.style.cursor = node ? "pointer" : "default"
+          if (node) status.textContent = `${node.id} (${node.type})`
+        })
+        .onNodeClick((node) => {
+          if (node.url) window.location.href = node.url
+        })
+
+      graph.d3Force("charge").strength(-190)
+      graph.d3Force("link").distance((link) => {
+        const source = typeof link.source === "object" ? link.source.id : link.source
+        const target = typeof link.target === "object" ? link.target.id : link.target
+        return source === "Focal points" || target === "Focal points" ? 92 : 130
+      })
+
+      fetch("./focal-points.json")
+        .then((response) => response.json())
+        .then((data) => loadGraph(data, "external JSON"))
+        .catch((error) => {
+          loadGraph(fallbackData, `embedded fallback (${error.message})`)
+        })
+
+      document.getElementById("reheat").addEventListener("click", () => {
+        graph.d3ReheatSimulation()
+      })
+
+      document.getElementById("focus").addEventListener("click", () => {
+        const center = graph.graphData().nodes.find((node) => node.central)
+        if (!center) return
+        const distance = 240
+        const distRatio = 1 + distance / Math.hypot(center.x || 1, center.y || 1, center.z || 1)
+        graph.cameraPosition(
+          { x: (center.x || 1) * distRatio, y: (center.y || 1) * distRatio, z: (center.z || 1) * distRatio },
+          center,
+          900,
+        )
+      })
+
+      window.addEventListener("resize", () => {
+        graph.width(window.innerWidth).height(window.innerHeight)
+      })
+    </script>
+  </body>
+</html>

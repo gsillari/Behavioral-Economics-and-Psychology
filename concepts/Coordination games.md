@@ -96,6 +96,10 @@ Camerer's Chapter 7 is now the wiki's main map of selection principles. The impo
 
 This keeps the coordination branch from collapsing into either pure formalism or pure psychology. The formal game identifies possible equilibria; the behavioral evidence explains which cues people use to select among them.
 
+## 3D graph prototype
+
+For a small visual test of this branch, see the [movable 3D first-degree graph for Focal points](../static/ego-graphs/focal-points-3d.html). It is an ego graph around one coordination concept, intended as a lightweight experiment before any whole-vault 3D graph is attempted.
+
 ## Related pages
 
 The anchor sources are [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]], [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]] and [[Lewis 1969 - Chapter 02 - Convention Refined]], [[Skyrms 2014 - Chapter 04 - Correlated Convention]], [[Van Huyck et al. 1990]], [[Camerer 2003 - Chapter 01 - Introduction]], and [[Camerer 2003 - Chapter 07 - Coordination]]. The nearest neighbors are [[Focal points]], [[Equilibrium selection]], [[Behavioral game theory]], [[Convention]], [[Common knowledge]], [[Evolutionary game theory]], [[Experimental games]], [[Game theory]], [[Cooperation]], and [[Social Motivation and Interpersonal Influence]].

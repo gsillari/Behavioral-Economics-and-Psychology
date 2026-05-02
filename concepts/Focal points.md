@@ -55,6 +55,10 @@ For PPE students, focal points matter because they connect rational choice to so
 
 This is also why focal points belong near institutions. Some institutions work by changing incentives; others work by making one pattern of action salient, credible, and mutually expected. Focal points are one route by which social order can arise before formal enforcement.
 
+## 3D graph prototype
+
+This page has a small experimental ego graph: [open the movable 3D first-degree graph for Focal points](../static/ego-graphs/focal-points-3d.html). It shows this concept as the center node and displays its immediate ties to sources, units, concepts, and topic pages. This is only a prototype, not yet a replacement for the standard Quartz graph.
+
 ## Related pages
 
 The anchor source is [[Schelling 1960]], especially [[Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision]]. The philosophical successor is [[Lewis 1969]], and the main experimental extension is [[Camerer 2003 - Chapter 07 - Coordination]]. The closest neighboring pages are [[Coordination games]], [[Equilibrium selection]], [[Convention]], [[Common knowledge]], [[Game theory]], and [[Behavioral game theory]].
