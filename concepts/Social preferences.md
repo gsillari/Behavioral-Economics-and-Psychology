@@ -8,6 +8,8 @@ tags:
 updated_on: 2026-04-30
 source_count: 18
 related_pages:
+  - [[Ashraf et al. 2005]]
+  - [[Adam Smith]]
   - [[Preference]]
   - [[Camerer 2003]]
   - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
@@ -56,6 +58,7 @@ related_pages:
 ## Core idea
 
 [[Social preferences]] is the idea that people's utility depends not only on their own payoff, but also on the payoffs, treatment, intentions, or standing of other people. In the current vault, [[Rabin 1998]] gives the branch its field-level role inside psychology-and-economics: fairness, altruism, reciprocity, and procedural concerns are not peripheral moral decorations, but economically relevant preference content. [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] then gives the branch its clearest behavioral-game-theory synthesis.
+[[Ashraf et al. 2005]] adds an older Smithian layer: in *The Theory of Moral Sentiments*, sympathy, justice, self-command, and the impartial spectator already make market agents socially embedded rather than merely self-interested. The source is a historical bridge, not a substitute for modern experimental and formal sources.
 
 The new game-theory spine makes that idea more concrete. [[Guth et al. 1982]] and [[Camerer and Thaler 1995]] show how [[Fairness]] appears in the [[Ultimatum game]] and [[Dictator game]]. [[Berg et al. 1995]] shows how [[Trust]] and [[Reciprocity]] appear in the [[Trust game]]. [[Bohnet and Zeckhauser 2004]] then sharpens the trust side by showing that betrayal is not just an ordinary risky loss. [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], and [[Chaudhuri 2011]] add the cooperation side through the [[Public goods game]], [[Free riding]], [[Conditional cooperation]], and [[Costly punishment]].
 
@@ -74,6 +77,7 @@ The internal distinctions matter. [[Altruism]] concerns positive concern for oth
 ## Evidence and debate
 
 [[Rabin 1998]] is important because it places social motivation inside the general architecture of behavioral economics. It shows that psychology does not only reveal mistakes in belief or limits on computation; it also reveals richer motives. Fairness, altruism, reciprocity, and procedural justice are examples of preferences that standard self-interest misses but that economics can still model.
+[[Ashraf et al. 2005]] gives this branch a historically deeper interpretation. Smith treats sympathy as real but unstable, while fairness and justice have a more reliable civilizing role through the internalized perspective of the impartial spectator. That distinction is useful because it anticipates the modern need to separate [[Altruism]], [[Fairness]], [[Reciprocity]], and [[Trust]] rather than collect them under a single prosocial label.
 
 [[Guth et al. 1982]] gives the branch its classic bargaining experiment: in the [[Ultimatum game]], low offers are not simply accepted. [[Camerer and Thaler 1995]] then uses ultimatum and dictator evidence to show why social preferences cannot be read as generic niceness. Some behavior reflects fairness, some reflects fear of rejection, some reflects manners, and some disappears when anonymity or social distance changes.
 
@@ -95,7 +99,7 @@ This concept matters because many important institutions assume that people are 
 
 ## Related pages
 
-The anchor sources are [[Rabin 1998]], [[Camerer 2003]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], [[Skyrms 2014]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Henrich et al. 2004]], [[Jolls et al. 1998]], [[Fehr and Schmidt 1999]], [[Rabin 1993]], [[DellaVigna 2009]], [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Preference]], [[Game theory]], [[Evolutionary game theory]], [[Experimental games]], [[Cultural variation in social preferences]], [[Fairness]], [[Altruism]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Self-serving bias]], and [[Motivated reasoning]]. The main entity pages are [[Matthew Rabin]] and [[Colin Camerer]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Rabin 1998]], [[Camerer 2003]], [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]], [[Skyrms 2014]], [[Guth et al. 1982]], [[Camerer and Thaler 1995]], [[Berg et al. 1995]], [[Bohnet and Zeckhauser 2004]], [[Dawes and Thaler 1988]], [[Ledyard 1995]], [[Fehr and Gachter 2000]], [[Chaudhuri 2011]], [[Henrich et al. 2004]], [[Jolls et al. 1998]], [[Fehr and Schmidt 1999]], [[Rabin 1993]], [[DellaVigna 2009]], [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], and [[Laibson and List 2015]]. [[Ashraf et al. 2005]] is the main historical Smith bridge. The closest neighboring pages are [[Preference]], [[Game theory]], [[Evolutionary game theory]], [[Experimental games]], [[Cultural variation in social preferences]], [[Fairness]], [[Altruism]], [[Ultimatum game]], [[Dictator game]], [[Trust game]], [[Public goods game]], [[Cooperation]], [[Free riding]], [[Conditional cooperation]], [[Costly punishment]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], [[Betrayal aversion]], [[Self-serving bias]], and [[Motivated reasoning]]. The main entity pages are [[Matthew Rabin]], [[Colin Camerer]], and [[Adam Smith]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

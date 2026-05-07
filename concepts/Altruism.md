@@ -9,6 +9,8 @@ tags:
 updated_on: 2026-05-01
 source_count: 1
 related_pages:
+  - [[Ashraf et al. 2005]]
+  - [[Adam Smith]]
   - [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]
   - [[Social preferences]]
   - [[Fairness]]
@@ -29,6 +31,8 @@ related_pages:
 
 [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]] is the current anchor. Camerer uses dictator, ultimatum, and trust games to show why altruism has to be separated from related motives. In the [[Dictator game]], giving can indicate positive concern for the recipient because the recipient cannot punish. In the [[Ultimatum game]], generous offers may instead reflect fear of rejection. In the [[Trust game]], repayment may reflect altruism, but it may also reflect [[Reciprocity]] toward someone who made herself vulnerable.
 
+[[Ashraf et al. 2005]] adds a useful historical complication through [[Adam Smith]]. Smith treats sympathy as a real but erratic source of other-regarding concern: people may sympathize more with vivid, nearby, identified, or socially elevated persons than with those whose need is objectively greater. That makes the Smithian branch especially helpful for distinguishing altruism from sympathy, salience, social distance, and fairness.
+
 ## Distinctions
 
 Altruism differs from [[Inequity aversion]] because it is not primarily discomfort with unequal outcomes. A purely altruistic person may care that another person is better off, whether or not equality is achieved.
@@ -43,7 +47,7 @@ The concept matters because behavioral economics often needs to know whether a p
 
 ## Related pages
 
-The anchor unit is [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]. The closest neighboring pages are [[Social preferences]], [[Fairness]], [[Dictator game]], [[Ultimatum game]], [[Trust game]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], and [[Game theory]].
+The anchor unit is [[Camerer 2003 - Chapter 02 - Dictator, Ultimatum, and Trust Games]]. [[Ashraf et al. 2005]] adds the historical Smith bridge. The closest neighboring pages are [[Social preferences]], [[Fairness]], [[Dictator game]], [[Ultimatum game]], [[Trust game]], [[Trust]], [[Reciprocity]], [[Inequity aversion]], and [[Game theory]].
 
 ## Open questions
 

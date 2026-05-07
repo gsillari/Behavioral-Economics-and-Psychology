@@ -8,6 +8,8 @@ tags:
 updated_on: 2026-04-26
 source_count: 10
 related_pages:
+  - [[Ashraf et al. 2005]]
+  - [[Adam Smith]]
   - [[Frederick et al. 2002]]
   - [[O'Donoghue and Rabin 1999]]
   - [[Thaler 1980]]
@@ -30,6 +32,7 @@ related_pages:
 ## Core idea
 
 [[Time inconsistency]] is the phenomenon in which a person's preferences over future actions change as the future becomes the present. In the current vault, this is the main concept page for the self-control branch. The anchor sources are [[Thaler 1980]], which gives an early economics-facing treatment of precommitment and planner-doer conflict, [[Frederick et al. 2002]], which gives the branch its strongest broad review of discounted utility and intertemporal anomalies, [[O'Donoghue and Rabin 1999]], which gives the branch a sharp formal treatment of present bias, procrastination, preproperation, and sophistication versus naivete, [[Loewenstein 2007 - The Fall and Rise of Psychological Explanations in the Economics of Intertemporal Choice (in Loewenstein 2007, ch. 3)]], which gives the branch a richer intellectual history, [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]], which gives the strongest formal anomaly-based reconstruction of the branch, [[Loewenstein 2007 - Out of Control - Visceral Influences on Behavior (in Loewenstein 2007, ch. 18)]], which supplies a major motivational mechanism, [[Jolls et al. 1998]], which imports the behavioral-law-and-economics vocabulary of bounded willpower for the same general family of problems, [[DellaVigna 2009]], which surveys field evidence on self-control problems, and [[Madrian 2014]], which shows how these problems affect policy design through ideas such as [[Internalities]].
+[[Ashraf et al. 2005]] adds a historical bridge through [[Adam Smith]]'s contrast between myopic passions and the impartial spectator. Smith does not supply the formal machinery of present bias, but his account makes the self-control problem older than the modern discounted-utility anomaly literature.
 
 ## Key distinctions
 
@@ -40,6 +43,7 @@ In the current vault, this page also absorbs what had previously been treated se
 ## Evidence and debate
 
 [[Thaler 1980]] matters because it treats precommitment as a rational response to intrapersonal conflict rather than as an oddity. It links self-control problems to saving, education, exercise, addiction, and voluntary constraints on future choice. [[Frederick et al. 2002]] then provides the broad synthetic review the branch needed. It shows that discounted utility faces not one isolated counterexample but a family of anomalies, and it insists that economists distinguish pure time preference from the many other forces that shape intertemporal choice. [[Loewenstein 2007 - The Fall and Rise of Psychological Explanations in the Economics of Intertemporal Choice (in Loewenstein 2007, ch. 3)]] deepens that branch by arguing that behavioral work on intertemporal choice is not merely a modern anomaly literature. It is also a recovery of older, psychologically richer ways of thinking about utility and choice over time.
+[[Ashraf et al. 2005]] supports that recovery story. Its Smith material frames intertemporal choice as a conflict between immediate appetites and a spectator standpoint that can evaluate future welfare more impartially. That makes Smith useful for the conceptual history of self-control, while the formal anchors remain [[Thaler 1980]], [[O'Donoghue and Rabin 1999]], and the Loewenstein intertemporal-choice chapters.
 
 [[O'Donoghue and Rabin 1999]] gives the self-control branch one of its cleanest formal cores. It starts from present bias and then separates two cases that a generic impatience story blurs. With immediate-cost activities, present bias produces procrastination: the person waits when she should act. With immediate-reward activities, present bias can produce preproperation: the person acts when she should wait. The paper also makes sophistication and naivete analytically central. Sophisticated agents anticipate future self-control failure; naive agents overestimate future discipline. That distinction matters because sophistication can mitigate procrastination, but it can also worsen immediate-reward problems by inducing earlier indulgence once the agent anticipates future weakness.
 
@@ -57,7 +61,7 @@ This concept matters because it gives a behavioral rationale for commitment devi
 
 ## Related pages
 
-The anchor sources are [[Thaler 1980]], [[Frederick et al. 2002]], [[O'Donoghue and Rabin 1999]], [[Loewenstein 2007 - The Fall and Rise of Psychological Explanations in the Economics of Intertemporal Choice (in Loewenstein 2007, ch. 3)]], [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]], [[Loewenstein 2007 - Out of Control - Visceral Influences on Behavior (in Loewenstein 2007, ch. 18)]], [[Jolls et al. 1998]], [[DellaVigna 2009]], [[Madrian 2014]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Visceral influences on behavior]], [[Projection bias]], [[Internalities]], [[Preference]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Thaler 1980]], [[Frederick et al. 2002]], [[O'Donoghue and Rabin 1999]], [[Loewenstein 2007 - The Fall and Rise of Psychological Explanations in the Economics of Intertemporal Choice (in Loewenstein 2007, ch. 3)]], [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]], [[Loewenstein 2007 - Out of Control - Visceral Influences on Behavior (in Loewenstein 2007, ch. 18)]], [[Jolls et al. 1998]], [[DellaVigna 2009]], [[Madrian 2014]], and [[Laibson and List 2015]]. [[Ashraf et al. 2005]] is the historical bridge to [[Adam Smith]]. The closest neighboring pages are [[Visceral influences on behavior]], [[Projection bias]], [[Internalities]], [[Preference]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

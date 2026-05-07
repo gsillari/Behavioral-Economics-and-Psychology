@@ -8,8 +8,10 @@ tags:
   - coordination
   - social-institutions
 updated_on: 2026-05-01
-source_count: 5
+source_count: 6
 related_pages:
+  - [[Sugden 1989]]
+  - [[Spontaneous order]]
   - [[Lewis 1969]]
   - [[Lewis 1969 - Chapter 01 - Coordination and Convention]]
   - [[Lewis 1969 - Chapter 02 - Convention Refined]]
@@ -39,6 +41,8 @@ A [[Convention]] is a stable social regularity that solves a recurrent [[Coordin
 [[Lewis 1969]] is the anchor source for this concept in the current vault. It develops the philosophical theory of convention as a direct successor to [[Schelling 1960]]. Schelling shows that focal points, labels, salience, and mutual perception can select one coordination equilibrium among many. Lewis turns that insight into a general account of how conventions stabilize recurrent social interaction.
 
 [[Skyrms 2014 - Chapter 04 - Correlated Convention]] adds the evolutionary version of the story. A convention can emerge not only because agents recognize a focal point or share common knowledge, but because learning and population dynamics amplify a symmetry-breaking cue until a correlated equilibrium becomes a stable custom.
+
+[[Sugden 1989]] adds the spontaneous-order version. A convention can arise without deliberate collective choice and without state enforcement, then persist because it is self-enforcing, prominent, and evolutionarily stable. Sugden's driftwood example is especially useful because it shows how a de facto property rule can become socially binding even though no one designed it.
 
 ## The Lewis structure
 
@@ -70,11 +74,13 @@ Skyrms broadens this institutional point by showing how conventions can arise th
 
 [[Van Huyck et al. 1990]] adds a cautionary experimental contrast. When subjects face a tacit coordination game without a settled convention or focal cue, repeated play can converge to a secure but inefficient equilibrium. This shows why conventions are not merely decorative social regularities. They can do real equilibrium-selection work by making one pattern credible enough that agents are willing to coordinate on it.
 
+[[Sugden 1989]] adds a second caution. Conventions can be stable without being efficient. A rule may spread because it is prominent, versatile, or easily extended by analogy, not because it maximizes social welfare. This is why [[Spontaneous order]] should not be treated as a guarantee of institutional wisdom.
+
 [[Camerer 2003 - Chapter 07 - Coordination]] broadens that lesson. Institutions can support [[Cooperation]], but they can also solve [[Equilibrium selection]] problems: they create labels, assignments, precedents, standards, common ground, and public expectations that make one equilibrium easier to recognize than its rivals. This is one reason conventions belong in the theory of institutions rather than in a merely cultural appendix to game theory.
 
 ## Related pages
 
-The anchor source is [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]], [[Lewis 1969 - Chapter 02 - Convention Refined]], and [[Lewis 1969 - Chapter 03 - Convention Contrasted]]. The predecessor source is [[Schelling 1960]]. The evolutionary extension is [[Skyrms 2014]], especially [[Skyrms 2014 - Chapter 04 - Correlated Convention]]. The experimental contrasts and extensions are [[Van Huyck et al. 1990]] and [[Camerer 2003 - Chapter 07 - Coordination]]. The closest concept neighbors are [[Coordination games]], [[Focal points]], [[Equilibrium selection]], [[Common knowledge]], [[Evolutionary game theory]], and [[Game theory]].
+The anchor source is [[Lewis 1969]], especially [[Lewis 1969 - Chapter 01 - Coordination and Convention]], [[Lewis 1969 - Chapter 02 - Convention Refined]], and [[Lewis 1969 - Chapter 03 - Convention Contrasted]]. The predecessor source is [[Schelling 1960]]. The evolutionary extension is [[Skyrms 2014]], especially [[Skyrms 2014 - Chapter 04 - Correlated Convention]]. The spontaneous-order extension is [[Sugden 1989]]. The experimental contrasts and extensions are [[Van Huyck et al. 1990]] and [[Camerer 2003 - Chapter 07 - Coordination]]. The closest concept neighbors are [[Coordination games]], [[Focal points]], [[Equilibrium selection]], [[Common knowledge]], [[Evolutionary game theory]], [[Spontaneous order]], and [[Game theory]].
 
 ## Open questions
 

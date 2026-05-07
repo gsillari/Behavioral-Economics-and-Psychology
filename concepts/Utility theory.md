@@ -9,6 +9,8 @@ tags:
 updated_on: 2026-04-26
 source_count: 6
 related_pages:
+  - [[Ashraf et al. 2005]]
+  - [[Adam Smith]]
   - [[Preference]]
   - [[von Neumann and Morgenstern 1944]]
   - [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]
@@ -41,6 +43,7 @@ The second transformation is the revealed-preference and behaviorist turn. [[Han
 The third transformation is the decision-theoretic reconstruction. [[Von Neumann-Morgenstern utility theory]] reintroduces numerical utility, but in a new way: not as measurable pleasure, but as a representation of preferences over probabilistic alternatives. [[Subjective expected utility theory]], anchored in [[Savage 1954]], then extends the architecture to acts under uncertainty, where utility is joined to personal probability.
 
 So the concept should not be read as one doctrine with one meaning of utility. It is a historical family of representational strategies: utility as experienced value, utility as ordinal ranking, utility as revealed choice, utility as risk-side expected-utility representation, and utility as part of a broader theory of uncertain acts. [[Rabin 1998]] makes the older experienced-value meaning newly important by distinguishing choice-based decision utility from [[Experienced utility]]. That is why behavioral economics does not attack "utility theory" in general. Different behavioral challenges hit different stages of this family.
+[[Ashraf et al. 2005]] adds a useful pre-nineteenth-century bridge by showing that [[Adam Smith]]'s moral psychology already treats welfare, adaptation, status-seeking, self-command, and sympathy as psychologically thick. It should not be used as a technical source for utility theory, but it helps explain why the later behavioral return to experienced welfare is also a recovery of older moral-psychological questions.
 
 ## Key distinctions
 
@@ -56,7 +59,7 @@ This concept matters because it gives the foundations branch historical continui
 
 ## Related pages
 
-The main historical anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], with [[Hands 2010]] as the key methodological complement. The main twentieth-century risk-side reconstruction is [[Von Neumann-Morgenstern utility theory]], anchored by [[von Neumann and Morgenstern 1944]]. The main uncertainty-side reconstruction is [[Savage 1954]], especially [[Savage 1954 - Chapter 05 - Utility]]. [[Rabin 1998]] is the key behavioral bridge to [[Experienced utility]]. The nearest neighboring pages are [[Preference]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Prospect Theory]], [[Experienced utility]], and [[Foundations and Rationality]].
+The main historical anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], with [[Hands 2010]] as the key methodological complement. The main twentieth-century risk-side reconstruction is [[Von Neumann-Morgenstern utility theory]], anchored by [[von Neumann and Morgenstern 1944]]. The main uncertainty-side reconstruction is [[Savage 1954]], especially [[Savage 1954 - Chapter 05 - Utility]]. [[Rabin 1998]] is the key behavioral bridge to [[Experienced utility]], while [[Ashraf et al. 2005]] adds the historical bridge to [[Adam Smith]]. The nearest neighboring pages are [[Preference]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Prospect Theory]], [[Experienced utility]], and [[Foundations and Rationality]].
 
 ## Open questions
 

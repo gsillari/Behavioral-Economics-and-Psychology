@@ -5,8 +5,8 @@ status: active
 tags:
   - ai
   - behavioral-economics
-updated_on: 2026-04-22
-source_count: 17
+updated_on: 2026-05-07
+source_count: 18
 related_pages:
   - [[Meehl 1954]]
   - [[Bar-Gill et al. 2023]]
@@ -20,6 +20,7 @@ related_pages:
   - [[Camerer 2019]]
   - [[Bini et al. 2026]]
   - [[Ludwig et al. 2024]]
+  - [[Ludwig and Mullainathan 2021]]
   - [[Sunstein 2025]]
   - [[Ludwig et al. 2025]]
   - [[Kleinberg et al. 2023]]
@@ -46,9 +47,9 @@ related_pages:
 
 [[Behavioral economics of AI]] studies how AI intersects with behavioral economics in three roles: as a tool for prediction and behavioral research, as an object of behavioral evaluation, and as an institutional technology that can rank, steer, exploit, or govern human behavior. In the current vault, the concept is not one thin branch. It is a meeting point between several sub-branches that would otherwise remain artificially separate.
 
-The first branch treats AI as a new behavioral method and comparison class. [[Meehl 1954]] is the deep historical precursor here, because the comparison between human judgment and formal prediction long predates machine learning. [[Camerer 2019]] is the main contemporary orientation source: machine learning can help identify behavioral regularities, serve as a foil for human judgment, and reshape the environments in which choice takes place. [[Ludwig et al. 2024]] adds the policy-facing version of that claim by arguing that algorithms can be unusually effective tools when public problems are fundamentally ranking problems. [[Kleinberg et al. 2018]] then supplies the institutional case, showing how predictive systems enter coercive settings such as bail decisions, where forecasting performance, fairness, selective labels, and public legitimacy must be considered together.
+The first branch treats AI as a new behavioral method and comparison class. [[Meehl 1954]] is the deep historical precursor here, because the comparison between human judgment and formal prediction long predates machine learning. [[Camerer 2019]] is the main contemporary orientation source: machine learning can help identify behavioral regularities, serve as a foil for human judgment, and reshape the environments in which choice takes place. [[Kleinberg et al. 2018]] then supplies the institutional case, showing how predictive systems enter coercive settings such as bail decisions, where forecasting performance, fairness, selective labels, and public legitimacy must be considered together. [[Ludwig and Mullainathan 2021]] adds the didactic bridge: algorithms are not automatically good or bad, but fragile tools whose effects depend on human choices about labels, payoffs, overrides, procurement, and regulation. [[Ludwig et al. 2024]] adds the policy-facing version of that claim by arguing that algorithms can be unusually effective tools when public problems are fundamentally ranking problems.
 
-The second branch concerns [[Algorithmic bias]]. Here the issue is not only whether an algorithm predicts well, but how its errors are distributed, what target it is optimizing, and what conception of fairness governs evaluation. [[Angwin et al. 2016]] is the public controversy anchor. [[Kleinberg et al. 2016]] adds the formal result that some fairness criteria are structurally incompatible. [[Chouldechova and Roth 2020]] broadens the branch beyond metric conflict to biased data, dynamic feedback, exploration, and representation learning. [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] then deepen that branch philosophically by asking why one fairness metric should matter rather than another. [[Obermeyer et al. 2019]] adds the closely related design lesson that severe inequity can arise simply because the model is trained on the wrong proxy target, now tracked under [[Target variable problem]].
+The second branch concerns [[Algorithmic bias]]. Here the issue is not only whether an algorithm predicts well, but how its errors are distributed, what target it is optimizing, and what conception of fairness governs evaluation. [[Angwin et al. 2016]] is the public controversy anchor. [[Kleinberg et al. 2016]] adds the formal result that some fairness criteria are structurally incompatible. [[Ludwig and Mullainathan 2021]] then reframes bias as partly a design-and-governance problem: biased data can be transmitted by careless tools, but fairness objectives can also be deliberately incorporated and audited. [[Chouldechova and Roth 2020]] broadens the branch beyond metric conflict to biased data, dynamic feedback, exploration, and representation learning. [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] then deepen that branch philosophically by asking why one fairness metric should matter rather than another. [[Obermeyer et al. 2019]] adds the closely related design lesson that severe inequity can arise simply because the model is trained on the wrong proxy target, now tracked under [[Target variable problem]].
 
 The third branch concerns the gap between predicting behavior and tracking what institutions really care about. [[Kleinberg et al. 2023]] shows that engagement optimization can improve measured behavioral success while worsening welfare when users have inconsistent preferences. [[Kleinberg et al. 2024]] generalizes that lesson through [[Inversion problem]]: many systems predict behavior while implicitly hoping to recover a mental state such as welfare, expertise, or reflective judgment. [[Wang et al. 2024]] then turns that into a broader critique of [[Predictive optimization]] as a model of governance and decision support.
 
@@ -78,7 +79,7 @@ This concept matters because AI is increasingly used not only in advice and fore
 
 ## Related pages
 
-The anchor sources are [[Camerer 2019]], [[Bini et al. 2026]], [[Angwin et al. 2016]], [[Kleinberg et al. 2016]], [[Chouldechova and Roth 2020]], [[Hellman 2020]], [[Binns 2018]], [[Hedden 2021]], [[Obermeyer et al. 2019]], [[Kleinberg et al. 2023]], [[Kleinberg et al. 2024]], [[Bar-Gill et al. 2023]], [[Ludwig et al. 2024]], [[Sunstein 2025]], [[Ludwig et al. 2025]], [[Wang et al. 2024]], and [[Kleinberg et al. 2018]]. The closest neighboring concepts are [[Algorithmic bias]], [[Algorithmic harm]], [[Statistical fairness criteria]], [[Target variable problem]], [[Inversion problem]], [[Predictive optimization]], [[Behavioral economics 2.0]], [[Clinical versus actuarial judgment]], and [[Behavioral public policy]]. Upstream conceptual links run through [[Heuristics and Biases]], [[Expected utility theory]], and the broader topic [[Behavioral Economics]].
+The anchor sources are [[Camerer 2019]], [[Bini et al. 2026]], [[Angwin et al. 2016]], [[Kleinberg et al. 2016]], [[Ludwig and Mullainathan 2021]], [[Chouldechova and Roth 2020]], [[Hellman 2020]], [[Binns 2018]], [[Hedden 2021]], [[Obermeyer et al. 2019]], [[Kleinberg et al. 2023]], [[Kleinberg et al. 2024]], [[Bar-Gill et al. 2023]], [[Ludwig et al. 2024]], [[Sunstein 2025]], [[Ludwig et al. 2025]], [[Wang et al. 2024]], and [[Kleinberg et al. 2018]]. The closest neighboring concepts are [[Algorithmic bias]], [[Algorithmic harm]], [[Statistical fairness criteria]], [[Target variable problem]], [[Inversion problem]], [[Predictive optimization]], [[Behavioral economics 2.0]], [[Clinical versus actuarial judgment]], and [[Behavioral public policy]]. Upstream conceptual links run through [[Heuristics and Biases]], [[Expected utility theory]], and the broader topic [[Behavioral Economics]].
 
 ## Open questions
 

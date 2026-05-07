@@ -9,6 +9,8 @@ tags:
 updated_on: 2026-04-27
 source_count: 14
 related_pages:
+  - [[Ashraf et al. 2005]]
+  - [[Adam Smith]]
   - [[Wason 1968]]
   - [[Cosmides and Tooby 2000]]
   - [[Wason selection task]]
@@ -52,6 +54,7 @@ related_pages:
 5. challenges that reinterpret reflection as motivated, argumentative, or domain-specialized rather than simply corrective
 
 That structure matters because the page should not read as if dual-process theory were one stable doctrine. The current literature is much more internally contested than the popular fast-versus-slow slogan suggests.
+[[Ashraf et al. 2005]] adds a historical prehistory rather than another modern mechanism study. Its Adam Smith material treats conduct as shaped by the struggle between the passions and the impartial spectator. That is not the same as contemporary type-1/type-2 theory, but it usefully shows that behavioral economics inherits an older problem: how to model agents who are moved by appetite, emotion, and social imagination while also capable of self-command and reflective evaluation.
 
 ## Key distinctions
 
@@ -60,6 +63,7 @@ This concept differs from a crude two-box model in which intuition always produc
 ## Evidence and debate
 
 The early computational branch is anchored by [[Sloman 1996]]. Its importance is that it gives dual-process theory real explanatory bite: associative reasoning and rule-based reasoning are not merely two styles of thought but two different ways of processing information. [[Kahneman 2003]] matters as a major precursor and organizing bridge because it made the contrast between intuitive judgment and controlled correction unusually influential inside behavioral economics.
+[[Ashraf et al. 2005]] should be read as a historical companion to this branch, not as evidence for the modern architecture. Smith's passions/impartial-spectator contrast anticipates the general form of an impulse-versus-self-command problem, while the later dual-process literature supplies the cognitive mechanisms and experimental evidence.
 
 The second branch is the refined defense of the framework. [[Evans 2008]] gives the broad review across reasoning, judgment, and social cognition, while [[Evans and Stanovich 2013]] try to save what is valuable in dual-process theory by distinguishing type 1 and type 2 processing from looser folk contrasts between impulsive and rational thought. In the current vault, this is the best source pair for understanding why many later defenders think the theory survives criticism in a more disciplined form.
 
@@ -77,7 +81,7 @@ This concept matters because many arguments in public policy, democratic theory,
 
 ## Related pages
 
-The anchor sources are [[Wason 1968]], [[Cosmides and Tooby 2000]], [[Kahneman 2003]], [[Sloman 1996]], [[Frederick 2002]], [[Evans 2008]], [[Evans and Stanovich 2013]], [[Keren and Schul 2009]], [[De Neys 2012]], [[De Neys 2023]], [[Epley and Gilovich 2016]], and [[Mercier and Sperber 2011]]. The closest neighboring pages are [[Wason selection task]], [[Logical intuitions]], [[Heuristics and Biases]], [[Confirmation bias]], [[Evolutionary psychology]], [[Motivated reasoning]], [[Argumentative theory of reasoning]], and [[Rationality wars]]. The main entity pages are [[Peter C. Wason]], [[Leda Cosmides]], [[John Tooby]], [[Daniel Kahneman]], [[Steven A. Sloman]], [[Jonathan St. B. T. Evans]], [[Keith E. Stanovich]], [[Wim De Neys]], [[Hugo Mercier]], [[Dan Sperber]], [[Nicholas Epley]], [[Thomas Gilovich]], [[Gideon Keren]], and [[Yaacov Schul]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Wason 1968]], [[Cosmides and Tooby 2000]], [[Kahneman 2003]], [[Sloman 1996]], [[Frederick 2002]], [[Evans 2008]], [[Evans and Stanovich 2013]], [[Keren and Schul 2009]], [[De Neys 2012]], [[De Neys 2023]], [[Epley and Gilovich 2016]], and [[Mercier and Sperber 2011]]. [[Ashraf et al. 2005]] is the main historical bridge to [[Adam Smith]]. The closest neighboring pages are [[Wason selection task]], [[Logical intuitions]], [[Heuristics and Biases]], [[Confirmation bias]], [[Evolutionary psychology]], [[Motivated reasoning]], [[Argumentative theory of reasoning]], and [[Rationality wars]]. The main entity pages are [[Peter C. Wason]], [[Leda Cosmides]], [[John Tooby]], [[Daniel Kahneman]], [[Steven A. Sloman]], [[Jonathan St. B. T. Evans]], [[Keith E. Stanovich]], [[Wim De Neys]], [[Hugo Mercier]], [[Dan Sperber]], [[Nicholas Epley]], [[Thomas Gilovich]], [[Gideon Keren]], [[Yaacov Schul]], and [[Adam Smith]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

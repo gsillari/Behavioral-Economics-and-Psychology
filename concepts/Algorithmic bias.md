@@ -7,14 +7,15 @@ tags:
   - behavioral-economics
   - behavioral-public-policy
   - law
-updated_on: 2026-04-18
-source_count: 10
+updated_on: 2026-05-07
+source_count: 11
 related_pages:
   - [[Bar-Gill et al. 2023]]
   - [[Angwin et al. 2016]]
   - [[Chouldechova and Roth 2020]]
   - [[Kleinberg et al. 2016]]
   - [[Kleinberg et al. 2018]]
+  - [[Ludwig and Mullainathan 2021]]
   - [[Hellman 2020]]
   - [[Binns 2018]]
   - [[Hedden 2021]]
@@ -59,7 +60,9 @@ Fourth, the concept differs from [[Algorithmic harm]]. [[Bar-Gill et al. 2023]] 
 
 [[Obermeyer et al. 2019]] identifies a more specific source of bias than metric conflict alone: the [[Target variable problem]]. A system can be accurate with respect to its chosen label and still be deeply unfair because it is optimizing the wrong proxy for the institution's true objective. [[Wang et al. 2024]] then widens the frame through [[Predictive optimization]], arguing that this whole style of decision-making often inherits legitimacy problems that are not solved by better prediction.
 
-[[Kleinberg et al. 2018]] then complicates the discussion in a second, more institutional way. It does not deny that fairness matters. Instead it shows that algorithmic evaluation also depends on selective labels, on what outcome the institution is trying to predict, and on the difference between prediction and policy choice. In the current vault, that matters because it keeps [[Algorithmic bias]] from collapsing into a purely journalistic or purely moralized label. The debate is partly technical, partly institutional, and partly normative.
+[[Kleinberg et al. 2018]] then complicates the discussion in a second, more institutional way. It does not deny that fairness matters. Instead it shows that algorithmic evaluation also depends on selective labels, on what outcome the institution is trying to predict, and on the difference between prediction and policy choice. [[Ludwig and Mullainathan 2021]] turns this into a useful teaching framework: algorithmic bias is often not an intrinsic property of machine learning but a consequence of human choices about labels, payoffs, thresholds, audits, and deployment. This does not make bias less serious; it makes it more institutionally tractable, because some algorithmic disparities can be diagnosed and redesigned more directly than human prejudice.
+
+In the current vault, that matters because it keeps [[Algorithmic bias]] from collapsing into a purely journalistic or purely moralized label. The debate is partly technical, partly institutional, and partly normative.
 
 This is why the concept belongs near [[Clinical versus actuarial judgment]] but should not be absorbed into it. The older actuarial-clinical literature asked whether formal prediction can outperform human discretion. The algorithmic-bias literature adds a further question: even if predictive systems outperform humans on some benchmark, under what conditions are their disparities, opacity, and governance structure acceptable?
 
@@ -71,7 +74,7 @@ In the current vault, the concept sits especially close to [[Behavioral public p
 
 ## Related pages
 
-The anchor source for the public controversy is [[Angwin et al. 2016]]. The anchor source for the fairness-tradeoff theorem is [[Kleinberg et al. 2016]]. The anchor sources for the metrics and philosophical branch are [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]]. [[Chouldechova and Roth 2020]] is the clearest survey anchor for how that branch widens into data bias, dynamic learning, and open frontier problems. The anchor source for the proxy-target mechanism is [[Obermeyer et al. 2019]]. The anchor source for the broader institutional critique is [[Wang et al. 2024]]. [[Bar-Gill et al. 2023]] is most useful here as a boundary marker, because it shows how a neighboring branch on [[Algorithmic harm]] can overlap with bias concerns without being reducible to them. The closest neighboring pages are [[Statistical fairness criteria]], [[Target variable problem]], [[Predictive optimization]], [[Algorithmic harm]], [[Behavioral economics of AI]], [[Clinical versus actuarial judgment]], [[Behavioral law and economics]], and the broader topic [[AI, Algorithms, and New Frontiers]].
+The anchor source for the public controversy is [[Angwin et al. 2016]]. The anchor source for the fairness-tradeoff theorem is [[Kleinberg et al. 2016]]. [[Ludwig and Mullainathan 2021]] is the best didactic anchor for explaining why real deployments fail even when prediction is promising. The anchor sources for the metrics and philosophical branch are [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]]. [[Chouldechova and Roth 2020]] is the clearest survey anchor for how that branch widens into data bias, dynamic learning, and open frontier problems. The anchor source for the proxy-target mechanism is [[Obermeyer et al. 2019]]. The anchor source for the broader institutional critique is [[Wang et al. 2024]]. [[Bar-Gill et al. 2023]] is most useful here as a boundary marker, because it shows how a neighboring branch on [[Algorithmic harm]] can overlap with bias concerns without being reducible to them. The closest neighboring pages are [[Statistical fairness criteria]], [[Target variable problem]], [[Predictive optimization]], [[Algorithmic harm]], [[Behavioral economics of AI]], [[Clinical versus actuarial judgment]], [[Behavioral law and economics]], and the broader topic [[AI, Algorithms, and New Frontiers]].
 
 ## Open questions
 

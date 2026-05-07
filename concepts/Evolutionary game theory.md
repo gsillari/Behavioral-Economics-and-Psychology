@@ -8,8 +8,10 @@ tags:
   - social-institutions
   - cooperation
 updated_on: 2026-04-30
-source_count: 1
+source_count: 2
 related_pages:
+  - [[Sugden 1989]]
+  - [[Spontaneous order]]
   - [[Skyrms 2014]]
   - [[Skyrms 2014 - Chapter 01 - Sex and Justice]]
   - [[Skyrms 2014 - Chapter 02 - Fairness and Commitment]]
@@ -34,6 +36,7 @@ related_pages:
 [[Evolutionary game theory]] studies how strategies spread, persist, or disappear in populations when payoffs affect reproduction, imitation, learning, or cultural transmission. In the current vault, [[Skyrms 2014]] is the anchor source. Its importance is that it shifts the question from "Which strategy would ideally rational agents choose?" to "Which strategies can emerge and stabilize under a dynamic process?"
 
 This matters for behavioral economics and PPE because many social patterns are not best understood as explicit contracts or as one-shot rational choices. Fair division, costly rejection, cooperation, ownership, and convention can be treated as population-level outcomes of repeated interaction, correlation, imitation, mutation, recombination, learning, and local structure.
+[[Sugden 1989]] adds an earlier and more institution-facing version of this point. Sugden uses evolutionary stability to explain how conventions can emerge and persist as [[Spontaneous order]], substituting utility for biological fitness and learning or imitation for natural selection.
 
 ## Key distinctions
 
@@ -55,6 +58,8 @@ The fourth distinction is between evolutionary explanation and normative justifi
 
 [[Skyrms 2014 - Chapter 04 - Correlated Convention]] applies the same dynamic logic to [[Coordination games]] and [[Convention]]. Correlated equilibria can become conventions when cues, roles, and learning break symmetry. Ownership is treated as one important case: possession can become a role cue that coordinates conflict.
 
+[[Sugden 1989]] is a crucial precursor to this branch. It defines a convention as an evolutionarily stable strategy in a game with multiple ESSs and uses Chicken to show why conventions tend to exploit asymmetries. It also emphasizes that evolutionary stability is not the same as efficiency: a convention can be stable because it spreads quickly or analogically, not because it is best.
+
 The main debate this opens for the vault is how to connect evolutionary dynamics with behavioral game evidence. Evolutionary game theory can explain why fairness and cooperation are possible, but cross-cultural evidence still shows path-dependence and variation. It should therefore not be used to smuggle in a universal fairness instinct.
 
 ## Practical or policy relevance
@@ -65,7 +70,7 @@ It is especially useful in PPE because it connects political theory's social con
 
 ## Related pages
 
-The anchor source is [[Skyrms 2014]]. The closest neighboring pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Cooperation]], [[Fairness]], [[Ultimatum game]], [[Cultural variation in social preferences]], and [[Endowment effect]]. The predecessor branch is [[Schelling 1960]] and [[Lewis 1969]], while the broader rationality neighbor is [[Ecological rationality]].
+The anchor source is [[Skyrms 2014]], with [[Sugden 1989]] as an important earlier bridge to [[Spontaneous order]] and [[Convention]]. The closest neighboring pages are [[Game theory]], [[Coordination games]], [[Convention]], [[Spontaneous order]], [[Cooperation]], [[Fairness]], [[Ultimatum game]], [[Cultural variation in social preferences]], and [[Endowment effect]]. The predecessor branch is [[Schelling 1960]] and [[Lewis 1969]], while the broader rationality neighbor is [[Ecological rationality]].
 
 ## Open questions
 

@@ -6,8 +6,8 @@ tags:
   - behavioral-economics
   - judgment
   - methodology
-updated_on: 2026-04-25
-source_count: 11
+updated_on: 2026-05-07
+source_count: 12
 related_pages:
   - [[Bar-Hillel 1980]]
   - [[Meehl 1954]]
@@ -16,6 +16,7 @@ related_pages:
   - [[Dawes et al. 1989]]
   - [[Dawes 1979]]
   - [[Ludwig et al. 2024]]
+  - [[Ludwig and Mullainathan 2021]]
   - [[Kleinberg et al. 2016]]
   - [[Kleinberg et al. 2024]]
   - [[Kleinberg et al. 2018]]
@@ -46,7 +47,7 @@ Clinical versus actuarial judgment is the larger institutional and methodologica
 
 [[Bar-Hillel 1980]] adds a useful bridge from base-rate neglect to this branch. The paper explicitly connects antecedent probability to clinical testing, legal dangerousness prediction, and medical diagnosis. That connection matters because one way unaided expert judgment goes wrong is by evaluating signs, tests, or vivid case facts without giving enough weight to prior probabilities.
 
-The modern AI and governance branch should be read as a descendant of that older line rather than as an unrelated new debate. [[Kleinberg et al. 2016]] adds an important intermediate step between the older actuarial literature and the later institutional AI papers: even if formal prediction is powerful, fairness evaluation of risk scores may involve incompatible desiderata rather than one obvious benchmark. [[Kleinberg et al. 2018]] then carries the branch further into the machine-learning era by comparing judges with predictive models in bail decisions. That later paper is useful because it shows both the continuity and the complication: formal prediction can outperform human judgment, but the modern debate also has to confront selective labels, fairness constraints, and disagreement about what outcome institutions should optimize. [[Kleinberg et al. 2024]] adds a different complication through [[Inversion problem]]: even when the predictive task is well specified, institutions may still care about a latent mental state rather than the observed behavior alone. [[Angwin et al. 2016]] adds a complementary caution from the public controversy side. It does not overturn the actuarial-clinical lesson, but it shows why contemporary algorithm debates cannot stop at the claim that formal prediction beats intuition. Once proprietary tools are used in coercive state settings, questions about disparate error rates, opacity, and contestability become central. [[Wang et al. 2024]] adds a more sweeping critique by arguing that [[Predictive optimization]] can fail even when developers frame it as neutral accuracy improvement. [[Ludwig et al. 2024]] adds a shorter, more didactic policy argument on top of that. The concept is therefore important both for critiques of overconfident expertise and for later disputes about algorithms, discretion, institutional design, and [[Algorithmic bias]].
+The modern AI and governance branch should be read as a descendant of that older line rather than as an unrelated new debate. [[Kleinberg et al. 2016]] adds an important intermediate step between the older actuarial literature and the later institutional AI papers: even if formal prediction is powerful, fairness evaluation of risk scores may involve incompatible desiderata rather than one obvious benchmark. [[Kleinberg et al. 2018]] then carries the branch further into the machine-learning era by comparing judges with predictive models in bail decisions. That later paper is useful because it shows both the continuity and the complication: formal prediction can outperform human judgment, but the modern debate also has to confront selective labels, fairness constraints, and disagreement about what outcome institutions should optimize. [[Ludwig and Mullainathan 2021]] adds the most useful didactic bridge for this complication: algorithms can remedy human fallibility only if their labels, payoffs, override rules, procurement, and regulation are well designed. [[Kleinberg et al. 2024]] adds a different complication through [[Inversion problem]]: even when the predictive task is well specified, institutions may still care about a latent mental state rather than the observed behavior alone. [[Angwin et al. 2016]] adds a complementary caution from the public controversy side. It does not overturn the actuarial-clinical lesson, but it shows why contemporary algorithm debates cannot stop at the claim that formal prediction beats intuition. Once proprietary tools are used in coercive state settings, questions about disparate error rates, opacity, and contestability become central. [[Wang et al. 2024]] adds a more sweeping critique by arguing that [[Predictive optimization]] can fail even when developers frame it as neutral accuracy improvement. [[Ludwig et al. 2024]] adds a shorter policy argument on top of that. The concept is therefore important both for critiques of overconfident expertise and for later disputes about algorithms, discretion, institutional design, and [[Algorithmic bias]].
 
 ## Practical or policy relevance
 
@@ -54,7 +55,7 @@ This concept matters in diagnosis, hiring, admissions, parole, sentencing, lendi
 
 ## Related pages
 
-The historical anchor source is [[Meehl 1954]], with [[Dawes 1979]] as the key procedural refinement, [[Grove and Meehl 1996]] as the mature controversy statement, [[Grove et al. 2000]] as the meta-analytic confirmation, and [[Dawes et al. 1989]] as the classic later review. The closest neighboring pages are [[Bounded rationality]], [[Behavioral law and economics]], [[Behavioral economics of AI]], [[Inversion problem]], and [[Algorithmic bias]]. The broader topical home is [[Behavioral Economics]], with [[Kleinberg et al. 2016]], [[Kleinberg et al. 2018]], [[Kleinberg et al. 2024]], [[Angwin et al. 2016]], and [[Ludwig et al. 2024]] as the main modern extensions in the vault.
+The historical anchor source is [[Meehl 1954]], with [[Dawes 1979]] as the key procedural refinement, [[Grove and Meehl 1996]] as the mature controversy statement, [[Grove et al. 2000]] as the meta-analytic confirmation, and [[Dawes et al. 1989]] as the classic later review. The closest neighboring pages are [[Bounded rationality]], [[Behavioral law and economics]], [[Behavioral economics of AI]], [[Inversion problem]], and [[Algorithmic bias]]. The broader topical home is [[Behavioral Economics]], with [[Kleinberg et al. 2016]], [[Kleinberg et al. 2018]], [[Ludwig and Mullainathan 2021]], [[Kleinberg et al. 2024]], [[Angwin et al. 2016]], and [[Ludwig et al. 2024]] as the main modern extensions in the vault.
 
 ## Open questions
 

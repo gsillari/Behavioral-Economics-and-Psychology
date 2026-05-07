@@ -22,7 +22,9 @@ related_pages:
   - [[von Neumann and Morgenstern 1944]]
   - [[Schelling 1960]]
   - [[Lewis 1969]]
+  - [[Sugden 1989]]
   - [[Skyrms 2014]]
+  - [[Spontaneous order]]
   - [[Evolutionary game theory]]
   - [[Coordination games]]
   - [[Convention]]
@@ -62,7 +64,7 @@ The first branch is decision-theoretic. [[von Neumann and Morgenstern 1944]] sup
 
 The second branch is methodological. [[Hands 2010]] shows that even before later behavioral economics, consumer theory had already been reconstructed through disputes over which forms of psychology counted as scientifically acceptable. This is why [[Ordinal utility theory]], [[Revealed preference theory]], and [[Behaviorism]] belong in the foundations layer rather than as background trivia.
 
-The third branch is strategic. [[Schelling 1960]] shows that rational interaction can depend on salience, labels, convention, and mutually consistent expectations rather than on payoff ordering alone. [[Lewis 1969]] turns this into a theory of [[Convention]] grounded in [[Common knowledge]]. [[Skyrms 2014]] adds the evolutionary version through [[Evolutionary game theory]], showing how fairness, cooperation, ownership, and convention can emerge dynamically even when static rational-choice analysis underselects or mispredicts them.
+The third branch is strategic. [[Schelling 1960]] shows that rational interaction can depend on salience, labels, convention, and mutually consistent expectations rather than on payoff ordering alone. [[Lewis 1969]] turns this into a theory of [[Convention]] grounded in [[Common knowledge]]. [[Sugden 1989]] connects that convention branch to [[Spontaneous order]], Humean justice, and the possibility that self-enforcing institutions can emerge without design. [[Skyrms 2014]] adds the evolutionary version through [[Evolutionary game theory]], showing how fairness, cooperation, ownership, and convention can emerge dynamically even when static rational-choice analysis underselects or mispredicts them.
 
 The fourth branch is revisionary. [[Simon 1955]] marks one of the earliest and deepest shifts away from the image of an omniscient chooser toward a theory of rationality for finite agents, while [[Simon 1979]] shows how that shift matures into a wider account of decision making in organizations and the economic sciences. [[Rich 2016]] adds a meta-level clarification: once rival benchmarks are on the table, the question is no longer only which one is right, but which one is useful for which evaluative purpose.
 

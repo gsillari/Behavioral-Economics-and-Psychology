@@ -9,6 +9,8 @@ tags:
 updated_on: 2026-04-26
 source_count: 1
 related_pages:
+  - [[Ashraf et al. 2005]]
+  - [[Adam Smith]]
   - [[Rabin 1998]]
   - [[Preference]]
   - [[Utility theory]]
@@ -29,6 +31,7 @@ related_pages:
 [[Experienced utility]] is the utility of lived experience: how good or bad an outcome feels while it is being undergone, or how it is later remembered as an experience. In the current vault, [[Rabin 1998]] makes this concept important because it separates experienced welfare from the decision utility revealed by choice.
 
 That distinction is a direct challenge to simple revealed-preference welfare analysis. If people choose according to decision utility, but welfare depends partly on experienced utility, then observed choice may fail to identify what actually makes people better off.
+[[Ashraf et al. 2005]] adds a historical bridge through [[Adam Smith]]'s account of consumption and adaptation. Smith's agents pursue wealth and status partly because they misforecast the happiness those goods will bring, while lived tranquility and adaptation make the realized welfare payoff much smaller than expected.
 
 ## Key distinctions
 
@@ -41,6 +44,7 @@ The third distinction is between experienced utility and [[Preference uncertaint
 ## Evidence and debate
 
 [[Rabin 1998]] uses experienced utility to mark one of the deepest ways psychology pressures economics. The issue is not only that people have unusual preferences or mistaken beliefs. It is that the very object economists often use as a welfare proxy, observed preference, may diverge from the utility people experience.
+[[Ashraf et al. 2005]] supports the same pressure from a historical direction. Its Smith reconstruction emphasizes adaptation, misprediction of pleasure, and the gap between pursuing wealth and actually becoming happier. That makes the paper useful for the conceptual history of experienced utility, although [[Rabin 1998]] remains the direct behavioral-economics anchor for the concept.
 
 This matters for [[Projection bias]], because people may project current states into future experienced utility. It matters for [[Internalities]], because a current choice may impose bad experienced utility on a later self. It matters for [[Constructed preferences]], because elicited preference may reflect context and reasons rather than the welfare quality of the experience.
 
@@ -50,7 +54,7 @@ This concept matters because it changes how policy arguments about welfare are f
 
 ## Related pages
 
-The anchor source is [[Rabin 1998]]. The closest neighboring pages are [[Preference]], [[Utility theory]], [[Behavioral welfare economics]], [[Constructed preferences]], [[Preference uncertainty]], [[Projection bias]], [[Internalities]], [[Consumer sovereignty]], and [[Revealed preference theory]].
+The anchor source is [[Rabin 1998]]. [[Ashraf et al. 2005]] adds the historical Smith bridge. The closest neighboring pages are [[Preference]], [[Utility theory]], [[Behavioral welfare economics]], [[Constructed preferences]], [[Preference uncertainty]], [[Projection bias]], [[Internalities]], [[Consumer sovereignty]], and [[Revealed preference theory]].
 
 ## Open questions
 

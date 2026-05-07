@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - ai
-updated_on: 2026-04-18
+updated_on: 2026-05-07
 related_pages:
   - [[Behavioral Economics]]
   - [[Behavioral Economics of AI Systems]]
@@ -31,6 +31,7 @@ related_pages:
   - [[Hedden 2021]]
   - [[Obermeyer et al. 2019]]
   - [[Ludwig et al. 2024]]
+  - [[Ludwig and Mullainathan 2021]]
   - [[Sunstein 2025]]
   - [[Ludwig et al. 2025]]
   - [[Wang et al. 2024]]
@@ -57,7 +58,7 @@ This branch focuses on applying behavioral-economic ideas to AI systems themselv
 
 ### 7.2 [[Algorithmic Judgment and Debiasing]]
 
-This branch focuses on the comparison between human and algorithmic judgment and on techniques for improving system performance. Its core pages are [[Clinical versus actuarial judgment]], [[Algorithmic bias]], [[Algorithmic harm]], [[Statistical fairness criteria]], [[Inversion problem]], [[Predictive optimization]], and [[Kleinberg et al. 2018]].
+This branch focuses on the comparison between human and algorithmic judgment and on techniques for improving system performance. Its core pages are [[Clinical versus actuarial judgment]], [[Algorithmic bias]], [[Algorithmic harm]], [[Statistical fairness criteria]], [[Inversion problem]], [[Predictive optimization]], [[Kleinberg et al. 2018]], and [[Ludwig and Mullainathan 2021]].
 
 ### 7.3 [[Conceptual Extensions and Open Frontiers]]
 
@@ -65,7 +66,7 @@ This branch focuses on how AI pushes outward on the conceptual boundaries of beh
 
 ## Links to the rest of the topic
 
-The first branch treats AI as an object of behavioral evaluation. The second treats algorithms as tools and comparators in judgment. The third asks how far the field can generalize its concepts once both methods and agents change. [[Kleinberg et al. 2018]] now gives the second branch its strongest concrete legal-policy case by showing how machine prediction interacts with judicial discretion in bail decisions. [[Angwin et al. 2016]] adds the public controversy that made fairness and opacity central to that branch, giving the vault a clearer home for [[Algorithmic bias]]. [[Kleinberg et al. 2016]], [[Chouldechova and Roth 2020]], [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] then build out the metrics and philosophy side through [[Statistical fairness criteria]], while also showing that the frontier extends beyond static classification into data bias, feedback loops, representation learning, and dynamic systems. [[Obermeyer et al. 2019]] adds the [[Target variable problem]], while [[Kleinberg et al. 2024]] adds [[Inversion problem]] as the psychological warning that behavior-prediction may still miss the human state institutions actually care about. [[Wang et al. 2024]] then adds the broader critique of [[Predictive optimization]]. [[Bar-Gill et al. 2023]] adds a consumer-market branch by showing how algorithms can also create [[Algorithmic harm]] through personalized exploitation of information deficits and behavioral biases. [[Ludwig et al. 2024]] then adds a broader public-policy claim that algorithms may be unusually cost-effective because they improve ranking tasks cheaply and at scale. [[Sunstein 2025]] then adds a policy-facing bridge by showing how AI may also function as a personalized steering technology inside [[Behavioral public policy]]. [[Ludwig et al. 2025]] then adds a more revisionist possibility: AI may support a new phase of behavioral economics centered on algorithmic thought partners and more individualized welfare analysis. Together, these pages connect the AI branch back to the rationality debate, the judgment branch, the field-methodology branch, the consumer-protection branch, and the policy branch.
+The first branch treats AI as an object of behavioral evaluation. The second treats algorithms as tools and comparators in judgment. The third asks how far the field can generalize its concepts once both methods and agents change. [[Kleinberg et al. 2018]] now gives the second branch its strongest concrete legal-policy case by showing how machine prediction interacts with judicial discretion in bail decisions. [[Ludwig and Mullainathan 2021]] gives that branch its clearest deployment framework: algorithms may improve on fallible decision-makers, but they are fragile because their labels, objectives, override rules, procurement, and regulation are all human choices. [[Angwin et al. 2016]] adds the public controversy that made fairness and opacity central to that branch, giving the vault a clearer home for [[Algorithmic bias]]. [[Kleinberg et al. 2016]], [[Chouldechova and Roth 2020]], [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] then build out the metrics and philosophy side through [[Statistical fairness criteria]], while also showing that the frontier extends beyond static classification into data bias, feedback loops, representation learning, and dynamic systems. [[Obermeyer et al. 2019]] adds the [[Target variable problem]], while [[Kleinberg et al. 2024]] adds [[Inversion problem]] as the psychological warning that behavior-prediction may still miss the human state institutions actually care about. [[Wang et al. 2024]] then adds the broader critique of [[Predictive optimization]]. [[Bar-Gill et al. 2023]] adds a consumer-market branch by showing how algorithms can also create [[Algorithmic harm]] through personalized exploitation of information deficits and behavioral biases. [[Ludwig et al. 2024]] then adds a broader public-policy claim that algorithms may be unusually cost-effective because they improve ranking tasks cheaply and at scale. [[Sunstein 2025]] then adds a policy-facing bridge by showing how AI may also function as a personalized steering technology inside [[Behavioral public policy]]. [[Ludwig et al. 2025]] then adds a more revisionist possibility: AI may support a new phase of behavioral economics centered on algorithmic thought partners and more individualized welfare analysis. Together, these pages connect the AI branch back to the rationality debate, the judgment branch, the field-methodology branch, the consumer-protection branch, and the policy branch.
 
 ## Open questions
 

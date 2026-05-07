@@ -11,6 +11,8 @@ tags:
 updated_on: 2026-04-26
 source_count: 9
 related_pages:
+  - [[Ashraf et al. 2005]]
+  - [[Adam Smith]]
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
   - [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]
   - [[Hands 2010]]
@@ -53,6 +55,7 @@ The simplest interpretation treats a preference as a comparative ranking: an age
 Decision theory then changes the objects of preference. In [[Expected utility theory]], especially the risk-side branch collected under [[Von Neumann-Morgenstern utility theory]], preferences are over lotteries or probabilistic alternatives. If those preferences satisfy the relevant axioms, they can be represented by a numerical utility function. In [[Subjective expected utility theory]], anchored by [[Savage 1954]], preferences are over acts whose consequences depend on states of the world. There, preference helps discipline both utility and subjective probability.
 
 Behavioral economics then makes preference itself a problem. Pages such as [[Constructed preferences]], [[Preference reversals]], and [[Preference uncertainty]] show that preferences may not always be stable, complete, or waiting to be revealed. [[Rabin 1998]] gives this problem a wider architecture: psychology may enrich preference content through [[Fairness]] and other social motives, expose mistaken belief formation, and then press even harder by showing that choice can depend on reasons, procedures, and experienced welfare rather than on a stable ordering alone. Preferences can be shaped by elicitation procedure, framing, anchors, comparison sets, entitlement positions, attention, affect, social motives, and experience. In that setting, preference is no longer just the input to choice theory. It becomes one of the things choice theory and behavioral economics must explain.
+[[Ashraf et al. 2005]] adds a historical reminder that this richer picture is not merely a late behavioral correction. In Smith's moral psychology, agency is already shaped by passions, self-command, sympathy, status, and mispredicted happiness. The source therefore belongs to the prehistory of behavioral preference, even though the formal preference vocabulary comes later.
 
 ## Key distinctions
 
@@ -88,7 +91,7 @@ It also matters pedagogically. PPE students often encounter preference as if it 
 
 ## Related pages
 
-The main philosophy-facing anchor is [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]. The main history-of-utility anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]. The main methodological anchors are [[Hands 2010]] and [[Bruni and Sugden 2007]]. The main decision-theoretic anchors are [[von Neumann and Morgenstern 1944]], [[Von Neumann-Morgenstern utility theory]], [[Savage 1954]], and [[Subjective expected utility theory]]. The main behavioral anchors are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Constructed preferences]], [[Preference reversals]], and [[Preference uncertainty]].
+The main philosophy-facing anchor is [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]. The main history-of-utility anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]. The main methodological anchors are [[Hands 2010]] and [[Bruni and Sugden 2007]]. The main decision-theoretic anchors are [[von Neumann and Morgenstern 1944]], [[Von Neumann-Morgenstern utility theory]], [[Savage 1954]], and [[Subjective expected utility theory]]. The main behavioral anchors are [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Constructed preferences]], [[Preference reversals]], and [[Preference uncertainty]]. [[Ashraf et al. 2005]] is the historical Smith bridge for the psychologically thicker prehistory of preference.
 
 The closest neighboring concept pages are [[Utility theory]], [[Ordinal utility theory]], [[Revealed preference theory]], [[Expected utility theory]], [[Subjective expected utility theory]], [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Fairness]], [[Constructed preferences]], [[Preference uncertainty]], [[Reason-based choice]], [[Experienced utility]], [[Consumer sovereignty]], and [[Behavioral welfare economics]]. The main topic home is [[Choice, Preference, and Decision Under Risk]].
 
