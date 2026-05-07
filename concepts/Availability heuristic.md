@@ -5,13 +5,14 @@ status: active
 tags:
   - behavioral-economics
   - cognitive-psychology
-updated_on: 2026-04-07
-source_count: 9
+updated_on: 2026-04-24
+source_count: 10
 related_pages:
   - [[Kahneman et al. 1982]]
   - [[Heuristics and Biases]]
   - [[Tversky and Kahneman 1973]]
   - [[Tversky and Kahneman 1974]]
+  - [[Schwarz and Vaughn 2002]]
   - [[Ross and Sicoly 1979]]
   - [[Kahneman and Tversky 1982 - The Simulation Heuristic (in Kahneman et al. 1982, ch. 14)]]
   - [[Lichtenstein et al. 1978]]
@@ -39,12 +40,13 @@ related_pages:
 
 ## Key distinctions
 
-Availability differs from [[Representativeness heuristic]] because it depends on recall and salience rather than on resemblance to a prototype. It also differs from [[Anchoring]], where judgment is pulled by an initial numerical or conceptual starting point. Availability becomes especially distortionary when vividness, recency, or media exposure diverge from actual frequency.
+Availability differs from [[Representativeness heuristic]] because it depends on recall and salience rather than on resemblance to a prototype. It also differs from [[Anchoring]], where judgment is pulled by an initial numerical or conceptual starting point. Availability becomes especially distortionary when vividness, recency, or media exposure diverge from actual frequency. [[Schwarz and Vaughn 2002]] adds an important further distinction: what people recall and how easy recall feels are not always the same informational cue.
 
 ## Evidence and debate
 
 [[Tversky and Kahneman 1973]] provides the full original statement of the heuristic and shows how recall, imaginability, and associative structure can bias judgments of frequency and probability.
 [[Tversky and Kahneman 1974]] then condenses that logic into the broader heuristics-and-biases program.
+[[Schwarz and Vaughn 2002]] deepens the branch by distinguishing recalled content from experienced ease of recall. This matters because it adds a more explicit process layer: availability effects are not always driven by what examples come to mind, but sometimes by the metacognitive experience of how easy or hard recall feels.
 [[Kahneman and Tversky 1982 - The Simulation Heuristic (in Kahneman et al. 1982, ch. 14)]] extends the branch by distinguishing retrieval from construction: some judgments depend not on recalled instances but on how easily one can mentally generate a plausible scenario or path to an outcome.
 The classic logic includes recall effects, imaginability effects, and patterns where vivid cases distort statistical judgment.
 The concept later became central to work on risk perception and public attention, but its basic vault role remains simple: it names one of the three core heuristic families in the founding heuristics-and-biases source.
@@ -65,7 +67,7 @@ Availability matters for policy because institutions operate in an environment s
 
 ## Related pages
 
-The anchor source notes are [[Tversky and Kahneman 1973]], [[Tversky and Kahneman 1974]], [[Ross and Sicoly 1979]], [[Kahneman and Tversky 1982 - The Simulation Heuristic (in Kahneman et al. 1982, ch. 14)]], [[Lichtenstein et al. 1978]], [[Slovic 1987]], [[Finucane et al. 2000]], [[Sunstein 2003]], [[Gigerenzer 2004]], and [[Kuran and Sunstein 1999]]. The closest neighboring concepts are [[Risk perception]], [[Heuristics and Biases]], [[Affect heuristic]], [[Probability neglect]], [[Dread risk]], [[Availability cascades]], [[Representativeness heuristic]], and [[Anchoring]]. The broader topical pages are [[Availability, Affect, and Risk Perception]] and [[Behavioral Economics]].
+The anchor source notes are [[Tversky and Kahneman 1973]], [[Tversky and Kahneman 1974]], [[Schwarz and Vaughn 2002]], [[Ross and Sicoly 1979]], [[Kahneman and Tversky 1982 - The Simulation Heuristic (in Kahneman et al. 1982, ch. 14)]], [[Lichtenstein et al. 1978]], [[Slovic 1987]], [[Finucane et al. 2000]], [[Sunstein 2003]], [[Gigerenzer 2004]], and [[Kuran and Sunstein 1999]]. The closest neighboring concepts are [[Risk perception]], [[Heuristics and Biases]], [[Affect heuristic]], [[Probability neglect]], [[Dread risk]], [[Availability cascades]], [[Representativeness heuristic]], and [[Anchoring]]. The broader topical pages are [[Availability, Affect, and Risk Perception]] and [[Behavioral Economics]].
 
 ## Open questions
 

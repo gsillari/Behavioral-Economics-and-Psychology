@@ -14,7 +14,6 @@ related_pages:
   - [[Constructed preferences]]
   - [[Coherent arbitrariness]]
   - [[Ariely et al. 2003]]
-  - [[Nonstandard preferences]]
   - [[Behavioral law and economics]]
   - [[Behavioral public policy]]
   - [[Behavioral Economics]]
@@ -41,7 +40,7 @@ For PPE students, this paper matters because it pushes the constructed-preferenc
 
 ## Links into the wiki
 
-The main derived concept page is [[Preference uncertainty]]. The source also significantly deepens [[Constructed preferences]] and [[Coherent arbitrariness]], while remaining linked to [[Ariely et al. 2003]] as a direct follow-on in the same research program. At a higher level, it sharpens [[Nonstandard preferences]], [[Behavioral law and economics]], [[Behavioral public policy]], [[What Behavioral Economics Thinks Rationality Is]], and [[Behavioral Public Policy and Its Competing Paradigms]] by making the interpretation of choice and welfare more contested.
+The main derived concept page is [[Preference uncertainty]]. The source also significantly deepens [[Constructed preferences]] and [[Coherent arbitrariness]], while remaining linked to [[Ariely et al. 2003]] as a direct follow-on in the same research program. At a higher level, it sharpens [[Preference]], [[Behavioral law and economics]], [[Behavioral public policy]], [[What Behavioral Economics Thinks Rationality Is]], and [[Behavioral Public Policy and Its Competing Paradigms]] by making the interpretation of choice and welfare more contested.
 
 ## Open questions
 

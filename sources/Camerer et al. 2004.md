@@ -10,7 +10,7 @@ tags:
   - behavioral-economics
   - edited-volume
   - work
-updated_on: 2026-04-19
+updated_on: 2026-04-26
 related_pages:
   - [[Behavioral Economics]]
   - [[Scope and Method of Behavioral Economics]]
@@ -22,6 +22,7 @@ related_pages:
   - [[Camerer and Loewenstein 2004]]
   - [[Starmer 2000]]
   - [[Frederick et al. 2002]]
+  - [[O'Donoghue and Rabin 1999]]
   - [[Fehr and Schmidt 1999]]
   - [[Rabin 1993]]
   - [[Shafir et al. 1997]]
@@ -53,6 +54,7 @@ For the current vault, the strongest already-ingested or newly ingested material
 - Chapter 1 via [[Camerer and Loewenstein 2004]]
 - Chapter 4 via [[Starmer 2000]]
 - Chapter 6 via [[Frederick et al. 2002]]
+- Chapter 7 via [[O'Donoghue and Rabin 1999]]
 - Chapter 9 via [[Fehr and Schmidt 1999]]
 - Chapter 10 via [[Rabin 1993]]
 - Chapter 17 via [[Shafir et al. 1997]]
@@ -73,7 +75,7 @@ For PPE students, this work matters because it shows the scale of behavioral eco
 
 ## Links into the wiki
 
-This work should mainly strengthen [[Behavioral Economics]] and [[Scope and Method of Behavioral Economics]] as field-level maps. Its downstream branch pages are [[Expected utility theory]], [[Time inconsistency]], [[Social preferences]], [[Money illusion]], and [[Behavioral public policy]].
+This work should mainly strengthen [[Behavioral Economics]] and [[Scope and Method of Behavioral Economics]] as field-level maps. Its downstream branch pages are [[Expected utility theory]], [[Time inconsistency]], [[Social preferences]], [[Money illusion]], and [[Behavioral public policy]]. The time-inconsistency branch should now be read through both the broad review in [[Frederick et al. 2002]] and the formal present-bias architecture in [[O'Donoghue and Rabin 1999]].
 
 ## Bibliographic reference
 
@@ -88,6 +90,7 @@ Currently represented from this volume:
 - Chapter 1 via [[Camerer and Loewenstein 2004]]
 - Chapter 4 via [[Starmer 2000]]
 - Chapter 6 via [[Frederick et al. 2002]]
+- Chapter 7 via [[O'Donoghue and Rabin 1999]]
 - Chapter 9 via [[Fehr and Schmidt 1999]]
 - Chapter 10 via [[Rabin 1993]]
 - Chapter 17 via [[Shafir et al. 1997]]
@@ -96,7 +99,7 @@ This ingestion is not yet complete. The current pass is designed to give the vol
 
 Still to ingest later:
 
-- Next likely candidates: Chapters 5, 7, 13, 14, 15, 18, 19, and 25
+- Next likely candidates: Chapters 5, 13, 14, 15, 18, 19, and 25
 - Likely lower-priority but still useful later: Chapters 3, 8, 12, 16, 20, 21, 23, and 24
 
 Already represented elsewhere or partly covered by existing sources:

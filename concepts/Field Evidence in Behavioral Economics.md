@@ -14,11 +14,11 @@ related_pages:
   - [[Madrian 2014]]
   - [[Laibson and List 2015]]
   - [[Regression to the mean]]
-  - [[Nonstandard preferences]]
+  - [[Time inconsistency]]
+  - [[Reference dependence]]
+  - [[Social preferences]]
   - [[Nonstandard beliefs]]
   - [[Nonstandard decision-making]]
-  - [[Time inconsistency]]
-  - [[Social preferences]]
   - [[Overconfidence]]
   - [[Law of small numbers]]
   - [[Projection bias]]
@@ -39,7 +39,7 @@ to be REVIEWED
 
 ## Core idea
 
-[[Field Evidence in Behavioral Economics]] refers to empirical work showing that the kinds of departures from the standard model identified by behavioral economics also appear in real-world settings, not only in laboratory experiments. In the current vault, the anchor sources are [[DellaVigna 2009]], which organizes this evidence into [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]] across a wide range of economic and political domains, [[Madrian 2014]], which connects those patterns to policy-relevant interventions, and [[Barnett et al. 2005]], which adds a methodological warning about [[Regression to the mean]] when interpreting repeated-measures evidence.
+[[Field Evidence in Behavioral Economics]] refers to empirical work showing that the kinds of departures from the standard model identified by behavioral economics also appear in real-world settings, not only in laboratory experiments. In the current vault, the anchor sources are [[DellaVigna 2009]], which organizes this evidence into preference-side mechanisms, [[Nonstandard beliefs]], and [[Nonstandard decision-making]] across a wide range of economic and political domains, [[Madrian 2014]], which connects those patterns to policy-relevant interventions, and [[Barnett et al. 2005]], which adds a methodological warning about [[Regression to the mean]] when interpreting repeated-measures evidence.
 
 ## Key distinctions
 
@@ -77,7 +77,7 @@ It is about sorting mechanisms by practical significance and using that sorting 
 
 ## Related pages
 
-The anchor sources are [[DellaVigna 2009]], [[Madrian 2014]], [[Barnett et al. 2005]], [[Hossain and List 2009]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Regression to the mean]], [[Nonstandard preferences]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Loss-framed incentives]], [[Behavioral Economics]], [[Heuristics and Biases]], [[Prospect Theory]], [[Behavioral public policy]], and [[Internalities]], because the concept links empirical evidence to the vault's core theoretical and policy debates. It also strengthens the synthesis page [[What Behavioral Economics Thinks Rationality Is]] by showing that disputes about rationality are not only philosophical or experimental, but also empirical and institutional.
+The anchor sources are [[DellaVigna 2009]], [[Madrian 2014]], [[Barnett et al. 2005]], [[Hossain and List 2009]], and [[Laibson and List 2015]]. The closest neighboring pages are [[Regression to the mean]], [[Time inconsistency]], [[Reference dependence]], [[Social preferences]], [[Nonstandard beliefs]], [[Nonstandard decision-making]], [[Loss-framed incentives]], [[Behavioral Economics]], [[Heuristics and Biases]], [[Prospect Theory]], [[Behavioral public policy]], and [[Internalities]], because the concept links empirical evidence to the vault's core theoretical and policy debates. It also strengthens the synthesis page [[What Behavioral Economics Thinks Rationality Is]] by showing that disputes about rationality are not only philosophical or experimental, but also empirical and institutional.
 
 ## Open questions
 

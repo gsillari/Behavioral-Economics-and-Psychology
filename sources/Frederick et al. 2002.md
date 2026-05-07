@@ -12,7 +12,6 @@ updated_on: 2026-04-19
 related_pages:
   - [[Camerer et al. 2004]]
   - [[Time inconsistency]]
-  - [[Nonstandard preferences]]
   - [[Behavioral public policy]]
   - [[Behavioral Economics]]
 ---
@@ -31,7 +30,7 @@ For PPE students, [[Frederick et al. 2002]] matters because it makes the interte
 
 ## Links into the wiki
 
-This source should mainly strengthen [[Time inconsistency]] and [[Nonstandard preferences]]. It also belongs near [[Behavioral public policy]] because the policy case for commitment devices and related interventions depends on how intertemporal anomalies are interpreted.
+This source should mainly strengthen [[Time inconsistency]] and [[Preference]]. It also belongs near [[Behavioral public policy]] because the policy case for commitment devices and related interventions depends on how intertemporal anomalies are interpreted.
 
 ## Bibliographic reference
 

@@ -6,7 +6,7 @@ tags:
   - home
   - landing-page
   - behavioral-economics
-updated_on: 2026-04-07
+updated_on: 2026-04-30
 related_pages:
   - [[Behavioral Economics]]
   - [[What Behavioral Economics Thinks Rationality Is]]
@@ -16,6 +16,8 @@ related_pages:
   - [[Choice, Preference, and Decision Under Risk]]
   - [[Time, Attention, and Choice Architecture]]
   - [[Social Behavior, Law, and Public Policy]]
+  - [[Social Motivation and Interpersonal Influence]]
+  - [[Coordination, Convention, and Evolutionary Game Theory]]
   - [[Ecological Rationality and Fast-and-Frugal Heuristics]]
   - [[AI, Algorithms, and New Frontiers]]
   - [[Behavioral public policy]]
@@ -23,7 +25,9 @@ related_pages:
   - [[Prospect Theory]]
   - [[Bounded rationality]]
   - [[Mental accounting]]
-  - [[Nonstandard preferences]]
+  - [[Preference]]
+  - [[Time inconsistency]]
+  - [[Social preferences]]
   - [[Nonstandard beliefs]]
   - [[Nonstandard decision-making]]
   - [[Herbert A. Simon]]
@@ -66,6 +70,18 @@ If you want the classic core:
 - [[Prospect Theory]]
 - [[Bounded rationality]]
 
+## Canonical topic sequence
+
+The wiki currently has seven top-level topics. Read in order, they give you the closest thing to a course-like path through the vault:
+
+1. [[Foundations and Rationality]]
+2. [[Judgment, Belief, and Inference]]
+3. [[Choice, Preference, and Decision Under Risk]]
+4. [[Time, Attention, and Choice Architecture]]
+5. [[Social Behavior, Law, and Public Policy]]
+6. [[Ecological Rationality and Fast-and-Frugal Heuristics]]
+7. [[AI, Algorithms, and New Frontiers]]
+
 ## Main topic map
 
 ### 1. [[Foundations and Rationality]]
@@ -86,7 +102,7 @@ This branch covers self-control, limited attention, and interventions into decis
 
 ### 5. [[Social Behavior, Law, and Public Policy]]
 
-This branch covers social preferences, persuasion, law, and public policy. It links the psychology of choice to institutions, regulation, and political judgment.
+This branch covers social preferences, experimental games, cooperation, coordination, convention, evolutionary game theory, law, welfare, and public policy. It links the psychology of choice to strategic interaction and institutional design.
 
 ### 6. [[Ecological Rationality and Fast-and-Frugal Heuristics]]
 
@@ -94,7 +110,7 @@ This branch covers the main alternative to bias-first interpretations of reasoni
 
 ### 7. [[AI, Algorithms, and New Frontiers]]
 
-This branch covers recent extensions of behavioral economics into AI, machine learning, and new forms of judgment and decision support. Key pages include [[Behavioral economics of AI]], [[Behavioral economics of AI]], and [[Behavioral economics of AI]].
+This branch covers recent extensions of behavioral economics into AI, machine learning, and new forms of judgment and decision support. Key pages include [[Behavioral economics of AI]], [[Algorithmic bias]], [[Clinical versus actuarial judgment]], [[Predictive optimization]], and [[Algorithmic harm]].
 
 ## Key syntheses
 
@@ -111,7 +127,9 @@ If you want a compact set of anchor ideas, begin with:
 - [[Heuristics and Biases]]
 - [[Prospect Theory]]
 - [[Mental accounting]]
-- [[Nonstandard preferences]]
+- [[Preference]]
+- [[Time inconsistency]]
+- [[Social preferences]]
 - [[Nonstandard beliefs]]
 - [[Nonstandard decision-making]]
 - [[Behavioral public policy]]

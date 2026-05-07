@@ -7,10 +7,11 @@ tags:
   - ppe
   - behavioral-economics
   - policy
-updated_on: 2026-04-06
+updated_on: 2026-04-26
 related_pages:
   - [[Behavioral Economics]]
   - [[Self-Control and Dynamic Inconsistency]]
+  - [[O'Donoghue and Rabin 1999]]
   - [[Attention, Choice Context, and Decision Frictions]]
   - [[Welfare, Internalities, and Incentive Design]]
   - [[Choice Architecture and Paternalism]]
@@ -20,6 +21,8 @@ related_pages:
 ---
 
 # Time, Attention, and Choice Architecture
+
+This is **Topic 4 of 7** in the wiki's main topic sequence. The full order is: [[Foundations and Rationality]] -> [[Judgment, Belief, and Inference]] -> [[Choice, Preference, and Decision Under Risk]] -> [[Time, Attention, and Choice Architecture]] -> [[Social Behavior, Law, and Public Policy]] -> [[Ecological Rationality and Fast-and-Frugal Heuristics]] -> [[AI, Algorithms, and New Frontiers]].
 
 ## Scope
 
@@ -33,7 +36,7 @@ This branch therefore connects behavioral evidence to policy design in a more op
 
 ### 4.1 [[Self-Control and Dynamic Inconsistency]]
 
-This branch focuses on failures of intertemporal consistency and self-control. Its core pages are [[Time inconsistency]] and [[Projection bias]].
+This branch focuses on failures of intertemporal consistency and self-control. Its core pages are [[Time inconsistency]] and [[Projection bias]], with [[O'Donoghue and Rabin 1999]] supplying the central present-bias architecture for procrastination, preproperation, sophistication, and naivete.
 
 ### 4.2 [[Attention, Choice Context, and Decision Frictions]]
 

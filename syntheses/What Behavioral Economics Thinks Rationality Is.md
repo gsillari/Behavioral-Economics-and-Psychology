@@ -6,15 +6,19 @@ tags:
   - behavioral-economics
   - philosophy
   - ppe
-updated_on: 2026-04-19
+updated_on: 2026-04-27
 query: What does behavioral economics think rationality is?
 generated_on: 2026-04-05
 sources_used:
+  - [[Wason 1968]]
+  - [[Cosmides and Tooby 2000]]
   - [[Camerer and Loewenstein 2004]]
+  - [[Bruni and Sugden 2007]]
   - [[Hands 2010]]
   - [[Heilmann and Reiss 2022]]
   - [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]
   - [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]]
+  - [[von Neumann and Morgenstern 1944]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Vredenburgh 2022 - The Economic Concept of a Preference (in Heilmann and Reiss 2022, ch. 5)]]
   - [[de Finetti 1937]]
@@ -48,6 +52,9 @@ sources_used:
   - [[Gigerenzer 2008]]
   - [[Gigerenzer 2024]]
   - [[Dekker and Remic 2019]]
+  - [[Rich 2016]]
+  - [[Kahneman and Tversky 1996]]
+  - [[Gigerenzer 1996]]
   - [[Hortal 2025]]
   - [[Samuels et al. 2002]]
   - [[Camerer et al. 2003]]
@@ -55,6 +62,9 @@ sources_used:
   - [[Bernheim 2025]]
   - [[Bini et al. 2026]]
 related_pages:
+  - [[Wason 1968]]
+  - [[Cosmides and Tooby 2000]]
+  - [[Wason selection task]]
   - [[Behavioral Economics]]
   - [[Herbert A. Simon]]
   - [[Simon 1955]]
@@ -77,7 +87,9 @@ related_pages:
   - [[Coherent arbitrariness]]
   - [[Preference uncertainty]]
   - [[Field Evidence in Behavioral Economics]]
-  - [[Nonstandard preferences]]
+  - [[Time inconsistency]]
+  - [[Reference dependence]]
+  - [[Social preferences]]
   - [[Nonstandard beliefs]]
   - [[Nonstandard decision-making]]
   - [[Time inconsistency]]
@@ -90,6 +102,7 @@ related_pages:
   - [[Situated cognition]]
   - [[Embodied cognition]]
   - [[Behaviorism]]
+  - [[Paretian turn]]
   - [[Utility theory]]
   - [[Risk attitudes]]
   - [[Ordinal utility theory]]
@@ -127,6 +140,9 @@ related_pages:
   - [[Gigerenzer 2008]]
   - [[Gigerenzer 2024]]
   - [[Dekker and Remic 2019]]
+  - [[Rich 2016]]
+  - [[Kahneman and Tversky 1996]]
+  - [[Gigerenzer 1996]]
   - [[Hortal 2025]]
   - [[Samuels et al. 2002]]
   - [[Camerer et al. 2003]]
@@ -145,8 +161,8 @@ In the current vault, it is better understood as a field organized around compet
 That matters because the rationality debate in the field does not happen at only one level.
 It unfolds across anomaly detection, descriptive theory, field evidence, and policy application.
 
-Classical decision theory treats rationality as formal consistency in both preferences and beliefs, with [[de Finetti 1937]] and [[Subjective probability]] helping to clarify the belief side of that benchmark, and [[Ellsberg 1961]] showing that even this belief-side extension becomes unstable once agents confront ambiguity rather than measurable risk. [[Heilmann and Reiss 2022]] adds an important overview layer here by making the philosophy of these benchmark concepts more explicit.
-[[Hands 2010]] adds an earlier historical complication on the preference side. The paper argues that economics did not move from psychology to no psychology in one clean step. Instead, the history of consumer choice theory runs through selective rejection of hedonistic introspection, the stabilization of [[Ordinal utility theory]], and then a more explicitly operational and [[Behaviorism|behaviorist]] turn in [[Revealed preference theory]]. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] helps place that history inside the broader trajectory of [[Utility theory]], which matters because the benchmark later challenged by behavioral economics is already the product of multiple reinterpretations.
+Classical decision theory treats rationality as formal consistency in both preferences and beliefs, but the current vault should now distinguish two benchmark branches more clearly. The risk-side branch is gathered under [[Von Neumann-Morgenstern utility theory]], whose canonical source is [[von Neumann and Morgenstern 1944]]. The uncertainty-side branch is gathered under [[Subjective expected utility theory]], whose canonical source is [[Savage 1954]]. [[de Finetti 1937]] and [[Subjective probability]] clarify the deepest belief-side background, while [[Ellsberg 1961]] shows that the uncertainty-side extension becomes unstable once agents confront ambiguity rather than measurable risk. [[Heilmann and Reiss 2022]] adds an important overview layer here by making the philosophy of these benchmark concepts more explicit.
+[[Hands 2010]] adds an earlier historical complication on the preference side. The paper argues that economics did not move from psychology to no psychology in one clean step. Instead, the history of consumer choice theory runs through selective rejection of hedonistic introspection, the stabilization of [[Ordinal utility theory]], and then a more explicitly operational and [[Behaviorism|behaviorist]] turn in [[Revealed preference theory]]. [[Bruni and Sugden 2007]] widens that same point into a larger history of the discipline by arguing that the [[Paretian turn]] tried to redefine economics itself as a separate science of rational choice. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] helps place that history inside the broader trajectory of [[Utility theory]], which matters because the benchmark later challenged by behavioral economics is already the product of multiple reinterpretations.
 [[Simon 1955]] then introduces a different kind of break with the benchmark by arguing that rationality should be modeled for agents with limited information, limited search, and limited computational power rather than for omniscient optimizers.
 [[Simon 1979]] later shows how broad that break really is by reconnecting bounded rationality to organizations, administrative procedure, and the scope of economics itself.
 [[Petracca 2017]] adds a now-essential clarification for this synthesis. Simon's break was not only a benchmark revision. It was also grounded in [[Cognitivism]] as symbolic information processing. That means the field's rationality debate is not only about norms, heuristics, and welfare. It is also about what kind of mind behavioral economics is assuming when it calls itself psychologically realistic.
@@ -161,7 +177,7 @@ The literature collected under [[Rationality wars]] then makes the disagreement 
 
 ## From formal benchmark to behavioral critique
 
-The background benchmark in this vault is [[Expected utility theory]]. In that framework, rational choice under risk is usually understood in terms of coherent preferences over lotteries, evaluated through utility and constrained by axioms such as independence. [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] usefully sharpens that benchmark by distinguishing [[Risk attitudes]] from ambiguity-sensitive behavior and by showing how much of the standard model's treatment of risk depends on utility curvature. But choice under uncertainty also presupposes some account of rational belief, and [[de Finetti 1937]] matters because it gives the vault a clearer benchmark on that side through [[Subjective probability]]: beliefs can be personal and still be rationally constrained by coherence. [[Ellsberg 1961]] then matters because it shows that even if the theory allows subjective probabilities, many people do not behave as if uncertain situations can always be reduced to one determinate personal probability distribution. Through [[Ambiguity aversion]], the paper introduces a major challenge to Savage-style decision theory: known risk and unknown probability are psychologically and behaviorally different. [[Aumann 1962]] then matters because it shows that even inside classical decision theory, the preference-side benchmark is less rigid than it first appears. By questioning the necessity of the [[Completeness axiom]], the paper suggests that rationality need not always require a full ranking of every pair of options. That is important because it means the benchmark later challenged by behavioral economics was already internally contestable.
+The background benchmark in this vault is now best read as a family rather than a single model. [[Von Neumann-Morgenstern utility theory]] covers the risk-side branch, where rational choice is understood in terms of coherent preferences over lotteries or probability-including alternatives. [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] sharpens that benchmark by distinguishing [[Risk attitudes]] from ambiguity-sensitive behavior and by showing how much of the standard model's treatment of risk depends on utility curvature. The uncertainty-side branch is now collected under [[Subjective expected utility theory]], whose canonical source is [[Savage 1954]]. On that side, [[de Finetti 1937]] matters because it gives the vault a benchmark for coherent personal belief through [[Subjective probability]], while [[Savage 1954]] matters because it embeds those beliefs in a theory of acts, utility, and observation. [[Ellsberg 1961]] then matters because it shows that many people do not behave as if uncertain situations can always be reduced to one precise personal probability structure. Through [[Ambiguity aversion]], the paper introduces a major challenge to the uncertainty-side benchmark rather than merely to rational choice in general. [[Aumann 1962]] then matters because it shows that even inside classical decision theory, the preference-side benchmark is less rigid than it first appears. By questioning the necessity of the [[Completeness axiom]], the paper suggests that rationality need not always require a full ranking of every pair of options. That is important because it means the benchmark later challenged by behavioral economics was already internally contestable.
 
 [[Simon 1955]] matters because it changes the critique at a deeper level. The paper does not merely present a new anomaly. It argues that the ideal of global rationality should itself be replaced by a model of choice compatible with the information and computational capacities real agents actually possess. In later vocabulary, this becomes the foundational move behind [[Bounded rationality]]. That shift matters because it makes room for procedural realism before the better-known bias literature arrives. Behavioral economics therefore begins not only by finding violations of formal rationality, but also by asking whether the chooser in the formal model was ever psychologically plausible in the first place.
 
@@ -179,7 +195,7 @@ The key claim is not that cognition is random, but that it is patterned.
 This gives behavioral economics one of its enduring themes: humans regularly depart from formal standards, and those departures are systematic enough to study.
 It also fixes one of the main normative targets of the field, because the source treats probability theory and related statistical norms as the background against which bias becomes visible.
 
-[[Evans 2008]] and [[Evans and Stanovich 2013]] make clear that this debate is also about cognitive architecture. They supply a broad dual-process framework in which intuitive and reflective reasoning are treated as importantly different kinds of processing, with the later Evans-Stanovich paper sharpening the vocabulary into type 1 and type 2 processing. [[De Neys 2012]] and [[De Neys 2023]] then complicate a simple reading of that story. They suggest that biased responders may still register conflict and show [[Logical intuitions]], and that [[Fast and slow thinking]] should not be modeled as a crude contrast between an illogical intuitive system and a fully corrective reflective system. This matters because it weakens the temptation to equate intuitive response with norm blindness. Rationality in behavioral economics is therefore not only a question of whether people get the right answer, but also of whether they detect that a tempting answer conflicts with a better one and of how cognition itself should be modeled.
+[[Wason 1968]] gives this architecture debate one of its classic task anchors. The [[Wason selection task]] makes the difference between a matching or confirming response and a falsification response visible in a very small experimental design. [[Cosmides and Tooby 2000]] then complicates the lesson by showing why the same task family can be read as evidence for specialized social-reasoning competence rather than only as failure of logic. [[Evans 2008]] and [[Evans and Stanovich 2013]] make clear that this debate is also about cognitive architecture. They supply a broad dual-process framework in which intuitive and reflective reasoning are treated as importantly different kinds of processing, with the later Evans-Stanovich paper sharpening the vocabulary into type 1 and type 2 processing. [[De Neys 2012]] and [[De Neys 2023]] then complicate a simple reading of that story. They suggest that biased responders may still register conflict and show [[Logical intuitions]], and that [[Fast and slow thinking]] should not be modeled as a crude contrast between an illogical intuitive system and a fully corrective reflective system. This matters because it weakens the temptation to equate intuitive response with norm blindness. Rationality in behavioral economics is therefore not only a question of whether people get the right answer, but also of whether they detect that a tempting answer conflicts with a better one and of how cognition itself should be modeled.
 
 ## Prospect theory and the move from anomaly to model
 
@@ -202,7 +218,7 @@ That move does not eliminate the classical benchmark. [[Expected utility theory]
 [[Ariely et al. 2006]] deepens this problem by moving from ordinary goods to experiences. The paper suggests that people may face [[Preference uncertainty]]: they may not have a settled sense of whether an experience is good or bad even after sampling it. That matters because it weakens a common fallback response to constructed-preference arguments, namely that experience will reveal the true underlying taste. In the current vault, the rationality problem is therefore not only that judgments can be biased or that values can be arbitrarily anchored. It is also that the preference being inferred may remain underdetermined for some domains of choice.
 
 [[DellaVigna 2009]] adds an important empirical step to this picture.
-The paper surveys field evidence showing that [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]] appear across domains such as finance, voting, labor supply, charitable giving, and consumer behavior.
+The paper surveys field evidence showing that preference-side mechanisms, [[Nonstandard beliefs]], and [[Nonstandard decision-making]] appear across domains such as finance, voting, labor supply, charitable giving, and consumer behavior.
 In the expanded vault, that means rationality disputes now connect directly to mechanisms such as [[Time inconsistency]], [[Overconfidence]], and [[Limited attention]], as well as to the institutional question of [[Strategic response to behavioral anomalies]].
 That matters because it shifts the debate from "are there lab anomalies?" to "how extensive are these deviations in real institutions and markets?"
 It also forces a further question: which mechanisms are field-robust enough to bear theoretical and policy weight, and which remain thinner or more context-bound?
@@ -221,7 +237,7 @@ This matters because it blocks a simple reading of behavioral economics as the s
 
 ## Rationality wars and benchmark pluralism
 
-[[Hortal 2025]], [[Gigerenzer 2024]], and [[Samuels et al. 2002]] make the meta-level issue explicit. [[Hortal 2025]] argues that disputes about rationality are often disputes across disciplines, methods, and epistemic aims. A single framework should not be allowed to dominate everywhere. [[Gigerenzer 2024]] adds a direct retrospective from one of the central participants in the debate and highlights how much of the conflict turned on benchmark choice and rhetorical framing. [[Samuels et al. 2002]] adds a deflationary point: some famous rationality conflicts look deeper than they are because different sides are evaluating different things by different standards.
+[[Kahneman and Tversky 1996]] and [[Gigerenzer 1996]] are the foundational exchange pieces here. They show the debate in its sharpest form: Kahneman and Tversky defend the reality of cognitive illusions and deny that benchmark-sensitive errors dissolve once tasks are reframed, while Gigerenzer replies that the main problem lies in narrow norms and vague heuristics rather than in any reluctance to face evidence. [[Hortal 2025]], [[Gigerenzer 2024]], [[Rich 2016]], and [[Samuels et al. 2002]] then make the meta-level issue explicit. [[Hortal 2025]] argues that disputes about rationality are often disputes across disciplines, methods, and epistemic aims. A single framework should not be allowed to dominate everywhere. [[Gigerenzer 2024]] adds a direct retrospective from one of the central participants in the debate and highlights how much of the conflict turned on benchmark choice and rhetorical framing. [[Rich 2016]] adds a more programmatic way of handling that conflict. Her claim is that axiomatic and ecological rationality should be compared partly by the evaluative jobs they are meant to do. For the purpose of improving agents, each approach has a characteristic cost-benefit profile, and a hybrid that uses axiomatic criteria to evaluate candidate processes may sometimes be better than either pure framework. [[Samuels et al. 2002]] adds a deflationary point: some famous rationality conflicts look deeper than they are because different sides are evaluating different things by different standards.
 
 [[Mercier and Sperber 2011]] adds a different kind of challenge. The paper suggests that reasoning should not first be understood as a neutral device for solitary truth-seeking, but as an argumentative faculty for producing and evaluating reasons in social settings. The commentaries in the same exchange make the challenge especially useful for the current vault. [[Wim De Neys]] argues that there is still evidence for nonargumentative conflict detection and norm sensitivity. [[Jonathan St. B. T. Evans]] argues that reasoning may also have been co-opted for private thought and prospective evaluation. Weber and Johnson suggest that internal query processes can look like argument turned inward. Mercier and Sperber's reply keeps the primary-function claim in place, but the exchange makes clear that the rationality debate is partly about function, not just standard.
 

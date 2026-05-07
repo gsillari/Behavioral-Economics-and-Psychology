@@ -11,7 +11,7 @@ updated_on: 2026-04-15
 related_pages:
   - [[Bernheim 2025]]
   - [[Behavioral public policy]]
-  - [[Nonstandard preferences]]
+  - [[Preference]]
   - [[Constructed preferences]]
   - [[Preference uncertainty]]
   - [[Behavioral law and economics]]
@@ -28,11 +28,11 @@ In the current vault, he matters less as the source of many separate leaf concep
 
 ## Why it matters here
 
-Bernheim matters here because [[Bernheim 2025]] gives the vault a clear set of guardrails for thinking about mistakes, welfare, and intervention. It is especially important for [[Behavioral public policy]], but it also bears on [[Nonstandard preferences]], [[Constructed preferences]], and [[Preference uncertainty]] because it resists the move from unstable choice to analyst-certified welfare correction.
+Bernheim matters here because [[Bernheim 2025]] gives the vault a clear set of guardrails for thinking about mistakes, welfare, and intervention. It is especially important for [[Behavioral public policy]], but it also bears on [[Preference]], [[Constructed preferences]], and [[Preference uncertainty]] because it resists the move from unstable choice to analyst-certified welfare correction.
 
 ## Key relationships
 
-The tightest links are to [[Behavioral public policy]], [[Nonstandard preferences]], [[Constructed preferences]], [[Preference uncertainty]], and [[Behavioral law and economics]].
+The tightest links are to [[Behavioral public policy]], [[Preference]], [[Constructed preferences]], [[Preference uncertainty]], and [[Behavioral law and economics]].
 
 ## Related sources
 

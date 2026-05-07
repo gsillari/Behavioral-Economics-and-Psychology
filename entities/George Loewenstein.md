@@ -9,6 +9,7 @@ tags:
   - behavioral-economics
 updated_on: 2026-04-16
 related_pages:
+  - [[Ashraf et al. 2005]]
   - [[Loewenstein 2007]]
   - [[Loewenstein and Chater 2017]]
   - [[Chater and Loewenstein 2023]]
@@ -46,6 +47,7 @@ His work shows how choice is shaped not only by beliefs and incentives but also 
 ## Why it matters here
 
 Loewenstein matters here because he is one of the authors who made behavioral economics thicker than a catalog of judgment errors. In the current vault, [[Loewenstein 2007]] brings together several of his strongest lines of work: the rehabilitation of psychological explanation in intertemporal choice, the direct modeling of [[Projection bias]], the formal reconstruction of temporal anomalies in [[Loewenstein and Prelec 2007 - Anomalies in Intertemporal Choice - Evidence and an Interpretation (in Loewenstein 2007, ch. 15)]], the bargaining branch in [[Self-serving bias]], the hot-state account in [[Visceral influences on behavior]], and the affective risk branch in [[Risk as feelings]]. Those contributions make him important not only for empathy gaps but also for [[Time inconsistency]], [[Preference reversals]], [[Emotions in decision-making]], and the broader question of how economics should understand motivation.
+[[Ashraf et al. 2005]] adds a historical complement to that branch by reading [[Adam Smith]]'s *Theory of Moral Sentiments* as an early psychologically rich account of self-command, sympathy, fairness, adaptation, and mispredicted happiness.
 
 The newer policy-facing Loewenstein branch in the vault shows a different side of the same career. [[Loewenstein and Chater 2017]] argues that the public-policy uptake of behavioral economics has become too tightly identified with nudges, even though the real intervention space is much wider. [[Chater and Loewenstein 2023]] pushes further by arguing that behavioral public policy has often focused too heavily on individual-level fixes rather than systemic reform, now tracked under [[I-frame and S-frame]]. That later work matters because it makes Loewenstein not only an architect of behavioral economics, but also one of its most important internal critics in the policy branch.
 

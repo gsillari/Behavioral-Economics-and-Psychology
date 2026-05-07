@@ -6,9 +6,11 @@ tags:
   - behavioral-economics
   - reasoning
   - philosophy
-updated_on: 2026-04-06
-source_count: 1
+updated_on: 2026-04-27
+source_count: 2
 related_pages:
+  - [[Wason 1968]]
+  - [[Wason selection task]]
   - [[De Neys 2012]]
   - [[Fast and slow thinking]]
   - [[Heuristics and Biases]]
@@ -24,6 +26,8 @@ related_pages:
 
 [[Logical intuitions]] are intuitive sensitivities to logical or normative conflict in reasoning tasks. In the current vault, the anchor source is [[De Neys 2012]], which argues that people can often detect that a heuristic response conflicts with a better answer even when they fail to override the heuristic response.
 
+[[Wason 1968]] is now useful as the older background case. The [[Wason selection task]] shows how subjects can fail to select the falsifying not-Q case even after prompts that seem designed to make falsification salient. Later work on logical intuitions asks a more refined question: are subjects wholly blind to the logical conflict, or do they register some conflict while still giving the wrong response?
+
 ## Key distinctions
 
 This concept differs from the simple claim that intuition is always heuristic and error-prone. It also differs from full reflective reasoning, where the correct norm is explicitly applied and the tempting answer is successfully overridden. Logical intuitions mark an intermediate case: the agent may register conflict without fully resolving it.
@@ -38,7 +42,7 @@ This concept matters because judgments that look irrational from the outside may
 
 ## Related pages
 
-The anchor source is [[De Neys 2012]]. The closest neighboring pages are [[Fast and slow thinking]], [[Heuristics and Biases]], and [[Rationality wars]]. The broader topical home is [[Behavioral Economics]].
+The anchor source is [[De Neys 2012]], with [[Wason 1968]] as the older selection-task background. The closest neighboring pages are [[Wason selection task]], [[Fast and slow thinking]], [[Heuristics and Biases]], and [[Rationality wars]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

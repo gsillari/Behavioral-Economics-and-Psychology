@@ -6,21 +6,31 @@ tags:
   - probability
   - philosophy
   - decision-theory
-updated_on: 2026-04-19
-source_count: 7
+updated_on: 2026-04-25
+source_count: 13
 related_pages:
+  - [[Ajzen 1977]]
+  - [[Bar-Hillel 1980]]
+  - [[Fischhoff and Bar-Hillel 1984]]
   - [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]]
   - [[de Finetti 1937]]
+  - [[Savage 1954]]
+  - [[Savage 1954 - Chapter 02 - Preliminary Considerations on Decision in the Face of Uncertainty]]
+  - [[Savage 1954 - Chapter 03 - Personal Probability]]
+  - [[Savage 1954 - Chapter 04 - Critical Comments on Personal Probability]]
   - [[Ellsberg 1961]]
   - [[Kahneman et al. 1982]]
   - [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]]
   - [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]]
   - [[Kahneman and Tversky 1982 - On the Study of Statistical Intuitions (in Kahneman et al. 1982, ch. 34)]]
   - [[Kahneman and Tversky 1982 - Variants of Uncertainty (in Kahneman et al. 1982, ch. 35)]]
+  - [[Calibration]]
+  - [[Subjective expected utility theory]]
   - [[Expected utility theory]]
   - [[Ambiguity aversion]]
   - [[Nonstandard beliefs]]
   - [[Bruno de Finetti]]
+  - [[Leonard J. Savage]]
   - [[Daniel Ellsberg]]
   - [[Ward Edwards]]
   - [[Behavioral Economics]]
@@ -31,28 +41,37 @@ related_pages:
 
 ## Core idea
 
-[[Subjective probability]] is the idea that probabilities represent an agent's degrees of belief rather than only objective frequencies in the world. In the current vault, the anchor benchmark source is [[de Finetti 1937]], which argues that uncertain beliefs can be subjective while still being constrained by coherence, while [[Ellsberg 1961]] adds a major challenge by showing that many agents resist behaving as if all uncertainty can be captured by a single sharp personal probability assignment.
+[[Subjective probability]] is the idea that probabilities represent an agent's degrees of belief rather than only objective frequencies in the world. In the current vault, the benchmark should now be read in two layers. [[de Finetti 1937]] gives the deepest coherence-based background, while [[Savage 1954]] turns that background into part of a larger theory of acts and decisions under uncertainty. That second move matters because subjective probability is not only a theory of credence. It is also one of the pillars of [[Subjective expected utility theory]].
 
 ## Key distinctions
 
-This concept differs from objective-frequency views of probability because it starts from the agent's expectations rather than from long-run event regularities alone. It also differs from later behavioral work on [[Nonstandard beliefs]], which studies the ways actual beliefs depart from ideal benchmarks. [[Ellsberg 1961]] sharpens the distinction by showing that even when subjective probabilities are available in principle, real agents may still be uneasy about ambiguous cases in which probabilities are unknown or poorly specified. In the current vault, subjective probability therefore belongs to the formal benchmark side of the story, but it is now paired with an explicit challenge from [[Ambiguity aversion]].
+The first distinction is between coherence and [[Calibration|calibration]]. Coherence is an internal requirement: an agent's credences should fit together in a way that avoids sure-loss combinations of bets, which is the de Finetti point. Calibration is an external requirement: when someone says "about 70 percent" many times, roughly 70 percent of those events should happen, which is the Lichtenstein-style empirical benchmark. A person can therefore be coherent without being well calibrated, and can look roughly calibrated in one domain while still violating coherence constraints in another.
 
-One helpful undergraduate-level distinction is between coherence and calibration. Coherence is an internal requirement: an agent's credences should fit together in a way that avoids sure-loss combinations of bets, which is the de Finetti point. Calibration is an external requirement: when someone says "about 70 percent" many times, roughly 70 percent of those events should happen, which is the Lichtenstein-style empirical benchmark. A person can therefore be coherent without being well calibrated, and can look roughly calibrated in one domain while still violating coherence constraints in another.
+The second distinction is between de Finetti and Savage. [[de Finetti 1937]] shows that personal probabilities can still be rationally constrained. [[Savage 1954 - Chapter 02 - Preliminary Considerations on Decision in the Face of Uncertainty]], [[Savage 1954 - Chapter 03 - Personal Probability]], and [[Savage 1954 - Chapter 04 - Critical Comments on Personal Probability]] show how those personal probabilities are embedded in a theory of acts, conditioning, and decision under uncertainty. That is why the current vault should no longer treat Savage as a vague afterthought to the page.
+
+The third distinction is between ordinary subjective probability and the stronger decision-ready benchmark used in classical uncertainty theory. In the current vault, that stronger benchmark is now collected under [[Subjective expected utility theory]]. The issue is no longer only whether beliefs can be personal. It is whether uncertain acts can be evaluated as if one coherent personal probability function were available for choice.
 
 ## Evidence and debate
 
-[[de Finetti 1937]] argues that subjective beliefs are legitimate inputs to probabilistic reasoning so long as they satisfy coherence constraints. [[Ellsberg 1961]] then pressures that benchmark by arguing that many choices under uncertainty reveal a stable distinction between measurable risk and ambiguity, captured in the vault by [[Ambiguity aversion]]. [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] helps tighten that distinction by explicitly separating risk from uncertainty and from deeper forms of unawareness. [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]] adds an important later layer by showing that subjective probabilities can also be evaluated empirically in terms of calibration, not only formally in terms of coherence. [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]] adds a different benchmark pressure by showing that people often update too little relative to Bayes's theorem even when they do move in the right direction. [[Kahneman and Tversky 1982 - On the Study of Statistical Intuitions (in Kahneman et al. 1982, ch. 34)]] then makes the methodological stakes explicit by defending error-based comparison with probabilistic norms while warning against both overstrict and overcharitable interpretations. [[Kahneman and Tversky 1982 - Variants of Uncertainty (in Kahneman et al. 1982, ch. 35)]] finally broadens the picture by arguing that psychologically lived uncertainty may not always fit a single one-dimensional probability scale. That makes the page important for later debates about rationality because many behavioral findings in judgment under uncertainty implicitly assume some standard of good probabilistic judgment.
+[[de Finetti 1937]] is still the deepest benchmark source because it shows that probabilistic belief can be personal without becoming arbitrary. [[Savage 1954]] then matters because it embeds that benchmark in a theory of decision. Chapter 3 develops qualitative and quantitative personal probability, while Chapters 2 and 4 connect it to acts, conditioning, and criticism of the personalistic view.
 
-Ellsberg's importance is not only that people choose cautiously in ambiguous urn problems. The deeper pressure is that his examples make one sharp personal probability assignment look less like an obvious rational requirement and more like a substantive idealization. Once that happens, subjective probability can no longer be treated as a frictionless bridge from uncertainty to choice. The debate is whether coherence and calibration conditions provide only thin formal benchmarks, whether ambiguity and variants of uncertainty reveal a real limitation in the benchmark, or whether agents should still be required to form precise beliefs for choice.
+[[Ellsberg 1961]] then pressures that benchmark in a way the current vault should now describe more precisely. The issue is not merely that people make mistakes with probabilities. It is that many choices under uncertainty resist the idea that one precise personal probability function is always available and appropriate for decision. In the vault, that challenge is collected under [[Ambiguity aversion]] and connected to [[Subjective expected utility theory]] rather than left as a floating criticism of "Bayesianism" in general.
+
+[[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] helps tighten the distinction between risk, uncertainty, and unawareness. [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]] adds the empirical benchmark of [[Calibration]]. [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]] adds a different benchmark pressure by showing systematic under-updating relative to Bayes's theorem. [[Ajzen 1977]], [[Bar-Hillel 1980]], and [[Fischhoff and Bar-Hillel 1984]] add the base-rate branch: they show that failures of Bayesian integration depend partly on whether prior probabilities are perceived as causal, relevant, specific, or needed because individuating evidence is weak. [[Kahneman and Tversky 1982 - On the Study of Statistical Intuitions (in Kahneman et al. 1982, ch. 34)]] and [[Kahneman and Tversky 1982 - Variants of Uncertainty (in Kahneman et al. 1982, ch. 35)]] then make explicit that probabilistic benchmarks can be both illuminating and contestable.
 
 ## Practical or policy relevance
 
-This concept matters because policy, forecasting, and decision-making under uncertainty always involve probabilities, whether explicitly or implicitly. If probabilities can be subjective but rationally constrained, institutions need to think about how expert judgment, risk communication, and public forecasting should be evaluated. [[Ellsberg 1961]] shows that this is not only a technical issue: institutions often confront ambiguous cases where probabilities are unknown, contested, or politically charged. [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]] adds that even when probabilities are well specified, people may revise them too weakly in light of evidence. [[Kahneman and Tversky 1982 - Variants of Uncertainty (in Kahneman et al. 1982, ch. 35)]] adds that institutions may also face kinds of uncertainty that are psychologically richer than explicit probability judgment alone. It also matters for PPE because later behavioral findings often look like violations of exactly this kind of benchmark, while ambiguity-sensitive behavior may look less like simple error and more like a challenge to the benchmark itself.
+This concept matters because institutions regularly rely on subjective probabilities even when they do not name them. Forecasting, expert judgment, risk communication, and policy evaluation all assume that uncertainty can be represented somehow. The current vault should now distinguish between two questions:
+
+- can beliefs be personal and still be rationally constrained?
+- can uncertain choice always proceed as if one precise personal probability were available for action?
+
+The first question is where [[de Finetti 1937]] is strongest. The second is where [[Savage 1954]] matters most, and where [[Ellsberg 1961]] raises the sharpest challenge.
 
 ## Related pages
 
-The anchor benchmark source is [[de Finetti 1937]], the main challenge source is [[Ellsberg 1961]], the main calibration bridge is [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]], the main updating benchmark is [[Edwards 1982 - Conservatism in Human Information Processing (in Kahneman et al. 1982, ch. 25)]], and the main conceptual postscript sources are [[Kahneman and Tversky 1982 - On the Study of Statistical Intuitions (in Kahneman et al. 1982, ch. 34)]] and [[Kahneman and Tversky 1982 - Variants of Uncertainty (in Kahneman et al. 1982, ch. 35)]]. The closest neighboring pages are [[Expected utility theory]], [[Ambiguity aversion]], [[Nonstandard beliefs]], and [[What Behavioral Economics Thinks Rationality Is]]. The main entity pages are [[Bruno de Finetti]], [[Daniel Ellsberg]], and [[Ward Edwards]], and the broader topical home is [[Behavioral Economics]].
+The deepest benchmark source is [[de Finetti 1937]]. The main decision-theoretic expansion is [[Savage 1954]], especially Chapters 2-4. The main challenge source is [[Ellsberg 1961]]. The closest neighboring concept pages are [[Subjective expected utility theory]], [[Expected utility theory]], [[Calibration]], [[Ambiguity aversion]], [[Base-rate neglect]], and [[Nonstandard beliefs]]. The main entity pages are [[Bruno de Finetti]], [[Leonard J. Savage]], [[Daniel Ellsberg]], and [[Ward Edwards]].
 
 ## Open questions
 
-How should subjective probability relate to behavioral evidence about misbelief, distorted judgment, and ambiguity-sensitive choice? Is coherence enough for rational belief, or only a minimal starting point? And should the vault eventually connect this page to later Bayesian and Savage-style decision-theory sources and their critics?
+How demanding should the benchmark for rational belief really be: coherence alone, calibration as well, or decision-ready precision? And when agents resist precise subjective probabilities, should the vault treat that resistance as error, caution, or a signal that the benchmark itself is too strong?

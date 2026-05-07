@@ -5,13 +5,14 @@ status: active
 tags:
   - behavioral-economics
   - decision-theory
-updated_on: 2026-04-07
-source_count: 4
+updated_on: 2026-04-24
+source_count: 5
 related_pages:
   - [[Prospect Theory]]
   - [[Loss aversion]]
   - [[Framing effects]]
   - [[Horowitz and McConnell 2002]]
+  - [[Achtypi et al. 2021]]
   - [[Hossain and List 2009]]
   - [[WTA-WTP asymmetry]]
   - [[Endowment effect]]
@@ -72,7 +73,7 @@ The next branch is [[Framing effects]]. If choice depends on the relevant benchm
 
 ### 3. Valuation, ownership, and entitlement
 
-The valuation branch shows the concept at work outside classic risky-choice problems. [[Horowitz and McConnell 2002]] is especially important here because it ties reference dependence to [[WTA-WTP asymmetry]] once ownership or entitlement creates a salient benchmark. That same logic also feeds into the [[Endowment effect]], where giving something up is coded relative to possession rather than to neutral final-state comparison.
+The valuation branch shows the concept at work outside classic risky-choice problems. [[Horowitz and McConnell 2002]] is especially important here because it ties reference dependence to [[WTA-WTP asymmetry]] once ownership or entitlement creates a salient benchmark. That same logic also feeds into the [[Endowment effect]], where giving something up is coded relative to possession rather than to neutral final-state comparison. [[Achtypi et al. 2021]] adds a second kind of reference standard: perceived market price. In that account, sellers ask for something close to what they believe the product should cost, while buyers offer less because they want a favorable deal relative to market worth.
 
 ### 4. Incentives and organizational design
 
@@ -98,7 +99,7 @@ This is one reason the concept has to remain visible in the PPE framing of the v
 
 ## Related pages
 
-The core connections are [[Prospect Theory]], [[Loss aversion]], [[Framing effects]], [[Expected utility theory]], and [[Kahneman and Tversky 1979]]. [[Horowitz and McConnell 2002]] and the pages [[WTA-WTP asymmetry]] and [[Endowment effect]] extend the concept into valuation. [[Hossain and List 2009]] and [[Loss-framed incentives]] extend it into organizational design. [[DellaVigna 2009]] and [[Field Evidence in Behavioral Economics]] extend the page into broader applied settings. The larger domain page is [[Behavioral Economics]].
+The core connections are [[Prospect Theory]], [[Loss aversion]], [[Framing effects]], [[Expected utility theory]], and [[Kahneman and Tversky 1979]]. [[Horowitz and McConnell 2002]], [[Achtypi et al. 2021]], and the pages [[WTA-WTP asymmetry]] and [[Endowment effect]] extend the concept into valuation. [[Hossain and List 2009]] and [[Loss-framed incentives]] extend it into organizational design. [[DellaVigna 2009]] and [[Field Evidence in Behavioral Economics]] extend the page into broader applied settings. The larger domain page is [[Behavioral Economics]].
 
 ## Open questions
 

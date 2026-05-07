@@ -17,7 +17,6 @@ updated_on: 2026-04-08
 related_pages:
   - [[Loewenstein 2007]]
   - [[Time inconsistency]]
-  - [[Nonstandard preferences]]
   - [[Prospect Theory]]
   - [[Self-Control and Dynamic Inconsistency]]
   - [[George Loewenstein]]
@@ -49,7 +48,7 @@ For PPE students, this chapter matters because it challenges one of the cleanest
 
 ## Links into the wiki
 
-This unit should mainly strengthen [[Time inconsistency]] and [[Nonstandard preferences]], while also sitting near [[Prospect Theory]] as one of the clearest cases in which prospect-theoretic logic travels beyond risky choice proper.
+This unit should mainly strengthen [[Time inconsistency]] and [[Preference]], while also sitting near [[Prospect Theory]] as one of the clearest cases in which prospect-theoretic logic travels beyond risky choice proper.
 
 ## Open questions
 

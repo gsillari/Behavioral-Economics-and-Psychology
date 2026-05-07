@@ -6,16 +6,24 @@ tags:
   - behavioral-economics
   - consumer-choice
   - valuation
-updated_on: 2026-04-07
-source_count: 1
+updated_on: 2026-05-01
+source_count: 4
 related_pages:
+  - [[Rabin and Thaler 2001]]
   - [[Thaler 1985]]
+  - [[Achtypi et al. 2021]]
+  - [[Camerer 2003 - Chapter 07 - Coordination]]
   - [[Richard H. Thaler]]
   - [[Prospect Theory]]
   - [[Nonstandard decision-making]]
   - [[WTA-WTP asymmetry]]
   - [[Constructed preferences]]
   - [[Behavioral public policy]]
+  - [[Risk attitudes]]
+  - [[Calibration]]
+  - [[Loss aversion]]
+  - [[Equilibrium selection]]
+  - [[Coordination games]]
   - [[Behavioral Economics]]
 ---
 
@@ -35,6 +43,12 @@ It also differs from [[Constructed preferences]]. Constructed preferences is the
 
 [[Thaler 1985]] is the anchor source in the current vault. The paper argues that people prefer certain ways of combining or separating gains and losses because the experienced value of an outcome depends on its mental representation. The paper also introduces transaction utility, showing that people care not only about what they acquire but about whether the terms of exchange feel like a good deal relative to a reference standard.
 
+[[Achtypi et al. 2021]] is not a mental-accounting source in the narrow sense, but it usefully extends the transaction-utility intuition into the endowment-effect branch. Buyers and sellers appear to evaluate not only the object itself, but also whether the transaction is acceptable relative to perceived market price.
+
+[[Rabin and Thaler 2001]] adds the risk-aversion branch. The paper argues that ordinary small-stakes risk aversion is better explained by [[Loss aversion]] plus mental accounting than by diminishing marginal utility of lifetime wealth. The mental-accounting part is crucial because it explains why people evaluate small gambles one at a time instead of integrating them into total lifetime wealth or into a broad portfolio of risks.
+
+[[Camerer 2003 - Chapter 07 - Coordination]] adds a strategic-interaction application. In preplay auction and entry-fee coordination experiments, paying a fee can change later play because low coordination is coded as a loss to avoid. Camerer treats this as evidence that loss avoidance and mental accounting can become [[Equilibrium selection|equilibrium-selection]] principles, not only consumer-choice anomalies.
+
 This matters because it gives a more general structure to a wide range of behavioral findings. Pricing anomalies, budgeting behavior, valuation asymmetries, and responses to incentives can all depend on which account a person believes is being affected. In the current vault, that makes mental accounting an important bridge between [[Prospect Theory]], [[WTA-WTP asymmetry]], [[Constructed preferences]], and later policy-facing questions.
 
 Debate concerns scope and interpretation. Is mental accounting a general architecture of consumer behavior, a family of framing effects, or a bounded-rational shortcut for managing complexity? The concept is powerful, but it can become too elastic if it is used to redescribe every context effect without specifying the account structure at work.
@@ -47,7 +61,7 @@ For PPE students, this concept is especially useful because it links micro-level
 
 ## Related pages
 
-The anchor source is [[Thaler 1985]]. The closest neighboring pages are [[Prospect Theory]], [[Nonstandard decision-making]], [[WTA-WTP asymmetry]], [[Constructed preferences]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the main entity page is [[Richard H. Thaler]].
+The anchor source is [[Thaler 1985]], with [[Rabin and Thaler 2001]] as the main risk-aversion extension, [[Achtypi et al. 2021]] as a useful neighboring application through good-deal reasoning, and [[Camerer 2003 - Chapter 07 - Coordination]] as the strategic-interaction application. The closest neighboring pages are [[Prospect Theory]], [[Loss aversion]], [[Risk attitudes]], [[Calibration]], [[Equilibrium selection]], [[Coordination games]], [[Nonstandard decision-making]], [[WTA-WTP asymmetry]], [[Constructed preferences]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the main entity page is [[Richard H. Thaler]].
 
 ## Open questions
 

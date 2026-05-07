@@ -1,0 +1,163 @@
+{
+  "center": "Focal points",
+  "nodes": [
+    {
+      "id": "Focal points",
+      "type": "concept",
+      "central": true,
+      "url": "../../concepts/Focal%20points"
+    },
+    {
+      "id": "Coordination games",
+      "type": "concept",
+      "url": "../../concepts/Coordination%20games"
+    },
+    {
+      "id": "Equilibrium selection",
+      "type": "concept",
+      "url": "../../concepts/Equilibrium%20selection"
+    },
+    {
+      "id": "Convention",
+      "type": "concept",
+      "url": "../../concepts/Convention"
+    },
+    {
+      "id": "Common knowledge",
+      "type": "concept",
+      "url": "../../concepts/Common%20knowledge"
+    },
+    {
+      "id": "Game theory",
+      "type": "concept",
+      "url": "../../concepts/Game%20theory"
+    },
+    {
+      "id": "Behavioral game theory",
+      "type": "concept",
+      "url": "../../concepts/Behavioral%20game%20theory"
+    },
+    {
+      "id": "Experimental games",
+      "type": "concept",
+      "url": "../../concepts/Experimental%20games"
+    },
+    {
+      "id": "Mental accounting",
+      "type": "concept",
+      "url": "../../concepts/Mental%20accounting"
+    },
+    {
+      "id": "Schelling 1960",
+      "type": "source",
+      "url": "../../sources/Schelling%201960"
+    },
+    {
+      "id": "Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision",
+      "type": "unit",
+      "url": "../../units/Schelling%201960%20-%20Chapter%2004%20-%20Toward%20a%20Theory%20of%20Interdependent%20Decision"
+    },
+    {
+      "id": "Lewis 1969",
+      "type": "source",
+      "url": "../../sources/Lewis%201969"
+    },
+    {
+      "id": "Camerer 2003",
+      "type": "source",
+      "url": "../../sources/Camerer%202003"
+    },
+    {
+      "id": "Camerer 2003 - Chapter 07 - Coordination",
+      "type": "unit",
+      "url": "../../units/Camerer%202003%20-%20Chapter%2007%20-%20Coordination"
+    },
+    {
+      "id": "Coordination, Convention, and Evolutionary Game Theory",
+      "type": "topic",
+      "url": "../../topics/subtopics/Coordination,%20Convention,%20and%20Evolutionary%20Game%20Theory"
+    },
+    {
+      "id": "Social Behavior, Law, and Public Policy",
+      "type": "topic",
+      "url": "../../topics/Social%20Behavior,%20Law,%20and%20Public%20Policy"
+    }
+  ],
+  "links": [
+    {
+      "source": "Focal points",
+      "target": "Coordination games",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Equilibrium selection",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Convention",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Common knowledge",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Game theory",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Behavioral game theory",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Schelling 1960",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Schelling 1960 - Chapter 04 - Toward a Theory of Interdependent Decision",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Lewis 1969",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Camerer 2003",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Focal points",
+      "target": "Camerer 2003 - Chapter 07 - Coordination",
+      "relation": "outgoing"
+    },
+    {
+      "source": "Experimental games",
+      "target": "Focal points",
+      "relation": "incoming"
+    },
+    {
+      "source": "Mental accounting",
+      "target": "Focal points",
+      "relation": "incoming"
+    },
+    {
+      "source": "Coordination, Convention, and Evolutionary Game Theory",
+      "target": "Focal points",
+      "relation": "incoming"
+    },
+    {
+      "source": "Social Behavior, Law, and Public Policy",
+      "target": "Focal points",
+      "relation": "incoming"
+    }
+  ]
+}

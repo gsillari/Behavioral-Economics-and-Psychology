@@ -16,11 +16,11 @@ tags:
 updated_on: 2026-04-19
 related_pages:
   - [[Heilmann and Reiss 2022]]
+  - [[Preference]]
   - [[Revealed preference theory]]
   - [[Ordinal utility theory]]
   - [[Behaviorism]]
   - [[Constructed preferences]]
-  - [[Nonstandard preferences]]
   - [[Preference uncertainty]]
 ---
 
@@ -42,11 +42,11 @@ The fourth claim is that later behavioral criticism of welfare inference should 
 
 ## Why it matters for the vault
 
-This chapter matters because it helps the preference branch stop looking like a dispute only about anomalies. It shows that the concept of preference itself has always carried unresolved methodological choices.
+This chapter matters because it helps the preference branch stop looking like a dispute only about anomalies. It shows that the concept of preference itself has always carried unresolved methodological choices. It is now the main chapter-level anchor for [[Preference]].
 
 ## Links into the wiki
 
-This unit should primarily strengthen [[Revealed preference theory]], [[Ordinal utility theory]], [[Behaviorism]], [[Constructed preferences]], [[Nonstandard preferences]], and [[Preference uncertainty]].
+This unit should primarily strengthen [[Revealed preference theory]], [[Ordinal utility theory]], [[Behaviorism]], [[Constructed preferences]], [[Preference]], and [[Preference uncertainty]].
 
 ## Bibliographic reference
 

@@ -14,6 +14,7 @@ related_pages:
   - [[Hellman 2020]]
   - [[Binns 2018]]
   - [[Hedden 2021]]
+  - [[Calibration]]
   - [[Algorithmic bias]]
   - [[Predictive optimization]]
   - [[Behavioral public policy]]
@@ -25,7 +26,7 @@ related_pages:
 
 ## Core idea
 
-[[Statistical fairness criteria]] are formal conditions used to evaluate whether algorithmic predictions or classifications treat groups fairly. In the current vault, this concept is anchored by [[Kleinberg et al. 2016]], [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]]. Together they show that fairness metrics are neither interchangeable nor purely technical. They encode different ideas about what should matter: calibration, error parity, equalized opportunity, or the fair distribution of burdens.
+[[Statistical fairness criteria]] are formal conditions used to evaluate whether algorithmic predictions or classifications treat groups fairly. In the current vault, this concept is anchored by [[Kleinberg et al. 2016]], [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]]. Together they show that fairness metrics are neither interchangeable nor purely technical. They encode different ideas about what should matter: [[Calibration]], error parity, equalized opportunity, or the fair distribution of burdens.
 
 ## Key distinctions
 
@@ -33,7 +34,7 @@ This concept differs from [[Algorithmic bias]], which is the broader problem of 
 
 It also differs from [[Predictive optimization]]. Predictive optimization is a model of institutional decision-making built around predictions. Statistical fairness criteria are among the standards used to evaluate such systems, but they do not settle whether predictive optimization is legitimate in the first place.
 
-For teaching purposes, four criteria are especially useful to keep separate. Calibration means that a given score should have the same empirical meaning across groups: for example, a risk score of 7 should correspond to roughly the same observed risk in each group. False-positive parity means groups should not face different rates of being wrongly flagged as high risk. False-negative parity means groups should not face different rates of wrongly being treated as low risk. Equalized odds combines both error-rate constraints, while equal opportunity usually focuses only on parity in the true-positive side of the decision. These are not interchangeable desiderata; they express different ideas about what it would mean for an algorithmic decision rule to be fair.
+For teaching purposes, four criteria are especially useful to keep separate. [[Calibration]] means that a given score should have the same empirical meaning across groups: for example, a risk score of 7 should correspond to roughly the same observed risk in each group. False-positive parity means groups should not face different rates of being wrongly flagged as high risk. False-negative parity means groups should not face different rates of wrongly being treated as low risk. Equalized odds combines both error-rate constraints, while equal opportunity usually focuses only on parity in the true-positive side of the decision. These are not interchangeable desiderata; they express different ideas about what it would mean for an algorithmic decision rule to be fair.
 
 ## Evidence and debate
 
@@ -47,7 +48,7 @@ This concept matters because institutions often ask whether an algorithm is fair
 
 ## Related pages
 
-The anchor sources are [[Kleinberg et al. 2016]], [[Chouldechova and Roth 2020]], [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]]. The closest neighboring pages are [[Algorithmic bias]], [[Predictive optimization]], [[Behavioral public policy]], and [[Behavioral law and economics]].
+The anchor sources are [[Kleinberg et al. 2016]], [[Chouldechova and Roth 2020]], [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]]. The closest neighboring pages are [[Calibration]], [[Algorithmic bias]], [[Predictive optimization]], [[Behavioral public policy]], and [[Behavioral law and economics]].
 
 ## Open questions
 

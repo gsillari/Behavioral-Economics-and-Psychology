@@ -21,6 +21,8 @@ related_pages:
 
 # Ecological Rationality and Fast-and-Frugal Heuristics
 
+This is **Topic 6 of 7** in the wiki's main topic sequence. The full order is: [[Foundations and Rationality]] -> [[Judgment, Belief, and Inference]] -> [[Choice, Preference, and Decision Under Risk]] -> [[Time, Attention, and Choice Architecture]] -> [[Social Behavior, Law, and Public Policy]] -> [[Ecological Rationality and Fast-and-Frugal Heuristics]] -> [[AI, Algorithms, and New Frontiers]].
+
 ## Scope
 
 This topic gathers the fast-and-frugal side of the ecological-rationality branch of the vault: the idea that good reasoning should be evaluated by fit to environments rather than by one universal benchmark of formal coherence. In the current vault, this is mainly where the Gigerenzer side of the rationality debate becomes a structured alternative rather than just a criticism of heuristics-and-biases. After [[Dekker and Remic 2019]], the vault should not let this topic stand in for the whole ecological camp, because [[Vernon L. Smith]] uses ecological rationality differently at the institutional level.

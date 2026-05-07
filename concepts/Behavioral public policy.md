@@ -5,9 +5,10 @@ status: active
 tags:
   - behavioral-public-policy
   - policy
-updated_on: 2026-04-19
-source_count: 51
+updated_on: 2026-05-07
+source_count: 56
 related_pages:
+  - [[Rabin 1998]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Debiasing]]
   - [[Nudge]]
@@ -31,7 +32,9 @@ related_pages:
   - [[Fischhoff and Broomell 2020]]
   - [[Schnellenbach and Schubert 2015]]
   - [[Laibson and List 2015]]
+  - [[O'Donoghue and Rabin 1999]]
   - [[Ludwig et al. 2024]]
+  - [[Ludwig and Mullainathan 2021]]
   - [[Angwin et al. 2016]]
   - [[Kleinberg et al. 2016]]
   - [[Hellman 2020]]
@@ -55,6 +58,10 @@ related_pages:
   - [[Coase 1960]]
   - [[Coase theorem]]
   - [[Transaction costs]]
+  - [[Hardin 1968]]
+  - [[Ostrom 2008]]
+  - [[Tragedy of the commons]]
+  - [[Common-pool resources]]
   - [[Jolls et al. 1998]]
   - [[Slovic 1995]]
   - [[Slovic 1987]]
@@ -85,6 +92,9 @@ related_pages:
   - [[Behavioral political economy]]
   - [[Bounded rationality]]
   - [[Social preferences]]
+  - [[Fairness]]
+  - [[Reason-based choice]]
+  - [[Experienced utility]]
   - [[Constructed preferences]]
   - [[Mental accounting]]
   - [[Opportunity cost neglect]]
@@ -145,13 +155,17 @@ Fifth, [[Sugden 2018]] adds a stronger internal challenge to welfare-correction 
 
 [[Coase 1960]] provides the classical benchmark in the current vault. Policy should compare institutions in light of rights allocation and [[Transaction costs]], not assume that regulation is automatically superior to private adjustment. That benchmark remains important because behavioral policy should still be comparative and institutional rather than simply interventionist.
 
-[[Jolls et al. 1998]] is the key bridge source. It translates behavioral findings into law-and-policy language through the triad of [[Bounded rationality]], bounded willpower, and [[Social preferences]]. In the current vault, that self-control branch is gathered under [[Time inconsistency]]. The important move is not just that people make mistakes. It is that realistic policy analysis should no longer assume a fully attentive, fully self-controlled, fully self-interested chooser as its default model. [[Thaler and Sunstein 2021]] then gives that general move its most famous public-policy expression. The book's early units, especially the introduction and Chapters 4 and 5, turn the diagnosis of frailty into a practical language of choice architecture, low-cost steering, and context-sensitive intervention.
+[[Hardin 1968]] adds a different classical policy pressure point. The [[Tragedy of the commons]] is not primarily a bias story; it is a case where individually rational responses to an open-access structure can destroy a shared resource. That matters here because behavioral public policy should not collapse into persuasion or nudging. Some problems require changing the institutional game itself: rights, taxes, quotas, monitoring, sanctions, or other collectively legitimate constraints.
+
+[[Ostrom 2008]] adds the institutional-design lesson that makes this branch less blunt. [[Common-pool resources]] are not automatically open-access tragedies, and neither centralized control nor privatization is a universal cure. Users may sometimes create effective rules, boundaries, monitoring, and sanctions themselves. For behavioral public policy, this is a useful antidote to one-size-fits-all intervention: the same behavioral problem can call for different institutional arrangements depending on communication, trust, enforcement, local knowledge, and legitimacy.
+
+[[Rabin 1998]] gives the broad psychology-and-economics background for this move: policy analysis has to deal with richer preferences, biased beliefs, and choices that may be reason-dependent or welfare-mispredicting. [[Jolls et al. 1998]] is then the key legal-policy bridge source. It translates behavioral findings into law-and-policy language through the triad of [[Bounded rationality]], bounded willpower, and [[Social preferences]]. In the current vault, that self-control branch is gathered under [[Time inconsistency]], while the social branch now runs through [[Fairness]] as well as social preferences more generally. The important move is not just that people make mistakes. It is that realistic policy analysis should no longer assume a fully attentive, fully self-controlled, fully self-interested chooser as its default model. [[Thaler and Sunstein 2021]] then gives that general move its most famous public-policy expression. The book's early units, especially the introduction and Chapters 4 and 5, turn the diagnosis of frailty into a practical language of choice architecture, low-cost steering, and context-sensitive intervention.
 
 This bridge matters because it turns behavioral public policy into a redesign of public reasoning, not just an add-on to microeconomics.
 
 ## The First Problem: Diagnosis
 
-Behavioral policy begins with a diagnosis of the friction at issue. [[DellaVigna 2009]] and [[Madrian 2014]] are especially important here. They push the field away from a generic "people are biased" story and toward a mechanism-by-mechanism approach.
+Behavioral policy begins with a diagnosis of the friction at issue. [[DellaVigna 2009]], [[Madrian 2014]], and [[O'Donoghue and Rabin 1999]] are especially important here. They push the field away from a generic "people are biased" story and toward a mechanism-by-mechanism approach. O'Donoghue and Rabin are particularly useful for the self-control branch because they distinguish present bias from ordinary impatience, immediate-cost procrastination from immediate-reward preproperation, and sophisticated demand for commitment from naive overconfidence about future discipline.
 
 Different mechanisms call for different policy responses:
 
@@ -164,15 +178,15 @@ This is one reason the concept should not collapse into nudging. The field is pa
 
 ## The Second Problem: Welfare
 
-Behavioral policy also has to decide what counts as helping people. This is where the concept becomes philosophically difficult.
+Behavioral policy also has to decide what counts as helping people. This is where the concept becomes philosophically difficult, and in the current vault the welfare problem is best understood in three steps.
 
-[[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] show that preferences may be partly constructed in the elicitation process rather than simply waiting to be revealed. [[Ariely et al. 2006]] sharpens that point by showing that even experienced goods may remain subject to [[Preference uncertainty]]. [[Thaler 1985]] adds a more concrete behavioral mechanism: outcomes are coded in separate [[Mental accounting|mental accounts]], so economically equivalent policies can be experienced very differently. [[Frederick et al. 2009]] adds a narrower but important point: people often fail to represent displaced alternatives unless [[Opportunity cost neglect|opportunity costs]] are made salient. [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] helps name the larger issue more clearly: this is not only a problem for intervention design, but a problem for [[Behavioral welfare economics]] and for the old ideal of [[Consumer sovereignty]].
+The first step is the destabilization of revealed welfare. [[Slovic 1995]] and [[Lichtenstein and Slovic 2006]] show that preferences may be partly constructed in elicitation rather than simply waiting to be revealed. [[Rabin 1998]] adds two especially important mechanisms: [[Reason-based choice]], where context supplies or removes justifications, and [[Experienced utility]], where what people choose may diverge from how outcomes are lived or remembered. [[Ariely et al. 2006]] sharpens the construction point through [[Preference uncertainty]], where even experienced goods may fail to produce a settled ranking. [[O'Donoghue and Rabin 1999]] adds the temporal version of the same difficulty: a short-run choice may be an expression of preference, but it may also be a present-biased action that the same person would resist from a more distant standpoint. [[Thaler 1985]] adds a different mechanism through [[Mental accounting]], and [[Frederick et al. 2009]] adds another through [[Opportunity cost neglect]]. Taken together, these sources show why policy cannot simply read welfare off willingness to pay, default acceptance, or short-run choice.
 
-Taken together, these sources create a welfare problem for behavioral public policy. If choices and valuations are context-sensitive, then observed behavior does not automatically reveal what is best for the chooser. Policy cannot simply read welfare off willingness to pay, default acceptance, or short-run choice. [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] is useful here because it states the tension directly: once behavioral evidence destabilizes revealed preference, policy has to decide how much of [[Consumer sovereignty]] it can preserve. [[Bernheim 2025]] sharpens the point by arguing that this does not automatically license analysts to substitute their own view of the chooser's good. Preference instability may show a measurement or welfare-inference problem without yet proving that policy has identified a correctable mistake.
+The second step is the reconstructive response. [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] is especially useful here because it names the issue directly: once behavioral evidence destabilizes revealed preference, policy has to decide how much of [[Consumer sovereignty]] it can preserve and what should replace it where it fails. This is the problem space of [[Behavioral welfare economics]]. Many behavioral-policy arguments respond by trying to identify a better ordering than the observed one: long-run interests, more reflective judgments, preferences under full attention, or choices purged of error.
 
-[[Sugden 2018 - Chapter 04 - The Inner Rational Agent]] presses that worry further. The problem is not only that preferences are unstable. It is that behavioral welfare economics often tries to solve that instability by positing a deeper rational self whose interests policy can recover. Sugden's complaint is that this move is not a neutral reading of the evidence. It is a substantive normative reconstruction disguised as help. [[Sugden 2018 - Chapter 05 - Opportunity]] then offers a different response to the same welfare problem, now tracked under [[Opportunity criterion]]: institutions should be judged by the opportunities they create for mutually beneficial interaction rather than by whether they restore choosers to a theorized latent preference ordering.
+The third step is the guardrail-and-critique response. [[Bernheim 2025]] argues that instability in choice does not automatically license analysts to substitute their own view of the chooser's good. Preference instability may reveal a measurement problem without yet proving that policy has identified a correctable mistake. [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]] presses even harder by arguing that behavioral welfare economics often solves the welfare problem by inventing a deeper rational self whose preferences are treated as normatively authoritative. On his view, that move is not a neutral reading of the evidence but a substantive reconstruction disguised as help. [[Sugden 2018 - Chapter 05 - Opportunity]] then offers the cleanest rival benchmark in the current vault, now tracked under [[Opportunity criterion]]: institutions should be judged by the opportunities they create for mutually beneficial interaction rather than by whether they restore choosers to a theorized latent preference ordering.
 
-That problem is then qualified, not erased, by [[List 2003]] and [[List 2004]], which show that some entitlement-sensitive anomalies weaken with market experience. In the current vault, this matters as a warning against overgeneralization: behavioral welfare problems are real, but they are not uniform across domains or populations.
+[[List 2003]] and [[List 2004]] then qualify the whole debate without erasing it. Some entitlement-sensitive anomalies weaken with market experience, which is a reminder that welfare problems are real but not uniformly distributed across domains, populations, or institutional settings. That is why the welfare branch of behavioral public policy should not be narrated as a straight line from unstable choice to benevolent correction. It is better understood as a dispute over what, if anything, can legitimately replace revealed preference once revealed preference becomes behaviorally fragile.
 
 ## The Third Problem: Legitimacy
 
@@ -200,7 +214,7 @@ Behavioral policy cannot assume that only citizens are behaviorally fallible. In
 
 The newer debiasing cluster strengthens that point in a way the page previously lacked. [[Arkes 1991]] argues that some judgment errors are costs of otherwise adaptive systems, so correction should be matched to the kind of error rather than treated as a generic anti-bias program. [[Soll et al. 2015]] then gives the clearest modern framework by distinguishing interventions that modify the decision maker from those that modify the environment. [[Jolls and Sunstein 2006]] translates that framework into law and policy by showing how institutions can sometimes debias through procedural or substantive design rather than merely insulating outcomes from error. Taken together, these sources make [[Debiasing]] a real branch of behavioral public policy, not just a side remark in the heuristics literature.
 
-[[Kleinberg et al. 2018]] adds a sharper modern example from criminal justice. Machine learning may improve predictive decision-making relative to judges, but only if institutions decide which outcomes matter, how fairness enters the objective, and how to evaluate tools when the available data are themselves shaped by earlier discretionary judgments. [[Angwin et al. 2016]] adds the public warning that made those concerns politically salient: predictive tools used by courts may also be opaque, proprietary, and differentially burdensome across groups. [[Kleinberg et al. 2016]], [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] then show that even the language of fairness is internally contested, because different [[Statistical fairness criteria]] track different moral and institutional concerns. [[Obermeyer et al. 2019]] adds the [[Target variable problem]] by showing that policy can optimize a distorted proxy very effectively. [[Kleinberg et al. 2023]] adds a different but related warning from online platforms: even an altruistic system can make people worse off if it treats engagement as a transparent signal of welfare despite inconsistent preferences. The full paper makes that warning sharper by supplying an explicit behavioral model and structural conditions under which higher engagement reduces welfare. [[Kleinberg et al. 2024]] generalizes that concern through [[Inversion problem]]. [[Bar-Gill et al. 2023]] adds a different institutional lesson from consumer markets: algorithms can also become harmful by helping firms identify and exploit precisely the kinds of information and rationality deficits that behavioral policy often seeks to mitigate. [[Ludwig et al. 2024]] adds a broader policy-level gloss on the attraction of predictive systems, while [[Wang et al. 2024]] adds the strongest legitimacy warning by arguing that [[Predictive optimization]] itself may often fail on its own terms. In the current vault, that matters as a reason to take algorithmic public policy seriously, but not as a reason to ignore legitimacy, compliance, institutional resistance, or the distinction between [[Algorithmic bias]] and [[Algorithmic harm]].
+[[Kleinberg et al. 2018]] adds a sharper modern example from criminal justice. Machine learning may improve predictive decision-making relative to judges, but only if institutions decide which outcomes matter, how fairness enters the objective, and how to evaluate tools when the available data are themselves shaped by earlier discretionary judgments. [[Ludwig and Mullainathan 2021]] turns this into a broader institutional lesson: algorithms are fragile because humans choose the label, define the payoff, decide when to override the recommendation, procure the tool, and regulate its use. [[Angwin et al. 2016]] adds the public warning that made those concerns politically salient: predictive tools used by courts may also be opaque, proprietary, and differentially burdensome across groups. [[Kleinberg et al. 2016]], [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] then show that even the language of fairness is internally contested, because different [[Statistical fairness criteria]] track different moral and institutional concerns. [[Obermeyer et al. 2019]] adds the [[Target variable problem]] by showing that policy can optimize a distorted proxy very effectively. [[Kleinberg et al. 2023]] adds a different but related warning from online platforms: even an altruistic system can make people worse off if it treats engagement as a transparent signal of welfare despite inconsistent preferences. The full paper makes that warning sharper by supplying an explicit behavioral model and structural conditions under which higher engagement reduces welfare. [[Kleinberg et al. 2024]] generalizes that concern through [[Inversion problem]]. [[Bar-Gill et al. 2023]] adds a different institutional lesson from consumer markets: algorithms can also become harmful by helping firms identify and exploit precisely the kinds of information and rationality deficits that behavioral policy often seeks to mitigate. [[Ludwig et al. 2024]] adds a broader policy-level gloss on the attraction of predictive systems, while [[Wang et al. 2024]] adds the strongest legitimacy warning by arguing that [[Predictive optimization]] itself may often fail on its own terms. In the current vault, that matters as a reason to take algorithmic public policy seriously, but not as a reason to ignore legitimacy, compliance, institutional resistance, or the distinction between [[Algorithmic bias]] and [[Algorithmic harm]].
 
 [[Schnellenbach and Schubert 2015]] adds an important PPE caution: the same behavioral realism used to criticize citizens should also be applied to regulators, political actors, and institutional designers. That is why [[Behavioral political economy]] belongs next to this page rather than outside it.
 

@@ -20,7 +20,6 @@ related_pages:
   - [[Libertarian paternalism]]
   - [[Asymmetric paternalism]]
   - [[Constructed preferences]]
-  - [[Nonstandard preferences]]
   - [[Preference uncertainty]]
   - [[Robert Sugden]]
 ---
@@ -47,7 +46,7 @@ For PPE students, this chapter matters because it clarifies one of the deepest d
 
 ## Links into the wiki
 
-This unit mainly strengthens [[Behavioral public policy]], [[Libertarian paternalism]], [[Asymmetric paternalism]], [[Constructed preferences]], [[Nonstandard preferences]], and [[Preference uncertainty]].
+This unit mainly strengthens [[Behavioral public policy]], [[Libertarian paternalism]], [[Asymmetric paternalism]], [[Constructed preferences]], [[Preference]], and [[Preference uncertainty]].
 
 ## Open questions
 

@@ -5,11 +5,12 @@ status: active
 tags:
   - behavioral-economics
   - cognitive-psychology
-updated_on: 2026-04-17
-source_count: 5
+updated_on: 2026-04-24
+source_count: 6
 related_pages:
   - [[Heuristics and Biases]]
   - [[Tversky and Kahneman 1974]]
+  - [[Chapman and Johnson 2002]]
   - [[Strack and Mussweiler 1997]]
   - [[Epley and Gilovich 2001]]
   - [[Epley and Gilovich 2005]]
@@ -26,15 +27,21 @@ related_pages:
 
 ## Core idea
 
-[[Anchoring]] is the tendency for judgments to be pulled toward an initial value or reference point. In the current vault, the concept is anchored by [[Tversky and Kahneman 1974]], deepened mechanistically by [[Strack and Mussweiler 1997]], refined by [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]], and extended by [[Ariely et al. 2003]], which shows that arbitrary anchors can shape willingness to pay and apparent demand rather than only numerical estimates. The concept belongs to the broader framework [[Heuristics and Biases]].
+[[Anchoring]] is the tendency for judgments to be pulled toward an initial value or reference point. In the current vault, the concept is anchored by [[Tversky and Kahneman 1974]], sharpened at the branch level by [[Chapman and Johnson 2002]], deepened mechanistically by [[Strack and Mussweiler 1997]], refined by [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]], and extended by [[Ariely et al. 2003]], which shows that arbitrary anchors can shape willingness to pay and apparent demand rather than only numerical estimates. The concept belongs to the broader framework [[Heuristics and Biases]].
 
 ## Key distinctions
 
-Anchoring differs from [[Representativeness heuristic]] and [[Availability heuristic]] because the distortion comes from a starting point rather than from similarity or recall. The anchor can be informative, arbitrary, or even obviously irrelevant, yet it can still pull later judgment. The core pattern is assimilation toward a starting point rather than pure error in one direction. In the current vault, the Epley-Gilovich branch matters because it shows that not all anchoring effects are generated in the same way. Some are tied to effortful adjustment from self-generated anchors, while others are less responsive to reflective effort. That older language of anchoring and adjustment is still useful, but it now lives inside this broader page as one mechanism account rather than as a separate concept. [[Strack and Mussweiler 1997]] matters because it gives the branch a second process model: some anchors may work through selective accessibility of anchor-consistent knowledge rather than through explicit adjustment alone. [[Ariely et al. 2003]] then deepens the idea again by showing that anchors can also help generate [[Coherent arbitrariness]], where valuations are path-dependent but internally stable.
+Anchoring differs from [[Representativeness heuristic]] and [[Availability heuristic]] because the distortion comes from a starting point rather than from similarity or recall. The anchor can be informative, arbitrary, or even obviously irrelevant, yet it can still pull later judgment. The core pattern is assimilation toward a starting point rather than pure error in one direction.
+
+[[Chapman and Johnson 2002]] adds one of the cleanest distinctions in the branch: anchoring affects judgments of belief and judgments of value. That means the concept should not be taught only as a problem of estimating quantities. It also belongs to pricing, valuation, and willingness-to-pay judgments.
+
+In the current vault, the Epley-Gilovich branch matters because it shows that not all anchoring effects are generated in the same way. Some are tied to effortful adjustment from self-generated anchors, while others are less responsive to reflective effort. That older language of anchoring and adjustment is still useful, but it now lives inside this broader page as one mechanism account rather than as a separate concept. [[Strack and Mussweiler 1997]] matters because it gives the branch a second process model: some anchors may work through selective accessibility of anchor-consistent knowledge rather than through explicit adjustment alone. [[Ariely et al. 2003]] then deepens the idea again by showing that anchors can also help generate [[Coherent arbitrariness]], where valuations are path-dependent but internally stable.
 
 ## Evidence and debate
 
 [[Tversky and Kahneman 1974]] presents anchoring and adjustment as one of the major sources of biased judgment under uncertainty. The enduring lesson is that judgments can be shaped by prior numbers, defaults, or framing baselines even when people try to correct for them.
+
+[[Chapman and Johnson 2002]] then gives the branch a broader map. It argues that anchors matter not only for estimating uncertain facts, but also for judging value. That matters because it lets the vault separate at least two major anchoring terrains: belief-oriented estimation and value-oriented valuation. The branch becomes easier to navigate once that distinction is explicit.
 
 [[Strack and Mussweiler 1997]] complicates the classic picture by arguing that anchoring can also work through selective accessibility: once an anchor is considered, anchor-consistent information becomes easier to retrieve and test. [[Epley and Gilovich 2001]] and [[Epley and Gilovich 2005]] complicate it in a different way by arguing that adjustment is not the right process model for every anchoring effect. Their distinction between self-generated and externally provided anchors gives the vault a more explicit mechanism layer and connects anchoring more tightly to [[Fast and slow thinking]] and debiasing questions. In the current vault, these refinements matter because they prevent the anchoring branch from remaining too generic: some anchoring effects do arise through insufficient adjustment, but others do not.
 
@@ -46,7 +53,7 @@ Anchoring matters for policy and institutions because people often react to init
 
 ## Related pages
 
-The source anchors are [[Tversky and Kahneman 1974]], [[Strack and Mussweiler 1997]], [[Epley and Gilovich 2001]], [[Epley and Gilovich 2005]], and [[Ariely et al. 2003]]. Related concept pages are [[Heuristics and Biases]], [[Fast and slow thinking]], [[Coherent arbitrariness]], [[Constructed preferences]], [[Representativeness heuristic]], and [[Availability heuristic]]. The broader field page is [[Behavioral Economics]].
+The source anchors are [[Tversky and Kahneman 1974]], [[Chapman and Johnson 2002]], [[Strack and Mussweiler 1997]], [[Epley and Gilovich 2001]], [[Epley and Gilovich 2005]], and [[Ariely et al. 2003]]. Related concept pages are [[Heuristics and Biases]], [[Fast and slow thinking]], [[Coherent arbitrariness]], [[Constructed preferences]], [[Representativeness heuristic]], and [[Availability heuristic]]. The broader field page is [[Behavioral Economics]].
 
 ## Open questions
 

@@ -7,8 +7,9 @@ tags:
   - person
   - economics
   - behavioral-economics
-updated_on: 2026-04-18
+updated_on: 2026-04-22
 related_pages:
+  - [[Smith 1991]]
   - [[Smith 2003]]
   - [[Dekker and Remic 2019]]
   - [[Ecological rationality]]
@@ -30,15 +31,15 @@ His career made experimental economics a permanent part of the discipline's empi
 
 ## Why it matters here
 
-Smith matters here because he is not just a more institutional member of the Gigerenzer camp. In the current vault, [[Dekker and Remic 2019]] makes clear that Smith represents a different type of ecological rationality: one centered on markets, rules, distributed cognition, and emergent institutional order rather than on individual heuristics. That gives the ecological branch a distinctly economic and Hayekian register rather than leaving it only on the psychology side.
+Smith matters here because he is not just a more institutional member of the Gigerenzer camp. In the current vault, [[Smith 1991]] is now the clearest early statement of his third-position methodology: psychology is not simply wrong, but both psychologists and many economists mislocate rationality when they study only isolated cognition rather than institutionally mediated choice. [[Dekker and Remic 2019]] then makes clear that Smith's later ecological rationality is a different type of ecological program from Gigerenzer's: one centered on markets, rules, distributed cognition, and emergent institutional order rather than on individual heuristics. That gives the ecological branch a distinctly economic and Hayekian register rather than leaving it only on the psychology side.
 
 ## Key relationships
 
-The tightest links are to [[Ecological rationality]], [[Constructivist rationality]], [[Rationality wars]], and [[Behavioral Economics]]. His work is also an important comparison point for the Gigerenzer branch, because both use the phrase ecological rationality but for different research programs.
+The tightest links are to [[Ecological rationality]], [[Constructivist rationality]], [[Rationality wars]], and [[Behavioral Economics]]. His work is also an important comparison point for the Gigerenzer branch, because both use the phrase ecological rationality but for different research programs. [[Smith 1991]] should now be read as the methodological bridge between Smith's experimental-economics program and the later explicit ecological-rationality vocabulary of [[Smith 2003]].
 
 ## Related sources
 
-The direct source note in the vault is [[Smith 2003]].
+The direct source notes in the vault are [[Smith 1991]] and [[Smith 2003]].
 
 ## Open questions
 

@@ -16,7 +16,6 @@ updated_on: 2026-04-15
 related_pages:
   - [[Lichtenstein and Slovic 2006]]
   - [[Constructed preferences]]
-  - [[Nonstandard preferences]]
   - [[Behavioral public policy]]
   - [[Behavioral law and economics]]
 ---
@@ -43,7 +42,7 @@ For PPE students, this chapter matters because it carries the construction-of-pr
 
 ## Links into the wiki
 
-This unit mainly strengthens [[Constructed preferences]], [[Nonstandard preferences]], [[Behavioral public policy]], and [[Behavioral law and economics]].
+This unit mainly strengthens [[Constructed preferences]], [[Preference]], [[Behavioral public policy]], and [[Behavioral law and economics]].
 
 ## Open questions
 

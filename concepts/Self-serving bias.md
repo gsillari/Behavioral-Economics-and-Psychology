@@ -6,10 +6,12 @@ tags:
   - behavioral-economics
   - judgment
   - negotiation
-updated_on: 2026-04-08
-source_count: 1
+updated_on: 2026-04-26
+source_count: 2
 related_pages:
+  - [[Rabin 1998]]
   - [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]]
+  - [[Fairness]]
   - [[Motivated reasoning]]
   - [[Social preferences]]
   - [[Behavioral public policy]]
@@ -21,7 +23,7 @@ related_pages:
 
 ## Core idea
 
-[[Self-serving bias]] is the tendency to interpret fairness, merit, evidence, or likely outcomes in ways that favor one's own role or interest while preserving the feeling of being objective. In the current vault, the anchor source is [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]], which shows how this mechanism helps produce bargaining impasse.
+[[Self-serving bias]] is the tendency to interpret fairness, merit, evidence, or likely outcomes in ways that favor one's own role or interest while preserving the feeling of being objective. In the current vault, [[Rabin 1998]] gives the economics-facing review context, while [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]] shows how this mechanism helps produce bargaining impasse.
 
 ## Key distinctions
 
@@ -29,7 +31,7 @@ This concept differs from simple self-interest. A selfish agent may knowingly pu
 
 ## Evidence and debate
 
-[[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]] shows that negotiators who occupy different roles process the same information differently, give more weight to arguments that support their own side, and form divergent expectations about what a judge or arbitrator will decide. The consequence is not only disagreement but also failed settlement. The chapter also matters because it does not stop at diagnosis. It shows that some interventions, especially those that force people to consider weaknesses in their own case, can shrink the gap in expectations and reduce impasse.
+[[Rabin 1998]] makes self-serving inference part of the broader psychology-and-economics case that belief formation is not automatically neutral or Bayesian. [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]] then gives the branch its central negotiation case: parties who occupy different roles process the same information differently, give more weight to arguments that support their own side, and form divergent expectations about what a judge or arbitrator will decide. The consequence is not only disagreement but also failed settlement. The chapter also matters because it does not stop at diagnosis. It shows that some interventions, especially those that force people to consider weaknesses in their own case, can shrink the gap in expectations and reduce impasse.
 
 The main debate concerns how this concept should be classified. Is it best treated as a bargaining-specific fairness bias, as a special case of [[Motivated reasoning]], or as one branch of a broader family of self-favoring judgments that includes attributional and partisan distortions?
 
@@ -39,7 +41,7 @@ This concept matters because disputes often escalate not only when interests con
 
 ## Related pages
 
-The anchor source is [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]]. The closest neighboring pages are [[Motivated reasoning]], [[Social preferences]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Rabin 1998]] and [[Babcock and Loewenstein 2007 - Explaining the Bargaining Impasse - The Role of Self-Serving Biases (in Loewenstein 2007, ch. 8)]]. The closest neighboring pages are [[Fairness]], [[Motivated reasoning]], [[Social preferences]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

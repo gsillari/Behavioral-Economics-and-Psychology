@@ -15,7 +15,6 @@ updated_on: 2026-04-17
 related_pages:
   - [[B. Douglas Bernheim]]
   - [[Behavioral public policy]]
-  - [[Nonstandard preferences]]
   - [[Constructed preferences]]
   - [[Preference uncertainty]]
   - [[Behavioral law and economics]]
@@ -57,7 +56,7 @@ Pedagogically, the paper is especially useful because it gives a disciplined voc
 
 ## Links into the wiki
 
-The strongest target pages are [[Behavioral public policy]], [[Nonstandard preferences]], [[Constructed preferences]], [[Preference uncertainty]], [[Behavioral law and economics]], and [[Behavioral Public Policy and Its Competing Paradigms]]. The paper also belongs in [[What Behavioral Economics Thinks Rationality Is]] and [[Rationality wars]] because it sharpens the general question of when a deviation counts as an error rather than as a different evaluative standpoint.
+The strongest target pages are [[Behavioral public policy]], [[Preference]], [[Constructed preferences]], [[Preference uncertainty]], [[Behavioral law and economics]], and [[Behavioral Public Policy and Its Competing Paradigms]]. The paper also belongs in [[What Behavioral Economics Thinks Rationality Is]] and [[Rationality wars]] because it sharpens the general question of when a deviation counts as an error rather than as a different evaluative standpoint.
 
 At the current stage of the vault, the paper does not justify a standalone concept page. Its importance lies in disciplining several existing branches at once rather than introducing a durable new label.
 

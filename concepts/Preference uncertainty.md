@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-19
 source_count: 6
 related_pages:
+  - [[Preference]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Bernheim 2025]]
   - [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]
@@ -19,7 +20,6 @@ related_pages:
   - [[Preference reversals]]
   - [[Procedure invariance]]
   - [[Coherent arbitrariness]]
-  - [[Nonstandard preferences]]
   - [[Behavioral welfare economics]]
   - [[Behavioral public policy]]
   - [[Behavioral Public Policy and Its Competing Paradigms]]
@@ -47,7 +47,7 @@ This concept matters because many market and policy judgments assume that people
 
 ## Related pages
 
-The anchor sources are [[Ariely et al. 2006]], [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Constructed preferences]], [[Preference reversals]], [[Procedure invariance]], [[Coherent arbitrariness]], [[Nonstandard preferences]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the most relevant syntheses are [[What Behavioral Economics Thinks Rationality Is]] and [[Behavioral Public Policy and Its Competing Paradigms]].
+The anchor sources are [[Ariely et al. 2006]], [[Slovic 1995]], [[Lichtenstein and Slovic 2006]], [[Bernheim 2025]], and [[Sugden 2018 - Chapter 04 - The Inner Rational Agent]]. The closest neighboring pages are [[Constructed preferences]], [[Preference reversals]], [[Procedure invariance]], [[Coherent arbitrariness]], [[Preference]], and [[Behavioral public policy]]. The broader topical home is [[Behavioral Economics]], and the most relevant syntheses are [[What Behavioral Economics Thinks Rationality Is]] and [[Behavioral Public Policy and Its Competing Paradigms]].
 
 ## Open questions
 

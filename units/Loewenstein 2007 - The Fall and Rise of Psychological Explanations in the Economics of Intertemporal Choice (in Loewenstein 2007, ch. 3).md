@@ -18,7 +18,6 @@ related_pages:
   - [[Loewenstein 2007]]
   - [[George Loewenstein]]
   - [[Time inconsistency]]
-  - [[Nonstandard preferences]]
   - [[Behavioral Economics]]
   - [[Self-Control and Dynamic Inconsistency]]
 ---
@@ -49,7 +48,7 @@ For PPE students, this chapter matters because it turns an empirical literature 
 
 ## Links into the wiki
 
-This unit should mainly strengthen [[Time inconsistency]], [[Nonstandard preferences]], [[Behavioral Economics]], and [[Self-Control and Dynamic Inconsistency]]. It should also broaden [[George Loewenstein]] beyond the empathy-gap branch by locating him inside the field's historical and methodological debates.
+This unit should mainly strengthen [[Time inconsistency]], [[Preference]], [[Behavioral Economics]], and [[Self-Control and Dynamic Inconsistency]]. It should also broaden [[George Loewenstein]] beyond the empathy-gap branch by locating him inside the field's historical and methodological debates.
 
 ## Open questions
 

@@ -10,9 +10,8 @@ tags:
   - behavioral-public-policy
   - methodology
   - source
-updated_on: 2026-04-15
+updated_on: 2026-05-06
 related_pages:
-  - [[Behavioral economics of AI]]
   - [[Behavioral economics of AI]]
   - [[Clinical versus actuarial judgment]]
   - [[Behavioral public policy]]
@@ -40,6 +39,14 @@ The fourth claim is that the right response is not immediate blind deployment, b
 
 The fifth claim is that economists should compare algorithms with other policy tools using the same welfare framework rather than treating them as an entirely separate class of intervention.
 
+## Figures 1 and 2
+
+The paper's two initial figures carry much of the conceptual argument. Figure 1 presents the standard public-policy picture: if the state expands an intervention from one quantity to a larger quantity, it gains welfare where marginal benefits exceed marginal costs. This picture assumes that cases are already reasonably ranked by expected benefit, so expanding the policy reaches additional cases with lower marginal returns.
+
+Figure 2 shows why algorithms can be unusually powerful in ranking problems. Here the gain does not come primarily from doing more of the same policy. It comes from improving who is selected at a fixed threshold. If human decision-makers misrank cases, then an algorithm can steepen the marginal-benefit schedule by concentrating attention, detention, inspection, testing, or services on the cases where predicted social returns are higher. The algorithm therefore reduces deadweight loss by improving prioritization rather than simply increasing policy volume.
+
+This is the bridge to the vault's older [[Clinical versus actuarial judgment]] branch. Ludwig, Mullainathan, and Rambachan turn the Meehl-style point that statistical prediction can outperform human judgment into a modern public-finance argument: better prediction can generate welfare gains when policy allocation is itself a prediction-and-ranking problem.
+
 ## Evidence and methods
 
 The paper is synthetic and policy-analytic rather than a single new empirical study. It draws on existing evidence from criminal justice, education, health, and regulation, then evaluates algorithms using the marginal value of public funds framework associated with Hendren and Sprung-Keyser. The paper's distinctive contribution is therefore not a new anomaly or a new dataset, but a common evaluative language for algorithmic public-policy tools.
@@ -54,7 +61,7 @@ Pedagogically, the paper is valuable because it gives a compact and memorable st
 
 ## Links into the wiki
 
-This source should mainly strengthen [[Behavioral economics of AI]], [[Behavioral economics of AI]], [[Clinical versus actuarial judgment]], and [[Behavioral public policy]]. It is especially useful when read alongside [[Kleinberg et al. 2018]]: the earlier paper shows how one institutional comparison works in detail, while this one generalizes the lesson into a broader policy argument.
+This source should mainly strengthen [[Behavioral economics of AI]], [[Clinical versus actuarial judgment]], and [[Behavioral public policy]]. It is especially useful when read alongside [[Kleinberg et al. 2018]]: the earlier paper shows how one institutional comparison works in detail, while this one generalizes the lesson into a broader policy argument.
 
 I do not think it warrants a separate concept page. The paper is better used to give sharper policy and teaching structure to concepts the vault already has.
 

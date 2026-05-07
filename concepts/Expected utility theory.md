@@ -5,12 +5,22 @@ status: active
 tags:
   - economics
   - decision-theory
-updated_on: 2026-04-19
-source_count: 12
+updated_on: 2026-04-25
+source_count: 19
 related_pages:
+  - [[Preference]]
+  - [[Rabin and Thaler 2001]]
+  - [[von Neumann and Morgenstern 1944]]
+  - [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]
+  - [[Von Neumann-Morgenstern utility theory]]
   - [[Heilmann and Reiss 2022]]
   - [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]
   - [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]]
+  - [[Savage 1954]]
+  - [[Savage 1954 - Chapter 02 - Preliminary Considerations on Decision in the Face of Uncertainty]]
+  - [[Savage 1954 - Chapter 05 - Utility]]
+  - [[Savage 1954 - Chapter 06 - Observation]]
+  - [[Savage 1954 - Chapter 07 - Partition Problems]]
   - [[Starmer 2000]]
   - [[de Finetti 1937]]
   - [[Ellsberg 1961]]
@@ -22,77 +32,78 @@ related_pages:
   - [[Ambiguity aversion]]
   - [[Arkes and Blumer 1985]]
   - [[Bini et al. 2026]]
+  - [[Subjective expected utility theory]]
   - [[Behavioral economics of AI]]
   - [[Subjective probability]]
   - [[Bruno de Finetti]]
+  - [[Leonard J. Savage]]
   - [[Daniel Ellsberg]]
   - [[Completeness axiom]]
   - [[Machina's generalized expected utility approach]]
   - [[Regret theory]]
   - [[Utility theory]]
   - [[Risk attitudes]]
+  - [[Calibration]]
+  - [[Loss aversion]]
+  - [[Mental accounting]]
   - [[Prospect Theory]]
   - [[Sunk cost effect]]
   - [[Kahneman and Tversky 1979]]
   - [[Reference dependence]]
   - [[Behavioral Economics]]
-  - [[Maurice Allais]]
+  - [[Standard Rationality and Its Limits]]
 ---
 
 # Expected utility theory
 
 ## Core idea
 
-[[Expected utility theory]] is the classical framework for rational choice under risk in which options are evaluated by the expected utility of their possible outcomes. In the current vault it is both refined and challenged from within. [[de Finetti 1937]] helps clarify the belief side of that benchmark through [[Subjective probability]], [[Ellsberg 1961]] shows that choice under uncertainty may not fit cleanly into Savage-style subjective expected utility because of [[Ambiguity aversion]], [[Aumann 1962]] shows that utility theory need not require the [[Completeness axiom]] in its strongest form, [[Allais 1953]] exposes the [[Allais paradox]], [[Machina 1982]] shows how much of utility analysis may survive without the independence axiom, [[Loomes and Sugden 1982]] offers [[Regret theory]] as a more radical alternative to utility-over-states evaluation, [[Starmer 2000]] reviews the broader hunt for descriptively superior risky-choice theories, [[Kahneman and Tversky 1979]] introduces [[Prospect Theory]] as a descriptive alternative, and [[Arkes and Blumer 1985]] shows how past irrecoverable costs can distort present choice through the [[Sunk cost effect]].
+[[Expected utility theory]] is best read as a family of twentieth-century attempts to make choice under risk and uncertainty formally disciplined. It does not begin the history of [[Utility theory]], and it should not be treated as identical with utility theory as a whole. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] is decisive here because it places expected utility after earlier transformations of utility: from marginalist and often psychological utility, to ordinal ranking, to revealed preference, and then to decision-theoretic representation under risk and uncertainty.
+
+The first major development is the risk-side reconstruction in [[von Neumann and Morgenstern 1944]]. The key move is subtle. VNM does not simply revive old cardinal utility as a direct measure of pleasure or welfare. It shows that, if an agent's preferences over probabilistic alternatives satisfy certain axioms, those preferences can be represented by a numerical utility function, unique up to positive affine transformation. In the current vault, that branch is collected under [[Von Neumann-Morgenstern utility theory]]. It is the classical benchmark for lotteries with given probabilities.
+
+The second major development is the uncertainty-side reconstruction in [[Savage 1954]]. Savage keeps the expected-utility ambition but changes the problem. Instead of lotteries with given probabilities, the agent faces acts whose consequences depend on states of the world. Probabilities are no longer simply supplied by the setup; they are represented as personal probabilities disciplined by choice. In the current vault, that branch is collected under [[Subjective expected utility theory]].
+
+So the concept should function as an umbrella with two canonical branches: VNM for risk, Savage for uncertainty. That distinction matters because later behavioral critiques do not all target the same object. [[Allais paradox]] pressures the VNM risk-side benchmark. [[Ambiguity aversion]] pressures the Savage uncertainty-side benchmark. [[Prospect Theory]] then becomes the most important descriptive alternative to the risk-side architecture by replacing final-state expected utility with reference dependence, gain-loss coding, and decision weights.
 
 ## Key distinctions
 
-Expected utility theory focuses on utilities over outcomes or final states and evaluates risky prospects by probability-weighted utility.
-[[de Finetti 1937]] is important here because the weighting side of the framework presupposes some account of rational probability, and [[Subjective probability]] provides one such benchmark by treating probabilities as coherent credences.
-[[Ellsberg 1961]] complicates that move by distinguishing measurable risk from ambiguity and showing that people often prefer the former to the latter, captured in the vault by [[Ambiguity aversion]].
+The first distinction is between risk and uncertainty. In the risk-side branch, options are lotteries or probability-including alternatives with given probabilities. [[Von Neumann-Morgenstern utility theory]] gives this branch its canonical representation theorem: under the relevant axioms, preferences can be represented by a numerical utility function unique up to positive affine transformation. In the uncertainty-side branch, developed in [[Savage 1954 - Chapter 02 - Preliminary Considerations on Decision in the Face of Uncertainty]] and [[Savage 1954 - Chapter 05 - Utility]], options are acts whose consequences depend on states of the world, and probabilities are represented subjectively rather than supplied objectively.
 
-Another central distinction is the independence axiom. In plain terms, independence says that if an agent prefers option A to option B, then mixing both options with the same background lottery C should not reverse that ranking. The common part is supposed to "cancel out," leaving the original ordering intact. [[Allais 1953]] matters because his famous lottery pairs make many people violate exactly that principle while still feeling perfectly intelligible from the inside.
+The second distinction concerns the key structural axioms. In the risk-side benchmark, the best-known pressure point is the independence axiom, which the [[Allais paradox]] famously challenges. In the uncertainty-side benchmark, the key structural commitment is the sure-thing principle from [[Savage 1954 - Chapter 02 - Preliminary Considerations on Decision in the Face of Uncertainty]]. Those are related but not identical pressure points.
 
-[[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] adds a useful formal clarification here. Standard expected-utility theory does not impose one fixed attitude toward risk. It represents [[Risk attitudes]] through the curvature of utility over outcomes: concave utility corresponds to risk aversion, convex utility to risk seeking, and linear utility to risk neutrality.
+The third distinction concerns belief. [[de Finetti 1937]] gives the vault its deepest benchmark for coherent personal probability, but [[Savage 1954 - Chapter 03 - Personal Probability]] and [[Savage 1954 - Chapter 04 - Critical Comments on Personal Probability]] embed that belief-side benchmark inside a fuller theory of acts, observation, and decision. That is why Savage matters here as more than a footnote to de Finetti.
 
-[[Prospect Theory]] departs from the standard picture in a more systematic way.
-It emphasizes psychologically coded gains and losses, [[Reference dependence]], asymmetry between gains and losses, and non-linear treatment of risky prospects.
-That matters because the contrast between expected utility and prospect theory is not only a contrast between "classical" and "behavioral."
-It is a contrast between final-state evaluation and benchmark-relative evaluation, and between objective probabilities and psychologically weighted risk.
-
-[[Allais 1953]] challenges the theory more directly from within decision theory by showing that plausible preferences can violate one of its central axioms.
-[[Machina's generalized expected utility approach]] responds by trying to preserve utility analysis without independence.
-[[Regret theory]] responds in a different way by changing the evaluative object from utility over realized states to comparison between chosen and forgone outcomes.
-[[Aumann 1962]] presses on a different part of the benchmark by arguing that full comparability need not be imposed through the [[Completeness axiom]].
-That is a different issue from independence. Completeness asks whether every pair of options must be rankable at all, while independence asks how the ranking should behave when risky mixtures share common components. The two axioms therefore pressure different parts of rational choice: one concerns comparability, the other stability under probabilistic recombination.
-[[Arkes and Blumer 1985]] then presses on a practical implication of forward-looking rationality: because sunk costs are irrecoverable, they should not affect current choice at all.
-In the current vault, expected utility theory is therefore not just a foil for behavioral innovation; it is also a framework whose own probability assumptions, axioms, and interpretive ambitions are under pressure.
+[[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] adds another useful clarification. Standard expected utility does not impose one fixed attitude toward risk. It represents [[Risk attitudes]] through the curvature of utility over outcomes: concave utility corresponds to risk aversion, convex utility to risk seeking, and linear utility to risk neutrality.
 
 ## Evidence and debate
 
-The theory has enormous normative and analytical importance, but the vault now records nine different ways it is used or pressured.
-[[de Finetti 1937]] supplies a belief-side benchmark by grounding probabilities in coherent subjective expectations.
-[[Ellsberg 1961]] then shows that even if subjective probabilities are allowed, actual choice under uncertainty may still violate the Savage-style framework because people are sensitive to ambiguity itself.
-[[Aumann 1962]] shows that one canonical rationality assumption, the [[Completeness axiom]], can be relaxed without abandoning utility theory altogether.
-[[Allais 1953]] introduces the [[Allais paradox]], a structured preference pattern that conflicts with expected-utility axioms.
-[[Machina 1982]] matters because it shows that one response to Allais-type anomalies is to preserve much of expected-utility analysis while weakening the independence axiom.
-[[Loomes and Sugden 1982]] matters because it shows a more radical option: keep risky choice theory, but replace utility-over-states evaluation with regret-and-rejoicing across chosen and unchosen outcomes.
-[[Starmer 2000]] matters because it makes explicit that the response to expected-utility failure was not a simple binary choice between preserving the standard model and adopting [[Prospect Theory]]. It surveys a larger family of nonexpected-utility approaches and clarifies how economists compared them in terms of empirical success and theoretical usefulness. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] adds a different kind of value by showing where expected utility sits inside the longer history of [[Utility theory]]: it is not the whole utility tradition, but a later and narrower cardinal reconstruction tied specifically to risky choice.
-[[Kahneman and Tversky 1979]] then matters because it does not stop at anomaly reporting.
-It replaces final-state evaluation with a benchmark-relative architecture and thereby gives the vault a clearer account of what a descriptive rival to expected utility looks like.
-[[Arkes and Blumer 1985]] adds the [[Sunk cost effect]], which is inconsistent with the forward-looking logic of ignoring irrecoverable past costs.
-[[Bini et al. 2026]] adds a newer use: expected utility becomes a benchmark for evaluating whether LLM responses in economic tasks look more rational or more human-like.
-The debate is not simply whether the classical theory is wrong.
-It is whether its strengths are normative, descriptive, or both, which of its assumptions are essential, and how much descriptive slack a benchmark theory can tolerate.
+The first debate concerns historical placement. [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]] matters because it stops the page from collapsing different utility traditions into one object. Expected utility is one later reconstruction inside a larger history of utility. [[von Neumann and Morgenstern 1944]] now gives the vault the primary-source anchor for that reconstruction under risk.
+
+The second debate concerns the VNM benchmark itself. The appendix to [[von Neumann and Morgenstern 1944]] derives numerical utility from axioms over probabilistic alternatives. It also states pressure points from inside the theory: completeness may be doubtful, and the compound-lottery combination rule is where a specific utility or disutility of gambling would have to enter.
+
+The third debate concerns the uncertainty-side benchmark itself. [[Savage 1954]] is the key source because it shows that personal probability, utility, observation, and partition structure belong to one architecture. [[Subjective expected utility theory]] is now the page where that architecture is collected explicitly in the vault.
+
+The fourth debate concerns ambiguity and the limits of sharp probabilistic representation. [[Ellsberg 1961]] matters because it shows that even if subjective probability is allowed, actual choice under uncertainty may still resist the Savage benchmark. In the current vault, that challenge is collected under [[Ambiguity aversion]].
+
+The fifth debate concerns formal pressure points internal to the classical benchmark family. [[Aumann 1962]] shows that utility theory need not require the [[Completeness axiom]] in its strongest form. [[Allais 1953]] introduces the [[Allais paradox]], which presses on the VNM-style risk benchmark. [[Machina 1982]] responds by trying to preserve much of utility analysis while weakening the classical structure, and [[Loomes and Sugden 1982]] responds more radically through [[Regret theory]].
+
+The sixth debate concerns descriptive rivals. [[Starmer 2000]] is useful because it shows that the response to expected-utility failure was not simply a binary choice between preserving the standard model and adopting [[Prospect Theory]]. It surveys a larger family of nonexpected-utility theories. [[Kahneman and Tversky 1979]] then matters because it supplies the most influential descriptive rival by replacing final-state evaluation with reference-dependent, psychologically weighted evaluation.
+
+The seventh debate concerns the use of expected utility as a benchmark outside classical decision theory. [[Arkes and Blumer 1985]] matters because the [[Sunk cost effect]] violates the forward-looking logic of the benchmark. [[Bini et al. 2026]] adds a newer use where expected utility becomes part of the yardstick for comparing LLM behavior to benchmark-rational and human-like behavior.
+
+The eighth debate concerns [[Calibration|calibration]]. [[Rabin and Thaler 2001]] argues that the expected-utility explanation of ordinary small-stakes risk aversion is badly miscalibrated. If modest aversion to favorable small gambles is explained solely by concavity of utility over lifetime wealth, then the implied utility curve predicts implausibly extreme aversion to very favorable large gambles. This is a different pressure point from the [[Allais paradox]]. Allais challenges the structural axioms of the VNM benchmark; Rabin and Thaler challenge the empirical credibility of using wealth curvature to explain everyday risk aversion.
 
 ## Practical or policy relevance
 
-Expected utility theory still matters because law, economics, and policy analysis often use it as an evaluative baseline. [[de Finetti 1937]] shows that the baseline concerns beliefs as well as preferences: rational choice under uncertainty needs some account of coherent probability. [[Ellsberg 1961]] shows that the baseline may also be too demanding or too simple in ambiguous settings where probabilities are unknown. [[Aumann 1962]] shows that even within formal theory there is room to debate how demanding that baseline should be on the preference side. [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]] sharpens the practical side by making clear that one must distinguish risk from ambiguity and separate ordinary [[Risk attitudes]] from deeper problems in representing uncertainty. Once behavioral evidence enters the picture, policymakers have to decide whether departures from the benchmark signal mistakes, incomplete or unsettled preferences, stable preferences, incoherent beliefs, ambiguity sensitivity, or domain-specific ways of coping with uncertainty. [[Bini et al. 2026]] extends this practical issue into AI evaluation by using expected utility as part of the yardstick for judging LLM behavior in economic and financial decisions.
+Expected utility theory still matters because economics, law, and policy often use it as an evaluative baseline. But the current vault should now distinguish more carefully which baseline is in play. If the issue concerns lotteries with given probabilities, the benchmark is [[Von Neumann-Morgenstern utility theory]]. If the issue concerns beliefs, ambiguous acts, and choice under uncertainty, the benchmark is often [[Subjective expected utility theory]] in the Savage sense. If the issue concerns ordinary small-stakes risk aversion, [[Rabin and Thaler 2001]] now shows why the benchmark's curvature story should not be accepted without calibration checks.
+
+That distinction matters for PPE because later behavioral arguments can otherwise look blurrier than they are. [[Ellsberg 1961]] is not just a challenge to rational choice in general. It is a challenge to a specific uncertainty benchmark. Likewise, debates about ambiguity, belief precision, and evidence are not well described if everything is folded indiscriminately into one generic expected-utility label.
 
 ## Related pages
 
-The central contrast page is [[Prospect Theory]]. The key source notes are [[de Finetti 1937]], [[Ellsberg 1961]], [[Aumann 1962]], [[Allais 1953]], [[Machina 1982]], [[Loomes and Sugden 1982]], [[Starmer 2000]], [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]], [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]], [[Kahneman and Tversky 1979]], [[Arkes and Blumer 1985]], and [[Bini et al. 2026]]. The most important neighboring concept pages are [[Utility theory]], [[Risk attitudes]], [[Subjective probability]], [[Ambiguity aversion]], [[Completeness axiom]], [[Allais paradox]], [[Machina's generalized expected utility approach]], [[Regret theory]], and [[Sunk cost effect]], the AI extension page is [[Behavioral economics of AI]], and the mechanisms that most sharply separate prospect theory from expected utility are [[Reference dependence]] and [[Loss aversion]]. The broader topical home is [[Behavioral Economics]].
+The main historical anchor is [[Moscati 2022 - History of Utility Theory (in Heilmann and Reiss 2022, ch. 2)]]. The main risk-side anchor is [[von Neumann and Morgenstern 1944]], especially [[von Neumann and Morgenstern 1944 - Appendix - The Axiomatic Treatment of Utility]]. The main uncertainty-side anchor is [[Savage 1954]], with Chapters 2, 5, 6, and 7 especially important. The deepest belief-side background is [[de Finetti 1937]], and the main challenge sources are [[Allais 1953]], [[Ellsberg 1961]], and [[Rabin and Thaler 2001]]. The closest neighboring pages are [[Von Neumann-Morgenstern utility theory]], [[Subjective expected utility theory]], [[Subjective probability]], [[Ambiguity aversion]], [[Risk attitudes]], [[Calibration]], [[Completeness axiom]], [[Allais paradox]], [[Machina's generalized expected utility approach]], [[Regret theory]], and [[Prospect Theory]]. The broader topical homes are [[Standard Rationality and Its Limits]] and [[Behavioral Economics]].
 
 ## Open questions
 
-Which parts of expected utility theory should remain normative benchmarks even when descriptive accuracy is limited? How should the theory handle ambiguity rather than measurable risk? When is it useful to preserve the framework for policy evaluation, and when does it hide important psychological structure?
+Which parts of expected utility theory should remain normative benchmarks even when descriptive accuracy is limited? How sharply should the vault distinguish the risk-side and uncertainty-side benchmark families? And when behavioral evidence pressures the theory, does it show human irrationality, a scope limit of the benchmark, or a reason to replace the benchmark altogether?

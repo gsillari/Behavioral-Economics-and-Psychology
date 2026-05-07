@@ -131,7 +131,7 @@ The attraction of this critique is that it avoids the fiction of purified or lat
 
 ## The empirical backdrop
 
-[[DellaVigna 2009]] matters because it gives these paradigms a stronger empirical base. The policy debate is more credible if the underlying mechanisms actually appear in the field rather than only in laboratory tasks. The paper shows that [[Nonstandard preferences]], [[Nonstandard beliefs]], and [[Nonstandard decision-making]] arise across domains such as labor supply, consumer choice, finance, politics, and charitable giving. That gives behavioral public policy more than a conceptual rationale; it gives it a cross-domain evidence base.
+[[DellaVigna 2009]] matters because it gives these paradigms a stronger empirical base. The policy debate is more credible if the underlying mechanisms actually appear in the field rather than only in laboratory tasks. The paper shows that preference-side mechanisms, [[Nonstandard beliefs]], and [[Nonstandard decision-making]] arise across domains such as labor supply, consumer choice, finance, politics, and charitable giving. That gives behavioral public policy more than a conceptual rationale; it gives it a cross-domain evidence base.
 
 But DellaVigna also complicates the picture. The paper highlights [[Strategic response to behavioral anomalies]], meaning that firms, employers, and political actors may exploit predictable mistakes rather than simply correct them. This pushes behavioral public policy away from a narrow "help the chooser" picture and toward a more institutional one. Policy may need to regulate not only biased decisions, but also the environments and strategic actors that amplify them.
 

@@ -9,6 +9,7 @@ tags:
 updated_on: 2026-04-19
 source_count: 1
 related_pages:
+  - [[Preference]]
   - [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]
   - [[Behavioral welfare economics]]
   - [[Revealed preference theory]]
@@ -22,7 +23,7 @@ related_pages:
 
 ## Core idea
 
-[[Consumer sovereignty]] is the classical welfare-economics idea that what is good for consumers should be determined by their own preferences rather than by the evaluator's substantive view of the good. In practice, that often means reading welfare from choice, demand, or preference satisfaction. In the current vault, [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] is now the clearest overview of how behavioral economics pressures that ideal.
+[[Consumer sovereignty]] is the classical welfare-economics idea that what is good for consumers should be determined by their own [[Preference|preferences]] rather than by the evaluator's substantive view of the good. In practice, that often means reading welfare from choice, demand, or preference satisfaction. In the current vault, [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]] is now the clearest overview of how behavioral economics pressures that ideal.
 
 ## Key distinctions
 
@@ -38,7 +39,7 @@ This concept matters because a large part of the vault's policy branch turns on 
 
 ## Related pages
 
-The anchor source is [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]. The nearest neighboring pages are [[Behavioral welfare economics]], [[Revealed preference theory]], [[Behavioral public policy]], [[Behavioral law and economics]], [[Constructed preferences]], and [[Preference uncertainty]].
+The anchor source is [[Lecouteux 2022 - Behavioral Welfare Economics and Consumer Sovereignty (in Heilmann and Reiss 2022, ch. 4)]]. The nearest neighboring pages are [[Preference]], [[Behavioral welfare economics]], [[Revealed preference theory]], [[Behavioral public policy]], [[Behavioral law and economics]], [[Constructed preferences]], and [[Preference uncertainty]].
 
 ## Open questions
 

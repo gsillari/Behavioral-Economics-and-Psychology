@@ -7,8 +7,9 @@ tags:
   - person
   - behavioral-economics
   - psychology
-updated_on: 2026-04-19
+updated_on: 2026-04-22
 related_pages:
+  - [[Gigerenzer 1996]]
   - [[Berg and Gigerenzer 2010]]
   - [[Todd and Gigerenzer 2007]]
   - [[Gigerenzer 2008]]
@@ -48,7 +49,7 @@ The tightest connections in the current vault are to [[Ecological rationality]],
 
 ## Related sources
 
-The direct source notes in the vault are [[Todd and Gigerenzer 2007]], [[Gigerenzer 2008]], [[Gigerenzer 2024]], and [[Berg and Gigerenzer 2010]], with [[Dekker and Remic 2019]] and [[Smith 2003]] now serving as important comparison sources on the ecological side. Future ingests could usefully expand this page with primary work on fast and frugal heuristics, risk literacy, and critiques of nudge-style policy.
+The direct source notes in the vault are [[Gigerenzer 1996]], [[Todd and Gigerenzer 2007]], [[Gigerenzer 2008]], [[Gigerenzer 2024]], and [[Berg and Gigerenzer 2010]], with [[Dekker and Remic 2019]] and [[Smith 2003]] now serving as important comparison sources on the ecological side. [[Gigerenzer 1996]] matters especially because it is one of the canonical exchange pieces of the rationality wars, stating the complaint about narrow norms and vague heuristics in a concentrated form. Future ingests could usefully expand this page with primary work on fast and frugal heuristics, risk literacy, and critiques of nudge-style policy.
 
 ## Open questions
 

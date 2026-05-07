@@ -8,6 +8,8 @@ tags:
 updated_on: 2026-04-07
 source_count: 3
 related_pages:
+  - [[Ashraf et al. 2005]]
+  - [[Adam Smith]]
   - [[Kahneman et al. 1982]]
   - [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]]
   - [[Langer 1982 - The Illusion of Control (in Kahneman et al. 1982, ch. 16)]]
@@ -25,6 +27,7 @@ related_pages:
 ## Core idea
 
 [[Overconfidence]] is the tendency to overestimate one's own ability, the precision of one's information, or the likelihood of favorable outcomes. In the current vault, the branch now has two complementary anchors: [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]] for the classic literature on confidence calibration, and [[DellaVigna 2009]] for later field evidence from self-control, corporate decisions, employee stock options, and financial trading.
+[[Ashraf et al. 2005]] adds a historical bridge by noting Adam Smith's discussion of "over-weening conceit" in people's assessment of their own chances and abilities. This should be treated as a historical anticipation, not as a measurement source.
 
 ## Key distinctions
 
@@ -40,7 +43,7 @@ This concept matters because overconfidence can produce costly errors in setting
 
 ## Related pages
 
-The anchor sources are [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]], [[Langer 1982 - The Illusion of Control (in Kahneman et al. 1982, ch. 16)]], and [[DellaVigna 2009]]. The closest neighboring pages are [[Nonstandard beliefs]], [[Subjective probability]], [[Illusion of control]], and [[Time inconsistency]]. The broader topical home is [[Behavioral Economics]].
+The anchor sources are [[Lichtenstein et al. 1982 - Calibration of Probabilities (in Kahneman et al. 1982, ch. 22)]], [[Langer 1982 - The Illusion of Control (in Kahneman et al. 1982, ch. 16)]], and [[DellaVigna 2009]]. [[Ashraf et al. 2005]] is the historical Smith bridge. The closest neighboring pages are [[Nonstandard beliefs]], [[Subjective probability]], [[Illusion of control]], and [[Time inconsistency]]. The broader topical home is [[Behavioral Economics]].
 
 ## Open questions
 

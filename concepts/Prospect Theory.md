@@ -5,9 +5,12 @@ status: active
 tags:
   - behavioral-economics
   - decision-theory
-updated_on: 2026-04-19
-source_count: 14
+updated_on: 2026-04-25
+source_count: 16
 related_pages:
+  - [[Rabin and Thaler 2001]]
+  - [[von Neumann and Morgenstern 1944]]
+  - [[Von Neumann-Morgenstern utility theory]]
   - [[Stefansson 2022 - The Economics and Philosophy of Risk (in Heilmann and Reiss 2022, ch. 3)]]
   - [[Schnellenbach and Schubert 2015]]
   - [[Mercer 2005]]
@@ -28,7 +31,9 @@ related_pages:
   - [[Kahneman and Tversky 1979]]
   - [[DellaVigna 2009]]
   - [[Risk attitudes]]
+  - [[Calibration]]
   - [[Loss aversion]]
+  - [[Mental accounting]]
   - [[Myopic loss aversion]]
   - [[Equity premium puzzle]]
   - [[Sunk cost effect]]
@@ -56,7 +61,7 @@ That is why the page matters so much. [[Prospect Theory]] is the point where beh
 
 Three distinctions keep the concept clear.
 
-First, [[Prospect Theory]] is the main behavioral alternative in the vault to [[Expected utility theory]]. Expected utility models evaluate risky options through utilities over final states. Prospect theory instead evaluates gains and losses relative to a benchmark.
+First, [[Prospect Theory]] is the main behavioral alternative in the vault to [[Von Neumann-Morgenstern utility theory]], the risk-side branch of [[Expected utility theory]]. Expected utility models evaluate risky options through utilities over final states. Prospect theory instead evaluates gains and losses relative to a benchmark.
 
 Second, the theory is not identical to any one of its famous ingredients. [[Reference dependence]], [[Loss aversion]], and [[Framing effects]] are all central nearby pages, but prospect theory is the architecture that connects them.
 
@@ -64,7 +69,7 @@ Third, the theory is not the same thing as the broader [[Heuristics and Biases]]
 
 ## The problem the theory solves
 
-The theory begins from a pressure point in classical decision theory. [[Allais 1953]] and the [[Allais paradox]] show that actual risky choice often violates the predictions of [[Expected utility theory]]. In the current vault, that anomaly matters because it forces a question: should the benchmark be defended as merely normative, adjusted from within, or replaced by a more psychologically realistic model?
+The theory begins from a pressure point in classical decision theory. [[Allais 1953]] and the [[Allais paradox]] show that actual risky choice often violates the predictions of the VNM risk-side benchmark. In the current vault, that anomaly matters because it forces a question: should the benchmark be defended as merely normative, adjusted from within, or replaced by a more psychologically realistic model?
 
 [[Prospect Theory]] is Kahneman and Tversky's most influential answer to that question. It preserves the ambition to model risky choice systematically, but changes the object being modeled. The key move is away from final states and toward psychologically coded gains and losses.
 
@@ -79,6 +84,8 @@ Outcomes are evaluated relative to a benchmark rather than in absolute terms. Th
 ### 2. Value over gains and losses
 
 The second element is the value function. It is usually concave for gains, convex for losses, and steeper in the loss domain. That asymmetry is what gives the theory its distinctive motivational force. In the current vault, [[Loss aversion]] is the main page that develops this part of the structure. The nearby page [[Risk attitudes]] is useful here because it clarifies what prospect theory is and is not changing. Expected-utility theory already has a formal way to represent risk aversion through utility curvature. Prospect theory's novelty is that curvature is now benchmark-relative and combined with gain-loss coding and decision weights.
+
+[[Rabin and Thaler 2001]] makes that contrast sharper. Their calibration argument says that small-stakes risk aversion should not be explained by global concavity over lifetime wealth. Prospect theory supplies the more plausible local mechanism: people code outcomes as gains and losses relative to a reference point, and losses receive disproportionate weight.
 
 ### 3. Decision weights
 
@@ -118,7 +125,7 @@ Prospect theory does not stay confined to lottery problems. In the valuation bra
 
 ### 4. Finance
 
-The strongest finance extension is [[Benartzi and Thaler 1995]]. Through [[Myopic loss aversion]], the theory helps explain the [[Equity premium puzzle]] by combining prospect-theoretic loss sensitivity with frequent evaluation horizons. This is one of the clearest cases where the theory generates a serious economics application rather than just a psychological observation.
+The strongest finance extension is [[Benartzi and Thaler 1995]]. Through [[Myopic loss aversion]], the theory helps explain the [[Equity premium puzzle]] by combining prospect-theoretic loss sensitivity with frequent evaluation horizons. [[Rabin and Thaler 2001]] shows why that same combination matters outside finance: loss aversion plus narrow [[Mental accounting]] can explain ordinary small-stakes risk aversion without the absurd large-stakes implications generated by expected-utility wealth curvature. This is one of the clearest cases where the theory generates a serious economics application rather than just a psychological observation.
 
 ### 5. Politics and political economy
 
@@ -154,7 +161,7 @@ Its PPE value is especially strong because it also scales upward. The same gain-
 
 ## Related pages
 
-The core source is [[Kahneman and Tversky 1979]], with [[Tversky and Kahneman 1992]] as the mature cumulative version and [[Tversky and Kahneman 1981 (Framing)]] as the clearest short teaching companion. The main neighboring concept pages are [[Reference dependence]], [[Loss aversion]], [[Framing effects]], [[Expected utility theory]], [[Allais paradox]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[Sunk cost effect]], and [[Behavioral political economy]]. The broader topical home is [[Behavioral Economics]], and the main associated people are [[Daniel Kahneman]] and [[Amos Tversky]].
+The core source is [[Kahneman and Tversky 1979]], with [[Tversky and Kahneman 1992]] as the mature cumulative version and [[Tversky and Kahneman 1981 (Framing)]] as the clearest short teaching companion. The main benchmark source is [[von Neumann and Morgenstern 1944]], with [[Rabin and Thaler 2001]] as the key calibration critique of wealth-curvature explanations of small-stakes risk aversion. The main neighboring concept pages are [[Reference dependence]], [[Loss aversion]], [[Mental accounting]], [[Calibration]], [[Framing effects]], [[Von Neumann-Morgenstern utility theory]], [[Expected utility theory]], [[Allais paradox]], [[Myopic loss aversion]], [[Equity premium puzzle]], [[Sunk cost effect]], and [[Behavioral political economy]]. The broader topical home is [[Behavioral Economics]], and the main associated people are [[Daniel Kahneman]] and [[Amos Tversky]].
 
 ## Open questions
 
