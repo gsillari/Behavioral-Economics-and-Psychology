@@ -9,8 +9,10 @@ tags:
   - judgment
   - methodology
   - source
-updated_on: 2026-04-06
+updated_on: 2026-05-24
 related_pages:
+  - [[Robyn M. Dawes]]
+  - [[Dawes and Corrigan 1974]]
   - [[Clinical versus actuarial judgment]]
   - [[Clinical versus actuarial judgment]]
   - [[Bounded rationality]]
@@ -30,7 +32,7 @@ The paper's central claim is that actuarial judgment is typically more accurate 
 
 ## Evidence and methods
 
-This is a synthetic review article rather than a new experiment. Dawes, Faust, and Meehl survey the comparative literature on predictive performance in settings such as diagnosis, prognosis, and other judgment tasks involving multiple cues. Their method is comparative and evaluative: they ask which procedure performs better when clinical and actuarial methods are tested against outcomes. In the current vault, the paper functions as a stronger empirical consolidation of themes that appear more programmatically in [[Dawes 1979]].
+This is a synthetic review article rather than a new experiment. Dawes, Faust, and Meehl survey the comparative literature on predictive performance in settings such as diagnosis, prognosis, and other judgment tasks involving multiple cues. Their method is comparative and evaluative: they ask which procedure performs better when clinical and actuarial methods are tested against outcomes. In the current vault, the paper functions as a stronger empirical consolidation of themes that appear more structurally in [[Dawes and Corrigan 1974]] and more programmatically in [[Dawes 1979]].
 
 ## Why it matters for PPE
 
@@ -38,7 +40,7 @@ For PPE students, this paper matters because it turns a methodological point int
 
 ## Links into the wiki
 
-The main derived concept page is [[Clinical versus actuarial judgment]]. The paper also strengthens [[Clinical versus actuarial judgment]] by showing that the underlying lesson generalizes beyond one model family, deepens [[Bounded rationality]] by revealing a systematic weakness in human cue integration, and pushes outward toward [[Behavioral law and economics]] because it raises comparative institutional questions about when formalized procedures should replace or constrain discretion. At the topic level, it expands [[Behavioral Economics]] as a field concerned not only with bias identification but also with the design of better decision procedures.
+The main derived concept page is [[Clinical versus actuarial judgment]]. The paper also strengthens [[Clinical versus actuarial judgment]] by showing that the underlying lesson generalizes beyond one model family, deepens [[Bounded rationality]] by revealing a systematic weakness in human cue integration, and pushes outward toward [[Behavioral law and economics]] because it raises comparative institutional questions about when formalized procedures should replace or constrain discretion. It should now be read downstream of [[Dawes and Corrigan 1974]], which explains why linear cue-combination is so robust, and [[Dawes 1979]], which gives the simplified-rule argument its best-known form. At the topic level, it expands [[Behavioral Economics]] as a field concerned not only with bias identification but also with the design of better decision procedures.
 
 ## Open questions
 

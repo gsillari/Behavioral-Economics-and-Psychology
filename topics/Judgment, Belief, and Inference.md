@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - judgment
-updated_on: 2026-04-27
+updated_on: 2026-05-24
 related_pages:
   - [[Behavioral Economics]]
   - [[Wason 1968]]
@@ -22,6 +22,7 @@ related_pages:
   - [[Availability, Affect, and Risk Perception]]
   - [[Anchoring and Cognitive Substitution]]
   - [[Prediction and Models of Judgment]]
+  - [[Dawes and Corrigan 1974]]
   - [[Heuristics and Biases]]
   - [[Illusion of control]]
   - [[Hindsight bias]]
@@ -58,7 +59,7 @@ This branch focuses on anchoring, adjustment, and the substitution of easier que
 
 ### 2.4 [[Prediction and Models of Judgment]]
 
-This branch focuses on how intuitive judgment compares with simple formal models and structured prediction rules. Its core pages are [[Clinical versus actuarial judgment]] and [[Clinical versus actuarial judgment]].
+This branch focuses on how intuitive judgment compares with simple formal models and structured prediction rules. Its core pages are [[Clinical versus actuarial judgment]] and [[Prediction and Models of Judgment]], with [[Dawes and Corrigan 1974]] now giving the clearest explanation of why linear cue-combination can outperform discretionary judgment in structured prediction tasks.
 
 ## Links to the rest of the topic
 

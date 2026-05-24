@@ -6,8 +6,8 @@ tags:
   - behavioral-economics
   - law
   - decision-making
-updated_on: 2026-04-22
-source_count: 7
+updated_on: 2026-05-24
+source_count: 8
 related_pages:
   - [[Camerer 2003]]
   - [[Camerer 2003 - Chapter 01 - Introduction]]
@@ -25,6 +25,7 @@ related_pages:
   - [[Situated cognition]]
   - [[Embodied cognition]]
   - [[Kahneman 2003]]
+  - [[Dawes and Corrigan 1974]]
   - [[Clinical versus actuarial judgment]]
   - [[Clinical versus actuarial judgment]]
   - [[Behavioral law and economics]]
@@ -68,6 +69,8 @@ This concept differs from [[Time inconsistency]], where the main problem is fail
 
 [[Kahneman 2003]] adds a later psychological map of how bounded rationality appears in judgment and choice, linking the concept to intuitive processing, framing, and [[Attribute substitution]]. In that sense, Kahneman helps translate Simon's general benchmark shift into the later language of behavioral economics. [[Laibson and List 2015]] adds a useful didactic compression of that move for the classroom: people try to optimize, but they sometimes fail in predictable ways, and experience helps explain who fails less often. That is not as deep as Simon's foundation, but it is a good teaching restatement of why the benchmark needs revision at all.
 
+[[Dawes and Corrigan 1974]] adds a procedural branch of bounded rationality. It shows that finite human judges can use relevant information inconsistently when they must combine multiple noisy cues, while simple linear rules can stabilize cue combination. This matters because bounded rationality is not only about limited search or attention; it is also about the institutional design of procedures that help finite agents make repeatable predictions.
+
 From there, the concept radiates outward into several later branches of the vault, especially [[Heuristics and Biases]], [[Limited attention]], [[Framing effects]], [[Behavioral law and economics]], and the broader question of whether institutions should be designed for optimizing agents or for finite, searching, satisficing ones. Those later uses matter, but they should be read as downstream extensions of the Simonian core rather than as part of the concept's foundation.
 
 The main debate is how to interpret the concept. One reading treats bounded rationality as evidence of deviation from formal norms. Another treats it as a more realistic and more humane account of what rational agency can look like under real constraints. Petracca adds a further debate that the vault now needs to keep in view: is bounded rationality still a symbolic-information-processing research program, or should it be rethought in light of post-cognitivist views of mind? Later branches such as [[Ecological rationality]] and the wider [[Rationality wars]] can be read as partly extending, partly contesting, and partly reframing that original Simonian move.
@@ -80,7 +83,7 @@ It also matters more broadly because it is one of the background concepts agains
 
 ## Related pages
 
-The anchor sources are [[Simon 1955]], [[Simon 1956]], [[Simon 1979]], [[Smith 1991]], and [[Petracca 2017]], with [[Kahneman 2003]] as the main later translation into behavioral-economics language and [[Camerer 2003 - Chapter 01 - Introduction]] as the strategic-interaction extension. The closest neighboring pages are [[Ecological rationality]], [[Cognitivism]], [[Situated cognition]], [[Embodied cognition]], [[Clinical versus actuarial judgment]], [[Behavioral game theory]], [[Behavioral law and economics]], [[Heuristics and Biases]], [[Limited attention]], [[Framing effects]], and [[Behavioral public policy]]. The broader topical homes are [[Competing Views of Rationality]] and [[Behavioral Economics]]. The main entity pages are [[Herbert A. Simon]] and [[Vernon L. Smith]].
+The anchor sources are [[Simon 1955]], [[Simon 1956]], [[Simon 1979]], [[Smith 1991]], and [[Petracca 2017]], with [[Kahneman 2003]] as the main later translation into behavioral-economics language, [[Dawes and Corrigan 1974]] as the procedural cue-combination branch, and [[Camerer 2003 - Chapter 01 - Introduction]] as the strategic-interaction extension. The closest neighboring pages are [[Ecological rationality]], [[Cognitivism]], [[Situated cognition]], [[Embodied cognition]], [[Clinical versus actuarial judgment]], [[Behavioral game theory]], [[Behavioral law and economics]], [[Heuristics and Biases]], [[Limited attention]], [[Framing effects]], and [[Behavioral public policy]]. The broader topical homes are [[Competing Views of Rationality]] and [[Behavioral Economics]]. The main entity pages are [[Herbert A. Simon]], [[Robyn M. Dawes]], and [[Vernon L. Smith]].
 
 ## Open questions
 

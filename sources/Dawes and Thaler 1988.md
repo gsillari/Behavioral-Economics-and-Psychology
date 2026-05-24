@@ -9,8 +9,9 @@ tags:
   - game-theory
   - cooperation
   - source
-updated_on: 2026-04-29
+updated_on: 2026-05-24
 related_pages:
+  - [[Robyn M. Dawes]]
   - [[Richard H. Thaler]]
   - [[Cooperation]]
   - [[Public goods game]]
