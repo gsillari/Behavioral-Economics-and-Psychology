@@ -9,8 +9,10 @@ tags:
   - judgment
   - methodology
   - source
-updated_on: 2026-04-07
+updated_on: 2026-05-24
 related_pages:
+  - [[Robyn M. Dawes]]
+  - [[Dawes and Corrigan 1974]]
   - [[Clinical versus actuarial judgment]]
   - [[Bounded rationality]]
   - [[Heuristics and Biases]]
@@ -20,15 +22,15 @@ related_pages:
 # Dawes 1979: The robust beauty of improper linear models in decision making
 ## Summary
 
-[[Dawes 1979]] argues that very simple predictive rules, even [[Clinical versus actuarial judgment]], can outperform or rival expert clinical judgment across many domains. In the current vault, the paper matters because it complicates the idea that better judgment requires richer intuition or more flexible expertise. Sometimes simple, transparent, and even non-optimized models do better than unaided human judgment.
+[[Dawes 1979]] argues that very simple predictive rules, including improper linear models, can outperform or rival expert clinical judgment across many domains. In the current vault, the paper should now be read as the later, more memorable formulation of the argument developed in [[Dawes and Corrigan 1974]]. It matters because it complicates the idea that better judgment requires richer intuition or more flexible expertise. Sometimes simple, transparent, and even non-optimized models do better than unaided human judgment.
 
 ## Key claims
 
-The paper's central claim is that properly combining cues is often more important than estimating the perfect weights for those cues. This is why even improper linear models, where variables are combined in simple or equal-weighted ways, can predict well. The broader implication is that expert intuition may be systematically unreliable when people must integrate multiple noisy cues, whereas simple formal rules can yield more stable and accurate judgments. In the current vault, that makes the paper a bridge between bounded-rationality arguments, criticism of intuitive judgment, and the later institutional literature on explicit predictive procedures.
+The paper's central claim is that properly combining cues is often more important than estimating the perfect weights for those cues. This is why even improper linear models, where variables are combined in simple or equal-weighted ways, can predict well. [[Dawes and Corrigan 1974]] gives the deeper task-structure explanation: in many prediction settings, cue-criterion relationships are directionally valid, measurement is noisy, and small departures from optimal weights have modest practical costs. The broader implication is that expert intuition may be systematically unreliable when people must integrate multiple noisy cues, whereas simple formal rules can yield more stable and accurate judgments. In the current vault, that makes the paper a bridge between bounded-rationality arguments, criticism of intuitive judgment, and the later institutional literature on explicit predictive procedures.
 
 ## Evidence and methods
 
-This is a synthetic argument drawing on multiple predictive domains rather than a single experiment. Dawes reviews evidence from clinical and educational prediction and compares expert judgment with formal linear models. The paper's method is comparative and methodological: it asks what kinds of judgment procedures actually perform well when the task is prediction. In the current vault, it functions as a foundational source on the value of simple decision rules.
+This is a synthetic argument drawing on multiple predictive domains rather than a single experiment. Dawes reviews evidence from clinical and educational prediction and compares expert judgment with formal linear models. The paper's method is comparative and methodological: it asks what kinds of judgment procedures actually perform well when the task is prediction. In the current vault, it functions as the compact later source on the value of simple decision rules, while [[Dawes and Corrigan 1974]] now functions as the fuller methodological precursor.
 
 ## Why it matters for PPE
 
@@ -36,7 +38,7 @@ For PPE students, [[Dawes 1979]] matters because it challenges the comfortable i
 
 ## Links into the wiki
 
-The main derived concept is [[Clinical versus actuarial judgment]]. The source directly deepens [[Bounded rationality]] by showing one way human judgment can fail under complexity, enriches [[Heuristics and Biases]] by adding a performance comparison rather than just a catalog of biases, and feeds into [[Clinical versus actuarial judgment]] by sharpening the case for explicit predictive procedures over discretionary expertise. At the topic level, it strengthens [[Behavioral Economics]] as part of the field's broader argument that descriptively realistic and computationally simple procedures can outperform idealized intuition.
+The main derived concept is [[Clinical versus actuarial judgment]]. The source directly deepens [[Bounded rationality]] by showing one way human judgment can fail under complexity, enriches [[Heuristics and Biases]] by adding a performance comparison rather than just a catalog of biases, and feeds into [[Clinical versus actuarial judgment]] by sharpening the case for explicit predictive procedures over discretionary expertise. It should be linked closely to [[Dawes and Corrigan 1974]] rather than treated as the first statement of the linear-model argument. At the topic level, it strengthens [[Behavioral Economics]] as part of the field's broader argument that descriptively realistic and computationally simple procedures can outperform idealized intuition.
 
 ## Open questions
 

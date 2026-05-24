@@ -8,12 +8,14 @@ tags:
   - psychology
   - methodology
   - behavioral-economics
-updated_on: 2026-04-23
+updated_on: 2026-05-24
 related_pages:
   - [[Meehl 1954]]
   - [[Grove and Meehl 1996]]
   - [[Grove et al. 2000]]
   - [[Clinical versus actuarial judgment]]
+  - [[Robyn M. Dawes]]
+  - [[Dawes and Corrigan 1974]]
   - [[Dawes 1979]]
   - [[Dawes et al. 1989]]
   - [[Behavioral economics of AI]]
@@ -32,11 +34,11 @@ Meehl matters here because he gives the vault a deep historical anchor for a bra
 
 ## Key relationships
 
-The tightest connection is to [[Clinical versus actuarial judgment]], where Meehl should now be treated as the founding source. [[Dawes 1979]] and [[Dawes et al. 1989]] are the main later sources that strengthen and generalize the Meehl lesson. The modern AI branch matters because it inherits the same comparative structure under new technological conditions.
+The tightest connection is to [[Clinical versus actuarial judgment]], where Meehl should now be treated as the founding source. [[Dawes and Corrigan 1974]], [[Dawes 1979]], and [[Dawes et al. 1989]] are the main later Dawes-line sources that explain, sharpen, and generalize the Meehl lesson. The modern AI branch matters because it inherits the same comparative structure under new technological conditions.
 
 ## Related sources
 
-The direct source note is [[Meehl 1954]]. The nearest later companions are [[Grove and Meehl 1996]], [[Grove et al. 2000]], [[Dawes 1979]], [[Dawes et al. 1989]], [[Kleinberg et al. 2018]], [[Kleinberg et al. 2016]], and [[Wang et al. 2024]].
+The direct source note is [[Meehl 1954]]. The nearest later companions are [[Grove and Meehl 1996]], [[Grove et al. 2000]], [[Dawes and Corrigan 1974]], [[Dawes 1979]], [[Dawes et al. 1989]], [[Kleinberg et al. 2018]], [[Kleinberg et al. 2016]], and [[Wang et al. 2024]].
 
 ## Open questions
 

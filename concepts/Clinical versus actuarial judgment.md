@@ -6,15 +6,17 @@ tags:
   - behavioral-economics
   - judgment
   - methodology
-updated_on: 2026-05-07
-source_count: 12
+updated_on: 2026-05-24
+source_count: 13
 related_pages:
   - [[Bar-Hillel 1980]]
   - [[Meehl 1954]]
+  - [[Dawes and Corrigan 1974]]
   - [[Grove and Meehl 1996]]
   - [[Grove et al. 2000]]
   - [[Dawes et al. 1989]]
   - [[Dawes 1979]]
+  - [[Robyn M. Dawes]]
   - [[Ludwig et al. 2024]]
   - [[Ludwig and Mullainathan 2021]]
   - [[Kleinberg et al. 2016]]
@@ -35,15 +37,17 @@ related_pages:
 
 ## Core idea
 
-[[Clinical versus actuarial judgment]] is the comparison between discretionary expert judgment and formal predictive procedures. In the current vault, the historical anchor is now [[Meehl 1954]], which formulates the problem in its canonical form by arguing that explicit, consistent modes of combining evidence often outperform informal clinical synthesis. [[Grove and Meehl 1996]] then restates the controversy in mature form, and [[Grove et al. 2000]] provides the meta-analytic consolidation. The central lesson is that consistency in combining cues often beats intuitive, case-by-case interpretation.
+[[Clinical versus actuarial judgment]] is the comparison between discretionary expert judgment and formal predictive procedures. In the current vault, the historical anchor is now [[Meehl 1954]], which formulates the problem in its canonical form by arguing that explicit, consistent modes of combining evidence often outperform informal clinical synthesis. [[Dawes and Corrigan 1974]] then explains why simple linear cue-combination rules can be so robust, and [[Dawes 1979]] gives that lesson its later improper-linear-model formulation. [[Grove and Meehl 1996]] then restates the controversy in mature form, and [[Grove et al. 2000]] provides the meta-analytic consolidation. The central lesson is that consistency in combining cues often beats intuitive, case-by-case interpretation.
 
 ## Key distinctions
 
-Clinical versus actuarial judgment is the larger institutional and methodological question of whether explicit procedures should outperform or constrain professional discretion. One important recurring lesson inside that broader debate is the success of simple cue-combination rules, including improper linear models in Dawes's sense. It also differs from a blanket defense of algorithms. The argument is comparative: the relevant benchmark is often not a perfect model, but unaided human judgment.
+Clinical versus actuarial judgment is the larger institutional and methodological question of whether explicit procedures should outperform or constrain professional discretion. One important recurring lesson inside that broader debate is the success of simple cue-combination rules, including the linear models analyzed in [[Dawes and Corrigan 1974]] and the improper linear models highlighted in [[Dawes 1979]]. It also differs from a blanket defense of algorithms. The argument is comparative: the relevant benchmark is often not a perfect model, but unaided human judgment.
 
 ## Evidence and debate
 
-[[Meehl 1954]] is the foundational source because it formulates the issue clearly enough for decades of later work to be intelligible. Meehl's decisive move is to distinguish the kind of evidence from the mode of combining evidence. The comparison is not tests versus interviews, or numbers versus qualitative judgment. It is informal synthesis versus explicit combination. That is why the book remains so central. [[Dawes 1979]] works as an important first refinement because it shows why simple formal cue-combination rules, including improper linear models, can already be powerful. [[Grove and Meehl 1996]] then restates the controversy in a mature and policy-facing way, emphasizing both the comparative evidence and the profession's resistance to it. [[Grove et al. 2000]] provides the quantitative consolidation through meta-analysis, showing that mechanical prediction methods are on average more accurate and that this superiority is robust across many conditions. [[Dawes et al. 1989]] remains important in the vault as the widely cited review source that helped keep the line alive. In the current branch, that means Meehl is the origin source, Dawes is the procedural sharpening, Grove and Meehl is the mature rebuttal and reflection, Grove et al. is the meta-analytic confirmation, and Dawes et al. is the classic later review.
+[[Meehl 1954]] is the foundational source because it formulates the issue clearly enough for decades of later work to be intelligible. Meehl's decisive move is to distinguish the kind of evidence from the mode of combining evidence. The comparison is not tests versus interviews, or numbers versus qualitative judgment. It is informal synthesis versus explicit combination. That is why the book remains so central.
+
+[[Dawes and Corrigan 1974]] is the key structural refinement. It explains why linear models often work in the kinds of tasks psychologists, admissions committees, and clinicians study: predictors can often be scaled so their relationship to the outcome is conditionally monotone, measurement is noisy, and deviations from optimal weighting often make little practical difference. This is why even random or unit-weighted linear models can outperform human judges in suitable prediction tasks. [[Dawes 1979]] then gives the same branch its more famous formulation around improper linear models, making the case that choosing the right variables and combining them consistently may matter more than estimating perfect weights. [[Grove and Meehl 1996]] then restates the controversy in a mature and policy-facing way, emphasizing both the comparative evidence and the profession's resistance to it. [[Grove et al. 2000]] provides the quantitative consolidation through meta-analysis, showing that mechanical prediction methods are on average more accurate and that this superiority is robust across many conditions. [[Dawes et al. 1989]] remains important in the vault as the widely cited review source that helped keep the line alive. In the current branch, that means Meehl is the origin source, Dawes and Corrigan supply the task-structure explanation, Dawes 1979 is the procedural sharpening, Grove and Meehl is the mature rebuttal and reflection, Grove et al. is the meta-analytic confirmation, and Dawes et al. is the classic later review.
 
 [[Bar-Hillel 1980]] adds a useful bridge from base-rate neglect to this branch. The paper explicitly connects antecedent probability to clinical testing, legal dangerousness prediction, and medical diagnosis. That connection matters because one way unaided expert judgment goes wrong is by evaluating signs, tests, or vivid case facts without giving enough weight to prior probabilities.
 
@@ -55,7 +59,7 @@ This concept matters in diagnosis, hiring, admissions, parole, sentencing, lendi
 
 ## Related pages
 
-The historical anchor source is [[Meehl 1954]], with [[Dawes 1979]] as the key procedural refinement, [[Grove and Meehl 1996]] as the mature controversy statement, [[Grove et al. 2000]] as the meta-analytic confirmation, and [[Dawes et al. 1989]] as the classic later review. The closest neighboring pages are [[Bounded rationality]], [[Behavioral law and economics]], [[Behavioral economics of AI]], [[Inversion problem]], and [[Algorithmic bias]]. The broader topical home is [[Behavioral Economics]], with [[Kleinberg et al. 2016]], [[Kleinberg et al. 2018]], [[Ludwig and Mullainathan 2021]], [[Kleinberg et al. 2024]], [[Angwin et al. 2016]], and [[Ludwig et al. 2024]] as the main modern extensions in the vault.
+The historical anchor source is [[Meehl 1954]], with [[Dawes and Corrigan 1974]] as the key structural explanation of robust linear cue-combination, [[Dawes 1979]] as the later improper-linear-model refinement, [[Grove and Meehl 1996]] as the mature controversy statement, [[Grove et al. 2000]] as the meta-analytic confirmation, and [[Dawes et al. 1989]] as the classic later review. The closest neighboring pages are [[Bounded rationality]], [[Behavioral law and economics]], [[Behavioral economics of AI]], [[Inversion problem]], and [[Algorithmic bias]]. The broader topical home is [[Behavioral Economics]], with [[Kleinberg et al. 2016]], [[Kleinberg et al. 2018]], [[Ludwig and Mullainathan 2021]], [[Kleinberg et al. 2024]], [[Angwin et al. 2016]], and [[Ludwig et al. 2024]] as the main modern extensions in the vault. The main entity pages are [[Paul E. Meehl]] and [[Robyn M. Dawes]].
 
 ## Open questions
 

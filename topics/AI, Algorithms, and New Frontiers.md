@@ -7,7 +7,7 @@ tags:
   - ppe
   - behavioral-economics
   - ai
-updated_on: 2026-05-07
+updated_on: 2026-05-24
 related_pages:
   - [[Behavioral Economics]]
   - [[Behavioral Economics of AI Systems]]
@@ -19,6 +19,7 @@ related_pages:
   - [[Target variable problem]]
   - [[Inversion problem]]
   - [[Predictive optimization]]
+  - [[Dawes and Corrigan 1974]]
   - [[Behavioral economics of AI]]
   - [[Behavioral economics 2.0]]
   - [[Bar-Gill et al. 2023]]
@@ -58,7 +59,7 @@ This branch focuses on applying behavioral-economic ideas to AI systems themselv
 
 ### 7.2 [[Algorithmic Judgment and Debiasing]]
 
-This branch focuses on the comparison between human and algorithmic judgment and on techniques for improving system performance. Its core pages are [[Clinical versus actuarial judgment]], [[Algorithmic bias]], [[Algorithmic harm]], [[Statistical fairness criteria]], [[Inversion problem]], [[Predictive optimization]], [[Kleinberg et al. 2018]], and [[Ludwig and Mullainathan 2021]].
+This branch focuses on the comparison between human and algorithmic judgment and on techniques for improving system performance. Its core pages are [[Clinical versus actuarial judgment]], [[Algorithmic bias]], [[Algorithmic harm]], [[Statistical fairness criteria]], [[Inversion problem]], [[Predictive optimization]], [[Kleinberg et al. 2018]], and [[Ludwig and Mullainathan 2021]]. [[Dawes and Corrigan 1974]] gives this branch an older pre-AI foundation by explaining why simple linear prediction rules can outperform human discretion in structured, noisy tasks.
 
 ### 7.3 [[Conceptual Extensions and Open Frontiers]]
 
