@@ -7,7 +7,7 @@ tags:
   - behavioral-economics
   - behavioral-public-policy
   - law
-updated_on: 2026-05-07
+updated_on: 2026-05-24
 source_count: 11
 related_pages:
   - [[Bar-Gill et al. 2023]]
@@ -60,7 +60,7 @@ Fourth, the concept differs from [[Algorithmic harm]]. [[Bar-Gill et al. 2023]] 
 
 [[Obermeyer et al. 2019]] identifies a more specific source of bias than metric conflict alone: the [[Target variable problem]]. A system can be accurate with respect to its chosen label and still be deeply unfair because it is optimizing the wrong proxy for the institution's true objective. [[Wang et al. 2024]] then widens the frame through [[Predictive optimization]], arguing that this whole style of decision-making often inherits legitimacy problems that are not solved by better prediction.
 
-[[Kleinberg et al. 2018]] then complicates the discussion in a second, more institutional way. It does not deny that fairness matters. Instead it shows that algorithmic evaluation also depends on selective labels, on what outcome the institution is trying to predict, and on the difference between prediction and policy choice. [[Ludwig and Mullainathan 2021]] turns this into a useful teaching framework: algorithmic bias is often not an intrinsic property of machine learning but a consequence of human choices about labels, payoffs, thresholds, audits, and deployment. This does not make bias less serious; it makes it more institutionally tractable, because some algorithmic disparities can be diagnosed and redesigned more directly than human prejudice.
+[[Kleinberg et al. 2018]] then complicates the discussion in a second, more institutional way. It does not deny that fairness matters. Instead it shows that algorithmic evaluation also depends on selective labels, on what outcome the institution is trying to predict, and on the difference between prediction and policy choice. Its racial analysis is best read as a comparative disparate-impact or racial-outcome analysis: the paper asks whether algorithmic bail rules can improve the detention-crime tradeoff while also reducing racial disparities in detention, or while not jailing more Black defendants than judges. That is weaker than showing false-positive parity, false-negative parity, or equalized odds, especially because outcomes are not observed for detained defendants. [[Ludwig and Mullainathan 2021]] turns this into a useful teaching framework: algorithmic bias is often not an intrinsic property of machine learning but a consequence of human choices about labels, payoffs, thresholds, audits, and deployment. This does not make bias less serious; it makes it more institutionally tractable, because some algorithmic disparities can be diagnosed and redesigned more directly than human prejudice.
 
 In the current vault, that matters because it keeps [[Algorithmic bias]] from collapsing into a purely journalistic or purely moralized label. The debate is partly technical, partly institutional, and partly normative.
 

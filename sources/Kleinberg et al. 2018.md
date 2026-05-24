@@ -11,11 +11,13 @@ tags:
   - judgment
   - methodology
   - source
-updated_on: 2026-05-07
+updated_on: 2026-05-24
 related_pages:
   - [[Clinical versus actuarial judgment]]
   - [[Dawes et al. 1989]]
   - [[Dawes 1979]]
+  - [[Algorithmic bias]]
+  - [[Statistical fairness criteria]]
   - [[Behavioral economics of AI]]
   - [[Behavioral law and economics]]
   - [[Behavioral public policy]]
@@ -40,13 +42,15 @@ The third claim is that prediction and decision should not be collapsed into eac
 
 The fourth claim is that, even after these complications are taken seriously, predictive algorithms can produce large gains: lower crime at the same jailing rate, or lower jailing at the same crime rate, with some simulations also reducing racial disparities.
 
+The paper's racial-fairness analysis should be read carefully. It is closer to a comparative disparate-impact or racial-outcome analysis than to a full [[Statistical fairness criteria]] analysis of false-positive parity, false-negative parity, or equalized odds. The paper asks whether an algorithmic rule can improve the detention-crime frontier while also reducing racial disparities in detention, or while avoiding jailing more Black defendants than judges. That is not the same as showing that prediction errors are equalized across racial groups.
+
 The fifth claim is that machine learning is most useful when placed inside an explicit economic and institutional framework. Prediction quality matters, but so do payoff definitions, counterfactual evaluation, and governance of the resulting tool.
 
 ## Evidence and methods
 
 The paper is an empirical study of New York City bail decisions using very large administrative data and machine-learning prediction models. Its methodological contribution is not just the model comparison itself, but the treatment of the selective-labels problem and the effort to separate predictive performance from policy objectives. The authors use quasi-random assignment of cases to judges with different leniency levels: lenient judges reveal outcomes for some defendants stricter judges would have jailed. This lets the paper estimate or bound how algorithmic release rules would compare with existing judicial practice.
 
-This matters in the current vault because the paper does more than say "algorithms beat people." It shows that the modern version of the actuarial-clinical debate runs through counterfactual identification, fairness constraints, and institutional objective functions.
+This matters in the current vault because the paper does more than say "algorithms beat people." It shows that the modern version of the actuarial-clinical debate runs through counterfactual identification, fairness constraints, and institutional objective functions. But the selective-labels problem also limits what can be concluded about error parity. Outcomes are observed for defendants judges release, but not for defendants judges detain, so a full false-positive or false-negative parity analysis would require additional counterfactual assumptions, bounds, or a different research design.
 
 ## Why it matters for PPE
 
@@ -62,7 +66,7 @@ I do not think it warrants a separate concept page at this stage. Its main contr
 
 ## Open questions
 
-When should predictive tools in law be treated as advisory rather than authoritative? How should institutions specify the outcome they want to optimize when prediction accuracy, liberty, and fairness can come apart? And how far should the lessons of bail prediction generalize to other domains of public decision-making?
+When should predictive tools in law be treated as advisory rather than authoritative? How should institutions specify the outcome they want to optimize when prediction accuracy, liberty, and fairness can come apart? When an algorithm reduces racial disparities in detention, what further evidence would be needed to claim false-positive parity, false-negative parity, or equalized odds? And how far should the lessons of bail prediction generalize to other domains of public decision-making?
 
 ## Bibliographic reference
 
