@@ -10,10 +10,11 @@ tags:
   - behavioral-economics
   - law
   - source
-updated_on: 2026-04-15
+updated_on: 2026-05-26
 related_pages:
   - [[Algorithmic bias]]
   - [[Angwin et al. 2016]]
+  - [[Corbett-Davies et al. 2017]]
   - [[Kleinberg et al. 2018]]
   - [[Behavioral economics of AI]]
   - [[Behavioral economics of AI]]
@@ -29,7 +30,7 @@ related_pages:
 
 [[Kleinberg et al. 2016]] is one of the foundational formal papers in the fairness literature around algorithmic risk scoring. Its central claim is that several fairness conditions that are each individually appealing cannot, except in special cases, all be satisfied at once. In the current vault, this matters as the clearest formal counterpart to [[Angwin et al. 2016]]. ProPublica made the public controversy vivid; this paper explains why the controversy does not disappear once analysts become more mathematically precise.
 
-The paper is especially important because it shows that the fairness problem is not simply a matter of fixing one defective classifier. When base rates differ across groups, properties such as calibration and balanced error rates can come apart. That result makes the later literature on machine bias more intelligible: some disputes are empirical and institutional, but some are also structural.
+The paper is especially important because it shows that the fairness problem is not simply a matter of fixing one defective classifier. When base rates differ across groups, properties such as calibration and balanced error rates can come apart. That result makes the later literature on machine bias more intelligible: some disputes are empirical and institutional, but some are also structural. [[Corbett-Davies et al. 2017]] is a natural successor in the vault because it asks what institutions should do once those conflicts are acknowledged: treat fairness criteria as constraints relative to a policy objective.
 
 ## Key claims
 
@@ -42,6 +43,8 @@ The third claim is that debates over algorithmic fairness often involve genuine 
 The fourth claim is that the criminal-justice risk-score debate, including the controversy around COMPAS, should be understood partly through these incompatibilities rather than only through allegations of sloppiness or bias in a colloquial sense.
 
 The fifth claim is methodological: algorithmic evaluation needs to distinguish prediction, calibration, classification thresholds, and group-specific error profiles. Without that, public debate about fairness becomes conceptually unstable.
+
+A further lesson, developed more explicitly by [[Corbett-Davies et al. 2017]], is that the choice among fairness criteria is also a regulatory and policy choice. If criteria conflict, institutions must say what objective the system is meant to serve and which fairness constraint should bind that objective.
 
 ## Evidence and methods
 
@@ -63,7 +66,7 @@ I do not think it warrants a new standalone concept page right now. The paper gi
 
 ## Open questions
 
-Which fairness criteria should public institutions prioritize when they cannot all be met at once? How much of the apparent conflict around machine bias comes from structural incompatibility rather than poor system design? And when institutions choose one fairness profile over another, what sort of public justification do they owe?
+Which fairness criteria should public institutions prioritize when they cannot all be met at once? How much of the apparent conflict around machine bias comes from structural incompatibility rather than poor system design? When should a fairness criterion be treated as a constraint on a public objective rather than as the objective itself? And when institutions choose one fairness profile over another, what sort of public justification do they owe?
 
 ## Bibliographic reference
 

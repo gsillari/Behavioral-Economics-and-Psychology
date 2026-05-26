@@ -7,13 +7,14 @@ tags:
   - behavioral-economics
   - behavioral-public-policy
   - law
-updated_on: 2026-05-24
-source_count: 11
+updated_on: 2026-05-26
+source_count: 13
 related_pages:
   - [[Bar-Gill et al. 2023]]
   - [[Angwin et al. 2016]]
   - [[Chouldechova and Roth 2020]]
   - [[Kleinberg et al. 2016]]
+  - [[Corbett-Davies et al. 2017]]
   - [[Kleinberg et al. 2018]]
   - [[Ludwig and Mullainathan 2021]]
   - [[Hellman 2020]]
@@ -21,6 +22,7 @@ related_pages:
   - [[Hedden 2021]]
   - [[Obermeyer et al. 2019]]
   - [[Wang et al. 2024]]
+  - [[Narayanan 2026]]
   - [[Statistical fairness criteria]]
   - [[Target variable problem]]
   - [[Predictive optimization]]
@@ -54,11 +56,11 @@ Fourth, the concept differs from [[Algorithmic harm]]. [[Bar-Gill et al. 2023]] 
 
 [[Angwin et al. 2016]] is the agenda-setting source in the current vault because it made three linked concerns vivid at once: racial disparity in error distribution, opacity of proprietary scoring systems, and the use of such systems in high-stakes criminal-justice decisions. The article is not the end of the debate, but it is the starting point that later papers repeatedly answer.
 
-[[Kleinberg et al. 2016]] adds the clearest formal lesson: some fairness properties that seem jointly desirable cannot generally all be achieved at the same time. In the current vault, this matters because it explains why the COMPAS debate quickly became a dispute about calibration, false positives, and base rates rather than settling into a simple question of whether one side had found a bug.
+[[Kleinberg et al. 2016]] adds the clearest formal lesson: some fairness properties that seem jointly desirable cannot generally all be achieved at the same time. In the current vault, this matters because it explains why the COMPAS debate quickly became a dispute about calibration, false positives, and base rates rather than settling into a simple question of whether one side had found a bug. [[Corbett-Davies et al. 2017]] then adds a policy-design interpretation of the same problem: fairness criteria can be treated as constraints on a regulatory objective, such as public safety net of detention costs. On that view, the "correct" definition of algorithmic bias is not a freestanding statistical fact. It depends on which policy objective and fairness constraint the institution has reason to adopt.
 
-[[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] deepen the debate over [[Statistical fairness criteria]]. Together they show that fairness metrics are not morally interchangeable, that they reflect different philosophical ideas, and that some of the most prominent criteria may be evidentially useful without being necessary for fairness itself. [[Chouldechova and Roth 2020]] is then especially useful as a field map: it shows that fairness disputes are not exhausted by metric conflict in static classification, but also involve biased data, majority-fit effects, feedback loops, exploration in dynamic settings, and the difficulty of giving fairness definitions meaningful individual-level semantics.
+[[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]] deepen the debate over [[Statistical fairness criteria]]. Together they show that fairness metrics are not morally interchangeable, that they reflect different philosophical ideas, and that some of the most prominent criteria may be evidentially useful without being necessary for fairness itself. [[Corbett-Davies et al. 2017]] belongs in this same branch because it asks how a policymaker should choose among decision rules once a fairness constraint is imposed. [[Chouldechova and Roth 2020]] is then especially useful as a field map: it shows that fairness disputes are not exhausted by metric conflict in static classification, but also involve biased data, majority-fit effects, feedback loops, exploration in dynamic settings, and the difficulty of giving fairness definitions meaningful individual-level semantics.
 
-[[Obermeyer et al. 2019]] identifies a more specific source of bias than metric conflict alone: the [[Target variable problem]]. A system can be accurate with respect to its chosen label and still be deeply unfair because it is optimizing the wrong proxy for the institution's true objective. [[Wang et al. 2024]] then widens the frame through [[Predictive optimization]], arguing that this whole style of decision-making often inherits legitimacy problems that are not solved by better prediction.
+[[Obermeyer et al. 2019]] identifies a more specific source of bias than metric conflict alone: the [[Target variable problem]]. A system can be accurate with respect to its chosen label and still be deeply unfair because it is optimizing the wrong proxy for the institution's true objective. [[Wang et al. 2024]] then widens the frame through [[Predictive optimization]], arguing that this whole style of decision-making often inherits legitimacy problems that are not solved by better prediction. [[Narayanan 2026]] pushes the institutional critique further by arguing that "algorithmic fairness" may be a category error when fairness is treated as a property of the technical subsystem. On this view, the relevant unit is the whole sociotechnical decision-making system: objectives, policies, human adjudication, appeals, explanations, institutional incentives, and the wider political setting.
 
 [[Kleinberg et al. 2018]] then complicates the discussion in a second, more institutional way. It does not deny that fairness matters. Instead it shows that algorithmic evaluation also depends on selective labels, on what outcome the institution is trying to predict, and on the difference between prediction and policy choice. Its racial analysis is best read as a comparative disparate-impact or racial-outcome analysis: the paper asks whether algorithmic bail rules can improve the detention-crime tradeoff while also reducing racial disparities in detention, or while not jailing more Black defendants than judges. That is weaker than showing false-positive parity, false-negative parity, or equalized odds, especially because outcomes are not observed for detained defendants. [[Ludwig and Mullainathan 2021]] turns this into a useful teaching framework: algorithmic bias is often not an intrinsic property of machine learning but a consequence of human choices about labels, payoffs, thresholds, audits, and deployment. This does not make bias less serious; it makes it more institutionally tractable, because some algorithmic disparities can be diagnosed and redesigned more directly than human prejudice.
 
@@ -74,7 +76,7 @@ In the current vault, the concept sits especially close to [[Behavioral public p
 
 ## Related pages
 
-The anchor source for the public controversy is [[Angwin et al. 2016]]. The anchor source for the fairness-tradeoff theorem is [[Kleinberg et al. 2016]]. [[Ludwig and Mullainathan 2021]] is the best didactic anchor for explaining why real deployments fail even when prediction is promising. The anchor sources for the metrics and philosophical branch are [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]]. [[Chouldechova and Roth 2020]] is the clearest survey anchor for how that branch widens into data bias, dynamic learning, and open frontier problems. The anchor source for the proxy-target mechanism is [[Obermeyer et al. 2019]]. The anchor source for the broader institutional critique is [[Wang et al. 2024]]. [[Bar-Gill et al. 2023]] is most useful here as a boundary marker, because it shows how a neighboring branch on [[Algorithmic harm]] can overlap with bias concerns without being reducible to them. The closest neighboring pages are [[Statistical fairness criteria]], [[Target variable problem]], [[Predictive optimization]], [[Algorithmic harm]], [[Behavioral economics of AI]], [[Clinical versus actuarial judgment]], [[Behavioral law and economics]], and the broader topic [[AI, Algorithms, and New Frontiers]].
+The anchor source for the public controversy is [[Angwin et al. 2016]]. The anchor source for the fairness-tradeoff theorem is [[Kleinberg et al. 2016]]. [[Corbett-Davies et al. 2017]] is the anchor for the constrained-optimization and policy-goal-relative interpretation of fairness. [[Ludwig and Mullainathan 2021]] is the best didactic anchor for explaining why real deployments fail even when prediction is promising. The anchor sources for the metrics and philosophical branch are [[Hellman 2020]], [[Binns 2018]], and [[Hedden 2021]]. [[Chouldechova and Roth 2020]] is the clearest survey anchor for how that branch widens into data bias, dynamic learning, and open frontier problems. The anchor source for the proxy-target mechanism is [[Obermeyer et al. 2019]]. The anchor source for the broader predictive-optimization critique is [[Wang et al. 2024]], while [[Narayanan 2026]] is the anchor for the category-error and algorithmic-bureaucracy critique. [[Bar-Gill et al. 2023]] is most useful here as a boundary marker, because it shows how a neighboring branch on [[Algorithmic harm]] can overlap with bias concerns without being reducible to them. The closest neighboring pages are [[Statistical fairness criteria]], [[Target variable problem]], [[Predictive optimization]], [[Algorithmic harm]], [[Behavioral economics of AI]], [[Clinical versus actuarial judgment]], [[Behavioral law and economics]], and the broader topic [[AI, Algorithms, and New Frontiers]].
 
 ## Open questions
 

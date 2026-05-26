@@ -9,14 +9,14 @@ tags:
   - behavioral-public-policy
   - law
   - source
-updated_on: 2026-04-15
+updated_on: 2026-05-26
 related_pages:
   - [[Predictive optimization]]
   - [[Target variable problem]]
   - [[Algorithmic bias]]
   - [[Behavioral economics of AI]]
-  - [[Behavioral economics of AI]]
   - [[Behavioral public policy]]
+  - [[Narayanan 2026]]
   - [[Algorithmic Judgment and Debiasing]]
   - [[AI, Algorithms, and New Frontiers]]
 ---
@@ -27,6 +27,8 @@ related_pages:
 [[Wang et al. 2024]] is a broad critique of what the authors call [[Predictive optimization]]: decision-making systems that use machine learning to predict future outcomes about individuals and then optimize decisions around those predictions. In the current vault, the paper matters because it widens the fairness branch into a stronger legitimacy critique. The issue is not just biased models. It is the entire institutional strategy of optimizing public or private decisions around predictive scores.
 
 The paper argues that predictive optimization often fails on its own terms. Even when developers promise improved accuracy, efficiency, or fairness, the systems can founder on target mismatch, feedback effects, shifting populations, contestability problems, and hidden value judgments.
+
+In the current vault, [[Narayanan 2026]] is the closest companion source. Wang et al. criticize the legitimacy of optimizing decisions around predictive accuracy; Narayanan recasts the same problem as one of algorithmic bureaucracy, where the fairness question cannot be answered at the level of the model alone.
 
 ## Key claims
 
@@ -46,7 +48,7 @@ For PPE students, [[Wang et al. 2024]] matters because it turns the algorithmic-
 
 ## Links into the wiki
 
-This source should mainly strengthen [[Predictive optimization]], [[Target variable problem]], [[Algorithmic bias]], [[Behavioral economics of AI]], [[Behavioral economics of AI]], and [[Behavioral public policy]].
+This source should mainly strengthen [[Predictive optimization]], [[Target variable problem]], [[Algorithmic bias]], [[Behavioral economics of AI]], [[Behavioral public policy]], and [[Narayanan 2026]].
 
 ## Bibliographic reference
 

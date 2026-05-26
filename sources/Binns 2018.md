@@ -9,11 +9,12 @@ tags:
   - philosophy
   - behavioral-public-policy
   - source
-updated_on: 2026-04-15
+updated_on: 2026-05-26
 related_pages:
   - [[Statistical fairness criteria]]
   - [[Algorithmic bias]]
   - [[Behavioral public policy]]
+  - [[Narayanan 2026]]
   - [[AI, Algorithms, and New Frontiers]]
 ---
 
@@ -23,6 +24,8 @@ related_pages:
 [[Binns 2018]] connects fair-machine-learning debates to moral and political philosophy. Rather than defending one metric directly, it asks which older philosophical ideas about discrimination, equality, and justice are echoed in contemporary technical definitions of fairness. In the current vault, the paper matters because it stops the fairness-criteria branch from becoming a purely technical catalog.
 
 Its main role is interpretive. It shows that different fairness definitions are not just alternative engineering tools. They embody rival moral ideas about equal treatment, distributive concern, and the significance of group-based disadvantage.
+
+In the current vault, [[Narayanan 2026]] is a later system-level extension of this point. Binns shows that fairness definitions are philosophically loaded; Narayanan argues that even philosophically interpreted model metrics still miss the larger fairness question if they ignore the sociotechnical decision-making system.
 
 ## Key claims
 
@@ -42,7 +45,7 @@ For PPE students, [[Binns 2018]] matters because it makes the fairness branch le
 
 ## Links into the wiki
 
-This source should mainly strengthen [[Statistical fairness criteria]], [[Algorithmic bias]], and the philosophical side of [[Behavioral public policy]].
+This source should mainly strengthen [[Statistical fairness criteria]], [[Algorithmic bias]], and the philosophical side of [[Behavioral public policy]]. It now also helps anchor [[Narayanan 2026]], because Narayanan's category-error critique depends on the same idea that formal fairness metrics are not self-interpreting moral facts.
 
 ## Bibliographic reference
 
